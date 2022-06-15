@@ -9,15 +9,11 @@ Haze Management Measures
 
 The Ministry of Education (MOE) and schools have in place a school continuity plan to ensure the well-being of our students and staff during a haze situation. The Ministry and schools are ready to respond and take appropriate haze management measures based on the MOH health advisory ([www.moh.gov.sg/haze](http://www.moh.gov.sg/haze)) corresponding to the air quality ([www.haze.gov.sg](http://www.haze.gov.sg/)).  
 
-  
-
 The well-being of all students remains a key priority. Teachers will be on the lookout for students who are unwell and students with pre-existing lung or heart conditions.
-
-  
 
 As children respond differently to haze, parents should ensure their children have their medication, such as inhalers for asthma, with them. Parents should also take their children to seek medical attention if they are unwell and ensure that their children take their medication to school or arrange for alternative care arrangements to care for them at home.
 
-**CONTINUITY PLAN FOR PRIMARY & SECONDARY SCHOOLS (INCLUDING MOE KINDERGARTENS AND VOLUNTARY WELFARE ORGANISATION (VWO)-RUN SPECIAL EDUCATION (SPED) SCHOOLS)**
+#### **CONTINUITY PLAN FOR PRIMARY & SECONDARY SCHOOLS (INCLUDING MOE KINDERGARTENS AND VOLUNTARY WELFARE ORGANISATION (VWO)-RUN SPECIAL EDUCATION (SPED) SCHOOLS)**
 
 Schools have in place a set of haze management plans and are ready to implement the appropriate haze management measures as required. A broad overview is provided below:
 
@@ -32,7 +28,7 @@ Schools have in place a set of haze management plans and are ready to implement 
 
 **All school classrooms are deployed with air purifiers to further enhance the well-being of our students and staff and better protect them from the effects of haze. 
 
-Explanatory Notes:
+**Explanatory Notes:**
 
 Prolonged = continuous exposure for several hours
 
@@ -44,37 +40,25 @@ Avoid = do not do
 
   
 
-**CLOSURE OF PRIMARY & SECONDARY SCHOOLS (INCLUDING MOE KINDERGARTENS AND VWO-RUN SPED SCHOOLS)**
-
-  
+#### **CLOSURE OF PRIMARY & SECONDARY SCHOOLS (INCLUDING MOE KINDERGARTENS AND VWO-RUN SPED SCHOOLS)**
 
 The Ministry will consider closing schools when the air quality forecast for the next day is Hazardous (24-hour PSI>300). We will announce the closure of schools at around the same time that the health advisory is released. Schools will contact parents to inform them of school closure for students.
-
-  
 
 We seek parents’ and employers’ understanding that relatively short notice for any announcement of school closure could be given. We also wish to encourage parents to make advance care arrangements for their children for such an eventuality. Parents who are unable to make alternative care arrangements may continue to send their children to school, and teachers will supervise them. School-based care centres will continue to operate for their existing students.
 
   
 
-**JUNIOR COLLEGES / CENTRALISED INSTITUTE AND POST-SECONDARY EDUCATION INSTITUTIONS (PSEIS)**
-
-  
+#### **JUNIOR COLLEGES / CENTRALISED INSTITUTE AND POST-SECONDARY EDUCATION INSTITUTIONS (PSEIS)**
 
 The Ministry works closely with junior colleges / centralised institute and PSEIs to ensure the well-being of their students. Junior colleges / centralised institute and PSEIs are ready to respond and take appropriate haze management measures based on the MOH health advisory corresponding to the air quality. If necessary, outdoor activities may be replaced with alternative indoor arrangements, postponed or cancelled.
-
-  
 
 The considerations for closure of these institutions are different as most of the teaching and learning takes place in enclosed indoor spaces, such as lecture theatres, and the students are older.
 
   
 
-**NATIONAL EXAMINATIONS**
-
-  
+#### **NATIONAL EXAMINATIONS**
 
 In the event of school closure, national examinations will be rescheduled. The announcement on the rescheduling of examinations would be made together with any announcement by MOE on school closure. School candidates will be informed through their schools. Private candidates will be informed by the Singapore Examinations and Assessment Board (SEAB).
-
-  
 
 When schools remain open and the national examinations proceed as scheduled, the safety and well-being of all examination candidates remain our top priority. Schools have made arrangements for all national examinations candidates to take their papers in enclosed spaces with air purifiers so that the examinations will not be disrupted should haze conditions worsen drastically during the period of the examination.
 
