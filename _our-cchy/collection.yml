@@ -2,5 +2,6 @@ collections:
   our-cchy:
     output: true
     order:
+      - School Safety Measures/Fire Precautions & Emergency Evacuation.md
       - School Safety Measures/.keep
       - 360 Virtual Tour.md
