@@ -4,9 +4,9 @@ permalink: /our-cchy/School-Direction/school-philosophy-vision-mission-n-values/
 description: ""
 third_nav_title: School Direction
 ---
-# 校徽、校训 School Crest and Motto
-
-![](/images/CCHS(YISHUN)%20logo.jpg)
+# **校徽、校训 School Crest and Motto**
+<img src="/images/CCHS(YISHUN)%20logo.jpg" 
+     style="width:50%">
 
 *   **三角形** 代表董， 教， 学三位一体； 象征三方面齐心协力向上向善         
 **The three vertices of the triangle** represent the main pillars of the school: the School Management Committee, the Staff as well as the Students. It symbolizes the synergy of their cooperation in achieving excellence for the school.
@@ -20,3 +20,5 @@ third_nav_title: School Direction
 *   **白色代表纯洁** ：象征学识之传授与人格之培养并重。 冀莘莘学子成为品学兼优的青年
 
 **White** represents purity, symbolizing the passing on of knowledge and the development of moral character.
+
+### **校训 School Motto**
