@@ -2,6 +2,7 @@ collections:
   our-cchy:
     output: true
     order:
+      - School Direction/.keep
       - Chung Cheng Spirit.md
       - Achievements/.keep
       - Achievements/Academic (not completed).md
