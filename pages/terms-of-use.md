@@ -41,3 +41,6 @@ Thank you for visiting Chung Cheng High School (Yishun). By accessing and using 
 
 1.  This Web Site contains hyperlinks to web sites which are not maintained Chung Cheng High School (Yishun). Chung Cheng High School (Yishun) is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such web sites are entirely at your own risk.
 2.  Hyperlinks to other web sites are provided as a convenience. In no circumstances shall Chung Cheng High School (Yishun) be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked.
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
