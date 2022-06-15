@@ -66,3 +66,6 @@ Official Opening of New Campus at Yishun on 30 June 2006.
 
 (left to right):  
 Mr Yap Juye Long (Principal), Mr Tharman Shanmugaratnam (Minister for Education & Second Minister for Finance), Mr Wee Cho Yaw (School Management Committee Chairman), Mr Lim Meng Wei (Vice-Principal)
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
