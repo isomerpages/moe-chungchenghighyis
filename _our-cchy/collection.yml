@@ -2,9 +2,9 @@ collections:
   our-cchy:
     output: true
     order:
-      - Achievements/CCA.md
-      - Achievements/Academic (not completed).md
       - Achievements/.keep
+      - Achievements/Academic (not completed).md
+      - Achievements/CCA.md
       - School Safety Measures/Covid19 Precautionary Measures.md
       - School Safety Measures/Haze Management Measures.md
       - School Safety Measures/Fire Precautions & Emergency Evacuation.md
