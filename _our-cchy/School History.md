@@ -35,3 +35,11 @@ Chung Cheng High School (Yishun) has, through the years, consistently kept to it
 ![](/images/1-Chung%20Cheng%20High%20School_relocation%20at%20Yishun%20(model%20building).jpg)
 
 Before the 1990s, the physical amenities at the school were adequate and provided a conducive environment for both teaching and learning. However, with new initiatives introduced in education, the need to upgrade the school facilities and move to a spacious location became a pressing concern. As rebuilding the school on the current 0.6 hectare of land was not feasible, the school opted for a relocation to provide a more spacious and better-equipped school.
+
+ <img src="/images/2-Chung%20Cheng%20High%20School_relocation%20at%20Yishun%20(construction).jpg" 
+     style="width:50%"> 
+
+
+In 2002, the school made further progress with its plans to relocate to Yishun. Floor plans for the site were firmed up after a series of consultations with Ministry of Education, School Management Committee (SMC), architects and school staff. Construction of our new home in Yishun was expected to be completed in 2004. Meanwhile, every effort is being made to ensure that our new premise will facilitate teaching and learning in realising the school's vision of becoming a prestigious and premier educational institution.
+
+In January 2003, in preparation for its move to Yishun, the school operated at two campuses, the current Guillemard site and the holding school at Sembawang Drive.Chung Cheng High School (Yishun) with its staff and eight classes of secondary one cohort of students, made their presence felt in the north. The school took on the challenge to co-ordinate programmes and operated at the two campuses, while ensuring that the Chung Cheng Spirit and rich Chinese traditions remained intact after the school completed its move to the north.
