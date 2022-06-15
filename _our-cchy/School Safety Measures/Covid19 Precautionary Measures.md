@@ -4,7 +4,7 @@ permalink: /our-cchy/School-Safety-Measures/covid-19-precautionary-measures
 description: ""
 third_nav_title: School Safety Measures
 ---
-Covid-19 Precautionary Measures
+**Covid-19 Precautionary Measures**
 ===============================
 
 Parents Letter
