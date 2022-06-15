@@ -57,3 +57,12 @@ Despite the mobility restrictions created by the SARS outbreak that year, the Sc
 The long-awaited dream to relocate to a more conducive campus came true. With the completion of the school building in 2005,
 
 Chung Cheng High School (Branch) was renamed as Chung Cheng High School (Yishun) to serve the Yishun community in developing students holistically.
+
+![](/images/Chung%20Cheng%20History%202.jpg)
+
+Official Opening of New Campus at Yishun on 30 June 2006.
+
+  
+
+(left to right):  
+Mr Yap Juye Long (Principal), Mr Tharman Shanmugaratnam (Minister for Education & Second Minister for Finance), Mr Wee Cho Yaw (School Management Committee Chairman), Mr Lim Meng Wei (Vice-Principal)
