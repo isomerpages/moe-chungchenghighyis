@@ -36,3 +36,4 @@ Whoever is the first to notice the fire/emergency will inform the Principal/Vice
 *   The direction of movement during evacuation depends on the location of danger. The staff and students should be familiar with alternative exits or evacuation routes. Should a specific staircase be shut off or rendered unsafe for use due to smoke or fire, alternative routes should be used.
 *   All students should respond to the warning signal and leave the premises when the fire alarm is sounded.
 *   The administrative staff and departmental assistants will ensure that class registers and all important documents are removed from the office/laboratories.
+
