@@ -7,3 +7,6 @@ description: ""
 ================
 
 (video need to be uploaded on YT)
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
