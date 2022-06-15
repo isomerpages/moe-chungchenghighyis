@@ -18,4 +18,7 @@ Privacy Statement
 <img style="float: right;" src="/images/pavilion.png">
 <img align="right" src="/images/pavilion.png"/>
 
+
+<img align="right" width="100" height="100" src="/images/pavilion.png">
+
 ![](/images/pavilion.png)
