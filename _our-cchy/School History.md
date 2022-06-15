@@ -45,3 +45,15 @@ In 2002, the school made further progress with its plans to relocate to Yishun. 
 In January 2003, in preparation for its move to Yishun, the school operated at two campuses, the current Guillemard site and the holding school at Sembawang Drive.Chung Cheng High School (Yishun) with its staff and eight classes of secondary one cohort of students, made their presence felt in the north. The school took on the challenge to co-ordinate programmes and operated at the two campuses, while ensuring that the Chung Cheng Spirit and rich Chinese traditions remained intact after the school completed its move to the north.
 
 ![](/images/Chung%20Cheng%20History%201.jpg)
+
+
+The ground-breaking ceremony on 30 March 2003 at Yishun symbolized the charting of a new chapter in the history of the school.
+
+Despite the mobility restrictions created by the SARS outbreak that year, the School Management Committee members led by Chairman Mr Wee Cho Yaw, laid the foundations for the new school, witnessed by staff from the two campuses at Guillemard and Sembawang.
+
+<img src="/images/4-Chung%20Cheng%20High%20School_relocation%20at%20Yishun%20(opening%20ceremony).jpg" 
+     style="width:50%">
+		 
+The long-awaited dream to relocate to a more conducive campus came true. With the completion of the school building in 2005,
+
+Chung Cheng High School (Branch) was renamed as Chung Cheng High School (Yishun) to serve the Yishun community in developing students holistically.
