@@ -23,7 +23,7 @@ third_nav_title: School Direction
 ### **校训 School Motto**
 
 <img src="/images/Hao%20Xue%20Li%20Xing.png" 
-     style="width:50%">
+     style="width:70%">
 
 
 <img src="/images/pavilion.png" 
