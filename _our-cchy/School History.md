@@ -3,7 +3,7 @@ title: School History
 permalink: /our-cchy/school-history
 description: ""
 ---
-School History
+**School History**
 ==============
 <img src="/images/1-Chung%20Cheng%20High%20School%20established%20January%201939%20at%20Kim%20Yam%20Road.jpg" 
      style="width:25%">
