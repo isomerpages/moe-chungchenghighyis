@@ -3,7 +3,7 @@ title: Chung Cheng Spirit
 permalink: /our-cchy/chung-cheng-spirit
 description: ""
 ---
-Chung Cheng Spirit
+**Chung Cheng Spirit**
 ==================
 
 ![](/images/Chung%20Cheng%20High%20School%20Spirit.jpg)
