@@ -2,10 +2,10 @@ collections:
   our-cchy:
     output: true
     order:
-      - School Direction/School Song.md
-      - School Direction/School Crest and Motto.md
-      - School Direction/School Philosophy, Vision, Mission & Values.md
       - School Direction/.keep
+      - School Direction/School Philosophy, Vision, Mission & Values.md
+      - School Direction/School Crest and Motto.md
+      - School Direction/School Song.md
       - Chung Cheng Spirit.md
       - Achievements/.keep
       - Achievements/Academic (not completed).md
