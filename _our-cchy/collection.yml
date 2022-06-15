@@ -2,4 +2,5 @@ collections:
   our-cchy:
     output: true
     order:
+      - School Safety Measures/.keep
       - 360 Virtual Tour.md
