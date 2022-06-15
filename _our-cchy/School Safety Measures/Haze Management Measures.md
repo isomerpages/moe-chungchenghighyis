@@ -4,7 +4,7 @@ permalink: /our-cchy/School-Safety-Measures/haze-management-measures
 description: ""
 third_nav_title: School Safety Measures
 ---
-Haze Management Measures
+**Haze Management Measures**
 ========================
 
 The Ministry of Education (MOE) and schools have in place a school continuity plan to ensure the well-being of our students and staff during a haze situation. The Ministry and schools are ready to respond and take appropriate haze management measures based on the MOH health advisory ([www.moh.gov.sg/haze](http://www.moh.gov.sg/haze)) corresponding to the air quality ([www.haze.gov.sg](http://www.haze.gov.sg/)).  
