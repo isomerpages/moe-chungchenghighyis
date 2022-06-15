@@ -4,7 +4,7 @@ permalink: /our-cchy/School-Safety-Measures/fire-precautions-n-emergency-evacuat
 description: ""
 third_nav_title: School Safety Measures
 ---
-Fire Precautions & Emergency Evacuation
+**Fire Precautions & Emergency Evacuation**
 =======================================
 
 Whoever is the first to notice the fire/emergency will inform the Principal/Vice Principal/HODs. Immediate steps will be taken to call the Fire Brigade (Tel No: 995) and activate the fire drill/SOP evacuation plans.
