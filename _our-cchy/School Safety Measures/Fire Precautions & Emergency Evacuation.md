@@ -37,3 +37,5 @@ Whoever is the first to notice the fire/emergency will inform the Principal/Vice
 *   All students should respond to the warning signal and leave the premises when the fire alarm is sounded.
 *   The administrative staff and departmental assistants will ensure that class registers and all important documents are removed from the office/laboratories.
 
+<img src="/images/pavilion.png" 
+     style="width:50%">
