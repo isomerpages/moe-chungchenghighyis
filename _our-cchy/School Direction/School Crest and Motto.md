@@ -22,3 +22,5 @@ third_nav_title: School Direction
 **White** represents purity, symbolizing the passing on of knowledge and the development of moral character.
 
 ### **校训 School Motto**
+
+![](/images/Hao%20Xue%20Li%20Xing.png)
