@@ -14,27 +14,15 @@ Whoever is the first to notice the fire/emergency will inform the Principal/Vice
   
 
 **Signals**
-
-  
-
 *   The school bell/hand bell will ring continuously for about 1 minute.
 *   Students are advised to be calm. Walk swiftly and assemble in an orderly manner. Do not panic or talk.
 
-  
-
-  
-
-**Actions to be taken by students**
-
-  
-
+**Actions to be taken by students**  
 **In class**
 
 *   Stop work immediately.
 *   Switch off all fans and lights.
 *   Move out in twos and assemble in the school field.
-
-  
 
 **At the assembly area**
 
@@ -42,9 +30,6 @@ Whoever is the first to notice the fire/emergency will inform the Principal/Vice
 *   Listen to instructions from teachers.
 *   Monitors will assist teachers in taking attendance.
 
-  
-
-  
 
 **Additional Points to note**
 
