@@ -32,5 +32,54 @@ Schools have in place a set of haze management plans and are ready to implement 
 
 **All school classrooms are deployed with air purifiers to further enhance the well-being of our students and staff and better protect them from the effects of haze. 
 
+Explanatory Notes:
+
+Prolonged = continuous exposure for several hours
+
+Strenuous = involving a lot of energy or effort
+
+Minimise = do as little as possible
+
+Avoid = do not do
+
+  
+
+**CLOSURE OF PRIMARY & SECONDARY SCHOOLS (INCLUDING MOE KINDERGARTENS AND VWO-RUN SPED SCHOOLS)**
+
+  
+
+The Ministry will consider closing schools when the air quality forecast for the next day is Hazardous (24-hour PSI>300). We will announce the closure of schools at around the same time that the health advisory is released. Schools will contact parents to inform them of school closure for students.
+
+  
+
+We seek parents’ and employers’ understanding that relatively short notice for any announcement of school closure could be given. We also wish to encourage parents to make advance care arrangements for their children for such an eventuality. Parents who are unable to make alternative care arrangements may continue to send their children to school, and teachers will supervise them. School-based care centres will continue to operate for their existing students.
+
+  
+
+**JUNIOR COLLEGES / CENTRALISED INSTITUTE AND POST-SECONDARY EDUCATION INSTITUTIONS (PSEIS)**
+
+  
+
+The Ministry works closely with junior colleges / centralised institute and PSEIs to ensure the well-being of their students. Junior colleges / centralised institute and PSEIs are ready to respond and take appropriate haze management measures based on the MOH health advisory corresponding to the air quality. If necessary, outdoor activities may be replaced with alternative indoor arrangements, postponed or cancelled.
+
+  
+
+The considerations for closure of these institutions are different as most of the teaching and learning takes place in enclosed indoor spaces, such as lecture theatres, and the students are older.
+
+  
+
+**NATIONAL EXAMINATIONS**
+
+  
+
+In the event of school closure, national examinations will be rescheduled. The announcement on the rescheduling of examinations would be made together with any announcement by MOE on school closure. School candidates will be informed through their schools. Private candidates will be informed by the Singapore Examinations and Assessment Board (SEAB).
+
+  
+
+When schools remain open and the national examinations proceed as scheduled, the safety and well-being of all examination candidates remain our top priority. Schools have made arrangements for all national examinations candidates to take their papers in enclosed spaces with air purifiers so that the examinations will not be disrupted should haze conditions worsen drastically during the period of the examination.
+
+Candidates with underlying medical conditions or who feel unwell should seek medical attention. Those who are medically certified unwell and are unable to sit for the examinations should inform their schools. Private candidates should inform the SEAB through MOE’s Customer Service Hotline at 6872 2220. Hotline operating hours are 8.30 am to 5.30pm on Mondays to Fridays, and 8.30 am to 12.30 pm on Saturdays. Processes are in place for dealing with candidates who are ill during the national examinations. The same procedure will be activated for students who are unable to take the examinations due to haze-related illnesses. We would like to assure all candidates that they would be fairly assessed under such unforeseen circumstances.
+
+
 <img src="/images/pavilion.png" 
      style="width:50%">
