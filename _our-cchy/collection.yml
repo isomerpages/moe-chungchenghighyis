@@ -1,0 +1,4 @@
+collections:
+  our-cchy:
+    output: true
+    order: []
