@@ -23,6 +23,7 @@ In 1981, following Singapore's emphasis on bilingualism, the school started offe
 
 In the late 90s, there was an urgent need to upgrade the school facilities and move to a more spacious location. In January 2003, in preparation for its move to Yishun, Chung Cheng High School (Branch) started to operate at two campuses, namely at the current Guillemard site and the holding school at Sembawang Drive. In 2005, when the new building was finally ready for use at its present location in Yishun, Chung Cheng High School (Branch) was renamed **Chung Cheng High School (Yishun)**.
 
-  
-
 On 30 June 2006, the school held its opening ceremony at the new site.
+
+Photographs taken during the time when the school was located at Kim Yam Road
+![](/images/Chung%20Cheng%20History.jpg)
