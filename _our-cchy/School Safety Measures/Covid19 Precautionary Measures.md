@@ -23,3 +23,6 @@ Please click on the document below for more information.
 ![](/images/00001.jpg)
 
 ![](/images/Attachment%203%20-%20Handwashing%20Procedures.jpg)
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
