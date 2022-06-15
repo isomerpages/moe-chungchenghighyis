@@ -18,7 +18,6 @@ third_nav_title: School Direction
   
 
 *   **白色代表纯洁** ：象征学识之传授与人格之培养并重。 冀莘莘学子成为品学兼优的青年
-
 **White** represents purity, symbolizing the passing on of knowledge and the development of moral character.
 
 ### **校训 School Motto**
