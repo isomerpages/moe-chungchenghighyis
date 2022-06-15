@@ -25,3 +25,6 @@ The aspirations of our magnificent Chung Cheng,
 Far beyond all boundaries.
 
 ![](/images/Chuang%20Uming.jpg)
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
