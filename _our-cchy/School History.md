@@ -6,7 +6,7 @@ description: ""
 School History
 ==============
 <img src="/images/1-Chung%20Cheng%20High%20School%20established%20January%201939%20at%20Kim%20Yam%20Road.jpg" 
-     style="width:50%">
+     style="width:25%">
 
 Chung Cheng High School was established in January 1939 at Kim Yam Road, Singapore. In its early years, the school, with only male pupil enrolment, attracted students from ASEAN countries. It ceased operation during the Japanese Occupation.  After the Second World War, the school resumed operation as a co-educational school in September 1945.
 
