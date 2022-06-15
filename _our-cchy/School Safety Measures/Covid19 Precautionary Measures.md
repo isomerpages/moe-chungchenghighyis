@@ -18,3 +18,8 @@ Please click on the document below for more information.
 20 Mar - [School additional measures in term 2.pdf](/files/School%20additional%20measures%20in%20term%202.pdf)   
 9 Jun - [Expanded Survelliance Testing for COVID19.pdf](/files/Expanded%20Survelliance%20Testing%20for%20COVID19.pdf)
 
+![](/images/Attachment%201%20Wuhan%20Virus%20Precautionary%20Measures.gif)
+
+![](/images/00001.jpg)
+
+![](/images/Attachment%203%20-%20Handwashing%20Procedures.jpg)
