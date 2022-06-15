@@ -47,3 +47,6 @@ Our Values 价值观
 **With Gratitude We Serve**
 
 **饮水思源**
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
