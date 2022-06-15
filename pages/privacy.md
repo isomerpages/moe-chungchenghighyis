@@ -15,10 +15,6 @@ Privacy Statement
 6.  To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.
 7.  This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 
-<img style="float: right;" src="/images/pavilion.png">
-<img align="right" src="/images/pavilion.png"/>
 
-
-<img align="right" width="100" height="100" src="/images/pavilion.png">
-
-![](/images/pavilion.png)
+<img src="/images/pavilion.png" 
+     style="width:50%">
