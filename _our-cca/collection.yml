@@ -2,7 +2,7 @@ collections:
   our-cca:
     output: true
     order:
-      - Uniformed Groups/Uniformed Groups.md
+      - Uniformed Groups/St John Brigade.md
       - Uniformed Groups/.keep
       - CCA (not completed).md
       - LEAPS.md
