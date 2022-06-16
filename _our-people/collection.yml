@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Staff/School Staff.md
       - Staff/School Executive Committee.md
       - Staff/Lead Teacher & Senior Teacher.md
       - Staff/Form Teachers.md
