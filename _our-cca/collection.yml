@@ -2,6 +2,7 @@ collections:
   our-cca:
     output: true
     order:
+      - Uniformed Groups/.keep
       - CCA (not completed).md
       - LEAPS.md
       - 2022 Sec 1 CCA Experience (Selection Trials).md
