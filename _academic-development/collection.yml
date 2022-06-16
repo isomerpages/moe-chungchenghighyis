@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Academic Development.md
+      - Department/Mathematics.md
       - Department/Mother Tongue Language.md
       - Department/Physical Education.md
       - Department/Science.md
