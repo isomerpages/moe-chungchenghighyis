@@ -2,4 +2,5 @@ collections:
   our-cca:
     output: true
     order:
+      - Physical Sports.md
       - CCA (not completed).md
