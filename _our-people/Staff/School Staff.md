@@ -47,7 +47,7 @@ third_nav_title: Staff
 | Dr Cheong  	| Cheong Yun Yee  	|  3E 	| Festival Drums  	| [cheong_yun_yee@moe.edu.sg](mailto:cheong_yun_yee@moe.edu.sg)  	| 285 	|
 |  Mrs Ang 	| Chern Lee Boon  	|   	|   	| [chern_lee_boon@moe.edu.sg](mailto:chern_lee_boon@moe.edu.sg)  	| 312 	|
 | Mdm Chew 	| Chew Joke 	|  	|  	| [chew_joke@moe.edu.sg](mailto:chew_joke@moe.edu.sg) 	| 279 	|
-| Mr Chia 	| Chia Poh Cheng 	| 4E 	|  	| chia_poh_cheng@moe.edu.sg 	| 271 	|
+| Mr Chia 	| Chia Poh Cheng 	| 4E 	|  	| [chia_poh_cheng@moe.edu.sg](mailto:chia_poh_cheng@moe.edu.sg) 	| 271 	|
 | Ms Chong 	| Chong Lee Ching 	| 5D 	| Chinese Dance 	| [chong_lee_ching_a@moe.edu.sg](mailto:chong_lee_ching_a@moe.edu.sg) 	| 278 	|
 | Mr Chui 	| Chui Ming Fa Benedict 	| 4C 	| Basketball (Boys) 	| [chui_ming_fa_benedict@moe.edu.sg](mailto:chui_ming_fa_benedict@moe.edu.sg) 	| 270 	|
 | Ms Edina 	| Edina Rahman 	| 2F 	| Journalism & Library 	| [edina_rahman@moe.edu.sg](mailto:edina_rahman@moe.edu.sg) 	| 316 	|
