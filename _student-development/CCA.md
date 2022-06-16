@@ -62,3 +62,5 @@ The complete CCA selection process is illustrated in Figure 1 below.
 | Mon 24 Jan 2022  	| List of CCAs with vacancies will be published via TV screen<br>(outside General Office) 	|
 | 25-26 Jan 2022  	| Sec 1 students to key in their Top 3 choices via FormSG 	|
 | 4 Feb 2022  	| CCA Membership List for all Sec 1 students to be published via PG 	|
+
+<center><b> Table 1. Timeline </b></center>
