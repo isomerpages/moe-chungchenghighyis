@@ -75,8 +75,21 @@ Schedule listed in the tables may be subjected to changes due to school needs.
 
 | No 	| CCA 	| Day/s 	| Time 	| Venue 	|
 |---	|---	|---	|---	|---	|
-| Clubs & Societies 	|  	|  	|  	|  	|
+|  	|  	|  	|  	|  	|
+
+| Clubs & Societies 	| 	|  	|  	|  	|
+|---	|---	|---	|---	|---	|
 | C1 	| Green Club 	| Tue & Fri<br>(not inclusive of time spent on project planning and execution) 	| 3.45 – 5.45pm 	| Comp Lab 1 	|
 | C2 	| Journalism & Library Club 	| Mon & Tue<br>(not inclusive of time spent on projects/publications) 	| 3.45 – 5.45pm 	| Library 	|
 | C3 	| Multimedia Club 	| Tue &<br>All School Events 	| 3.45 – 5.45pm 	| PA Room in MPH 	|
 | C4 	| Technopreneur Club 	| Tue & Thu<br>(not inclusive of time spent on project planning and execution) 	| 3.45 – 5.45pm 	| ITR1<br>  	|
+
+| Physical Sports 	|  	|  	|  	|  	|
+|---	|---	|---	|---	|---	|
+| **P1** 	| **Basketball (Boys)** 	| Mon & Thu 	| 3.45 – 6.45pm 	| Indoor Sports Court 	|
+| **P2** 	| **Fencing** 	| Tue & Fri 	| 3.45 – 6.45pm 	| Indoor Sports Court 	|
+| **P3** 	| **OutDoor Activities Club (ODAC)** 	| Mon & Thu 	| 3.45 – 6.45pm 	| Indoor Sports Hall (Level 1) 	|
+| **P4** 	| **Volleyball** 	| Mon & Thu (Boys)<br>Tue & Fri (Girls) 	| 3.45 – 6.45pm 	| Indoor Sports Hall 	|
+| **P5** 	| **Wushu** 	| Tue & Thu 	| 3.45 – 6.45pm 	| Indoor Sports Court 	|
+
+
