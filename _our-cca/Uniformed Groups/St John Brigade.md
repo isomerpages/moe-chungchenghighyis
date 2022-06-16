@@ -51,5 +51,7 @@ Youth Health Ambassador
 Water Ambassador   
 Knowledge of the Order of St John
 
+More information on SJB: [http://www.sjas.org.sg/](http://www.sjas.org.sg/)
+
 <img src="/images/pavilion.png" 
      style="width:50%">
