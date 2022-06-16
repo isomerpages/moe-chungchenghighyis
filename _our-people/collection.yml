@@ -2,5 +2,6 @@ collections:
   our-people:
     output: true
     order:
+      - Staff/Form Teachers.md
       - Staff/Non Teaching Staff.md
       - Staff/.keep
