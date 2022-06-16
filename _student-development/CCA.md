@@ -77,12 +77,12 @@ Schedule listed in the tables may be subjected to changes due to school needs.
 |---	|---	|---	|---	|---	|
 |  	|  	|  	|  	|  	|
 
-| Clubs & Societies 	| 	|  	|  	|  	|
+| Clubs & Societies 	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
-| C1 	| Green Club 	| Tue & Fri<br>(not inclusive of time spent on project planning and execution) 	| 3.45 – 5.45pm 	| Comp Lab 1 	|
-| C2 	| Journalism & Library Club 	| Mon & Tue<br>(not inclusive of time spent on projects/publications) 	| 3.45 – 5.45pm 	| Library 	|
-| C3 	| Multimedia Club 	| Tue &<br>All School Events 	| 3.45 – 5.45pm 	| PA Room in MPH 	|
-| C4 	| Technopreneur Club 	| Tue & Thu<br>(not inclusive of time spent on project planning and execution) 	| 3.45 – 5.45pm 	| ITR1<br>  	|
+| **C1** 	| **Green Club** 	| Tue & Fri<br>(not inclusive of time spent on project planning and execution) 	| 3.45 – 5.45pm 	| Comp Lab 1 	|
+| **C2** 	| **Journalism & Library Club** 	| Mon & Tue<br>(not inclusive of time spent on projects/publications) 	| 3.45 – 5.45pm 	| Library 	|
+| **C3** 	| **Multimedia Club** 	| Tue &<br>All School Events 	| 3.45 – 5.45pm 	| PA Room in MPH 	|
+| **C4** 	| **Technopreneur Club** 	| Tue & Thu<br>(not inclusive of time spent on project planning and execution) 	| 3.45 – 5.45pm 	| ITR1<br>  	|
 
 | Physical Sports 	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
