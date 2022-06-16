@@ -27,7 +27,7 @@ e.g. S1OC, Chung Cheng Championship
 External events  
 e.g. Chingay Parade, Singapore Girls Netball Competition
 
-**Events**
+**Events**   
 St. John’s Day    
 St. John Flag Day    
 St. John Walkathon    
