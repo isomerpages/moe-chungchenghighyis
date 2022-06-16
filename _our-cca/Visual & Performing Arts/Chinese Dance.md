@@ -23,3 +23,12 @@ Please click on the link below to view CCA venue & schedule. 
 [CCA venue & schedule](https://chungchenghighyishun-moe-edu-sg-admin.cwp.sg/useful-links/parents/cca-venue-n-schedule)
 
 ### Photo Gallery
+
+![](/images/ff08ed15e_62561.jpg)
+![](/images/817d3fef9_62562.jpg)
+![](/images/31c640c39_62563.jpg)
+![](/images/27d871817_62564.jpg)
+![](/images/8e25cc484_62565.jpg)
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
