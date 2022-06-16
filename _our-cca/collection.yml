@@ -2,6 +2,7 @@ collections:
   our-cca:
     output: true
     order:
+      - Visual & Performing Arts/Festival Drums.md
       - Visual & Performing Arts/Dance Ensemble.md
       - Visual & Performing Arts/Symphonic Band.md
       - Visual & Performing Arts/.keep
