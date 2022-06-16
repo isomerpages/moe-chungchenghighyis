@@ -2,6 +2,7 @@ collections:
   our-cca:
     output: true
     order:
+      - Visual & Performing Arts/Chinese Dance.md
       - Visual & Performing Arts/Chinese Drama.md
       - Visual & Performing Arts/Chinese Orchestra and Guzheng.md
       - Visual & Performing Arts/Choir.md
