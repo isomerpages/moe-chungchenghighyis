@@ -46,21 +46,14 @@ Please click on the link below to view CCA venue & schedule. 
 
 ### Activities/Events
 
-*   March Camp
-    
-*   June Camp
-    
-*   November Camp
-    
-*   Job Week
-    
-*   Scouts Donation Draw
-    
-*   National and International Jamborees
-    
-*   Campfires
-    
-*   Hikes
+1. March Camp   
+2. June Camp  
+3. November Camp   
+4. Job Week  
+5. Scouts Donation Draw   
+6. National and International Jamborees   
+7. Campfires   
+8. Hikes
 
 <img src="/images/pavilion.png" 
      style="width:50%">
