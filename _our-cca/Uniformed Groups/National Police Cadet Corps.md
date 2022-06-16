@@ -62,5 +62,7 @@ Please click on the link below to view CCA venue & schedule. 
 
 ### Photo Gallery
 
+More information on NPCC: [https://www.npcc.org.sg/](https://www.npcc.org.sg/)
+
 <img src="/images/pavilion.png" 
      style="width:50%">
