@@ -21,3 +21,11 @@ Value is the at the heart of CCHY’s Aesthetics endeavours, and we strive to cr
 ## Instructional Programme
 
 Aesthetics department in CCHY is made up of Art, Music and Design and Technology (D&T). The threading knowledge of elements and principles of Art and Design in these subjects is taught to the students. Besides the curricular programme conducted in classrooms, there will also be enrichment activities to deepen students’ understanding of art knowledge and skills.
+
+## CCHY Aesthetics Framework
+<img src="/images/Aesthetics%20Framework.jpg" 
+     style="width:50%">
+
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
