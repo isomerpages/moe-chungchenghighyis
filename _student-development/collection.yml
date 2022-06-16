@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - CCA (not completed).md
+      - CCA/Uniformed Groups.md
       - CCA/Physical Sports.md
       - CCA/More info on CCA.md
       - CCA/.keep
