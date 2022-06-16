@@ -4,12 +4,12 @@ links:
     collection: our-cchy
   - title: Our People
     collection: our-people
-  - title: Contact Us
-    url: /contact-us/
-  - title: Resources
-    resource_room: true
   - title: Our Curriculum
     url: /our-curriculum
     sublinks:
       - title: Submenu Title
         url: /permalink
+  - title: Contact Us
+    url: /contact-us/
+  - title: Resources
+    resource_room: true
