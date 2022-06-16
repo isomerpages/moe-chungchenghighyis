@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Academic Development.md
+      - Department/English Language & Literature.md
       - Department/Humanities.md
       - Department/Information Communication Technology.md
       - Department/Mathematics.md
