@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Academic Development.md
-      - Department/Huamanities.md
+      - Department/Humanities.md
       - Department/Information Communication Technology.md
       - Department/Mathematics.md
       - Department/Mother Tongue Language.md
