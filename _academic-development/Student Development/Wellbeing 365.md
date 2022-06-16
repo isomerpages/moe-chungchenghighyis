@@ -69,7 +69,7 @@ Mindfulness Video:
 
 <center><b>5. School and Community Support Hotline</b></center>
 
-| School Support 	|  	|
+| School Support 	| Community Support Hotline 	|
 |---	|---	|
 | **School Counsellors**<br><br>Ms Lee Soo Hong 67583912 Ext: 299<br>[lee_soo_hong@moe.edu.sg](mailto:lee_soo_hong@moe.edu.sg)<br><br>Ms Eunice Lim 67583912 Ext: 299<br>(Tues, Thurs) | **Samaritans of Singapore (SOS)**<br><br>Provides emotional support to people who have difficulty coping during a crisis, who are thinking of committing suicide or are affected by a suicide.<br><br>1800-221-4444 (24 hours) |
 | **Year Heads**<br><br>Ms Wong Shing Liu  67583912 Ext: 210<br>[wong_shing_liu@moe.edu.sg](mailto:wong_shing_liu@moe.edu.sg)<br> <br>Mr Yong Yin Yee 67583912 Ext: 215<br>[yong_yin_yee@moe.edu.sg](mailto:yong_yin_yee@moe.edu.sg) 	| **Touchline**<br><br>1800-377-2252 	|
