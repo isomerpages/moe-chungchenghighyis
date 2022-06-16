@@ -47,3 +47,8 @@ Selected students in the Science Ambassador Programme have the opportunities to
 Singapore is establishing itself as a global hub for food and agri-tech innovation. The long-standing focus on the sustainability of food production has driven the push for innovation (Matt, A\*STAR, 2018). With the society having a higher demand for healthier options and the increasing interest in the use of natural ingredients or nature-identical ingredients in their food products (Jeya, 2014), the “Food Science and Technology” programme offers our students an opportunity to apply their scientific knowledge, skills and block-based coding through app development and micro:bit.
 
 The focus of our ALP is on developing Scientific and digital Literacy i.e. the ability to think, reason and analyse scientifically, use scientific knowledge and processes to both understand the challenges faced by other fast growing economies and participate in decisions and problem solving that affect mankind.  In addition, Critical and Inventive Thinking & Communication, Collaboration and Information Skills are also developed and reinforced when our students exercise sound reasoning and decision making in their scientific investigative study. These are skills and habits of mind that are aligned to the desired 21st century competencies.
+
+(insert google gallery)
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
