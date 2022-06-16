@@ -28,3 +28,6 @@ Competent Mathematics Problem Solver
 *   Build Your Own Business Board Game Challenge (Sec 3&4, POA)
 *   Exploring Mathematical Problem Solving with Graphing Calculator (Sec 4)
 *   Exploring Mathematical Problem Solving with Graphing Calculator
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
