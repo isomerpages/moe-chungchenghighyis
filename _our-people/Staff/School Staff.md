@@ -130,3 +130,7 @@ third_nav_title: Staff
 | Ms Lee 	| Lee Soo Hong 	| [lee_soo_hong@moe.edu.sg](mailto:lee_soo_hong@moe.edu.sg) 	| 299 	| Counsellor 	|
 | Mr Peh 	| Gary Peh Kaixiang 	| [gary_peh_kaixiang@moe.edu.sg](mailto:gary_peh_kaixiang@moe.edu.sg) 	| 309 	| Teaching & Learning 	|
 |  Ms Goh 	|  Goh Shu Xian 	| [goh_shu_xian@moe.edu.sg](mailto:goh_shu_xian@moe.edu.sg)  	|  LBS Room 	|  Learning & Behavioural Support 	|
+
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
