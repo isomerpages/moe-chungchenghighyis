@@ -21,7 +21,7 @@ third_nav_title: Staff
 
 |  	| **Name** 	| **Head of Department** 	| **Email** 	| **Ext** 	|
 | ---	| ---	| ---	| ---	| ---	|
-| Mdm Tay 	| Tay Hui Cheng 	| SSD  	| tay_hui_cheng@moe.edu.sg  	| 211 	|
+| Mdm Tay 	| Tay Hui Cheng 	| SSD  	| mailto:tay_hui_cheng@moe.edu.sg  	| 211 	|
 | Mr Ng 	| Ng Chee Meng Kenneth   	| Student Management   	| kenneth_ng_chee_meng@moe.edu.sg   	| 218 	|
 | Mrs Goh  	| Magdalene Goh-Joseph  	| English Language & Literature  	| magdalene_joseph_marimuthu@moe.edu.sg  	| 219 	|
 | Ms Low  	| Low Geok Ling   	| Mother-Tongue   	| low_geok_ling@moe.edu.sg   	| 220 	|
