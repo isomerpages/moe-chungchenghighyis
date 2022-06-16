@@ -52,10 +52,10 @@ third_nav_title: Staff
 | Mr Chui 	| Chui Ming Fa Benedict 	| 4C 	| Basketball (Boys) 	| [chui_ming_fa_benedict@moe.edu.sg](mailto:chui_ming_fa_benedict@moe.edu.sg) 	| 270 	|
 | Ms Edina 	| Edina Rahman 	| 2F 	| Journalism & Library 	| [edina_rahman@moe.edu.sg](mailto:edina_rahman@moe.edu.sg) 	| 316 	|
 | Ms Goh 	| Goh Wen Ling Gloria 	| 1C 	| Chinese Orchestra/Guzheng Ensemble 	| [goh_wen_ling_gloria@moe.edu.sg](mailto:goh_wen_ling_gloria@moe.edu.sg) 	| 277 	|
-|  Ms Goh 	|  Goh Xiu Qing Elizabeth 	|  1D 	| Dance Ensemble  	| goh_xiu_qing_elizabeth@moe.edu.sg  	| 267 	|
-| Mr Han 	| Han Ji 	| 3C 	| Volleyball 	| han_ji@moe.edu.sg 	| 270 	|
-| Ms Ho 	| Ho Soo Fern 	| 2H 	| Fencing 	| ho_soo_fern@moe.edu.sg 	| 277 	|
-| Mr Ong 	| Jeffrey Ong Han Hoe 	| 3B 	| Outdoor Activities Club (ODAC) 	| jeffrey_ong_han_hoe@moe.edu.sg 	| 252 	|
+|  Ms Goh 	|  Goh Xiu Qing Elizabeth 	|  1D 	| Dance Ensemble  	| [goh_xiu_qing_elizabeth@moe.edu.sg](mailto:goh_xiu_qing_elizabeth@moe.edu.sg)  	| 267 	|
+| Mr Han 	| Han Ji 	| 3C 	| Volleyball 	| [han_ji@moe.edu.sg](mailto:han_ji@moe.edu.sg) 	| 270 	|
+| Ms Ho 	| Ho Soo Fern 	| 2H 	| Fencing 	| [ho_soo_fern@moe.edu.sg](mailto:ho_soo_fern@moe.edu.sg) 	| 277 	|
+| Mr Ong 	| Jeffrey Ong Han Hoe 	| 3B 	| Outdoor Activities Club (ODAC) 	| [jeffrey_ong_han_hoe@moe.edu.sg](mailto:jeffrey_ong_han_hoe@moe.edu.sg) 	| 252 	|
 | Mdm Junaina 	| Junaina Bte Ab Hassan 	| 1C 	| Green Club 	| junaina_ab_hassan@moe.edu.sg 	| 262 	|
 | Ms Junainah 	| Junainah Bte Amran 	| 2A 	| Multimedia Club 	| junainah_amran@moe.edu.sg 	| 314 	|
 | Ms Vanee 	| Kallaivanee Paramaseevan 	|  	|  	| kallaivanee_paramaseevan@moe.edu.sg 	| 261 	|
