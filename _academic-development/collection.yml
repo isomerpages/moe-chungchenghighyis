@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Academic Development.md
+      - Department/Physical Education.md
       - Department/Science.md
       - Department/Aesthetic.md
       - Department/.keep
