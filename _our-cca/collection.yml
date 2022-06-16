@@ -2,9 +2,9 @@ collections:
   our-cca:
     output: true
     order:
-      - Physical Sports/Basketball (Boys).md
-      - Physical Sports/.keep
-      - 2022 Sec 1 CCA Experience.md
       - CCA (not completed).md
       - LEAPS.md
+      - 2022 Sec 1 CCA Experience.md
+      - Physical Sports/.keep
+      - Physical Sports/Basketball (Boys).md
       - Uniformed Groups.md
