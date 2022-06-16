@@ -8,3 +8,8 @@ links:
     url: /contact-us/
   - title: Resources
     resource_room: true
+  - title: Our Curriculum
+    url: /our-curriculum
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
