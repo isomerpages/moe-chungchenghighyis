@@ -7,3 +7,6 @@ third_nav_title: Staff
 # **Form Teachers**
 
 ![](/images/2022%20Term%202%20Form%20Teachers.jpg)
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
