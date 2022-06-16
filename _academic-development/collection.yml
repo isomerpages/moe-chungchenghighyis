@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Academic Development.md
+      - Department/Science.md
       - Department/Aesthetic.md
       - Department/.keep
