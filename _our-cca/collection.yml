@@ -2,7 +2,7 @@ collections:
   our-cca:
     output: true
     order:
-      - Uniformed Groups.md
+      - CCA (not completed).md
       - More info on CCA.md
       - Physical Sports.md
-      - CCA (not completed).md
+      - Uniformed Groups.md
