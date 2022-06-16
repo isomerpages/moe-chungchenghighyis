@@ -92,4 +92,10 @@ Schedule listed in the tables may be subjected to changes due to school needs.
 | **P4** 	| **Volleyball** 	| Mon & Thu (Boys)<br>Tue & Fri (Girls) 	| 3.45 – 6.45pm 	| Indoor Sports Hall 	|
 | **P5** 	| **Wushu** 	| Tue & Thu 	| 3.45 – 6.45pm 	| Indoor Sports Court 	|
 
-
+| Uniformed Groups (UG) 	|  	|  	|  	|  	|
+|---	|---	|---	|---	|---	|
+| **U1** 	| **National Cadet Corps (Air) (NCC Air - Boys)** 	| Tue & Fri 	| 3.45 – 6.45pm 	| Field/Parade Square<br>C101/D101 Classrooms 	|
+| **U2** 	| **National Police Cadet Corps (NPCC)** 	| Tue & Fri 	| 3.45 – 6.45pm 	| Field/Parade Square<br>C102/C103 Classrooms 	|
+| **U3** 	| **Peregrine Scouts Group** 	| Tue & Fri 	| 3.45 – 6.45pm 	| Field/ISH Level 1<br>D102 Classroom 	|
+| **U4** 	| **St John Brigade** 	| Tue (even weeks)<br>Fri 	| 3.45 – 6.45pm 	| Parade Square/<br>SJB Room 	|
+|  	|  	|  	|  	|  	|
