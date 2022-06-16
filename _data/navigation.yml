@@ -7,8 +7,8 @@ links:
   - title: Our Curriculum
     url: /our-curriculum
     sublinks:
-      - title: Submenu Title
-        url: /permalink
+      - title: Academic Development
+        url: /our-curriculum/academic-development
   - title: Contact Us
     url: /contact-us/
   - title: Resources
