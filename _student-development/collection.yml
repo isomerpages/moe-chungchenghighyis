@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Student Development.md
-      - CCA/.keep
       - Wellbeing 365.md
       - Student Leadership.md
