@@ -56,19 +56,19 @@ third_nav_title: Staff
 | Mr Han 	| Han Ji 	| 3C 	| Volleyball 	| [han_ji@moe.edu.sg](mailto:han_ji@moe.edu.sg) 	| 270 	|
 | Ms Ho 	| Ho Soo Fern 	| 2H 	| Fencing 	| [ho_soo_fern@moe.edu.sg](mailto:ho_soo_fern@moe.edu.sg) 	| 277 	|
 | Mr Ong 	| Jeffrey Ong Han Hoe 	| 3B 	| Outdoor Activities Club (ODAC) 	| [jeffrey_ong_han_hoe@moe.edu.sg](mailto:jeffrey_ong_han_hoe@moe.edu.sg) 	| 252 	|
-| Mdm Junaina 	| Junaina Bte Ab Hassan 	| 1C 	| Green Club 	| junaina_ab_hassan@moe.edu.sg 	| 262 	|
-| Ms Junainah 	| Junainah Bte Amran 	| 2A 	| Multimedia Club 	| junainah_amran@moe.edu.sg 	| 314 	|
-| Ms Vanee 	| Kallaivanee Paramaseevan 	|  	|  	| kallaivanee_paramaseevan@moe.edu.sg 	| 261 	|
-| Ms Katrina 	| Katrina Nur Hidayah Mohamad 	| 4F 	| Wushu 	| katrina_nur_hidayah_mohamad@moe.edu.sg 	| 268 	|
-|  Ms Kock 	|  Kock Si Peng 	| 1A 	|   	| kock_si_peng@moe.edu.sg  	| 301  	|
-| Ms Kwok  	|  Kwok Kai Hwei 	| 3C 	|   	| kwok_kai_hwei@moe.edu.sg  	| 303 	|
-| Mr Lee 	| Lee Kah Lin Alvin 	| 1D 	| NCC Air (Boys) 	| kah_lin_alvin_lee@moe.edu.sg 	| 261 	|
-| Ms Lee 	| Lee Peiqi 	|  	|  	| lee_peiqi@moe.edu.sg 	| 265 	|
-|  Ms Lee  	| Lee Yanmei  	|   	| Green Club  	| lee_yanmei@moe.edu.sg  	| 259 	|
-| Ms Liew 	| Liew Huey Chyi 	| 3H 	| Chinese Orchestra/Guzheng Ensemble 	| liew_huey_chyi@moe.edu.sg 	| 286 	|
-| Mr Lim 	| Lim Chia Hwee 	| 5D 	| NCC Air (Boys) 	| lim_chia_hwee@moe.edu.sg 	| 263 	|
-| Mdm Lim  	| Lim Min Hui  	| 1A 	|   	| lim_minhui@moe.edu.sg  	| 302 	|
-|  Ms Lim 	|  Lim Jia Ying 	|  2B 	| Chinese Orchestra/Guzheng Ensemble 	| lim_jia_ying_b@moe.edu.sg  	| 276 	|
+| Mdm Junaina 	| Junaina Bte Ab Hassan 	| 1C 	| Green Club 	| [mailto:junaina_ab_hassan@moe.edu.sg](mailto:junaina_ab_hassan@moe.edu.sg) 	| 262 	|
+| Ms Junainah 	| Junainah Bte Amran 	| 2A 	| Multimedia Club 	| [junainah_amran@moe.edu.sg](mailto:junainah_amran@moe.edu.sg) 	| 314 	|
+| Ms Vanee 	| Kallaivanee Paramaseevan 	|  	|  	| [kallaivanee_paramaseevan@moe.edu.sg](mailto:kallaivanee_paramaseevan@moe.edu.sg) 	| 261 	|
+| Ms Katrina 	| Katrina Nur Hidayah Mohamad 	| 4F 	| Wushu 	| [katrina_nur_hidayah_mohamad@moe.edu.sg](mailto:katrina_nur_hidayah_mohamad@moe.edu.sg) 	| 268 	|
+|  Ms Kock 	|  Kock Si Peng 	| 1A 	|   	| [kock_si_peng@moe.edu.sg](mailto:kock_si_peng@moe.edu.sg)  	| 301  	|
+| Ms Kwok  	|  Kwok Kai Hwei 	| 3C 	|   	| [kwok_kai_hwei@moe.edu.sg](mailto:kwok_kai_hwei@moe.edu.sg)  	| 303 	|
+| Mr Lee 	| Lee Kah Lin Alvin 	| 1D 	| NCC Air (Boys) 	| [kah_lin_alvin_lee@moe.edu.sg](mailto:kah_lin_alvin_lee@moe.edu.sg) 	| 261 	|
+| Ms Lee 	| Lee Peiqi 	|  	|  	| [lee_peiqi@moe.edu.sg](mailto:lee_peiqi@moe.edu.sg) 	| 265 	|
+|  Ms Lee  	| Lee Yanmei  	|   	| Green Club  	| [lee_yanmei@moe.edu.sg](mailto:lee_yanmei@moe.edu.sg)  	| 259 	|
+| Ms Liew 	| Liew Huey Chyi 	| 3H 	| Chinese Orchestra/Guzheng Ensemble 	| (mailto:liew_huey_chyi@moe.edu.sg) 	| 286 	|
+| Mr Lim 	| Lim Chia Hwee 	| 5D 	| NCC Air (Boys) 	| [lim_chia_hwee@moe.edu.sg](mailto:lim_chia_hwee@moe.edu.sg) 	| 263 	|
+| Mdm Lim  	| Lim Min Hui  	| 1A 	|   	| [lim_minhui@moe.edu.sg](mailto:lim_minhui@moe.edu.sg)  	| 302 	|
+|  Ms Lim 	|  Lim Jia Ying 	|  2B 	| Chinese Orchestra/Guzheng Ensemble 	| [lim_jia_ying_b@moe.edu.sg](mailto:lim_jia_ying_b@moe.edu.sg)  	| 276 	|
 | Mr Lim  	|  Lim Ying Xuan 	| 3G 	|   	| lim_ying_xuan@moe.edu.sg  	| 261 	|
 | Ms Lin 	| Lin Siyue 	| 4A 	| Peregrine Scouts Group 	| lin_siyue@moe.edu.sg 	| 256 	|
 | Ms Lin 	| Lin Xiaoying 	| 4A 	| Technopreneur Club 	| lin_xiaoying@moe.edu.sg 	| 273 	|
