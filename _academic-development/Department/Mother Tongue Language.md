@@ -65,3 +65,6 @@ Our Malay Language Unit comprises of teachers who are dedicated and passionate a
 | 1) 	| Sing Rui Han 	| 2G 	| Excellence Award 	| National Creative Story Writing Competition for Secondary Students 	|
 | 2) 	| Sing Rui Han<br>Joslin Lua Huiqin<br>Goh Le Shuen<br>Lim Rui En<br>Tang Kang Yi 	| 2G<br>2G<br>2G<br>1H<br>1H 	| Second Prize 	| Create your own Newspaper Competition 	|
 | 3) 	| Yip Yee Leng 	| 2H 	| Excellence Award 	| Chinese Mini Fiction Creative Writing Competition 	|
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
