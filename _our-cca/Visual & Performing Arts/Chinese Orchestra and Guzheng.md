@@ -25,35 +25,30 @@ Our Chinese Orchestra and Guzheng Ensemble carries the mission of promoting Chin
 *   Chinese Orchestra will also be a component on culture education to help students gain a better understanding of Chinese Orchestra music and culture.   
 华乐是一种文化教育，希望学生对音乐和文化有更深一层的认识。
 
-Teachers-in-charge
-------------------
-
-Ms Philina Wong Hai Lin (1st IC)  
-
-Ms Gloria Goh (2nd IC)  
-
-Ms Liew Huey Chyi  
-
+### Teachers-in-charge
+Ms Philina Wong Hai Lin (1st IC)    
+Ms Gloria Goh (2nd IC)   
+Ms Liew Huey Chyi    
 Ms Lim Jia Ying  
 
-Training Schedule 
-------------------
+### Training Schedule 
 
 Please click on the link below to view CCA venue & schedule.   
 [CCA venue & schedule](https://chungchenghighyishun-moe-edu-sg-admin.cwp.sg/useful-links/parents/cca-venue-n-schedule)
 
-Activities/Events
------------------
+### Activities/Events
 
-Jan - CCA Carnival Performance
-
-Feb - Chinese New Year School Concert Performance
-
-April - Singapore Youth Festival Arts Presentation – Certificate of Distinction (2019)
-
-Sept - Mid Autumn School Concert Performance
-
+Jan - CCA Carnival Performance   
+Feb - Chinese New Year School Concert Performance   
+April - Singapore Youth Festival Arts Presentation – Certificate of Distinction (2019)    
+Sept - Mid Autumn School Concert Performance   
 Nov - CCHY Open House Concert
 
-Photo Gallery
--------------
+### Photo Gallery
+
+![](/images/AASB2873.jpg)
+![](/images/IMG_0816.jpg)
+![](/images/IMG_1287.jpg)
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
