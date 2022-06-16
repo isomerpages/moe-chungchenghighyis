@@ -22,3 +22,12 @@ Principals who have served the school from 1939 include:
 1961 - 1970 : Mr Kok Chong Peng 许钟腾校长   
 1957 - 1960 : Mr Ko Pei Teck 高沛泽校长   
 1939 - 1957 : Dr Chuang Chu Lin 庄竹林博士
+
+<center>第一任校长
+
+**庄竹林博士**</center>
+
+<img src="/images/1st%20Principal_Dr%20Chuang%20Chu%20Lin.jpg" 
+     style="width:50%">
+
+
