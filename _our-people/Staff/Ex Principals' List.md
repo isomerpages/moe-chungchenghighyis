@@ -29,5 +29,6 @@ Principals who have served the school from 1939 include:
 
 <img src="/images/1st%20Principal_Dr%20Chuang%20Chu%20Lin.jpg" 
      style="width:50%">
-
-
+		 
+		 
+![](/images/CCHY%20Ex-principals.jpg)
