@@ -32,3 +32,16 @@ Principals who have served the school from 1939 include:
 		 
 		 
 ![](/images/CCHY%20Ex-principals.jpg)
+
+## Vice-Principal's List
+
+| Year | Vice-Principal |  |
+| --- | --- | --- |
+| 2020 to present | Mr Melvin Cheong | 张永福副校长 |
+| 2018 to present  | Mr Chang Fook Yong  | 张福勇副校长  |
+| 2017 - 2020 | Ms Elsie Tan | 陈淑凤副校长 |
+| 2012 - 2016 | Mr Chia Keng Hwee | 谢锦辉副校长 |
+| 2011 to present | Mrs Chong Lai Peng | 杨丽萍副校长 |
+| 2010 -2012 | Mr Yap Thiam Chuan | 叶天泉副校长 |
+| 2007 - 2010 | Mr Toh Teck Wang | 苏德望副校长 |
+| 2006 | Mr Lim Meng Wei |
