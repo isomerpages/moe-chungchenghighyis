@@ -65,7 +65,7 @@ third_nav_title: Staff
 | Mr Lee 	| Lee Kah Lin Alvin 	| 1D 	| NCC Air (Boys) 	| [kah_lin_alvin_lee@moe.edu.sg](mailto:kah_lin_alvin_lee@moe.edu.sg) 	| 261 	|
 | Ms Lee 	| Lee Peiqi 	|  	|  	| [lee_peiqi@moe.edu.sg](mailto:lee_peiqi@moe.edu.sg) 	| 265 	|
 |  Ms Lee  	| Lee Yanmei  	|   	| Green Club  	| [lee_yanmei@moe.edu.sg](mailto:lee_yanmei@moe.edu.sg)  	| 259 	|
-| Ms Liew 	| Liew Huey Chyi 	| 3H 	| Chinese Orchestra/Guzheng Ensemble 	| (mailto:liew_huey_chyi@moe.edu.sg) 	| 286 	|
+| Ms Liew 	| Liew Huey Chyi 	| 3H 	| Chinese Orchestra/Guzheng Ensemble 	| [liew_huey_chyi@moe.edu.sg](mailto:liew_huey_chyi@moe.edu.sg) 	| 286 	|
 | Mr Lim 	| Lim Chia Hwee 	| 5D 	| NCC Air (Boys) 	| [lim_chia_hwee@moe.edu.sg](mailto:lim_chia_hwee@moe.edu.sg) 	| 263 	|
 | Mdm Lim  	| Lim Min Hui  	| 1A 	|   	| [lim_minhui@moe.edu.sg](mailto:lim_minhui@moe.edu.sg)  	| 302 	|
 |  Ms Lim 	|  Lim Jia Ying 	|  2B 	| Chinese Orchestra/Guzheng Ensemble 	| [lim_jia_ying_b@moe.edu.sg](mailto:lim_jia_ying_b@moe.edu.sg)  	| 276 	|
@@ -88,19 +88,19 @@ third_nav_title: Staff
 | Ms Norfida 	| Norfida Alias 	| 4C 	| Festival Drums 	| [norfida_alias@moe.edu.sg](mailto:norfida_alias@moe.edu.sg) 	| 267 	|
 | Mrs Shah 	| Norlizawati Juahil 	| 3A 	| Wushu 	| [norlizawati_juahil@moe.edu.sg](mailto:norlizawati_juahil@moe.edu.sg) 	| 255 	|
 | Ms Suzana 	| Norsuzana Binte Saini 	| 1F 	| St John Brigade 	| [norsuzana_saini@moe.edu.sg](mailto:norsuzana_saini@moe.edu.sg) 	| 302 	|
-| Ms Jannah 	| Nur Jannah Noor 	| 1B 	| Technopreneur Club 	| nur_jannah_noor@moe.edu.sg 	| 276 	|
-| Ms Marlinda 	| Nur Marlinda Aziz 	| 2E 	| Choir 	| nur_marlinda_aziz@moe.edu.sg 	| 317 	|
-| Ms Nurhayati 	| Nurhayati Rahman 	| 2G 	| St John Brigade 	| nurhayati_rahman@moe.edu.sg 	| 256 	|
-| Ms Nurulhuda  	| Nurulhuda Binte Khamarudin  	| 2B  	|   	| nurulhuda_khamarudin@moe.edu.sg  	| 262 	|
-| Ms Ong 	| Ong Chuhui 	| 2G 	| Journalism & Library 	| ong_chuhui@moe.edu.sg 	| 285 	|
-| Mr Ong 	| Ong JunJie Samuel 	| 4F 	| Symphonic Band 	| ong_junjie_samuel@moe.edu.sg 	| 309 	|
-|  Mr Peh 	| Gary Peh Kaixiang  	|  2A 	| Outdoor Activities Club (ODAC)  	| gary_peh_kaixiang@moe.edu.sg  	| 309 	|
-|  Mrs Peh 	|  Peh-Leow Li Yong, Shirley 	|  3B 	| St John Brigade  	| peh-leow_li_yong_shirley@moe.edu.sg  	| 283 	|
-| Mr Poh 	| Poh Eng Hua Terence 	|  	| Wushu 	| poh_eng_hua_terence@moe.edu.sg 	| 308 	|
-| Ms Wong 	| Philina Wong Hai Lin 	| 2B 	| Chinese Orchestra/Guzheng Ensemble 	| philina_wong_hai_lin@moe.edu.sg 	| 303 	|
-| Ms Sharizan 	| Sharizan Sanwan 	|  	|  	| sharizan_sanwan@moe.edu.sg 	| 255 	|
-| Ms Shalynn 	| Shalynn Sasha Chua 	| 1A 	| Dance Ensemble 	| shalynn_sasha_chua@moe.edu.sg 	| 313 	|
-| Mdm Sieow  	| Sieow Lee Mei  	|  2H 	| Chinese Dance  	| sieow_lee_mei@moe.edu.sg  	| 251 	|
+| Ms Jannah 	| Nur Jannah Noor 	| 1B 	| Technopreneur Club 	| [nur_jannah_noor@moe.edu.sg](mailto:nur_jannah_noor@moe.edu.sg) 	| 276 	|
+| Ms Marlinda 	| Nur Marlinda Aziz 	| 2E 	| Choir 	| [nur_marlinda_aziz@moe.edu.sg](mailto:nur_marlinda_aziz@moe.edu.sg) 	| 317 	|
+| Ms Nurhayati 	| Nurhayati Rahman 	| 2G 	| St John Brigade 	| [nurhayati_rahman@moe.edu.sg](mailto:nurhayati_rahman@moe.edu.sg) 	| 256 	|
+| Ms Nurulhuda  	| Nurulhuda Binte Khamarudin  	| 2B  	|   	| [nurulhuda_khamarudin@moe.edu.sg](mailto:nurulhuda_khamarudin@moe.edu.sg)  	| 262 	|
+| Ms Ong 	| Ong Chuhui 	| 2G 	| Journalism & Library 	| [ong_chuhui@moe.edu.sg](mailto:ong_chuhui@moe.edu.sg) 	| 285 	|
+| Mr Ong 	| Ong JunJie Samuel 	| 4F 	| Symphonic Band 	| [ong_junjie_samuel@moe.edu.sg](mailto:ong_junjie_samuel@moe.edu.sg) 	| 309 	|
+|  Mr Peh 	| Gary Peh Kaixiang  	|  2A 	| Outdoor Activities Club (ODAC)  	| [gary_peh_kaixiang@moe.edu.sg](mailto:gary_peh_kaixiang@moe.edu.sg)  	| 309 	|
+|  Mrs Peh 	|  Peh-Leow Li Yong, Shirley 	|  3B 	| St John Brigade  	| [peh-leow_li_yong_shirley@moe.edu.sg](mailto:peh-leow_li_yong_shirley@moe.edu.sg)  	| 283 	|
+| Mr Poh 	| Poh Eng Hua Terence 	|  	| Wushu 	| [poh_eng_hua_terence@moe.edu.sg](mailto:poh_eng_hua_terence@moe.edu.sg) 	| 308 	|
+| Ms Wong 	| Philina Wong Hai Lin 	| 2B 	| Chinese Orchestra/Guzheng Ensemble 	| [philina_wong_hai_lin@moe.edu.sg](mailto:philina_wong_hai_lin@moe.edu.sg) 	| 303 	|
+| Ms Sharizan 	| Sharizan Sanwan 	|  	|  	| [sharizan_sanwan@moe.edu.sg](mailto:sharizan_sanwan@moe.edu.sg) 	| 255 	|
+| Ms Shalynn 	| Shalynn Sasha Chua 	| 1A 	| Dance Ensemble 	| [shalynn_sasha_chua@moe.edu.sg](mailto:shalynn_sasha_chua@moe.edu.sg) 	| 313 	|
+| Mdm Sieow  	| Sieow Lee Mei  	|  2H 	| Chinese Dance  	| [sieow_lee_mei@moe.edu.sg](mailto:sieow_lee_mei@moe.edu.sg)  	| 251 	|
 | Mr Sim 	| Sim Kok Heng 	| 2F 	| Choir 	| sim_kok_heng@moe.edu.sg 	| 283 	|
 |  Ms Sim 	| Sim Feng-En Sophia  	| 1B 	| Outdoor Activities Club (ODAC)  	| sim_feng-en_sophia@moe.edu.sg  	| 280 	|
 | Mr Soo 	| Soo Jun Hao 	|  	| NCC Air (Boys) 	| soo_jun_hao@moe.edu.sg 	| 278 	|
