@@ -2,6 +2,7 @@ collections:
   academic-development:
     output: true
     order:
+      - Student Development/.keep
       - Academic Development.md
       - Department/.keep
       - Department/Aesthetic.md
