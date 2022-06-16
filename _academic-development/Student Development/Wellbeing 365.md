@@ -12,7 +12,9 @@ third_nav_title: Student Development
 
 <img src="/images/Wellbeing%20365%20picture%201.jpg" 
      style="width:70%">
+It is normal in today’s world for you to face challenges and a sense of helplessness. Cultivating the right mindset and good habits and tapping on the right strategies can help you to combat stress and preserve a positive well-being.
 
+(link: [https://www.verywellmind.com/top-school-stress-relievers-for-students-3145179](https://www.verywellmind.com/top-school-stress-relievers-for-students-3145179))
 
 
 <img src="/images/pavilion.png" 
