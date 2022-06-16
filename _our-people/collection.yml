@@ -2,8 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - Academic Development/Academic Development.md
-      - Academic Development/.keep
       - School Management Committee.md
       - Staff/Ex Principals' List.md
       - Staff/School Staff.md
