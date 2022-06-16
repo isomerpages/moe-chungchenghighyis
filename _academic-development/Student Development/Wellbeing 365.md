@@ -34,6 +34,11 @@ Watch this video about a girl who started her business at the age of 11 when her
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E8k6LcYO_Vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<center><b>3. Mindful breathing to practise anytime, anywhere</b></center>
+
+![](/images/Wellbeing%20365%20picture%202.jpg)
+
+You have been practicing mindful breathing at the start of each school day from Monday to Thursday. Continue to practice it whenever you feel you need to calm yourself down.
 
 <img src="/images/pavilion.png" 
      style="width:50%">
