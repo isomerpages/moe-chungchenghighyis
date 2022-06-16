@@ -122,3 +122,11 @@ third_nav_title: Staff
 | Mdm Yeoh 	| Yeoh Ai Bee 	|  	|  	| yeoh_ai_bee@moe.edu.sg 	| 329 	|
 | Ms Yvonne 	| Yvonne Suvitha Selvadurai 	| 3F 	| Symphonic Band 	| yvonne_suvitha_selvadurai@moe.edu.sg 	| 252 	|
 | Ms Zhu 	| Zhu Peilin 	| 1H 	| Chinese Drama 	| zhu_peilin@moe.edu.sg 	| 286 	|
+
+### Ailled Educator
+
+|  	| Name 	| Email (Ext) 	| Ext 	| Areas 	|
+|---	|---	|---	|---	|---	|
+| Ms Lee 	| Lee Soo Hong 	| lee_soo_hong@moe.edu.sg 	| 299 	| Counsellor 	|
+| Mr Peh 	| Gary Peh Kaixiang 	| gary_peh_kaixiang@moe.edu.sg 	| 309 	| Teaching & Learning 	|
+|  Ms Goh 	|  Goh Shu Xian 	| goh_shu_xian@moe.edu.sg  	|  LBS Room 	|  Learning & Behavioural Support 	|
