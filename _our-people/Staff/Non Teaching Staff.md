@@ -31,3 +31,6 @@ third_nav_title: Staff
 | Ms | Mariani | Librarian |
 | Ms | Lim Siew Hong Eunice | Part Time School Counsellor |
 | Ms | Yap Hwee Hoon  | ECG Counsellor |
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
