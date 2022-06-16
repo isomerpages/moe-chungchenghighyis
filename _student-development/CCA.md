@@ -64,3 +64,6 @@ The complete CCA selection process is illustrated in Figure 1 below.
 | 4 Feb 2022  	| CCA Membership List for all Sec 1 students to be published via PG 	|
 
 <center><b> Table 1. Timeline </b></center>
+
+**4. CCAs in Chung Cheng High School (Yishun)**   
+There are 21 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every student should commit to a CCA taking up about 6 hours per week of their time.
