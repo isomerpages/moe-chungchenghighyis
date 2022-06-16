@@ -98,4 +98,3 @@ Schedule listed in the tables may be subjected to changes due to school needs.
 | **U2** 	| **National Police Cadet Corps (NPCC)** 	| Tue & Fri 	| 3.45 – 6.45pm 	| Field/Parade Square<br>C102/C103 Classrooms 	|
 | **U3** 	| **Peregrine Scouts Group** 	| Tue & Fri 	| 3.45 – 6.45pm 	| Field/ISH Level 1<br>D102 Classroom 	|
 | **U4** 	| **St John Brigade** 	| Tue (even weeks)<br>Fri 	| 3.45 – 6.45pm 	| Parade Square/<br>SJB Room 	|
-|  	|  	|  	|  	|  	|
