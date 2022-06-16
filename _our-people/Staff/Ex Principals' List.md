@@ -45,3 +45,6 @@ Principals who have served the school from 1939 include:
 | 2010 -2012 | Mr Yap Thiam Chuan | 叶天泉副校长 |
 | 2007 - 2010 | Mr Toh Teck Wang | 苏德望副校长 |
 | 2006 | Mr Lim Meng Wei |
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
