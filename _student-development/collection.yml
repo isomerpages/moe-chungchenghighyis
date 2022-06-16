@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Student Development.md
       - CCA (not completed).md
       - CCA/Uniformed Groups.md
       - CCA/Physical Sports.md
