@@ -104,13 +104,9 @@ Schedule listed in the tables may be subjected to changes due to school needs.
 |---	|---	|---	|---	|---	|
 | **V1** 	| **Chinese Dance** 	| Mon & Thu 	| 3.45 – 6.45pm 	| AVA Room/ MPH<br>  	|
 | **V2** 	| **Chinese Drama** 	| Tue & Thu 	| 3.45 – 6.45pm 	| SBC/ Centre of Excellence (COE) Room 	|
-| **V3<br><br>V4** 	| **Chinese Orchestra<br>Guzheng Ensemble** 	| Tue – All<br> ![](/images/download.png)| 3.45 – 6.45pm 	| Orchestra Room &<br>Level 3 Classrooms 	|
+| **V3<br><br>V4** 	| **Chinese Orchestra<br>Guzheng Ensemble** 	| Tue – All<br> ![](/images/download.png) | 3.45 – 6.45pm 	| Orchestra Room &<br>Level 3 Classrooms 	|
 | **V5** 	| **Choir** 	| Tue & Fri 	| 3.45 – 6.45pm 	| Music Room & 2A/2B/2C classrooms 	|
 | **V6** 	| **Dance Ensemble** 	| Tue & Thu 	| 3.45 – 6.45pm 	| AVA Room/ MPH 	|
 | **V7** 	| **Festival Drums** 	| Mon & Fri 	| 3.45 – 6.45pm 	| Multi-Purpose Room (MPR) 	|
 | **V8** 	| **Symphonic Band** 	| Mon<br> <br> <br>Thu 	| 3.45 – 6.45pm<br> <br> <br>3.45 – 6.45pm 	| MPH, Music Room &<br>Level 4 classrooms<br> <br>MPR, Music Room &<br>Level 1 classrooms 	|
 
-<img src="/images/download.png" 
-     style="width:10%">
-		 
-![](/images/download.png)
