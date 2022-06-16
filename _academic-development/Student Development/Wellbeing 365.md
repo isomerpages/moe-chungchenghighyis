@@ -40,5 +40,12 @@ Watch this video about a girl who started her business at the age of 11 when her
 
 You have been practicing mindful breathing at the start of each school day from Monday to Thursday. Continue to practice it whenever you feel you need to calm yourself down.
 
+Mindfulness Video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lH9soZjmzCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<center><b>4. Motivational videos to perk you up</b></center>
+
+![](/images/Wellbeing%20365%20picture%203.jpg)
+
 <img src="/images/pavilion.png" 
      style="width:50%">
