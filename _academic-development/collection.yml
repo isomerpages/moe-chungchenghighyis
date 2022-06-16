@@ -2,4 +2,5 @@ collections:
   academic-development:
     output: true
     order:
+      - Department/.keep
       - Aesthetic.md
