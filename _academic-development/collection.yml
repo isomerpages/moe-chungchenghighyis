@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Academic Development.md
+      - Department/.keep
+      - Department/Aesthetic.md
       - Department/English Language & Literature.md
       - Department/Humanities.md
       - Department/Information Communication Technology.md
@@ -10,5 +12,3 @@ collections:
       - Department/Mother Tongue Language.md
       - Department/Physical Education.md
       - Department/Science.md
-      - Department/Aesthetic.md
-      - Department/.keep
