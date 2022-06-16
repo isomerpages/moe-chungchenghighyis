@@ -34,7 +34,7 @@ third_nav_title: Staff
 | Ms Wong 	| Wong Shing Liu  	| Year Head Lower Sec  	| wong_shing_liu@moe.edu.sg  	| 210 	|
 | Mr Yong 	| Yong Yin Yee 	| Year Head Upper Sec 	| yong_yin_yee@moe.edu.sg 	| 215 	|
 
-### **Teaching Staff**
+### Teaching Staff
 
 |  	| Name of Teaching Staff 	| Form Class 	| CCA 	| Email 	| Ext 	|
 | ---	| ---	| ---	| ---	| ---	| ---	|
