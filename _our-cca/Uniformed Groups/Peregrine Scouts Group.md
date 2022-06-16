@@ -55,5 +55,8 @@ Please click on the link below to view CCA venue & schedule. 
 7. Campfires   
 8. Hikes
 
+### Photo Gallery
+
+
 <img src="/images/pavilion.png" 
      style="width:50%">
