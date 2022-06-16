@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - School Management Committee.md
       - Staff/Ex Principals' List.md
       - Staff/School Staff.md
       - Staff/School Executive Committee.md
