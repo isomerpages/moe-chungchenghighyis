@@ -62,3 +62,19 @@ These are the subjects offered by the department:
 *   Project Work for holistic and more meaningful learning (All Sec 1 and 2 Express classes are required to complete an inter-disciplinary projects)
 *   Lecture-tutorial system for upper secondary Social Studies lessons to ensure greater rigour in the coverage of issues as well as engage students in discussions in the tutorial sessions
 *   Reading and reflections on current developments related to the topics learnt
+
+## Sec 1 IPW Fieldtrip to Sungei Buloh
+
+![](/images/Humanities.jpg)
+
+## Fieldtrips to BTNR and SBWR (Sec 3)
+
+![](/images/Humanities%201.jpg)
+
+## Sec 4 Geography Fieldtrip to Hi-Tech Farms
+
+![](/images/Humanities%202.jpg)
+
+## Geography Field Trips to Bt Timah Nature Reserve, Sungei Buloh Wetland Reserve for Sec 3
+
+Secondary 3 Geography students had a chance to learn about the natural vegetation of Singapore when their teachers packed them off on nature walks through the Bukit Timah Forest Reserve and the Sungei Buloh Wetland Reserve. Besides learning about the structure of these forests and their adaptations to the environment, students also had a chance to discover more about the value of these forests whose trees and plants provide food, herbs and many household items for use. Students who completed these outdoor lessons have learnt to appreciate the importance of conservation of these disappearing forests in Singapore.
