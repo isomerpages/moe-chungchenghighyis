@@ -110,3 +110,5 @@ Schedule listed in the tables may be subjected to changes due to school needs.
 | **V7** 	| **Festival Drums** 	| Mon & Fri 	| 3.45 – 6.45pm 	| Multi-Purpose Room (MPR) 	|
 | **V8** 	| **Symphonic Band** 	| Mon<br> <br> <br>Thu 	| 3.45 – 6.45pm<br> <br> <br>3.45 – 6.45pm 	| MPH, Music Room &<br>Level 4 classrooms<br> <br>MPR, Music Room &<br>Level 1 classrooms 	|
 
+<img src="/images/pavilion.png" 
+     style="width:50%">
