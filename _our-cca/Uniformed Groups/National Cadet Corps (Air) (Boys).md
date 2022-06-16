@@ -62,4 +62,4 @@ Cadet Officer Course
 *   Shooting Competition
 
 More information on NCC
-[ncc.org.sg](https://nccs.org.sg/)
+[https://www.facebook.com/sgncc.hq/](https://www.facebook.com/sgncc.hq/)
