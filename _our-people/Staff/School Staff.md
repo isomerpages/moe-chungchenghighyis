@@ -119,7 +119,7 @@ third_nav_title: Staff
 | Ms Wu  	| Wu Simin  	|   	|   	| [wu_simin@moe.edu.sg](mailto:wu_simin@moe.edu.sg)  	| 311 	|
 | Mr Yeo 	| Yeo See Heng Ronnie 	| 4B 	| Wushu 	| [yeo_see_heng_ronnie@moe.edu.sg](mailto:yeo_see_heng_ronnie@moe.edu.sg) 	| 258 	|
 | Mdm Yeo  	| Yeo Siok Chin  	|   	|   	| [yeo_siok_chin@moe.edu.sg](mailto:yeo_siok_chin@moe.edu.sg)  	| 328 	|
-| Mdm Yeoh 	| Yeoh Ai Bee 	|  	|  	| yeoh_ai_bee@moe.edu.sg 	| 329 	|
+| Mdm Yeoh 	| Yeoh Ai Bee 	|  	|  	| [yeoh_ai_bee@moe.edu.sg](mailto:yeoh_ai_bee@moe.edu.sg) 	| 329 	|
 | Ms Yvonne 	| Yvonne Suvitha Selvadurai 	| 3F 	| Symphonic Band 	| [yvonne_suvitha_selvadurai@moe.edu.sg](mailto:yvonne_suvitha_selvadurai@moe.edu.sg) 	| 252 	|
 | Ms Zhu 	| Zhu Peilin 	| 1H 	| Chinese Drama 	| [zhu_peilin@moe.edu.sg](mailto:zhu_peilin@moe.edu.sg) 	| 286 	|
 
