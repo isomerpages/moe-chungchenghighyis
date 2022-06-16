@@ -47,5 +47,25 @@ Mindfulness Video:
 
 ![](/images/Wellbeing%20365%20picture%203.jpg)
 
+<center><b>The Science of Gratitude</b></center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMd1CcGZYwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<center><b>Practice positive thinking everyday</b></center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TxU30JMf8mg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<center><b>Get Grateful</b></center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8INhAYxwi8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<center><b>How gratitude changes the brain</b></center>
+
+[https://www.youtube.com/watch?v=1pqPKDu19hU](https://www.youtube.com/watch?v=1pqPKDu19hU)
+
+<center><b>The Power of Gratitude</b></center>
+
+[https://www.youtube.com/watch?v=WERppcuabKE](https://www.youtube.com/watch?v=WERppcuabKE)
+
 <img src="/images/pavilion.png" 
      style="width:50%">
