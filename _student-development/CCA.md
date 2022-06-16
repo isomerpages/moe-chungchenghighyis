@@ -42,11 +42,7 @@ The following activities will be conducted throughout the month of January:
 **3.1 CCA Open House**   
 CCA Open House will be held on Fri 7 Jan 2022.
 
-CCA booths will be set up in Indoor Sports Courts, MPH, MPR, and the Parade Square, from 2pm to 3.30pm. Upper Secondary students will be tasked to promote or pitch their CCAs to the Sec 1 students. As they share more information to our new students, they could encourage them to register for the CCA and attend the auditions or selections held over the next 2 weeks.       
-
-  
-
-  
+CCA booths will be set up in Indoor Sports Courts, MPH, MPR, and the Parade Square, from 2pm to 3.30pm. Upper Secondary students will be tasked to promote or pitch their CCAs to the Sec 1 students. As they share more information to our new students, they could encourage them to register for the CCA and attend the auditions or selections held over the next 2 weeks.  
 
 **3.2 CCA Selection Process**   
 Students may choose to go for auditions, selection trials and interviews conducted by the various CCAs. The schedule of the selection events, held during Term 1 Week 2 to 3, will be published on our school website. 
@@ -56,3 +52,13 @@ Students are strongly advised to be selected for only ONE CCA (~6 hours a week
 Sec 1 students will also be required to indicate their Top 3 choices of CCA via FormSG (see Table 1). In the unfortunate event, where any student is not selected by any CCA trials, his or her inputs of Top 3 CCA choices (via FormSG) will be considered for the allocation of his/her CCA. However, the allocation will be based on the CCA vacancies available.
 
 The complete CCA selection process is illustrated in Figure 1 below.
+
+![](/images/2022%20CCA1.jpg)
+
+| Date 	| Activity 	|
+| ---	| ---	|
+| 7 Jan 2022 	| CCA Open House 	|
+| 10-21 Jan 2022 	| CCA Experience:<br><br>Students must attend auditions/interviews/selection trials 	|
+| Mon 24 Jan 2022  	| List of CCAs with vacancies will be published via TV screen<br>(outside General Office) 	|
+| 25-26 Jan 2022  	| Sec 1 students to key in their Top 3 choices via FormSG 	|
+| 4 Feb 2022  	| CCA Membership List for all Sec 1 students to be published via PG 	|
