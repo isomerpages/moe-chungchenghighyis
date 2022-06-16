@@ -15,8 +15,6 @@ Students of good character and able to overcome life's challenges.
 **Mission:**   
 The school adopts a whole school approach in Student Development of our students.
 
-  
-
 The Student Development Department in collaboration with all teachers seeks to:
 
 *   To instill the school values in our students to enable them to be students of good character who is able to make responsible decisions.
