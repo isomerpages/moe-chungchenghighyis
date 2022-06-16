@@ -67,3 +67,16 @@ The complete CCA selection process is illustrated in Figure 1 below.
 
 **4. CCAs in Chung Cheng High School (Yishun)**   
 There are 21 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every student should commit to a CCA taking up about 6 hours per week of their time.
+
+![](/images/2022%20CCA2.jpg)
+
+**5. CCA Schedule**  
+Schedule listed in the tables may be subjected to changes due to school needs.
+
+| No 	| CCA 	| Day/s 	| Time 	| Venue 	|
+|---	|---	|---	|---	|---	|
+| Clubs & Societies 	|  	|  	|  	|  	|
+| C1 	| Green Club 	| Tue & Fri<br>(not inclusive of time spent on project planning and execution) 	| 3.45 – 5.45pm 	| Comp Lab 1 	|
+| C2 	| Journalism & Library Club 	| Mon & Tue<br>(not inclusive of time spent on projects/publications) 	| 3.45 – 5.45pm 	| Library 	|
+| C3 	| Multimedia Club 	| Tue &<br>All School Events 	| 3.45 – 5.45pm 	| PA Room in MPH 	|
+| C4 	| Technopreneur Club 	| Tue & Thu<br>(not inclusive of time spent on project planning and execution) 	| 3.45 – 5.45pm 	| ITR1<br>  	|
