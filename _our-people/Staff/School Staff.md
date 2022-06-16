@@ -101,27 +101,27 @@ third_nav_title: Staff
 | Ms Sharizan 	| Sharizan Sanwan 	|  	|  	| [sharizan_sanwan@moe.edu.sg](mailto:sharizan_sanwan@moe.edu.sg) 	| 255 	|
 | Ms Shalynn 	| Shalynn Sasha Chua 	| 1A 	| Dance Ensemble 	| [shalynn_sasha_chua@moe.edu.sg](mailto:shalynn_sasha_chua@moe.edu.sg) 	| 313 	|
 | Mdm Sieow  	| Sieow Lee Mei  	|  2H 	| Chinese Dance  	| [sieow_lee_mei@moe.edu.sg](mailto:sieow_lee_mei@moe.edu.sg)  	| 251 	|
-| Mr Sim 	| Sim Kok Heng 	| 2F 	| Choir 	| sim_kok_heng@moe.edu.sg 	| 283 	|
-|  Ms Sim 	| Sim Feng-En Sophia  	| 1B 	| Outdoor Activities Club (ODAC)  	| sim_feng-en_sophia@moe.edu.sg  	| 280 	|
-| Mr Soo 	| Soo Jun Hao 	|  	| NCC Air (Boys) 	| soo_jun_hao@moe.edu.sg 	| 278 	|
-| Ms Song 	| Song Shihui Stephanie 	|  	|  	| song_shihui@moe.edu.sg 	| 315 	|
-|  Ms Tan 	| Tan Jie Hui Dorcas  	| 3H 	| Fencing  	| tan_jie_hui_dorcas@moe.edu.sg  	| 258 	|
-|  Ms Tan 	|  Tan Mui Mui 	|   	|   	| tan_mui_mui_b@moe.edu.sg  	| 308 	|
-|  Mdm Tan 	| Tan Puay Khim  	|   	|   	| tan_puay_khim@moe.edu.sg  	| 327 	|
-| Ms Tan 	|  Tan Si Min 	| 1E  	|   	| tan_si_min@moe.edu.sg  	| 273 	|
-| Ms Teo 	| Teo Shin Yeow 	| 4G 	| Chinese Dance 	| teo_shin_yeow@moe.edu.sg 	| 265 	|
-| Mdm Thian 	| Thian Siaw Fong 	| 2A 	| Chinese Drama 	| thian_siaw_fong@moe.edu.sg 	| 328 	|
-| Mr Thong 	| Thong Nai Kee 	|  	|  	| thong_nai_kee@moe.edu.sg 	| 271 	|
-| Mr Tok 	| Tok Wei Ee Alvin 	|  	| Basketball (Boys) 	| tok_wei_ee_alvin@moe.edu.sg 	| 280 	|
-| Mdm Tumini 	| Tumini Bte Sa'at 	|  	|  	| tumini_saat@moe.edu.sg 	| 311 	|
-|  Ms Vasanthi 	| Vasanthi Athiveera Rama Pandian 	|  1G 	| Symphonic Band  	| vasanthi_athiveera@moe.edu.sg  	| 313 	|
-| Mrs Chan 	| Wong Wei Ling 	|  	|  	| wong_wei_ling@moe.edu.sg 	| 266 	|
-| Ms Wu  	| Wu Simin  	|   	|   	| wu_simin@moe.edu.sg  	| 311 	|
-| Mr Yeo 	| Yeo See Heng Ronnie 	| 4B 	| Wushu 	| yeo_see_heng_ronnie@moe.edu.sg 	| 258 	|
-| Mdm Yeo  	| Yeo Siok Chin  	|   	|   	| yeo_siok_chin@moe.edu.sg  	| 328 	|
+| Mr Sim 	| Sim Kok Heng 	| 2F 	| Choir 	| [sim_kok_heng@moe.edu.sg](mailto:sim_kok_heng@moe.edu.sg) 	| 283 	|
+|  Ms Sim 	| Sim Feng-En Sophia  	| 1B 	| Outdoor Activities Club (ODAC)  	| [sim_feng-en_sophia@moe.edu.sg](mailto:sim_feng-en_sophia@moe.edu.sg)  	| 280 	|
+| Mr Soo 	| Soo Jun Hao 	|  	| NCC Air (Boys) 	| [soo_jun_hao@moe.edu.sg](mailto:soo_jun_hao@moe.edu.sg) 	| 278 	|
+| Ms Song 	| Song Shihui Stephanie 	|  	|  	| [song_shihui@moe.edu.s](mailto:song_shihui@moe.edu.sg) 	| 315 	|
+|  Ms Tan 	| Tan Jie Hui Dorcas  	| 3H 	| Fencing  	| [tan_jie_hui_dorcas@moe.edu.sg](mailto:tan_jie_hui_dorcas@moe.edu.sg)  	| 258 	|
+|  Ms Tan 	|  Tan Mui Mui 	|   	|   	| [tan_mui_mui_b@moe.edu.sg](mailto:tan_mui_mui_b@moe.edu.sg)  	| 308 	|
+|  Mdm Tan 	| Tan Puay Khim  	|   	|   	| [tan_puay_khim@moe.edu.sg](mailto:tan_puay_khim@moe.edu.sg)  	| 327 	|
+| Ms Tan 	|  Tan Si Min 	| 1E  	|   	| [tan_si_min@moe.edu.sg](mailto:tan_si_min@moe.edu.sg)  	| 273 	|
+| Ms Teo 	| Teo Shin Yeow 	| 4G 	| Chinese Dance 	| [teo_shin_yeow@moe.edu.sg](mailto:teo_shin_yeow@moe.edu.sg) 	| 265 	|
+| Mdm Thian 	| Thian Siaw Fong 	| 2A 	| Chinese Drama 	| [thian_siaw_fong@moe.edu.sg](mailto:thian_siaw_fong@moe.edu.sg) 	| 328 	|
+| Mr Thong 	| Thong Nai Kee 	|  	|  	| [thong_nai_kee@moe.edu.sg](mailto:thong_nai_kee@moe.edu.sg) 	| 271 	|
+| Mr Tok 	| Tok Wei Ee Alvin 	|  	| Basketball (Boys) 	| [tok_wei_ee_alvin@moe.edu.sg](mailto:tok_wei_ee_alvin@moe.edu.sg) 	| 280 	|
+| Mdm Tumini 	| Tumini Bte Sa'at 	|  	|  	| [tumini_saat@moe.edu.sg](mailto:tumini_saat@moe.edu.sg) 	| 311 	|
+|  Ms Vasanthi 	| Vasanthi Athiveera Rama Pandian 	|  1G 	| Symphonic Band  	| [vasanthi_athiveera@moe.edu.sg](mailto:vasanthi_athiveera@moe.edu.sg)  	| 313 	|
+| Mrs Chan 	| Wong Wei Ling 	|  	|  	| [wong_wei_ling@moe.edu.sg](mailto:wong_wei_ling@moe.edu.sg) 	| 266 	|
+| Ms Wu  	| Wu Simin  	|   	|   	| [wu_simin@moe.edu.sg](mailto:wu_simin@moe.edu.sg)  	| 311 	|
+| Mr Yeo 	| Yeo See Heng Ronnie 	| 4B 	| Wushu 	| [yeo_see_heng_ronnie@moe.edu.sg](mailto:yeo_see_heng_ronnie@moe.edu.sg) 	| 258 	|
+| Mdm Yeo  	| Yeo Siok Chin  	|   	|   	| [yeo_siok_chin@moe.edu.sg](mailto:yeo_siok_chin@moe.edu.sg)  	| 328 	|
 | Mdm Yeoh 	| Yeoh Ai Bee 	|  	|  	| yeoh_ai_bee@moe.edu.sg 	| 329 	|
-| Ms Yvonne 	| Yvonne Suvitha Selvadurai 	| 3F 	| Symphonic Band 	| yvonne_suvitha_selvadurai@moe.edu.sg 	| 252 	|
-| Ms Zhu 	| Zhu Peilin 	| 1H 	| Chinese Drama 	| zhu_peilin@moe.edu.sg 	| 286 	|
+| Ms Yvonne 	| Yvonne Suvitha Selvadurai 	| 3F 	| Symphonic Band 	| [yvonne_suvitha_selvadurai@moe.edu.sg](mailto:yvonne_suvitha_selvadurai@moe.edu.sg) 	| 252 	|
+| Ms Zhu 	| Zhu Peilin 	| 1H 	| Chinese Drama 	| [zhu_peilin@moe.edu.sg](mailto:zhu_peilin@moe.edu.sg) 	| 286 	|
 
 ### Ailled Educator
 
