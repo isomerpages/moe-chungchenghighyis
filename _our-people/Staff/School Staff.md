@@ -38,20 +38,20 @@ third_nav_title: Staff
 
 |  	| Name of Teaching Staff 	| Form Class 	| CCA 	| Email 	| Ext 	|
 | ---	| ---	| ---	| ---	| ---	| ---	|
-| Ms Ang 	| Ang Wee Hoon 	| 3E 	| Volleyball 	| ang_wee_hoon@moe.edu.sg 	| 275 	|
-| Mdm Priya 	| Anu Priya Nair Appukuttan 	| 4E 	|  	| anu_priya_nair_appukuttan@moe.edu.sg 	| 260 	|
-| Mr White 	| Brett Allan Whiteway 	| 4G 	| Peregine Scouts Group 	| brett_allan_whiteway@moe.edu.sg 	| 312 	|
-| Mdm Chai  	| Chai Siew Chin  	|   	|   	| chai_siew_chin@moe.edu.sg  	| 328 	|
-| Mrs Goh 	| Chan Bee Lian 	| 3G 	| Volleyball 	| chan_bee_lian@moe.edu.sg 	| 281 	|
-| Mdm Chen 	| Chen Chung Yi 	| 1E 	| Green Club 	| chen_chung_yi@moe.edu.sg 	| 282 	|
-| Dr Cheong  	| Cheong Yun Yee  	|  3E 	| Festival Drums  	| cheong_yun_yee@moe.edu.sg  	| 285 	|
-|  Mrs Ang 	| Chern Lee Boon  	|   	|   	| chern_lee_boon@moe.edu.sg  	| 312 	|
-| Mdm Chew 	| Chew Joke 	|  	|  	| chew_joke@moe.edu.sg 	| 279 	|
+| Ms Ang 	| Ang Wee Hoon 	| 3E 	| Volleyball 	| [ang_wee_hoon@moe.edu.sg](mailto:ang_wee_hoon@moe.edu.sg) 	| 275 	|
+| Mdm Priya 	| Anu Priya Nair Appukuttan 	| 4E 	|  	| [anu_priya_nair_appukuttan@moe.edu.sg](mailto:anu_priya_nair_appukuttan@moe.edu.sg) 	| 260 	|
+| Mr White 	| Brett Allan Whiteway 	| 4G 	| Peregine Scouts Group 	| [brett_allan_whiteway@moe.edu.sg](mailto:brett_allan_whiteway@moe.edu.sg) 	| 312 	|
+| Mdm Chai  	| Chai Siew Chin  	|   	|   	| [chai_siew_chin@moe.edu.sg](mailto:chai_siew_chin@moe.edu.sg)  	| 328 	|
+| Mrs Goh 	| Chan Bee Lian 	| 3G 	| Volleyball 	| [chan_bee_lian@moe.edu.sg](mailto:chan_bee_lian@moe.edu.sg) 	| 281 	|
+| Mdm Chen 	| Chen Chung Yi 	| 1E 	| Green Club 	| [chen_chung_yi@moe.edu.sg](mailto:chen_chung_yi@moe.edu.sg) 	| 282 	|
+| Dr Cheong  	| Cheong Yun Yee  	|  3E 	| Festival Drums  	| [cheong_yun_yee@moe.edu.sg](mailto:cheong_yun_yee@moe.edu.sg)  	| 285 	|
+|  Mrs Ang 	| Chern Lee Boon  	|   	|   	| [chern_lee_boon@moe.edu.sg](mailto:chern_lee_boon@moe.edu.sg)  	| 312 	|
+| Mdm Chew 	| Chew Joke 	|  	|  	| [chew_joke@moe.edu.sg](mailto:chew_joke@moe.edu.sg) 	| 279 	|
 | Mr Chia 	| Chia Poh Cheng 	| 4E 	|  	| chia_poh_cheng@moe.edu.sg 	| 271 	|
-| Ms Chong 	| Chong Lee Ching 	| 5D 	| Chinese Dance 	| chong_lee_ching_a@moe.edu.sg 	| 278 	|
-| Mr Chui 	| Chui Ming Fa Benedict 	| 4C 	| Basketball (Boys) 	| chui_ming_fa_benedict@moe.edu.sg 	| 270 	|
-| Ms Edina 	| Edina Rahman 	| 2F 	| Journalism & Library 	| edina_rahman@moe.edu.sg 	| 316 	|
-| Ms Goh 	| Goh Wen Ling Gloria 	| 1C 	| Chinese Orchestra/Guzheng Ensemble 	| goh_wen_ling_gloria@moe.edu.sg 	| 277 	|
+| Ms Chong 	| Chong Lee Ching 	| 5D 	| Chinese Dance 	| [chong_lee_ching_a@moe.edu.sg](mailto:chong_lee_ching_a@moe.edu.sg) 	| 278 	|
+| Mr Chui 	| Chui Ming Fa Benedict 	| 4C 	| Basketball (Boys) 	| [chui_ming_fa_benedict@moe.edu.sg](mailto:chui_ming_fa_benedict@moe.edu.sg) 	| 270 	|
+| Ms Edina 	| Edina Rahman 	| 2F 	| Journalism & Library 	| [edina_rahman@moe.edu.sg](mailto:edina_rahman@moe.edu.sg) 	| 316 	|
+| Ms Goh 	| Goh Wen Ling Gloria 	| 1C 	| Chinese Orchestra/Guzheng Ensemble 	| [goh_wen_ling_gloria@moe.edu.sg](mailto:goh_wen_ling_gloria@moe.edu.sg) 	| 277 	|
 |  Ms Goh 	|  Goh Xiu Qing Elizabeth 	|  1D 	| Dance Ensemble  	| goh_xiu_qing_elizabeth@moe.edu.sg  	| 267 	|
 | Mr Han 	| Han Ji 	| 3C 	| Volleyball 	| han_ji@moe.edu.sg 	| 270 	|
 | Ms Ho 	| Ho Soo Fern 	| 2H 	| Fencing 	| ho_soo_fern@moe.edu.sg 	| 277 	|
