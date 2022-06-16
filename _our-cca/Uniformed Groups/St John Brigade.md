@@ -4,100 +4,78 @@ permalink: /our-cca/uniformed-groups/st-john-brigade
 description: ""
 third_nav_title: Uniformed Groups
 ---
+# St John Brigade
+Our St John Brigade (SJB) unit aims to serve mankind by relieving pain and suffering. We strive to produce competent, compassionate and confident cadets who can give back to their families, the community and the country.
 
+### Motto
+For The Service of Mankind
 
+### Teachers-in-charge
 
+Ms Nurhayati (1st IC)   
+Ms Norsuzana Bte Siani (2nd IC)   
+Mrs Peh-Leow Li Yong, Shirley
 
-Take me to [National Cadet Corps)](#National Cadet Corps)
-Take me to 
-National Cadet Corps (Air) (Boys)
-=================================
-
-  
-
-The Singapore National Cadet Corps (NCC) aims to nurture inspiring leaders and committed citizens through fun, adventurous and military-related activities.  At NCC, we hope to inculcate leadership skills, discipline, uprightness, loyalty to Singapore, commitment, responsibility, care for fellow cadets and an adventurous spirit. We hope that these values help develop our cadets into extraordinary youth leaders.
-
-  
-
-Vision
-------
-
-Extraordinary Youth Leaders
-
-Mission
--------
-
-To nurture inspiring leaders and committed citizens through fun, adventurous and military-related activities.
-
-Teachers-in-charge
-------------------
-
-Mr Lim Chia Hwee (1st IC)  
-
-Mr Alvin Lee Kah Lin (2nd IC)
-
-Mr Soo Jun Hao  
-
-Training Schedule
------------------
-
+### Training Schedule
 Please click on the link below to view CCA venue & schedule.   
 [CCA venue & schedule](https://chungchenghighyishun-moe-edu-sg-admin.cwp.sg/useful-links/parents/cca-venue-n-schedule)
 
-Activities/Events
+Events/Activities
 -----------------
 
-School - Based Training for all levels
+Public Duty
 
-School - Based Camp for all levels during March or June
-
-Mount Ophir Adventure Training
-
-  
-
-Secondary 1
-Affirmation Ceremony
-Basic Technical Handling
-Bronze Wing Course
-Camp Forge
+School events  
+e.g. S1OC, Chung Cheng Championship  
+External events  
+e.g. Chingay Parade, Singapore Girls Netball Competition
 
   
 
-Secondary 2
-Basic Technical Handling
-Camp Steel
-Physical Training Instructor (PTI) Course
-SAR21 IMT
+Events
 
-Silver Wing Course
+St. John’s Day 
 
-  
+St. John Flag Day 
 
-Secondary 3
+St. John Walkathon 
 
-Gold Wing Course
+National First Aid Competition 
 
-SAR21 IMT
+National Day Parade
 
-SAR21 Live Firing
+Hospital Attachment Program 
 
-Specialists’ Assessment
-
-Senior Specialist Course
-
-Leaders' Camp
-
-Post-Secondary
-
-Cadet Officer Course
+World Water Day
 
   
 
-Competition
------------
+Courses and Camps
 
-*   Air Competition
-*   Freestyle Drill Competition
-*   Mini League Competition
-*   Precision Drill Squad Competition (PDS)
-*   Shooting Competition
+Annual Training Camp
+
+N.C.O Course Theory 
+
+N.C.O Course Camp
+
+Basic First Aid 
+
+Advanced First Aid
+
+Heart Saver Assessment
+
+Cardiopulmonary Resuscitation (CPR) + AED 
+
+Basic Cardiac Life Support (BCLS) + AED 
+
+Civil Defence 
+
+Total Defence
+
+Singapore Anti-Drug Ambassador (SANA) 
+
+Youth Health Ambassador
+
+Water Ambassador
+
+Knowledge of the Order of St John
