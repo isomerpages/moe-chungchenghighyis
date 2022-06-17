@@ -50,7 +50,8 @@ The team has successfully went through the Judging Round and has emerged as the 
 <img src="/images/Green%20Club%202.jpg" 
      style="width:30%">
 		 
-![](/images/Green%20Club%203.jpg)
+<img src="/images/Green%20Club%203.jpg" 
+     style="width:50%">
 
 <img src="/images/pavilion.png" 
      style="width:50%">
