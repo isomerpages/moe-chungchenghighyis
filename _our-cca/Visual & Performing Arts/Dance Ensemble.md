@@ -40,8 +40,14 @@ Please click on the link below to view CCA venue & schedule. 
 *   Cultural Dance Exchange Programme with Chinese Dance Artiste’s Association (2019)
 
 ### Photo Gallery
-
-(insert photo gallery)
+![](/images/dance%20ensemble.jpg)
+![](/images/dance%20ensemble1.jpg)
+![](/images/dance%20ensemble2.jpg)
+![](/images/dance%20ensemble3.jpg)
+![](/images/dance%20ensemble4.jpg)
+![](/images/dance%20ensemble5.jpg)
+![](/images/dance%20ensemble6.jpg)
+![](/images/dance%20ensemble7.jpg)
 
 <img src="/images/pavilion.png" 
      style="width:50%">
