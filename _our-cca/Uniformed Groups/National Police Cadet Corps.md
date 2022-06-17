@@ -4,7 +4,7 @@ permalink: /our-cca/uniformed-groups/national-police-cadet-corps
 description: ""
 third_nav_title: Uniformed Groups
 ---
-# National Police Cadet Corps
+# **National Police Cadet Corps**
 
 ![](/images/NPCC.jpg)
 NPCC is an organisation that firmly believes in development of character, leadership and resilience. Training has evolved from just drills to more structured and interesting training programmes. Through a myriad of activities, values such as discipline, loyalty, integrity, resourcefulness, tenacity and civic-consciousness are inculcated to develop members into Caring and Responsible Citizens.  
