@@ -21,6 +21,8 @@ Objectives:
 ### Cross-Cultural Learning & Cultural Immersion, Central Vietnam
 
 **Experiential learning to apply theory and content to real world experiences**
+
+
 Students will explore the theme on hybridisation and homogenization of culture as they make observations about foreign influences on the architecture of buildings and participate in traditional activities.
 
 Students will put into practice the principles of responsible tourism and reflect on their actions that contribute towards sustainability of tourism in the places they visit.
