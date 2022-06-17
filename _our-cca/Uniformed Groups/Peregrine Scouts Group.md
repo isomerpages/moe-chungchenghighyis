@@ -59,6 +59,8 @@ Please click on the link below to view CCA venue & schedule. 
 
 (insert photo gallery)
 
+More information on Scouts: [https://scout.sg/](https://scout.sg/)
+
 
 <img src="/images/pavilion.png" 
      style="width:50%">
