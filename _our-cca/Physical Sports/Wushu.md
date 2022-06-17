@@ -20,17 +20,17 @@ Mr Ronnie Yeo See Heng (2nd IC)
 Ms Norlizawati Bte Juahil (Mrs Shah)   
 Mr Terence Poh
 
-## Training Schedule
+### Training Schedule
 Please click on the link below to view CCA venue & schedule.   
 [CCA venue & schedule](https://chungchenghighyishun-moe-edu-sg-admin.cwp.sg/useful-links/parents/cca-venue-n-schedule)
 
-## Activities/Events
+### Activities/Events
 *   Annual National School Games Wushu Championships
 *   Enrichment camps and workshops
 *   Overseas camp
 *   Team bonding sessions and activities, e.g. sports and outings etc
 
-## Photo Gallery
+### Photo Gallery
 
 
 <img src="/images/pavilion.png" 
