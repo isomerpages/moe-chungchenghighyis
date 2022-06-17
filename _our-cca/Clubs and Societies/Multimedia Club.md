@@ -4,7 +4,7 @@ permalink: /our-cca/Clubs-and-Societies/multimedia-club
 description: ""
 third_nav_title: Clubs and Societies
 ---
-# Multimedia Club
+# **Multimedia Club**
 Our Multimedia CCA prides itself on providing efficient and effective audiovisual support for the school. We are incorporating photography and videography aspects into our CCA in 2020 to increase the range of students’ competencies. With sufficient training by professionals and opportunities to participate in various photography competitions, students will be able to hone both their aesthetic sense and technical skill.
 
 ### Teachers-in-charge
