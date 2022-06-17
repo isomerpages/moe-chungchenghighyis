@@ -4,7 +4,7 @@ permalink: /our-cca/uniformed-groups/st-john-brigade
 description: ""
 third_nav_title: Uniformed Groups
 ---
-# St John Brigade
+# **St John Brigade**
 Our St John Brigade (SJB) unit aims to serve mankind by relieving pain and suffering. We strive to produce competent, compassionate and confident cadets who can give back to their families, the community and the country.
 
 ### Motto
