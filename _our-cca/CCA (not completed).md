@@ -115,6 +115,21 @@ Schedule listed in the tables may be subjected to changes due to school needs.
 * [Basketball (Boys)](/our-cca/physical-sports/basketball-boys)
 * [Fencing](/our-cca/Physical-Sports/fencing)
 * [Outdoor Activities Club (ODAC)](/our-cca/Physical-Sports/outdoor-activities-club-odac)
+* [Volleyball](/our-cca/Physical-Sports/volleyball)
+* [Wushu](/our-cca/Physical-Sport/wushu)
+
+### Uniformed Groups
+
+*  [National Cadet Corps (Air)(Boys)](/our-cca/uniformed-groups/national-cadet-corps-air-boys)
+*  [National Police Cadet Corps](/our-cca/uniformed-groups/national-police-cadet-corps)
+*  [Peregrine Scouts Group](/our-cca/Uniformed-Groups/peregrine-scouts-group)
+*  [St John Brigade](/our-cca/uniformed-groups/st-john-brigade)
+
+### Performing Arts
+*  [Chinese Dance](/our-cca/Visual-and-Performing-Arts/chinese-dance)
+*  [Chinese Drama](/our-cca/Visual-and-Performing-Arts/chinese-drama)
+*  [Chinese Orchestra / Guzheng](/our-cca/Visual-and-Performing-Arts/chinese-orchestra-guzheng)
+*  [Choir](/our-cca/Visual-and-Performing-Arts/choir)
 
 
 
