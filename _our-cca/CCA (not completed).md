@@ -135,12 +135,10 @@ Schedule listed in the tables may be subjected to changes due to school needs.
 *  [Symphonic Band](/our-cca/Visual-and-Performing-Arts/symphonic-band)
 
 ### Clubs and Societies
-
-
-
-
-
-
+*  [Multimedia Club](/our-cca/Clubs-and-Societies/multimedia-club)
+*  [Technopreneur Club](/our-cca/Clubs-and-Societies/technopreneur-club)
+*  [Green Club](/our-cca/Clubs-and-Societies/green-club)
+*  [Journalism & Library](/our-cca/Clubs-and-Societies/journalism-n-library)
 
 
 
