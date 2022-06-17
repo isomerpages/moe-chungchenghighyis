@@ -45,11 +45,12 @@ The challenge aims to encourage students to care for the environment and society
 
 The team has successfully went through the Judging Round and has emerged as the top 4 positions for the North Zone out of 17 participating teams. We will be competing against many of the best teams across schools nationwide and we hope to bring forth our prototype to as many people as possible.
 
+![](/images/Green%20Club%201.jpg)
 
-
-
-
-
+<img src="/images/Green%20Club%202.jpg" 
+     style="width:30%">
+		 
+![](/images/Green%20Club%203.jpg)
 
 <img src="/images/pavilion.png" 
      style="width:50%">
