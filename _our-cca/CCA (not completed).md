@@ -3,9 +3,6 @@ title: CCA (not completed)
 permalink: /our-cca/cca
 description: ""
 ---
-
-
-
 # **CCA**
 
 怀着追求卓越、止于至善的信念，中正中学（义顺）无论在学术成绩，还是品德教育方面，都以展翅高飞之势，取得令人雀跃的发展。我们竭尽所能帮助孩子争取最高成就，并且和他们一起做好准备，面对充满挑战的未来！
@@ -16,11 +13,11 @@ CCHY has constantly been attaining laudable results for both academic and CCA do
 
   
 
-## Compulsory CCA Participation
+### Compulsory CCA Participation
 
 CCA is an integral part of the student’s holistic education in school. Hence, CCA participation is compulsory at the secondary school level, and every student is expected to participate in a CCA from one of the four CCA groups, namely, Clubs & Societies, Physical Sports, Uniformed Groups (UG) and Visual & Performing Arts (VPA). Participation in a school-based CCA allows the teachers to guide and chart the development of the student beyond the learning from the subject disciplines in the classroom, in areas such as leadership and character development, and the 21st Century Competencies (21CC).
 
-## Sec 1 CCA Experience
+### Sec 1 CCA Experience
 
 **1. Objectives**  
 a) To allow Secondary 1 students to explore their interest in Co-Curricular Activities (CCA) and make a more informed choice
@@ -112,6 +109,18 @@ Schedule listed in the tables may be subjected to changes due to school needs.
 | **V6** 	| **Dance Ensemble** 	| Tue & Thu 	| 3.45 – 6.45pm 	| AVA Room/ MPH 	|
 | **V7** 	| **Festival Drums** 	| Mon & Fri 	| 3.45 – 6.45pm 	| Multi-Purpose Room (MPR) 	|
 | **V8** 	| **Symphonic Band** 	| Mon<br> <br> <br>Thu 	| 3.45 – 6.45pm<br> <br> <br>3.45 – 6.45pm 	| MPH, Music Room &<br>Level 4 classrooms<br> <br>MPR, Music Room &<br>Level 1 classrooms 	|
+
+### Physical Sports
+
+* [Basketball (Boys)](/our-cca/physical-sports/basketball-boys)
+* [Fencing](/our-cca/Physical-Sports/fencing)
+* [Outdoor Activities Club (ODAC)](/our-cca/Physical-Sports/outdoor-activities-club-odac)
+
+
+
+
+
+
 
 <img src="/images/pavilion.png" 
      style="width:50%">
