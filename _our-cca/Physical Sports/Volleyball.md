@@ -8,13 +8,13 @@ third_nav_title: Physical Sports
 
 ![](/images/Volleyball.jpg)
 
-## Teachers-in-charge
+### Teachers-in-charge
 
 Mrs Lynn Goh (1st IC)   
 Ms Fyn Ang Wee Hoon (2nd IC)    
 Mr Han Ji
 
-## Training Schedule
+### Training Schedule
 
 Please click on the link below to view CCA venue & schedule.   
 [CCA venue & schedule](https://chungchenghighyishun-moe-edu-sg-admin.cwp.sg/useful-links/parents/cca-venue-n-schedule)
