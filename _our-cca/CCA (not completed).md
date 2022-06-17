@@ -125,11 +125,18 @@ Schedule listed in the tables may be subjected to changes due to school needs.
 *  [Peregrine Scouts Group](/our-cca/Uniformed-Groups/peregrine-scouts-group)
 *  [St John Brigade](/our-cca/uniformed-groups/st-john-brigade)
 
-### Performing Arts
+### Visual & Performing Arts
 *  [Chinese Dance](/our-cca/Visual-and-Performing-Arts/chinese-dance)
 *  [Chinese Drama](/our-cca/Visual-and-Performing-Arts/chinese-drama)
 *  [Chinese Orchestra / Guzheng](/our-cca/Visual-and-Performing-Arts/chinese-orchestra-guzheng)
 *  [Choir](/our-cca/Visual-and-Performing-Arts/choir)
+*  [Festival Drums](/our-cca/Visual-and-Performing-Arts/festival-drums)
+*  [Dance Ensemble](/our-cca/Visual-and-Performing-Arts/dance-ensemble)
+*  [Symphonic Band](/our-cca/Visual-and-Performing-Arts/symphonic-band)
+
+### Clubs and Societies
+
+
 
 
 
