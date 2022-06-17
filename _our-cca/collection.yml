@@ -2,6 +2,7 @@ collections:
   our-cca:
     output: true
     order:
+      - Clubs and Societies/.keep
       - CCA (not completed).md
       - LEAPS.md
       - 2022 Sec 1 CCA Experience (Selection Trials).md
