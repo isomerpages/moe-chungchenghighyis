@@ -2,11 +2,6 @@ collections:
   our-cca:
     output: true
     order:
-      - Clubs and Societies/.keep
-      - Clubs and Societies/Multimedia Club.md
-      - Clubs and Societies/Technopreneur Club.md
-      - Clubs and Societies/Green Club.md
-      - Clubs and Societies/Journalism & Library.md
       - CCA (not completed).md
       - LEAPS.md
       - 2022 Sec 1 CCA Experience (Selection Trials).md
@@ -29,3 +24,8 @@ collections:
       - Visual & Performing Arts/Festival Drums.md
       - Visual & Performing Arts/Dance Ensemble.md
       - Visual & Performing Arts/Symphonic Band.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Multimedia Club.md
+      - Clubs and Societies/Technopreneur Club.md
+      - Clubs and Societies/Green Club.md
+      - Clubs and Societies/Journalism & Library.md
