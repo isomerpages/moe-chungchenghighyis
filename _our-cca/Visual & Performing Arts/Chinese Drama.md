@@ -4,7 +4,7 @@ permalink: /our-cca/Visual-and-Performing-Arts/chinese-drama
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-# Chinese Drama
+# **Chinese Drama**
 
 Our training sessions are conducted by local professional instructor. Our training covers a repertoire of skills including acting skills, voice technique, script writing, technical theatre, props making and film work. 
 
