@@ -17,6 +17,12 @@ Ms Junainah Bte Amran
 Please click on the link below to view CCA venue & schedule.   
 [CCA venue & schedule](https://chungchenghighyishun-moe-edu-sg-admin.cwp.sg/useful-links/parents/cca-venue-n-schedule)
 
+### School Events
+
+| Audio-visual  	| Photography 	|
+|---	|---	|
+| Chinese New Year Concert<br>Artstavaganza<br>Alumni Homecoming<br>CCHY Marina Bay Run<br>School’s Anniversary<br>Total Defence Day<br>International Friendship Day<br>Racial Harmony Day<br>National Day Parade and Concert<br>Teacher’s Day<br>Youth Day<br>Mid-Autumn Festival Concert<br>Open House 	| **TBC** 	|
+
 
 <img src="/images/pavilion.png" 
      style="width:50%">
