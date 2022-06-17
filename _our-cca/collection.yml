@@ -2,7 +2,6 @@ collections:
   our-cca:
     output: true
     order:
-      - 2022 June Holiday CCA Programme.md
       - CCA (not completed).md
       - LEAPS.md
       - 2022 Sec 1 CCA Experience (Selection Trials).md
@@ -30,3 +29,4 @@ collections:
       - Clubs and Societies/Technopreneur Club.md
       - Clubs and Societies/Green Club.md
       - Clubs and Societies/Journalism & Library.md
+      - 2022 June Holiday CCA Programme.md
