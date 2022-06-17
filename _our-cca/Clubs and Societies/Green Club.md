@@ -32,7 +32,18 @@ One may assume that a group of teenagers would not have much to contribute to th
 
 ![](/images/Green%20Club.jpg)
 
+STEM Shell Challenge 2015
+-------------------------
 
+The 2015 challenge is organised by STEM Inc, Science Centre Singapore and sponsored by Shell Singapore. The challenge was first introduced in 2013 and it has been upscaled since to include students from different streams to participate in a longer time period.  
+
+  
+
+The challenge aims to encourage students to care for the environment and society. It also provides a platform for students to display critical thinking and to hone interpersonal skills through hands-on experiment in teams. Students work on creating practical solutions for the sustainability of food, water, energy and eco-friendly materials.
+
+ Having been assigned the theme 'eco-friendly', the team brainstormed and conceptualised our ideas into a prototype that involves the fusion of different types of plastics to make bag packs, wallets and purses. These end products may eventually be commercialised to support reduction in plastic waste.
+
+The team has successfully went through the Judging Round and has emerged as the top 4 positions for the North Zone out of 17 participating teams. We will be competing against many of the best teams across schools nationwide and we hope to bring forth our prototype to as many people as possible.
 
 
 
