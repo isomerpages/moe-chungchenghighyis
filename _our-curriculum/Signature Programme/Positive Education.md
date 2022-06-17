@@ -30,3 +30,32 @@ Our model focuses on 3 of Seligman’s 5 elements of optimal wellbeing – PERMA
 The taskforce started with an audit on existing wellbeing structures and practices using Appreciative Inquiry principles of what is working well, what is right and what is possible. With the help of consultants, the members identified key wellbeing concepts to be practiced by staff and students. Time and opportunity are dedicated to explicitly teach and incorporate PosEd concepts into the pre- existing curriculum and existing frameworks.
 
 ![](/images/Positive%20Education%203.jpg)
+
+While some practices of PosEd are not entirely new as we already do some elements of it during Values-In-Action projects, lessons on values of grit and resilience or acts of showing gratitude and kindness, what’s new are the frameworks, research and language surrounding PosEd.
+
+Embarking on this journey provides staff and students with an evidence-based research to support the strategies for enhancing wellbeing and the common language to build the culture of wellbeing. PosEd concepts and language are used in school activities and pastoral care to ensure consistency of message and not viewed as another ‘new flavor of the month’.
+
+With the re-envisioning of the school’s vision and values in end 2019, the new narrative incorporates PosEd language to signify the commitment of the whole school community i.e.
+
+**Vision:**     
+A community of positive and future-ready leaders with a mindset for excellence._
+
+**School Values:**
+With Grit We Persevere; With Gratitude We Serve_
+
+**ST1:**    
+Future-ready leaders with a positive mind-set anchored on school values_
+
+**ST3:**    
+Competent and committed staff with a positive mindset who learn, live, teach and embed PosEd to create_ _a_ _positive learning environment._
+
+**Some PosEd Practices in school (2019 – 2021)**
+
+![](/images/Positive%20Education%20pic1.jpg)
+![](/images/Positive%20Education%20pic2.jpg)
+![](/images/Positive%20Education%20pic3.jpg)
+![](/images/Positive%20Education%20pic4.jpg)
+![](/images/Positive%20Education%20pic5.jpg)
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
