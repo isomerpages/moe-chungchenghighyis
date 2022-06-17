@@ -2,5 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Student Development.md
       - Student Leadership.md
       - Wellbeing 365.md
