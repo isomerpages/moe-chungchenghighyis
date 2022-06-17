@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Signature Programme/Positive Education.md
       - Signature Programme/LLP.md
       - Signature Programme/.keep
       - Signature Programme/Global Classroom.md
