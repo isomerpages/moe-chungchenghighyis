@@ -4,7 +4,7 @@ permalink: /our-cca/Visual-and-Performing-Arts/chinese-orchestra-guzheng
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-# Chinese Orchestra / Guzheng
+# **Chinese Orchestra / Guzheng**
 
 Our Chinese Orchestra and Guzheng Ensemble carries the mission of promoting Chinese classical music as well as cultivate an appreciation of Chinese music and heritage through various performances and music exchange.
 
