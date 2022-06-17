@@ -4,7 +4,7 @@ permalink: /our-cca/Uniformed-Groups/peregrine-scouts-group
 description: ""
 third_nav_title: Uniformed Groups
 ---
-# Peregrine Scouts Group
+# **Peregrine Scouts Group**
 
 Scouts helps young people to develop their full physical, intellectual, emotional, and social capacities as individuals and as members of society. This is achieved through a wide variety of thrilling team-based Scouting activities such as camps, pioneering (building structures), orienteering, outdoor cooking and many more.
 
