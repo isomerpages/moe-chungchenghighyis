@@ -4,7 +4,7 @@ permalink: /our-cca/Visual-and-Performing-Arts/festival-drums
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-# Festival Drums
+# **Festival Drums**
 
 ![](/images/Festival%20Drums.jpg)
 
@@ -24,7 +24,7 @@ Festival Drums group is special as it represents the 24 "Jieling (Sub-sessions)"
 
 Our Group is unique in that our performing style is based on the combination of the Wushu (Chinese Martial Arts), calligraphy and dance. The Festival Drum Group is not only a performing group but a CCA group that emphasizes a lot on discipline, character building and teamwork as well as a well-balanced and happy life. A positive attitude on the part of the members is essential for learning and character building.
 
-## Teachers-in-charge
+### Teachers-in-charge
 
 Ms Mellissa Chia (1st IC)   
 Dr Cheong Yun Yee (2nd IC)
