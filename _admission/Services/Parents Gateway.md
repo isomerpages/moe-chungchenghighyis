@@ -36,3 +36,23 @@ SingPass 2-Step Verification (2FA) is required for on-boarding. If you have not 
 3.  Download and install the app onto your phone.
 4.  Enable ‘**Allow Notifications**’ to receive push notifications.
 
+<img src="/images/Download%20Parents%20Gateway%20Mobile%20App.png" 
+     style="width:50%">
+
+**Note:** Supported OS Versions - **Android 6.0 or later & iOS 9.1 or later**
+
+
+**Step 3 – One-Time On-boarding** 
+
+1. Tap on “Log in with SingPass”
+
+![](/images/One-Time%20On-boarding.png)
+
+2. Log in with your SingPass (2FA)
+
+![](/images/Login%20with%20SingPass%20(2FA).png)
+
+3. Tap on “Retrieve” to retrieve your child(ren)’s information
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
