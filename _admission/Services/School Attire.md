@@ -8,7 +8,8 @@ third_nav_title: Services
 
 ### Chinese New Year 2022 Closure Notice
 
-![](/images/Jeep%20Sing%20Fashion%20CNY%202022%20Closure%20Notice.jpg)
+<img src="/images/Jeep%20Sing%20Fashion%20CNY%202022%20Closure%20Notice.jpg" 
+     style="width:70%">
 
 ### School Uniform Vendor
 
@@ -57,3 +58,6 @@ The pants should be worn at waist level and the shirts should not be tucked out 
 
 * Polo T-shirt
 * PE Shorts
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
