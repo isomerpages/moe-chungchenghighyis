@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Affiliated JC/Nanyang Junior College.md
       - Affiliated JC/.keep
       - Twinning Schools.md
       - CCHY RCYPS Satellite Partnership.md
