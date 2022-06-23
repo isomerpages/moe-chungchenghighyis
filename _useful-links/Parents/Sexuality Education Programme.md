@@ -4,8 +4,6 @@ permalink: /useful-links/parents/sexuality-education-programme
 description: ""
 third_nav_title: Parents
 ---
-
-
 # **Sexuality Education Programme**
 
 ### MOE SEXUALITY EDUCATION IN SCHOOLS
@@ -51,7 +49,7 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 **At Chung Cheng High School (Yishun), the following Sexuality Education lessons will be taught in 2022:**
 
-<center><b> SECONDARY 1 </b><center>
+**SECONDARY 1**
 
 | UNIT 	| LESSONS/<br>DURATION 	| LESSON OBJECTIVES<br>At the end of the lesson, students will be able to: 	| TIME PERIOD<br>(e.g. Term 1 Week 2)  	|
 |---	|---	|---	|---	|
