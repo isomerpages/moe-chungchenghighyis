@@ -24,7 +24,30 @@ Secondary 1:
 [1NA.pdf](/files/1NA.pdf)    
 [1EXPRESS.pdf](/files/1EXPRESS.pdf)
 
+### Sec 2 to 5
 
+Please click on the links below to download the instruction sheet and booklist:  
+  
+Instructions Sheet for Purchase of Books & Stationary:   
+[Instructions Sheet for Purchase of Books  Stationery_Popular.pdf](/files/Instructions%20Sheet%20for%20Purchase%20of%20Books%20%20Stationery_Popular.pdf)
+
+Secondary 2:   
+[2NT.pdf](/files/2NT.pdf)   
+[2NA.pdf](/files/2NA.pdf)   
+[2EXPRESS.pdf](/files/2EXPRESS.pdf)
+
+Secondary 3:   
+[3NT.pdf](/files/3NT.pdf)    
+[3NA.pdf](/files/3NA.pdf)   
+[3EXPRESS.pdf](/files/3EXPRESS.pdf)   
+
+Secondary 4:    
+[4NT.pdf](/files/4NT.pdf)    
+[4NA.pdf](/files/4NA.pdf)   
+[4EXPRESS.pdf](/files/4EXPRESS.pdf)
+
+Secondary 5:   
+[5NA.pdf](/files/5NA.pdf)
 
 <img src="/images/pavilion.png" 
      style="width:50%">
