@@ -18,14 +18,8 @@ third_nav_title: Chung Cheng Family
 
 **Email:** [cchms@moe.edu.sg](mailto:cchms@moe.edu.sg)
 
-  
-
 **Website:** [http://www.chungchenghighmain.moe.edu.sg](http://www.chungchenghighmain.moe.edu.sg/)
 
-  
-
 **Bus Services:** 10, 12, 14, 16, 30, 31, 32, 33, 40, 76
-
-  
 
 **Nearest MRT Station:** Paya Lebar
