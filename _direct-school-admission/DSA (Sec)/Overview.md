@@ -19,3 +19,6 @@ third_nav_title: DSA (Sec)
 5.    Full Subject-Based Banding (Full SBB) is part of MOE's ongoing efforts to nurture students' joy of learning.  Full SBB caters to the different strengths and interests of our students, and allow them to develop multiple pathways in education.  
 
 6.    Chung Cheng High School (Yishun) will implement Full SBB from 2023.  Do visit our school's website from end August 2022 for more details.
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
