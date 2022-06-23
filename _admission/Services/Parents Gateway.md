@@ -54,5 +54,13 @@ SingPass 2-Step Verification (2FA) is required for on-boarding. If you have not 
 
 3. Tap on “Retrieve” to retrieve your child(ren)’s information
 
+![](/images/Retrieve%20child%20information.png)
+
+4. Tap on “Done” to complete on-boarding
+
+![](/images/Done%20to%20complete%20on-boarding.png)
+
+5. You should see your child(ren)’s school announcements and activities (if any)
+
 <img src="/images/pavilion.png" 
      style="width:50%">
