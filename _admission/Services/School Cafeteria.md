@@ -16,3 +16,6 @@ third_nav_title: Services
 | 6 	| Suryani Binte Mohamed Shariff 	| Muslim Cooked Food 	|
 | 7 	| Woo Kum Wah 	| Japanese Food 	|
 | 8 	| Fong Yew Lin 	| Vegetarian Food 	|
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
