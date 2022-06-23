@@ -10,4 +10,4 @@ Other useful links:
 
 [EAE](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)
 
-DSA (
+[DSA](/admission/Direct-School-Admission/direct-school-admission-dsa)
