@@ -17,7 +17,6 @@ The annually elected Executive Committee pool all alumnus together to support sc
 Please connect with us through our social media platforms!  
 **Email: <a href="mailto: cchy.ayw@gmail.com"> cchy.ayw@gmail.com</a>**
   
-
 **Instagram: @cchyayw**
 
 **Facebook page: [CCHY Alumni Youth Wing](https://www.facebook.com/aywcchy/)**
