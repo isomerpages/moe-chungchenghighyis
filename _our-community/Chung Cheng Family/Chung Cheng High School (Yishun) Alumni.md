@@ -28,3 +28,6 @@ We welcome all graduates to attend school celebrations or visit their teachers. 
 *   No tattoos or any form of body art (such as body piercing or implants) are allowed.
 
 Please note that the above list is not exhaustive. In the event of non-compliance or any other valid reason, the school reserves the right to refuse your entry into the school compound.
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
