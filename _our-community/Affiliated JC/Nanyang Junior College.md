@@ -16,7 +16,7 @@ third_nav_title: Affiliated JC
 
 **Fax:** 6285 5147
 
-**Email:** nyjc@moe.edu.sg
+**Email:** <a href="mailto: nyjc@moe.edu.sg"> nyjc@moe.edu.sg</a>
 
 **Website:** [http://www.nanyangjc.moe.edu.sg/](http://www.nanyangjc.moe.edu.sg/)
 
