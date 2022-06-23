@@ -17,10 +17,6 @@ links:
     collection: our-cca
   - title: Our Community
     collection: our-community
-  - title: Contact Us
-    url: /contact-us/
-  - title: Resources
-    resource_room: true
   - title: Admission
     url: /admission/direct-school-admission
     sublinks:
@@ -36,3 +32,7 @@ links:
         url: /admission/services/parents-gateway
       - title: Submenu Title
         url: /permalink
+  - title: Contact Us
+    url: /contact-us/
+  - title: Resources
+    resource_room: true
