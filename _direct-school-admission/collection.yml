@@ -2,6 +2,7 @@ collections:
   direct-school-admission:
     output: true
     order:
+      - DSA (Sec)/Selection Outcome.md
       - DSA (Sec)/Exercise School Preference Stage.md
       - DSA (Sec)/School Allocation Results.md
       - DSA (Sec)/Frequently Asked Questions.md
