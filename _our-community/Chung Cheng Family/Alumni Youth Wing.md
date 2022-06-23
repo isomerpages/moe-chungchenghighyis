@@ -20,3 +20,6 @@ Please connect with us through our social media platforms!
 **Instagram: @cchyayw**
 
 **Facebook page: [CCHY Alumni Youth Wing](https://www.facebook.com/aywcchy/)**
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
