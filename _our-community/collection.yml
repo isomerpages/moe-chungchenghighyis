@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Chung Cheng Family/The Alumni of Chung Cheng High School.md
       - Chung Cheng Family/Chung Cheng High School (Main).md
       - Chung Cheng Family/Parent Support Group (PSG).md
       - Chung Cheng Family/Chung Cheng High School (Yishun) Alumni.md
