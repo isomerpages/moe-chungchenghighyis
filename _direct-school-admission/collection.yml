@@ -2,6 +2,7 @@ collections:
   direct-school-admission:
     output: true
     order:
+      - DSA (Sec)/Frequently Asked Questions.md
       - DSA (Sec)/Contact Us.md
       - DSA (Sec)/.keep
       - Direct School Admission (DSA).md
