@@ -19,4 +19,20 @@ From May 2019, parents who are onboard Parents Gateway will receive announcement
 We look forward to your support. Thank you.
 
 **Updated User Guide for parents**    
-[PG User Guide for Parents - Aug 2020.pdf](/files/PG%20User%20Guide%20for%20Parents%20-%20Aug%202020.pdf) - Contains instruction on Travel Declaration & information on Push Notification
+[PG User Guide for Parents - Aug 2020.pdf](/files/PG%20User%20Guide%20for%20Parents%20-%20Aug%202020.pdf) - Contains instruction on Travel Declaration & information on Push Notification    
+[Frequently Asked Questions (For Parents).pdf](/files/Frequently%20Asked%20Questions%20(For%20Parents).pdf)   
+[Read PDFs easily on mobile.pdf](/files/Read%20PDFs%20easily%20on%20mobile.pdf)    
+
+**Annex A - Instructional Guide**
+
+**Step 1 – SingPass Registration and 2FA Setup**
+
+SingPass 2-Step Verification (2FA) is required for on-boarding. If you have not registered for a SingPass or have not set up the 2FA, please visit the SingPass website ([https://www.singpass.gov.sg](https://www.singpass.gov.sg/)). Should you require further assistance, please contact SingPass Helpdesk at 6643-0555.
+
+**Step 2 – Download Parents Gateway Mobile App**
+
+1.  Open the Apple App Store or Google Play Store app on your mobile phone.
+2.  Search for the ‘Parents Gateway’ mobile app.
+3.  Download and install the app onto your phone.
+4.  Enable ‘**Allow Notifications**’ to receive push notifications.
+
