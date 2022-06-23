@@ -18,7 +18,7 @@ third_nav_title: Affiliated JC
 
 **Email:** nyjc@moe.edu.sg
 
-**Website:** http://www.nanyangjc.moe.edu.sg/
+**Website:** [http://www.nanyangjc.moe.edu.sg/](http://www.nanyangjc.moe.edu.sg/)
 
 <img src="/images/pavilion.png" 
      style="width:50%">
