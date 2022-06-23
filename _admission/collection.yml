@@ -2,6 +2,7 @@ collections:
   admission:
     output: true
     order:
+      - New PSLE Scoring and S1 Posting Systems.md
       - Services/Parents Gateway.md
       - Services/Library.md
       - Services/School Attire.md
