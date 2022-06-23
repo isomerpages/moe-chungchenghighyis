@@ -2,6 +2,6 @@ collections:
   direct-school-admission:
     output: true
     order:
-      - DSA (Sec)/DSA (Sec).md
+      - DSA (Sec)/Overview.md
       - DSA (Sec)/.keep
       - Direct School Admission (DSA).md
