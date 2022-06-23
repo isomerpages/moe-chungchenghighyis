@@ -4,7 +4,6 @@ permalink: /useful-links/Parents/other-useful-links
 description: ""
 third_nav_title: Parents
 ---
-
 Other useful links:
 
 [Schoolbag](https://www.schoolbag.edu.sg/)
@@ -14,3 +13,5 @@ Other useful links:
 [DSA](/admission/Direct-School-Admission/direct-school-admission-dsa)
 
 [Cyber-wellness](/our-curriculum/academic-development/department/information-communication-technlogy/cyber-wellness)
+
+[AEP/MEP](/our-curriculum/academic-development/department/aesthetic)
