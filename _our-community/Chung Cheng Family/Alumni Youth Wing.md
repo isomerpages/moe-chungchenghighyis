@@ -12,6 +12,9 @@ CCHY Alumni Youth Wing (中正义顺咏青团) is an extended wing of the Alumni
 
 The annually elected Executive Committee pool all alumnus together to support school events. Events such as Camp Exhibeo and Homecoming allowed graduates to stay connected to their alma mater and mentor their juniors.
 
+**View the newsletter:**   
+[Newslink from The Alumni](http://www.chungchengalumni.com/%E4%B8%AD%E6%AD%A3%E4%B9%89%E9%A1%BA%E5%92%8F%E9%9D%92%E5%9B%A2AYW.php)
+
 ### Connect with Us
 
 Please connect with us through our social media platforms!  
