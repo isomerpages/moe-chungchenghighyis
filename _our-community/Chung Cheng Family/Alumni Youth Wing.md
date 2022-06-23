@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Chung Cheng Family
 ---
 # **About the CCHY Alumni Youth Wing**
-
-![](/images/CCHY%20Alumni%20Youth%20Wing_Homecoming.jpg)
+<img src="/images/CCHY%20Alumni%20Youth%20Wing_Homecoming.jpg" 
+     style="width:70%">
 
 CCHY Alumni Youth Wing (中正义顺咏青团) is an extended wing of the Alumni Group that was set up in Feb 2010 to promote the Chung Cheng Spirit. It is a voluntary group that consists of graduates under the age of 21 with the objective of providing a platform for graduates to show gratitude and contribute back to their alma mater school.
 
