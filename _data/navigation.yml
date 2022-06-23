@@ -17,9 +17,22 @@ links:
     collection: our-cca
   - title: Our Community
     collection: our-community
-  - title: Admission
-    collection: admission
   - title: Contact Us
     url: /contact-us/
   - title: Resources
     resource_room: true
+  - title: Admission
+    url: /admission/direct-school-admission
+    sublinks:
+      - title: Direct School Admissions (DSA)
+        url: /admission/direct-school-admission
+      - title: Returning and International
+        url: /admission/returning-singapore-and-international-students
+      - title: School Transfer
+        url: /admission/school-transfer
+      - title: PSLE scoring/S1 posting system
+        url: /admission/new-psle-scoring-and-s1-posting-systems
+      - title: Services
+        url: /admission/services/parents-gateway
+      - title: Submenu Title
+        url: /permalink
