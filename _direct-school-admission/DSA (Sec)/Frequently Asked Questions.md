@@ -23,3 +23,6 @@ Yes. Relevant qualification and proof of achievements will be required in o
   
 
 Useful MOE weblink: DSA-Sec iFAQs ([https://go.gov.sg/dsa-secfaqs](https://go.gov.sg/dsa-secfaqs)).
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
