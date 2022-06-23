@@ -28,6 +28,21 @@ Walk-in purchase at retail outlet is strictly by Appointment only, please be rem
 
 Due to Covid-19, booking of appointments shall be necessary for walk-in purchase of books and uniforms, and also for the collection of online orders. For the convenience of our students/ parents, our school uniform and bookshop vendors are using one appointment booking system. Please see the attached document for instructions.  
   
-[CCHY S1 2022 sale schedule\_.pdf](https://chungchenghighyishun.moe.edu.sg/qql/slot/u496/CCHY%20S1%202022%20sale%20schedule_.pdf)  
+[CCHY S1 2022 sale schedule_.pdf](/files/CCHY%20S1%202022%20sale%20schedule_.pdf)
 
-  
+School Uniform
+--------------
+
+**Boys' / Girls' Shirt**    
+Short sleeved plain white shirt with seven metallic buttons; one on each side of the shoulder; one on each pocket and three down the front of the shirt.
+
+Students must tuck in and button up their shirts at all times while in their uniforms.
+
+**Girls' Skirt**   
+The skirts should be worn at waist level and the shirts should not be tucked out with more than 2cm from the waist level.
+
+**Boys' Shorts (Sec 1 & 2)**    
+The shorts should be worn at waist level and the shirts should not be tucked out with more than 2cm from the waist level. 
+
+**Boys' Long Pants (Sec 3 to 5)**   
+The pants should be worn at waist level and the shirts should not be tucked out with more than 2cm from the waist level.
