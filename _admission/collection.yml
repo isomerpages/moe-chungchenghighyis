@@ -2,6 +2,7 @@ collections:
   admission:
     output: true
     order:
+      - Services/Parents Gateway.md
       - Services/Library.md
       - Services/School Attire.md
       - Services/School Bookstore.md
