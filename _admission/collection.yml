@@ -2,4 +2,5 @@ collections:
   admission:
     output: true
     order:
+      - Services/2022 Booklist.md
       - Services/.keep
