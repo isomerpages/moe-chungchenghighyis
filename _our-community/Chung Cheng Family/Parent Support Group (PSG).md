@@ -11,13 +11,11 @@ third_nav_title: Chung Cheng Family
 
 Chung Cheng High School (Yishun) has a strong and dedicated Parent Support Group (PSG) that is involved in school programmes and organise parent-child activities to deepen family bonds to support students' socio-emotional development.
 
-PSG Vision
-----------
+### PSG Vision
 
 Through positive partnership between the school and parents, we aim to be part of the community in nurturing our youths to strive towards their interests and aspirations.
 
-PSG Mission
------------
+### PSG Mission
 
 1.    Promote a positive partnership between the school and parents through regular dialogue with school leaders and supporting school activities in achieving school goals.
 
@@ -25,6 +23,7 @@ PSG Mission
 
 3.    Provide opportunities for parents to network and support each other in understanding the youths in our parenting journey.
 
+![](/images/CCHY%20PSG%20EXCO%202022.jpg)
 
 <img src="/images/pavilion.png" 
      style="width:50%">
