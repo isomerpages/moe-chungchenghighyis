@@ -4,4 +4,10 @@ permalink: /useful-links/Parents/schoolbag
 description: ""
 third_nav_title: Parents
 ---
-[Link](https://www.schoolbag.edu.sg/)
+Other useful links:
+
+[Schoolbag](https://www.schoolbag.edu.sg/)
+
+[EAE](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)
+
+DSA (
