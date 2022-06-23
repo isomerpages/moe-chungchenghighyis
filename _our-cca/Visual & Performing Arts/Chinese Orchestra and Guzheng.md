@@ -47,7 +47,9 @@ Nov - CCHY Open House Concert
 ### Photo Gallery
 
 ![](/images/AASB2873.jpg)
+
 ![](/images/IMG_0816.jpg)
+
 ![](/images/IMG_1287.jpg)
 
 <img src="/images/pavilion.png" 
