@@ -115,30 +115,10 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 10.    Parents may opt their children out of Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.  
 
-  
-
 11.    Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form.  This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20A.pdf).  The completed form is to be submitted by 25/02/2022.
-
-  
 
 12.    Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form.  This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20B.pdf).  The completed form is to be submitted by 25/02/2022.
 
-  
-
 13.    Parents can contact the school at [cchys@moe.edu.sg](mailto:cchys@moe.edu.sg) or 6758 3912 for discussion or to seek clarification about the school’s sexuality education programme.
 
-  
-
 14.    Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
-
-Useful Links
-
-*   [2021 e-Open House](https://chungchenghighyishun.moe.edu.sg/useful-links/parents/2021-e-open-house)
-*   [AEP/MEP](https://chungchenghighyishun.moe.edu.sg/our-curriculum/academic-development/department/aesthetic)
-*   [CCA Venue & Schedule](https://chungchenghighyishun.moe.edu.sg/useful-links/parents/cca-venue-n-schedule)
-*   [Cyber-wellness](https://chungchenghighyishun-moe-edu-sg-admin.cwp.sg/our-curriculum/academic-development/department/information-communication-technlogy/cyber-wellness)
-*   [DSA](https://chungchenghighyishun.moe.edu.sg/admission/direct-school-admission-dsa)
-*   [EAE](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)
-*   [PG](https://chungchenghighyishun.moe.edu.sg/useful-links/parents/pg)
-*   [Schoolbag](https://www.schoolbag.sg/)
-*   **Sexuality Education Programme**
