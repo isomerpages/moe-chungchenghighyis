@@ -16,25 +16,17 @@ third_nav_title: Chung Cheng Family
 The Alumni of Chung Cheng High School – Management Council
 For more information, please click [here](http://www.chungchengalumni.com/%E7%AC%AC%E5%8D%81%E5%85%AB%E5%B1%8A%E7%90%86%E4%BA%8B%E4%BC%9A.php).
 
-校友联络 Alumni Contact
--------------------
+### 校友联络 Alumni Contact
 
 Registration Address: 40-56 Goodman Road, Singapore 439012
 
-  
-
 邮寄 Postal Address: Tampines Central Post Office, P.O. Box 74. Singapore 915203
-
-  
 
 电邮 Email: [admin@chungchengalumni.com](mailto:admin@chungchengalumni.com)
 
-  
-
 网页 Website : [http://www.chungchengalumni.com](http://www.chungchengalumni.com/)
 
-入会 Application for Membership
------------------------------
+### 入会 Application for Membership
 
 [Click here](http://www.chungchengalumni.com/%E5%85%A5%E4%BC%9A%E7%94%B3%E8%AF%B7%E8%A1%A8%E6%A0%BC.php) to submit your membership application
 
