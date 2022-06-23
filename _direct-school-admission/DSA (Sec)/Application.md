@@ -23,3 +23,7 @@ Follow these steps to apply:
 6.     Enter your contact details correctly. This allows the schools to contact you if your child is shortlisted for the selection process.
 
 7.     If you are unable to apply online, approach your child's primary school for assistance.
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
+		 
