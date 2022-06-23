@@ -2,5 +2,6 @@ collections:
   admission:
     output: true
     order:
+      - Services/Group Personal Accident Plan for students.md
       - Services/2022 Booklist.md
       - Services/.keep
