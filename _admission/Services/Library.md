@@ -4,8 +4,7 @@ permalink: /admission/Services/library
 description: ""
 third_nav_title: Services
 ---
-Library
-=======
+# **Library**
 
 **Open to all students and staff of Chung Cheng High School (Yishun)**
 
