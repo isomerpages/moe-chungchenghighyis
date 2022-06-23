@@ -122,3 +122,7 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 13.    Parents can contact the school at [cchys@moe.edu.sg](mailto:cchys@moe.edu.sg) or 6758 3912 for discussion or to seek clarification about the school’s sexuality education programme.
 
 14.    Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
