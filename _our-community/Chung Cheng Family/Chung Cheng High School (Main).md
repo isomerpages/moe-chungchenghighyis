@@ -23,3 +23,6 @@ third_nav_title: Chung Cheng Family
 **Bus Services:** 10, 12, 14, 16, 30, 31, 32, 33, 40, 76
 
 **Nearest MRT Station:** Paya Lebar
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
