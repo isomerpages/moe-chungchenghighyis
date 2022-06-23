@@ -5,7 +5,7 @@ links:
   - title: Our People
     collection: our-people
   - title: Our Curriculum
-    url: /our-curriculum
+    url: /our-curriculum/academic-development/
     sublinks:
       - title: Academic Development
         url: /our-curriculum/academic-development
