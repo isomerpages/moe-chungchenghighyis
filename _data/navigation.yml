@@ -18,10 +18,10 @@ links:
   - title: Our Community
     collection: our-community
   - title: Admission
-    url: /admission/direct-school-admission
+    url: /admission/Direct-School-Admission/direct-school-admission-dsa
     sublinks:
       - title: Direct School Admissions (DSA)
-        url: /admission/direct-school-admission
+        url: /admission/Direct-School-Admission/direct-school-admission-dsa
       - title: Returning and International
         url: /admission/returning-singapore-and-international-students
       - title: School Transfer
