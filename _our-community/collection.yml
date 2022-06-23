@@ -2,4 +2,5 @@ collections:
   our-community:
     output: true
     order:
+      - Twinning Schools.md
       - CCHY RCYPS Satellite Partnership.md
