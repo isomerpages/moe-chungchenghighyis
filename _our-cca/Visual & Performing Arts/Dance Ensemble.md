@@ -41,12 +41,19 @@ Please click on the link below to view CCA venue & schedule. 
 
 ### Photo Gallery
 ![](/images/dance%20ensemble.jpg)
+
 ![](/images/dance%20ensemble1.jpg)
+
 ![](/images/dance%20ensemble2.jpg)
+
 ![](/images/dance%20ensemble3.jpg)
+
 ![](/images/dance%20ensemble4.jpg)
+
 ![](/images/dance%20ensemble5.jpg)
+
 ![](/images/dance%20ensemble6.jpg)
+
 ![](/images/dance%20ensemble7.jpg)
 
 <img src="/images/pavilion.png" 
