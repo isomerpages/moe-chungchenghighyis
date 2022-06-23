@@ -28,13 +28,15 @@ Please click on the link below to view CCA venue & schedule. 
 
 ### Photo Gallery
 
-![](/images/15df46238_62587.jpg)
+<img src="/images/15df46238_62587.jpg" 
+     style="width:50%">
 
 ![](/images/cfc90c57d_62588.jpg)
 
 ![](/images/4379a60b8_62589.jpg)
 
-![](/images/06f5b1b2d_62590.jpg)
+<img src="/images/06f5b1b2d_62590.jpg" 
+     style="width:50%">
 
 ![](/images/62f06223c_62591.jpg)
 
