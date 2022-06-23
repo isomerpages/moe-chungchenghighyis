@@ -11,3 +11,5 @@ Other useful links:
 [EAE](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)
 
 [DSA](/admission/Direct-School-Admission/direct-school-admission-dsa)
+
+[Cyber-wellness](/our-curriculum/academic-development/department/information-communication-technlogy/cyber-wellness)
