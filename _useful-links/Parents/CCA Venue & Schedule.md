@@ -36,7 +36,7 @@ third_nav_title: Parents
 |---	|---	|---	|---	|---	|
 | **V1** 	| **Chinese Dance** 	| Mon & Thu 	| 3.45 – 6.45pm 	| AVA Room/ MPH<br>  	|
 | **V2** 	| **Chinese Drama** 	| Tue & Thu 	| 3.45 – 6.45pm 	| SBC/ Centre of Excellence (COE) Room 	|
-| **V3<br>V4** 	| **Chinese Orchestra<br>Guzheng Ensemble** 	| Tue – All<br># 	| 3.45 – 6.45pm 	| Orchestra Room &<br>Level 3 Classrooms 	|
+| **V3<br><br><br>V4** 	| **Chinese Orchestra<br><br>Guzheng Ensemble** 	| Tue – All<br> <br> ![](/images/download.png) 	| 3.45 – 6.45pm 	| Orchestra Room &<br>Level 3 Classrooms 	|
 | **V5** 	| **Choir** 	| Tue & Fri 	| 3.45 – 6.45pm 	| Music Room & 2A/2B/2C classrooms 	|
 | **V6** 	| **Dance Ensemble** 	| Tue & Thu 	| 3.45 – 6.45pm 	| AVA Room/ MPH 	|
 | **V7** 	| **Festival Drums** 	| Mon & Fri 	| 3.45 – 6.45pm 	| Multi-Purpose Room (MPR) 	|
