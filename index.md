@@ -19,20 +19,16 @@ sections:
         - title: 2022 Home-based learning
           description: ""
           url: /our-curriculum/academic-development/curriculum/2022-home-based-learning
-  - infopic:
+  - infobar:
       title: Direct School Admission Exercise
       description: Please click on read more for more information
       button: Read More
       url: /admission/Direct-School-Admission/direct-school-admission-dsa
-      image: /images/DSA.jpg
-      alt: Image alt text
-  - infopic:
+  - infobar:
       title: Personal Learning Device & Password Reset
       description: Please click on read more for more information
       button: Read more
-      url: /permalink
-      image: /images/Picture2.gif
-      alt: Image alt text
+      url: /pemalink
   - infopic:
       title: Tips on how to Feel Good and Do Good
       subtitle: How to "Flourish"?
