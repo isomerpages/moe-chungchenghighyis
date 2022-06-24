@@ -68,6 +68,9 @@ Our Malay Language Unit comprises of teachers who are dedicated and passionate a
 
 ## Photo Gallery of School Activities
 
+![](/images/a58667e7a_65557.jpeg)
+Our Principal, Mr Tan, reading the riddles
+
 ![](/images/396574d19_65558.jpeg)
 Our special Pomelo lanterns created by our dedicated leaders
 
