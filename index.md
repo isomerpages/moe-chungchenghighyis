@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Chung Ching High School (Yishun)
+title: Chung Cheng High School (Yishun)
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -42,3 +42,4 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
