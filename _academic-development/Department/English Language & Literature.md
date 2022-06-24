@@ -75,5 +75,7 @@ Structured 4-year plan with a specific focus in developing students' Oral and Wr
 *   Narrative Writing & EL & Elective Literature Exam Skills (S4 & S5)
 *   (Langlit workshop by Marife D’Cruz & STU Literature Seminar)
 
+Find more on [Google Drive](https://drive.google.com/drive/folders/16EwzvMBvDX9EuqVGLYnyr69wWv2Etpmy)
+
 <img src="/images/pavilion.png" 
      style="width:50%">
