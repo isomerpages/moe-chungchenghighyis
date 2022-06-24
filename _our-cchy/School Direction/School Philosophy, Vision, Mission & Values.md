@@ -16,19 +16,19 @@ third_nav_title: School Direction
 
 <h1><b>Our Vision 愿景</b></h1>
 
-<b>A community of positive and future-ready leaders with a mindset for excellence.</b>
+<center><b>A community of positive and future-ready leaders with a mindset for excellence.</b>
 
-<b>建立积极进取，精益求精，面向未来的领袖社群</b>
+<b>建立积极进取，精益求精，面向未来的领袖社群</b></center>
 
 <h1><b>Our Mission 我们的使命</b></h1>
 
-<b>Nurturing lifelong learners with a global outlook, anchored on values and competencies to serve and to lead.</b>
+<center><b>Nurturing lifelong learners with a global outlook, anchored on values and competencies to serve and to lead.</b>
 
-<b>培育具全球视野、正确价值观、掌握未来技能、致力于服务社稷的终身学习者</b>
+<b>培育具全球视野、正确价值观、掌握未来技能、致力于服务社稷的终身学习者</b></center>
 
 <h1><b>Our Values 价值观</b></h1>
 
-<b>With Integrity We Live</b>
+<center><b>With Integrity We Live</b>
 
 <b>正直为本</b>
 
@@ -42,7 +42,7 @@ third_nav_title: School Direction
 
 <b>With Gratitude We Serve</b>
 
-<b>饮水思源</b>
+<b>饮水思源</b></center>
 
 <img src="/images/pavilion.png" 
      style="width:50%">
