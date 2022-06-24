@@ -57,5 +57,30 @@ For more information, please click [here](https://www.betterinternet.sg/).
 
 **_The Cyber Alert_** is a newsletter designed to communicate and disseminate issues on cyber wellness for both adults and students. We want it to be entertaining and informative, at times reflective but above all useful.
 
+# **Personal Learning Device Initiative**
+
+### Information for parents
+
+[Parent Handbook I on Learning with a PLD.pdf](/files/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)
+
+[Parent Handbook II on Learning with a PLD.pdf] - file size exceeds 5MB
+  
+[DMA Parent Guide v2.0 - Default Option.pdf](/files/DMA%20Parent%20Guide(ver2)%20-%20Default%20Option.pdf)  
+[DMA Parent Guide v2.0 - Option A.pdf](/files/DMA%20Parent%20Guide%20(ver2)%20-%20Option%20A.pdf)   
+[DMA Parent Guide v2.0 - Option B.pdf](/files/DMA%20Parent%20Guide%20(ver2)%20-%20Option%20B.pdf)
+  
+
+### Information for students
+
+[CCHY Acceptable\_Use Policy\_AUP.pdf](https://chungchenghighyishun-moe-edu-sg-admin.cwp.sg/qql/slot/u496/5%20CCHY%20Acceptable_Use%20Policy_AUP.pdf)  
+[General Routines with PLD.pdf](https://chungchenghighyishun.moe.edu.sg/qql/slot/u496/6%20General%20Routines%20with%20PLD.pdf)  
+[PLD\_familiarisation\_for\_students.pdf](https://chungchenghighyishun.moe.edu.sg/qql/slot/u496/4%20PLD_familiarisation_for_students.pdf)  
+[Student Device Information Kit.pdf](https://chungchenghighyishun.moe.edu.sg/qql/slot/u496/Student%20Device%20Information%20Kit[2].pdf)  
+[Student Kit Cyber Wellness and Learning with a Personal Learning Device.pdf](https://chungchenghighyishun.moe.edu.sg/qql/slot/u496/Student%20Kit%20Cyber%20Wellness%20and%20Learning%20with%20a%20%20Personal%20Learning%20Device.pdf)  
+[Policy on the Use of Locker.pdf](https://chungchenghighyishun.moe.edu.sg/qql/slot/u496/Policy%20on%20the%20Use%20of%20Locker.pdf)  
+[Number Combination Padlock User Guide.pdf](https://chungchenghighyishun.moe.edu.sg/qql/slot/u496/Number%20Combination%20Padlock%20User%20Guide.pdf)  
+  
+Click [here](https://drive.google.com/file/d/1LWAO4XOy7URCWjnA1j_KXws_Ub5unzeW/view) to access the Number Combination Padlock user guide video.
+
 <img src="/images/pavilion.png" 
      style="width:50%">
