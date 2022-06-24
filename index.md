@@ -9,8 +9,6 @@ sections:
   - hero:
       title: Chung Cheng High School (Yishun)
       background: /images/cchy.gif
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: 2022 Sem 2 Class Timetable and HBL Schedule
           description: ""
