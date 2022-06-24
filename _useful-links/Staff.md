@@ -22,3 +22,6 @@ description: ""
 32. School Cockpit - link not found
 34. [SCMobile](https://scmobile.moe.edu.sg/home)
 36. [Student Learning Space](https://vle.learning.moe.edu.sg/login)
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
