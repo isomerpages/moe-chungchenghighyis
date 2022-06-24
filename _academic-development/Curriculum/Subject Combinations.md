@@ -23,3 +23,11 @@ Click here to view the Academic Information Booklet 2021:
 | Higher Chinese Language (Exp only) 	| Literature 	| PE* 	|
 | Mathematics 	| Visual Art 	| Music* 	|
 | Science 	| Food and Consumer Education 	|  	|
+
+| Lower Secondary (for NT) 	|  	|  	|
+| ---	| ---	| ---	|
+| English Language 	| Social Studies* 	| CCE* 	|
+| Basic Chinese / Malay Lang 	| Computer Application 	| PE* 	|
+| Chinese / Malay Lang at NA level 	| Design & Technology 	| Music 	|
+| Mathematics at NA level 	| Visual Art 	|  	|
+| Science 	| Food and Consumer Education 	|  	|
