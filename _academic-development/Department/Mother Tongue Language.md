@@ -68,6 +68,9 @@ Our Malay Language Unit comprises of teachers who are dedicated and passionate a
 
 ## Photo Gallery of School Activities
 
+![](/images/922f14db0_65559.jpg)
+School Leaders at Chinese New Year Celebration
+
 ![](/images/69ebe7e40_65560.jpg)
 Students sharing with their peers the uniqueness of Malay Culture
 
