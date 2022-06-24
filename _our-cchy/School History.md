@@ -30,6 +30,8 @@ On 30 June 2006, the school held its opening ceremony at the new site.
 Photographs taken during the time when the school was located at Kim Yam Road
 ![](/images/Chung%20Cheng%20History.jpg)
 
+------------------------------------------------------------------------
+
 **Relocation to Yishun**
 
 Chung Cheng High School (Yishun) has, through the years, consistently kept to its philosophy of optimising the student's potential and achieving both academic and personal success through a caring, supportive and stimulating learning environment. Credit and recognition must be accorded to the collaborative efforts of the School Management Committee (SMC), Alumni, staff, parents and students. Together in partnership, they exemplify the true Chung Cheng Spirit.
