@@ -18,7 +18,7 @@ sections:
           url: /our-cca/2022-june-holiday-cca-programme
         - title: 2022 Home-based learning
           description: ""
-          url: /our-curriculum/academic-development/curriculum/2022-home-based-learning
+          url: /our-curriculum/academic-development/Curriculum/2022-home-based-learning
   - infobar:
       title: Direct School Admission Exercise
       description: Please click on read more for more information
