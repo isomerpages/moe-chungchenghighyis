@@ -20,7 +20,7 @@ Mdm Junaina
 ### Training Schedule
 
 Please click on the link below to view CCA venue & schedule.   
-[CCA venue & schedule](https://chungchenghighyishun-moe-edu-sg-admin.cwp.sg/useful-links/parents/cca-venue-n-schedule)
+[CCA venue & schedule](/useful-links/parents/cca-venue-n-schedule)
 
 ### Activities
 *   The ‘Big Family’ Project in collaboration with Youth Corps Singapore & Ground-Up Initiative (GUI) @ ORTO
