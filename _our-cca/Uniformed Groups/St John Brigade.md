@@ -18,7 +18,7 @@ Mrs Peh-Leow Li Yong, Shirley
 
 ### Training Schedule
 Please click on the link below to view CCA venue & schedule.   
-[CCA venue & schedule](https://chungchenghighyishun-moe-edu-sg-admin.cwp.sg/useful-links/parents/cca-venue-n-schedule)
+[CCA venue & schedule](/useful-links/parents/cca-venue-n-schedule)
 
 ### Events/Activities
 **Public Duty**   
