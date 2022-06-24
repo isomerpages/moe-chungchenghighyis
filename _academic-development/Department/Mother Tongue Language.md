@@ -68,7 +68,11 @@ Our Malay Language Unit comprises of teachers who are dedicated and passionate a
 
 ## Photo Gallery of School Activities
 
+![](/images/69ebe7e40_65560.jpg)
+Students sharing with their peers the uniqueness of Malay Culture
+
 ![](/images/afa0b86b1_65561.jpeg)
+Students trying out lion dance under the guidance of professional lion dancers
 
 ![](/images/e83f3762d_65562.jpeg)
 Students writing Chinese calligraphy during the Mother Tongue Languages Fortnight
