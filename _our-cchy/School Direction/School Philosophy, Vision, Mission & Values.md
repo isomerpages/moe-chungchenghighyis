@@ -8,11 +8,11 @@ third_nav_title: School Direction
 
 <center><b>Excellence in Education for All through Differentiation</b></center>
 
-<center><b>因材施教</b><center>
+<br><center><b>因材施教</b><center></br>
 
-<center><b>Every Student Matters</b></center>
+<br><center><b>Every Student Matters</b></center></br>
 
-<center><b>有教无类</b></center>
+<br><center><b>有教无类</b></center></br>
 
 <h1><b>Our Vision 愿景</b></h1>
 
