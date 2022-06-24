@@ -14,3 +14,7 @@ description: ""
 7. [SLS](https://vle.learning.moe.edu.sg/login)
 8. Students Handbook (need to create page) 
 9. [Wellbeing 365](/our-curriculum/student-development/wellbeing-365)
+
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
