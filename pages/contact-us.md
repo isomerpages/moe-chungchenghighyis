@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Chung Ching High School (Yishun)
+agency_name: Chung Cheng High School (Yishun)
 locations:
   - address:
       - 11 Yishun Street 61
