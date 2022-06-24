@@ -20,3 +20,6 @@ third_nav_title: Staff
 | Ms Teo Shin Yeow | Mathematics |
 | Ms Lin Xiaoying | Mathematics |
 | Mdm Thian Siaw Fong  | CL  |
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
