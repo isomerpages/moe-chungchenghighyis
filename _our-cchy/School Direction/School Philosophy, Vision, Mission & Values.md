@@ -4,49 +4,47 @@ permalink: /our-cchy/School-Direction/school-philosophy-vision-mission-n-values
 description: ""
 third_nav_title: School Direction
 ---
-**Our Philosophy 办校理念**
--------------------
+<h1><b>Our Philosophy 办校理念</b></h1>
 
-**Excellence in Education for All through Differentiation**
+<b>Excellence in Education for All through Differentiation</b>
 
-**因材施教**
+<b>因材施教</b>
 
-**Every Student Matters**
+<b>Every Student Matters</b>
 
-**有教无类**
+<b>有教无类</b>
 
-**Our Vision 愿景**
--------------
+<h1><b>Our Vision 愿景</b></h1>
 
-**A community of positive and future-ready leaders with a mindset for excellence.**
+<b>A community of positive and future-ready leaders with a mindset for excellence.</b>
 
-**建立积极进取，精益求精，面向未来的领袖社群**
+<b>建立积极进取，精益求精，面向未来的领袖社群</b>
 
-**Our Mission 我们的使命**
------------------
+<h1><b>Our Mission 我们的使命</b></h1>
 
-**Nurturing lifelong learners with a global outlook, anchored on values and competencies to serve and to lead.**
+<b>Nurturing lifelong learners with a global outlook, anchored on values and competencies to serve and to lead.</b>
 
-**培育具全球视野、正确价值观、掌握未来技能、致力于服务社稷的终身学习者**
+<b>培育具全球视野、正确价值观、掌握未来技能、致力于服务社稷的终身学习者</b>
 
-**Our Values 价值观**
---------------
+<h1><b>Our Values 价值观</b></h1>
 
-**With Integrity We Live**
+<b>With Integrity We Live</b>
 
-**正直为本**
+<b>正直为本</b>
 
-**With Grit We Persevere**
+<b>With Grit We Persevere</b>
 
-**自强不息**
+<b>自强不息</b>
 
-**With Empathy We Care**
+<b>With Empathy We Care</b>
 
-**行以至善**
+<b>行以至善</b>
 
-**With Gratitude We Serve**
+<b>With Gratitude We Serve</b>
 
-**饮水思源**
+<b>饮水思源</b>
 
 <img src="/images/pavilion.png" 
      style="width:50%">
+		 
+		 
