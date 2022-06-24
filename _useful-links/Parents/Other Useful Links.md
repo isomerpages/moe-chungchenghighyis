@@ -14,5 +14,6 @@ Other useful links:
 
 [EAE](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)
 
-[Schoolbag](https://www.schoolbag.edu.sg/)
+[Parents Gateway (PG)](/admission/Services/parents-gateway)
 
+[Schoolbag](https://www.schoolbag.edu.sg/)
