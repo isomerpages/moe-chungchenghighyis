@@ -10,16 +10,15 @@ third_nav_title: Curriculum
 
 Please click on the below links to download the documents:  
   
-[Annex A - Semester 1 HBL Day Schedule 2022.pdf](/files/Annex%20A%20-%20Semester%201%20HBL%20Day%20Schedule%202022.pdf) 
-[Annex B  How to access Announcements page on SLS 2022.pdf](/files/Annex%20B%20%20How%20to%20access%20Announcements%20page%20on%20SLS%202022.pdf)
-[Annex C - Zoom Student Guide_CCHY.pdf](/files/Annex%20C%20-%20Zoom%20Student%20Guide_CCHY.pdf)
-[Annex D - Google Meet Student Guide_CCHY.pdf](/files/Annex%20D%20-%20Google%20Meet%20Student%20Guide_CCHY.pdf)
-[Annex E - Students Guide for New SLS Interface.pdf](/files/Annex%20E%20-%20Students%20Guide%20for%20New%20SLS%20Interface.pdf) 
+[Annex A - Semester 1 HBL Day Schedule 2022.pdf](/files/Annex%20A%20-%20Semester%201%20HBL%20Day%20Schedule%202022.pdf)     
+[Annex B  How to access Announcements page on SLS 2022.pdf](/files/Annex%20B%20%20How%20to%20access%20Announcements%20page%20on%20SLS%202022.pdf)    
+[Annex C - Zoom Student Guide_CCHY.pdf](/files/Annex%20C%20-%20Zoom%20Student%20Guide_CCHY.pdf)    
+[Annex D - Google Meet Student Guide_CCHY.pdf](/files/Annex%20D%20-%20Google%20Meet%20Student%20Guide_CCHY.pdf)   
+[Annex E - Students Guide for New SLS Interface.pdf](/files/Annex%20E%20-%20Students%20Guide%20for%20New%20SLS%20Interface.pdf)    
 [HBL Briefing Slides for Students - SIL 2022.pdf](/files/HBL%20Briefing%20Slides%20for%20Students%20-%20SIL%202022.pdf)  
 [Infosheet for Students 2022.pdf](/files/Infosheet%20for%20Students%202022.pdf)
 
-Student-initiated Learning
---------------------------
+### Student-initiated Learning
 
 Please click on the below links to download the documents:  
   
