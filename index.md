@@ -19,6 +19,13 @@ sections:
         - title: 2022 Home-based learning
           description: ""
           url: /our-curriculum/academic-development/curriculum/2022-home-based-learning
+  - infopic:
+      title: Direct School Admission Exercise
+      description: Please click on read more for more information
+      button: Read More
+      url: /admission/Direct-School-Admission/direct-school-admission-dsa
+      image: /images/DSA.jpg
+      alt: Image alt text
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -29,11 +36,4 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
-  - infopic:
-      title: 2022 Sem 2 Class Timeable and HBL Schedule
-      description: Please click on read more for more information
-      button: Read More
-      url: /our-curriculum/academic-development/curriculum/curriculum-timetable
-      image: /images/class timetable.jpg
-      alt: Image alt text
 ---
