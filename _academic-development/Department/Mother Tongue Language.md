@@ -86,5 +86,7 @@ Students writing Chinese calligraphy during the Mother Tongue Languages Fortnigh
 ![](/images/295d5544e_65563.jpeg)
 We managed to celebrate the Mid-Autumn Festival in school while observing the Safe Management Measures
 
+Find more on [Google Drive](https://drive.google.com/drive/folders/1eHCIWYtBIgHoAvqddPms91mk4YDDSOd0) 
+
 <img src="/images/pavilion.png" 
      style="width:50%">
