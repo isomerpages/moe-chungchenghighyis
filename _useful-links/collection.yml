@@ -2,12 +2,12 @@ collections:
   useful-links:
     output: true
     order:
-      - Students/Students Handbook.md
-      - Students/Other Useful Links.md
-      - Students/.keep
       - Parents/.keep
       - Parents/2021 eOpen House.md
       - Parents/CCA Venue & Schedule.md
       - Parents/Sexuality Education Programme.md
       - Parents/Other Useful Links.md
       - Staff.md
+      - Students/.keep
+      - Students/Students Handbook.md
+      - Students/Other Useful Links.md
