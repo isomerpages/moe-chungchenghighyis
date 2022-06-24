@@ -72,15 +72,20 @@ For more information, please click [here](https://www.betterinternet.sg/).
 
 ### Information for students
 
-[CCHY Acceptable_Use Policy_AUP.pdf](/files/5%20CCHY%20Acceptable_Use%20Policy_AUP.pdf)
-[General Routines with PLD.pdf](/files/General%20Routines%20with%20PLD.pdf)
-[PLD_familiarisation_for_students.pdf](/files/PLD_familiarisation_for_students.pdf)
-[Student Device Information Kit.pdf](/files/Student%20Device%20Information%20Kit.pdf)
-Student Kit Cyber Wellness and Learning with a Personal Learning Device.pdf - file size exceeds 5MB
-[Policy on the Use of Locker.pdf](/files/Policy%20on%20the%20Use%20of%20Locker.pdf)
+[CCHY Acceptable_Use Policy_AUP.pdf](/files/5%20CCHY%20Acceptable_Use%20Policy_AUP.pdf)   
+[General Routines with PLD.pdf](/files/General%20Routines%20with%20PLD.pdf)   
+[PLD_familiarisation_for_students.pdf](/files/PLD_familiarisation_for_students.pdf)      
+[Student Device Information Kit.pdf](/files/Student%20Device%20Information%20Kit.pdf)    
+
+Student Kit Cyber Wellness and Learning with a Personal Learning Device.pdf - file size exceeds 5MB     
+
+[Policy on the Use of Locker.pdf](/files/Policy%20on%20the%20Use%20of%20Locker.pdf)    
 [Number Combination Padlock User Guide.pdf](/files/Number%20Combination%20Padlock%20User%20Guide.pdf)
   
 Click [here](https://drive.google.com/file/d/1LWAO4XOy7URCWjnA1j_KXws_Ub5unzeW/view) to access the Number Combination Padlock user guide video.
+
+### Information on student's account
+
 
 <img src="/images/pavilion.png" 
      style="width:50%">
