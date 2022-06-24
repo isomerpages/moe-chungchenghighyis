@@ -25,6 +25,8 @@ In the late 90s, there was an urgent need to upgrade the school facilities and m
 
 On 30 June 2006, the school held its opening ceremony at the new site.
 
+------------------------------------------------------------------------
+
 Photographs taken during the time when the school was located at Kim Yam Road
 ![](/images/Chung%20Cheng%20History.jpg)
 
