@@ -4,8 +4,6 @@ permalink: /our-curriculum/academic-development/department/aesthetic
 description: ""
 third_nav_title: Department
 ---
-
-
 # **Aesthetic**
 
 
@@ -40,6 +38,8 @@ If you would like to apply for AEP/MEP, please take note that the online applica
 * AEP: [https://moe.gov.sg/aep](https://moe.gov.sg/aep)
 
 * MEP: [https://moe.gov.sg/mep](https://moe.gov.sg/mep)
+
+Find more on [Google Drive](https://drive.google.com/drive/folders/1BorSv7PGaLVV3Jy0UZoufeW7GiFV11Zq)
 
 <img src="/images/pavilion.png" 
      style="width:50%">
