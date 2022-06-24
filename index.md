@@ -31,4 +31,11 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: 2022 Sem 2 Class Timeable and HBL Schedule
+      description: Please click on read more for more information
+      button: Read More
+      url: /our-curriculum/academic-development/curriculum/curriculum-timetable
+      image: /images/class timetable.jpg
+      alt: Image alt text
 ---
