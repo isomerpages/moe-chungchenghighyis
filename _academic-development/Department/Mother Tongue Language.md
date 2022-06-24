@@ -55,6 +55,7 @@ The MTL Department also runs the Cross Culture Programme as part of the school�
 ·         传统节日庆祝活动：农历新年联欢会、中秋节联欢会
 
 ### Malay Language Unit
+(click [here](/malay-language-unit) for more information)
 
 Our Malay Language Unit comprises of teachers who are dedicated and passionate about the teaching and learning of Malay language and culture. They are actively involved in promoting self-directed learning and organised different activities to create authentic learning experiences for the students. Students get to go on learning journeys, and conduct researches on Malay language and culture. They are also given the chance to share their learnings and research findings with their classmates from different ethnic groups.
 
