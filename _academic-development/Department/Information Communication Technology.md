@@ -45,7 +45,7 @@ Cyber Wellness (CW) refers to the positive well-being of Internet users. It invo
 
 MOE uses the CW framework to develop the child’s instinct to protect and empower him to take responsibility for his own well-being in cyberspace. The three principles, ‘Respect for Self and Others’, ‘Safe and Responsible Use’ and ‘Positive Peer Influence’ when adhered to will anchor a child’s well-being in cyberspace as he will then be able to make careful and well-considered decisions.  
   
-For more information, please click on the link.  
+For more information, please click [here](https://www.ictconnection.moe.edu.sg/cyber-wellness/for-parents).  - broken link
 
 ### Media Literacy Council (MLC)
 
