@@ -4,7 +4,6 @@ permalink: /our-cca/Physical-Sports/outdoor-activities-club-odac
 description: ""
 third_nav_title: Physical Sports
 ---
-
 # **OutDoor Activities Club (ODAC)**
 
 ![](/images/ODAC.jpg)
@@ -29,7 +28,7 @@ Mr Gary Peh
 
 ### Training Schedule
 Please click on the link below to view CCA venue & schedule.   
-[CCA venue & schedule](https://chungchenghighyishun-moe-edu-sg-admin.cwp.sg/useful-links/parents/cca-venue-n-schedule)
+[CCA venue & schedule](/useful-links/parents/cca-venue-n-schedule)
 
 ### Activites/Events
 *   National Inter-Schools Cross Country Championships
