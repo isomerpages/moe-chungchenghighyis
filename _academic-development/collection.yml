@@ -2,6 +2,7 @@ collections:
   academic-development:
     output: true
     order:
+      - Curriculum/2022 Home based Learning.md
       - Curriculum/Subject Combinations.md
       - Curriculum/Examination Schedule.md
       - Curriculum/Curriculum Timetable & Extended Curriculum Programme (ECP).md
