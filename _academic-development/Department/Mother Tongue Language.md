@@ -80,6 +80,9 @@ School Leaders at Chinese New Year Celebration
 ![](/images/69ebe7e40_65560.jpg)
 Students sharing with their peers the uniqueness of Malay Culture
 
+![](/images/fff198854_65556.jpg)
+Students sharing with their peers the uniqueness of Malay Culture
+
 ![](/images/afa0b86b1_65561.jpeg)
 Students trying out lion dance under the guidance of professional lion dancers
 
