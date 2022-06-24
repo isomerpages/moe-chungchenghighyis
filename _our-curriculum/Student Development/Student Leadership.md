@@ -4,9 +4,6 @@ permalink: /our-curriculum/student-development/student-leadership/student-counci
 description: ""
 third_nav_title: Student Development
 ---
-
-
-
 # **Student Council**
 
 ## Our Vision
@@ -56,6 +53,8 @@ Leaders for Tomorrow Camp @ Guangzhou, Camp Zenith - Overseas Leadership Camp
 ## Our Structure
 
 ![](/images/Student%20Councillor%20Chart.jpg)
+
+Find more on [Google Drive](https://drive.google.com/drive/folders/1abDws-vWhZvykz2v9TO4UTnd-R-DVC9y)
 
 <img src="/images/pavilion.png" 
      style="width:50%">
