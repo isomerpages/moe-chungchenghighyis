@@ -12,12 +12,12 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: 2022 Sem 2 Class Timetable and HBL Schedule
+          description: ""
+          url: /our-curriculum/academic-development/curriculum/curriculum-timetable-n-extended-curriculum-programme
+        - title: 2022 June Holiday CCA Programme
+          description: ""
+          url: /our-curriculum/student-development/cca/2022-june-holiday-cca-programme
         - title: Page A
           description: Page A is important too
           url: /privacy/
