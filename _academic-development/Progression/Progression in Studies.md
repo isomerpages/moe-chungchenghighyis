@@ -9,3 +9,10 @@ third_nav_title: Progression
 ### Progression Paths
 
 ![](/images/Progression%20in%20studies.png)
+
+### Promotion Criteria
+
+![](/images/Promotion%20Criteria.png)
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
