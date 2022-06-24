@@ -33,16 +33,7 @@ links:
       - title: Submenu Title
         url: /permalink
   - title: Useful Links
-    url: /useful-links/parents/2021-e-open-house
-    sublinks:
-      - title: 2021 e-Open House
-        url: /useful-links/parents/2021-e-open-house
-      - title: CCA Venue & Schedule
-        url: /useful-links/parents/cca-venue-n-schedule
-      - title: Parents Gateway
-        url: /admission/services/parents-gateway
-      - title: Schoolbag
-        url: https://www.schoolbag.edu.sg/
+    collection: useful-links
   - title: Contact Us
     url: /contact-us/
   - title: Resources
