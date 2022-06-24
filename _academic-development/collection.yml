@@ -2,9 +2,9 @@ collections:
   academic-development:
     output: true
     order:
-      - Progression/O Level Admin Briefing.md
-      - Progression/Progression in Studies.md
       - Progression/.keep
+      - Progression/Progression in Studies.md
+      - Progression/O Level Admin Briefing.md
       - Academic Development.md
       - Department/.keep
       - Department/Aesthetic.md
