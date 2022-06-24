@@ -7,11 +7,9 @@ third_nav_title: Department
 # **English Language & Literature**
 
 
-## VISION: Nurturing creative, confident and articulate readers, writers and speakers of English
+### VISION: Nurturing creative, confident and articulate readers, writers and speakers of English
 
 **About the Department** : The English Department comprises of English Language and Literature. Lower Secondary Literature is compulsory for all students of the Normal Academic and Express streams at lower secondary levels. At the upper secondary level, students have the option of selecting the Elective subjects of their choice from an array of subjects. Elective English Literature is offered to upper secondary students whereby students study a set text and a course reader preparing them for unseen passages and poetry.
-
-  
 
 Guided by the belief in fostering a learner-centred environment, the Department has decided to ensure proper:
 
@@ -28,7 +26,7 @@ Guided by the belief in fostering a learner-centred environment, the Department 
 *   Word study skills
 *   Writing Skills
 
-## Pedagogy
+### Pedagogy
 
 *   PETALS Framework for Engaged Learning
 *   Debating
@@ -42,7 +40,7 @@ Guided by the belief in fostering a learner-centred environment, the Department 
 *   Reading and reflections from newspapers on current affairs
 *   Viewing A Play for Literature
 
-## Assessment
+### Assessment
 
 **Assessment for Learning (AfL) tasks** :
 
@@ -52,8 +50,6 @@ Guided by the belief in fostering a learner-centred environment, the Department 
 *   Diagnostic Tests
 *   Performance-based
 
-  
-
 _Note: Tasks are meant to ensure close monitoring of the learning processes._
 
 **Assessment of Learning (AoL)** :
@@ -61,11 +57,9 @@ _Note: Tasks are meant to ensure close monitoring of the learning processes._
 *   Common Tests
 *   Summative Mid and Year-End
 
-  
-
 _Note: Examinations are still integral in the school environment._
 
-## Enrichment
+### Enrichment
 
 Structured 4-year plan with a specific focus in developing students' Oral and Written skills through enrichment workshops and internal competitions as part of AfL.  
 
