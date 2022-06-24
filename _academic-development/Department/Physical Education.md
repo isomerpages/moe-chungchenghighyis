@@ -72,6 +72,7 @@ Students will be assessed in PE in four areas:
 ### Health Education
 Health Education programmes include talks on drugs and smoking, teen crimes and healthy lifestyles.
 
+Find more on [Google Drive](https://drive.google.com/drive/folders/1FXc_-OHSAkN_bduE4_9A0KeZKSpRh1Sy) 
 
 <img src="/images/pavilion.png" 
      style="width:50%">
