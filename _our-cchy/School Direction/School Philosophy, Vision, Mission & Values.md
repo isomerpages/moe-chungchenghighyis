@@ -6,13 +6,13 @@ third_nav_title: School Direction
 ---
 <h1><b>Our Philosophy 办校理念</b></h1>
 
-<center><b>Excellence in Education for All through Differentiation</b>
+<center><b>Excellence in Education for All through Differentiation</b></center>
 
-<b>因材施教</b>
+<center><b>因材施教</b><center>
 
-<b>Every Student Matters</b>
+<center><b>Every Student Matters</b></center>
 
-<b>有教无类</b></center>
+<center><b>有教无类</b></center>
 
 <h1><b>Our Vision 愿景</b></h1>
 
