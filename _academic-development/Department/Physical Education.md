@@ -4,15 +4,13 @@ permalink: /our-curriculum/academic-development/department/physical-education
 description: ""
 third_nav_title: Department
 ---
-Physical Education
-==================
+# **Physical Education**
 
 **General**
 
 *   After PE lessons, students are not allowed to go to the Cafeteria for drinks unless under the supervision of their PE teacher
 *   Students are not to loiter in the Cafeteria or along the corridor after PE lessons. They are to move quickly as a class back to the classroom.
 
-  
 
 **Attendance**
 
@@ -22,16 +20,11 @@ Physical Education
 *   Medical reasons
 *   Recovery from recent illness
 *   Injury
-
 *   Students absent without a valid reason will face disciplinary action
-
-  
 
 **Attire**
 
 *   Students are to be dressed in the standard school T-shirt and shorts and white rubber shoes. No other T-shirts (including CCA T-shirts) will be allowed
-
-  
 
 **Equipment**
 
@@ -39,20 +32,13 @@ Physical Education
 *   Borrowers / Users of school equipment will be responsible for any loss or damage. They will be required to replace the item if the loss or damage is due to negligence
 *   All equipment must be returned to the PE department after use regardless of their condition
 
-NAPFA - Physical Fitness Test
------------------------------
+### NAPFA - Physical Fitness Test
 
 The NAPFA, which comprises of six test items, is administered to all medically fit students in schools. In our school, we have always emphasized to our students the importance of fitness and healthy life style.  
 
-  
-
 Students are to report punctually in the PE attire. They should also have enough rest and drink plenty of water on the night before the test.
 
-  
-
 Students who are on medical leave for that day will have to take the test on another day. Only students who are on long-term medical leave will be exempted from taking the test.
-
-  
 
 2.4 KM Run Test for NAPFA. Please click on the link below for more information.
 
@@ -64,8 +50,7 @@ Students who are on medical leave for that day will have to take the test on ano
 
 [2.4km Test Female Detailing List.pdf](/files/Test%20Female%20Detailing%20List.pdf)
 
-PE Grade
---------
+### PE Grade
 
 Students will be assessed in PE in four areas:  
 
@@ -74,8 +59,7 @@ Students will be assessed in PE in four areas:
 *   Skills (practical)
 *   Knowledge on games and health matters (quiz)
 
-Activities
-----------
+### Activities
 
 *   NAPFA
 *   Annual Sports Meets
@@ -85,9 +69,7 @@ Activities
 *   Sports Carnival
 *   Health Fitness
 
-Health Education
-----------------
-
+### Health Education
 Health Education programmes include talks on drugs and smoking, teen crimes and healthy lifestyles.
 
 
