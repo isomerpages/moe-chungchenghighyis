@@ -10,5 +10,7 @@ The Learning for Life Programme (LLP) in CCHY focuses on cultivating values in s
 
 [Aesthetics LLP Sec 1 Talk.pdf](/files/2016%20Aesthetics%20LLP%20Sec%201%20Talk.pdf)
 
+Find more on [Google Drive](https://drive.google.com/drive/folders/15NqZWutusqKUKlEYJm6kXCOtJzmG9k-H)
+
 <img src="/images/pavilion.png" 
      style="width:50%">
