@@ -6,13 +6,13 @@ third_nav_title: School Direction
 ---
 <h1><b>Our Philosophy 办校理念</b></h1>
 
-<b>Excellence in Education for All through Differentiation</b>
+<center><b>Excellence in Education for All through Differentiation</b>
 
 <b>因材施教</b>
 
 <b>Every Student Matters</b>
 
-<b>有教无类</b>
+<b>有教无类</b></center>
 
 <h1><b>Our Vision 愿景</b></h1>
 
@@ -46,5 +46,3 @@ third_nav_title: School Direction
 
 <img src="/images/pavilion.png" 
      style="width:50%">
-		 
-		 
