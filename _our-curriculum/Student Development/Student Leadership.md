@@ -6,18 +6,18 @@ third_nav_title: Student Development
 ---
 # **Student Council**
 
-## Our Vision
+### Our Vision
 
 Exemplary and Competent Leaders
 
-## Mission
+### Mission
 
 To mould student councils to become effective student leaders who proudly lead and serve the society and school with discipline, integrity and respect as well as to be able inspire the student body to achieve high standards of discipline.
 
-## Motto
+### Motto
 To serve with honour and dignity.
 
-## About the Student Council
+### About the Student Council
 
 The Student Council serves to support the school and its staff in school operations, school events and the implementation of school initiatives. Student Councillors are chosen based on stringent selection criteria. The Executive Committee members are selected by the Student Council Advisory Committee while the President and Vice-President positions are selected by the Student Council through an election process.
 
@@ -50,7 +50,7 @@ eg. Outstanding All-Rounder Student Award, Colours Award, EAGLES award
 **4. Special Programme:**    
 Leaders for Tomorrow Camp @ Guangzhou, Camp Zenith - Overseas Leadership Camp
 
-## Our Structure
+### Our Structure
 
 ![](/images/Student%20Councillor%20Chart.jpg)
 
