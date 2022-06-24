@@ -48,6 +48,8 @@ Singapore is establishing itself as a global hub for food and agri-tech innovati
 
 The focus of our ALP is on developing Scientific and digital Literacy i.e. the ability to think, reason and analyse scientifically, use scientific knowledge and processes to both understand the challenges faced by other fast growing economies and participate in decisions and problem solving that affect mankind.&nbsp; In addition, Critical and Inventive Thinking &amp; Communication, Collaboration and Information Skills are also developed and reinforced when our students exercise sound reasoning and decision making in their scientific investigative study. These are skills and habits of mind that are aligned to the desired 21st century competencies.
 
+
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRDSmei0GC_YEBWuCLdUCZRHxqzp_yOkr0Rq62hJy_cZwPL5y0RKnHU_kRVKummcwfCMFSu-IOpYODx/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+(uploaded 8 images, 37 images left.)
 
 <img style="width:50%" src="/images/pavilion.png">
