@@ -36,6 +36,6 @@ Please click on the link below to view CCA venue &amp; schedule.&nbsp;
 
 ### Photo Gallery
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRDSmei0GC_YEBWuCLdUCZRHxqzp_yOkr0Rq62hJy_cZwPL5y0RKnHU_kRVKummcwfCMFSu-IOpYODx/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQabRNZKwEK1mpF8DgUXrMhnuJA2RuSCtUP_kHjMPoCcPf-zUnjsjd7KengfeuEruWte4365UfqS74M/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-<img style="width:50%" src="/images/pavilion.png">
+<img src="/images/pavilion.png" style="width:50%">
