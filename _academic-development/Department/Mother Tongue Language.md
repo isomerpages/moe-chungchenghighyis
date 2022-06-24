@@ -68,6 +68,10 @@ Our Malay Language Unit comprises of teachers who are dedicated and passionate a
 
 ## Photo Gallery of School Activities
 
+![](/images/e83f3762d_65562.jpeg)
+Students writing Chinese calligraphy during the Mother Tongue Languages Fortnight
+
+![](/images/295d5544e_65563.jpeg)
 
 <img src="/images/pavilion.png" 
      style="width:50%">
