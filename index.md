@@ -26,12 +26,21 @@ sections:
       url: /admission/Direct-School-Admission/direct-school-admission-dsa
       image: /images/DSA.jpg
       alt: Image alt text
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Personal Learning Device & Password Reset
+      description: Please click on read more for more information
+      button: Read more
+      url: /permalink
+      image: /images/Picture2.gif
+      alt: Image alt text
+  - infopic:
+      title: Tips on how to Feel Good and Do Good
+      subtitle: How to "Flourish"?
+      description: Please click on read more for more information
+      button: Read more
+      url: /our-curriculum/student-development/wellbeing-365
+      image: /images/Wellbeing 365 logo 1.jpg
+      alt: Image alt text
   - resources:
       title: Media
       subtitle: Learn more
