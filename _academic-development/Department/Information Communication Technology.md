@@ -51,7 +51,7 @@ For more information, please click on the link.
 
 The Media Literacy Council (MLC) is a group of members from the people, private, and public sectors. The MLC spearheads public education on media literacy and cyber wellness, and advises the government on appropriate policy responses to the evolving world of media, technology, and consumer participation.  
   
-For more information, please click on the link.
+For more information, please click [here](https://www.betterinternet.sg/).
 
 ### The Cyber Alert Newsletter
 
