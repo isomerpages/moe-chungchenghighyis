@@ -95,8 +95,7 @@ Click [here](https://drive.google.com/file/d/1LWAO4XOy7URCWjnA1j_KXws_Ub5unzeW/
 ### Information on MIMS Password
 
 *   Please read password policy as shown below:
-![ef.jpg](https://chungchenghighyishun-moe-edu-sg-admin.cwp.sg/qql/slot/u496/ef.jpg)
-
+![](/images/ICT_PDL.jpg)
 *   To reset MIMS password, click [password reset form](https://docs.google.com/forms/d/e/1FAIpQLSef7YQxPj4RszC1evMGWl8qU43xSjULdYFlLzkiyNDwqNymhQ/viewform).
 
 ### Issues related to MIMS password 
