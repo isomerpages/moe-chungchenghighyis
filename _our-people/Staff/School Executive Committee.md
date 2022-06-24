@@ -38,6 +38,5 @@ third_nav_title: Staff
 | Year Head Upper Sec 	| Mr 	| Yong Yin Yee 	|
 | Assistant Year Head Upper Sec  	| Ms 	| Kallaivanee 	|
 
-
-
-
+<img src="/images/pavilion.png" 
+     style="width:50%">
