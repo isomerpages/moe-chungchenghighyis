@@ -52,4 +52,6 @@ The focus of our ALP is on developing Scientific and digital Literacy i.e. the a
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRDSmei0GC_YEBWuCLdUCZRHxqzp_yOkr0Rq62hJy_cZwPL5y0RKnHU_kRVKummcwfCMFSu-IOpYODx/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 (uploaded 8 images, 37 images left.)
 
+Find more on [Google Drive](https://drive.google.com/drive/folders/1r6y0_CwrRZHSoLEUVYM1_n6cV6m5qhzr) 
+
 <img style="width:50%" src="/images/pavilion.png">
