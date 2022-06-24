@@ -72,9 +72,9 @@ For more information, please click [here](https://www.betterinternet.sg/).
 
 ### Information for students
 
-[CCHY Acceptable\_Use Policy\_AUP.pdf](https://chungchenghighyishun-moe-edu-sg-admin.cwp.sg/qql/slot/u496/5%20CCHY%20Acceptable_Use%20Policy_AUP.pdf)  
-[General Routines with PLD.pdf](https://chungchenghighyishun.moe.edu.sg/qql/slot/u496/6%20General%20Routines%20with%20PLD.pdf)  
-[PLD\_familiarisation\_for\_students.pdf](https://chungchenghighyishun.moe.edu.sg/qql/slot/u496/4%20PLD_familiarisation_for_students.pdf)  
+[CCHY Acceptable_Use Policy_AUP.pdf](/files/5%20CCHY%20Acceptable_Use%20Policy_AUP.pdf)
+[General Routines with PLD.pdf](/files/General%20Routines%20with%20PLD.pdf)
+[PLD_familiarisation_for_students.pdf](/files/PLD_familiarisation_for_students.pdf)
 [Student Device Information Kit.pdf](https://chungchenghighyishun.moe.edu.sg/qql/slot/u496/Student%20Device%20Information%20Kit[2].pdf)  
 [Student Kit Cyber Wellness and Learning with a Personal Learning Device.pdf](https://chungchenghighyishun.moe.edu.sg/qql/slot/u496/Student%20Kit%20Cyber%20Wellness%20and%20Learning%20with%20a%20%20Personal%20Learning%20Device.pdf)  
 [Policy on the Use of Locker.pdf](https://chungchenghighyishun.moe.edu.sg/qql/slot/u496/Policy%20on%20the%20Use%20of%20Locker.pdf)  
