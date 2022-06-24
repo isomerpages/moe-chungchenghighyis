@@ -92,5 +92,20 @@ Click [here](https://drive.google.com/file/d/1LWAO4XOy7URCWjnA1j_KXws_Ub5unzeW/
 | PLD 	| Student iCON email address 	| MIMS password 	|
 | Zoom Account /<br>Google Meet 	| Student iCON email address 	| MIMS password 	|
 
+### Information on MIMS Password
+
+*   Please read password policy as shown below:
+![ef.jpg](https://chungchenghighyishun-moe-edu-sg-admin.cwp.sg/qql/slot/u496/ef.jpg)
+
+*   To reset MIMS password, click [password reset form](https://docs.google.com/forms/d/e/1FAIpQLSef7YQxPj4RszC1evMGWl8qU43xSjULdYFlLzkiyNDwqNymhQ/viewform).
+
+### Issues related to MIMS password 
+
+1\. If you cannot login to your personal handphone with your student iCON account, please try the following:  
+(a) Logout student icon from all devices including your PLD.  
+(b) If it is still unsolved, please proceed to computer lab 2, 3PM to 4PM daily for assistance.   
+  
+2\. If you cannot login to your PLD with new password, please proceed to computer lab 2, 3PM to 4PM daily for assistance.
+
 <img src="/images/pavilion.png" 
      style="width:50%">
