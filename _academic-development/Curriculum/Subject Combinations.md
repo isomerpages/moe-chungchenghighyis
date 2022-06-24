@@ -31,3 +31,10 @@ Click here to view the Academic Information Booklet 2021:
 | Chinese / Malay Lang at NA level 	| Design & Technology 	| Music 	|
 | Mathematics at NA level 	| Visual Art 	|  	|
 | Science 	| Food and Consumer Education 	|  	|
+
+\*non-examinable subjects
+
+
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
