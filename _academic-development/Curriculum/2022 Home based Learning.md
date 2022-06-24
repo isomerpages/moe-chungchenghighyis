@@ -32,3 +32,6 @@ Making Pancakes (by Ezann Leow): 
   
 Editing Video (by Zevon Chan):  
 [View](https://drive.google.com/file/d/1tHdmU92a376Qfj1XQ6nLIzN6vTYgYid6/view?usp=sharing) [https://drive.google.com/file/d/1tHdmU92a376Qfj1XQ6nLIzN6vTYgYid6/view?usp=sharing](https://drive.google.com/file/d/1tHdmU92a376Qfj1XQ6nLIzN6vTYgYid6/view?usp=sharing)
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
