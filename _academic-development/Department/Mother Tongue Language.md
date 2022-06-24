@@ -11,7 +11,6 @@ third_nav_title: Department
 Every Student a Confident and Passionate Learner of Mother Tongue Languages and Cultures
 
 Chung Cheng High School (Yishun) has remained steadfast over the years in the implementation of Mother Tongue Languages Programmes.  
-
 The school was officially declared as the N2 Cluster Centre of Excellence for Chinese Language (COE CL) in 2008 by Ms Grace Fu, then Senior Minister of State for Ministry of National Development and Ministry of Education. Since then, the school has played an active role in promoting the teaching and learning of Chinese Language (CL), serving the Cluster’s CL teachers by facilitating professional development training through collaboration with agencies such as the Singapore Centre for Chinese Language (SCCL) and Singapore Examinations and Assessment Board (SEAB).
 
 After our relocation to Yishun in 2005, CCHY reaffirmed her commitment to serving the needs of the community by offering the Malay Language (ML). The dedicated and passionate teachers of the ML unit put in their best to nurture the students and achieve encouraging results in the National Examinations, despite a comparatively smaller cohort of students.
@@ -22,13 +21,10 @@ Working hand-in-hand, the CL and ML unit deliver comprehensive MTL programmes th
 
 The MTL Department offers the following Instructional Programmes:
 
-·         Normal (Technical): Basic Chinese Language N(T), Basic Malay Language N(T)
-
-·         Normal (Academic): Chinese Language N(A), Malay Language N(A)
-
-·         Express: Chinese Language, Higher Chinese Language, Malay Language, Higher Malay Language
-
-·         _Students who offer Tamil Language will attend lessons in other schools within the vicinity that have been designated as Tamil Language Centres._
+* Normal (Technical): Basic Chinese Language N(T), Basic Malay Language N(T)
+* Normal (Academic): Chinese Language N(A), Malay Language N(A)
+* Express: Chinese Language, Higher Chinese Language, Malay Language, Higher Malay Language
+* _Students who offer Tamil Language will attend lessons in other schools within the vicinity that have been designated as Tamil Language Centres._
 
 ### Cross-Cultural Programme
 
@@ -44,15 +40,11 @@ The MTL Department also runs the Cross Culture Programme as part of the school�
 
 华文组也主办以下语言文化活动，以丰富学生的学习生活：
 
-·         母语双周
-
-·         教育部《驻校作家计划》
-
-·         教育部《文化随意门》
-
-·         中一、二年级“书法乐”活动
-
-·         传统节日庆祝活动：农历新年联欢会、中秋节联欢会
+* 母语双周
+* 教育部《驻校作家计划》
+* 教育部《文化随意门》
+*  中一、二年级“书法乐”活动
+* 传统节日庆祝活动：农历新年联欢会、中秋节联欢会
 
 ### Malay Language Unit
 (click [here](/malay-language-unit) for more information)
