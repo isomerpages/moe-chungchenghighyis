@@ -6,12 +6,13 @@ third_nav_title: Parents
 ---
 Other useful links:
 
-[Schoolbag](https://www.schoolbag.edu.sg/)
-
-[EAE](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)
-
-[DSA](/admission/Direct-School-Admission/direct-school-admission-dsa)
+[AEP/MEP](/our-curriculum/academic-development/department/aesthetic)
 
 [Cyber-wellness](/our-curriculum/academic-development/department/information-communication-technlogy/cyber-wellness)
 
-[AEP/MEP](/our-curriculum/academic-development/department/aesthetic)
+[DSA](/admission/Direct-School-Admission/direct-school-admission-dsa)
+
+[EAE](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)
+
+[Schoolbag](https://www.schoolbag.edu.sg/)
+
