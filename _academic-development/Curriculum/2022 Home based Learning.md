@@ -23,8 +23,8 @@ Please click on the below links to download the documents:
 Please click on the below links to download the documents:  
   
 CCHY SIL Process: [https://drive.google.com/file/d/1kVq0rQ5jh4My-T008YJC\_7xJX6\_XsnGj/view?usp=sharing](https://drive.google.com/file/d/1kVq0rQ5jh4My-T008YJC_7xJX6_XsnGj/view?usp=sharing)  
-[CCHY SIL FAQ for Students 2022.pdf](https://chungchenghighyishun.moe.edu.sg/qql/slot/u496/CCHY%20SIL%20FAQ%20for%20Students%202022.pdf)  
-[HBL Briefing Slides for Students - SIL 2022.pdf](https://chungchenghighyishun.moe.edu.sg/qql/slot/u496/HBL%20Briefing%20Slides%20for%20Students%20-%20SIL%202022.pdf)  
+[CCHY SIL FAQ for Students 2022.pdf](/files/CCHY%20SIL%20FAQ%20for%20Students%202022.pdf)  
+[HBL Briefing Slides for Students - SIL 2022.pdf](/files/HBL%20Briefing%20Slides%20for%20Students%20-%20SIL%202022.pdf) 
   
 **SIL by students**  
 Making Pancakes (by Ezann Leow):   
