@@ -86,6 +86,11 @@ Click [here](https://drive.google.com/file/d/1LWAO4XOy7URCWjnA1j_KXws_Ub5unzeW/
 
 ### Information on student's account
 
+| Type 	| ID 	| Password 	|
+| ---	| ---	| ---	|
+| School computer /<br>School Wifi (SWN@SSOE) 	| NRIC or Student iCON email address 	| MIMS password 	|
+| PLD 	| Student iCON email address 	| MIMS password 	|
+| Zoom Account /<br>Google Meet 	| Student iCON email address 	| MIMS password 	|
 
 <img src="/images/pavilion.png" 
      style="width:50%">
