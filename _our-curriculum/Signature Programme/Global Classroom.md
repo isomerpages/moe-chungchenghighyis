@@ -42,5 +42,7 @@ The objective of this trip is to raise social and political awareness, and to ho
 ### Talent Development & Cultural Immersion Kyoto, Japan
 The objective of this trip is to increase awareness of Science and Technology Education in Japan, fostering global perspective for students.
 
+Find more on [Google Drive](https://drive.google.com/drive/folders/1LYLsyTkDU0RlQ1tzZk3VpJi_kgJ3jWJw) 
+
 <img src="/images/pavilion.png" 
      style="width:50%">
