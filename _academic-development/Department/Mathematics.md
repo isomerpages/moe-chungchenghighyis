@@ -29,5 +29,7 @@ Competent Mathematics Problem Solver
 *   Exploring Mathematical Problem Solving with Graphing Calculator (Sec 4)
 *   Exploring Mathematical Problem Solving with Graphing Calculator
 
+Find more on [Google Drive](https://drive.google.com/drive/folders/1TSyz_LY1fTFEr9u595jc_UPCw6aHNNiJ) 
+
 <img src="/images/pavilion.png" 
      style="width:50%">
