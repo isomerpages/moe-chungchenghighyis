@@ -18,7 +18,7 @@ links:
   - title: Our Community
     collection: our-community
   - title: Admission
-    url: /admission/Direct-School-Admission/direct-school-admission-dsa
+    url: /admission
     sublinks:
       - title: Direct School Admissions (DSA)
         url: /admission/Direct-School-Admission/direct-school-admission-dsa
@@ -30,8 +30,6 @@ links:
         url: /admission/new-psle-scoring-and-s1-posting-systems
       - title: Services
         url: /admission/services/parents-gateway
-      - title: Submenu Title
-        url: /permalink
   - title: Useful Links
     collection: useful-links
   - title: Contact Us
