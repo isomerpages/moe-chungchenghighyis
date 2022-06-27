@@ -8,7 +8,7 @@ Other useful links:
 
 [AEP/MEP](/our-curriculum/academic-development/department/aesthetic)
 
-[Cyber-wellness](/our-curriculum/academic-development/department/information-communication-technlogy/cyber-wellness)
+[Cyber-wellness](/our-curriculum/academic-development/department/information-communication-technology)
 
 [DSA](/admission/Direct-School-Admission/direct-school-admission-dsa)
 
