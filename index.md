@@ -37,9 +37,4 @@ sections:
       url: /our-curriculum/student-development/wellbeing-365
       image: /images/Wellbeing 365 logo 1.jpg
       alt: Image alt text
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
 ---
-
