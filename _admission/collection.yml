@@ -2,6 +2,7 @@ collections:
   admission:
     output: true
     order:
+      - Admission.md
       - Returning Singapore and International Students.md
       - School Transfer.md
       - New PSLE Scoring and S1 Posting Systems.md
