@@ -33,3 +33,6 @@ description: ""
 | 2007 	| 234 	| 179 	| 101 	|
 | 2006 	| 230 	| 177 	| 98 	|
 | 2005 	| 226 	| 175 	| 85 	|
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
