@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 # **Peregrine Scouts Group**
-
 Scouts helps young people to develop their full physical, intellectual, emotional, and social capacities as individuals and as members of society. This is achieved through a wide variety of thrilling team-based Scouting activities such as camps, pioneering (building structures), orienteering, outdoor cooking and many more.
 
 ### A Scout
@@ -24,7 +23,6 @@ For example Kayaking, Hiking
 
 *   **Gives Back to the Community:**   
 For example, Job Week
-
 
 *   **Some famous Scouts in Singapore**
 	*   Lee Kuan Yew (Former Minister Mentor)
@@ -57,7 +55,13 @@ Please click on the link below to view CCA venue & schedule. 
 
 ### Photo Gallery
 
-(insert photo gallery)
+![](/images/scouts.jpg)
+
+![](/images/scouts%201.jpg)
+
+![](/images/scouts%202.jpg)
+
+![](/images/scouts%203.jpg)
 
 More information on Scouts: [https://scout.sg/](https://scout.sg/)
 
