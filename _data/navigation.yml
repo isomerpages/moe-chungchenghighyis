@@ -18,7 +18,7 @@ links:
   - title: Our Community
     collection: our-community
   - title: Admission
-    url: /admission/admission
+    url: /admission
     sublinks:
       - title: Direct School Admissions (DSA)
         url: /admission/Direct-School-Admission/direct-school-admission-dsa
