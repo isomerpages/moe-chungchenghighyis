@@ -4,12 +4,10 @@ permalink: /useful-links/students/other-useful-links
 description: ""
 third_nav_title: Students
 ---
-
-
 # **Other Useful Links:**
 
 1. [ADMINBreeze](https://cchy.adminbreeze.com/)
-2. [https://cchy.adminbreeze.com/](/our-community/Chung-Cheng-Family/chung-cheng-high-school-yishun-alumni)
+2. [Alumni Dress Code](/our-community/Chung-Cheng-Family/chung-cheng-high-school-yishun-alumni)
 3. [EAE](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)
 4. [Library Loan System](https://schoolibrary.moe.edu.sg/chungchenghighyishun) - broken link
 5. [My SkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
