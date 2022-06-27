@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: 2022 Sem 2 Class Timetable and HBL Schedule
           description: ""
-          url: /our-curriculum/academic-development/curriculum/curriculum-timetable-n-extended-curriculum-programme
+          url: /our-curriculum/academic-development/curriculum/curriculum-timetable
         - title: 2022 June Holiday CCA Programme
           description: ""
           url: /our-cca/2022-june-holiday-cca-programme
