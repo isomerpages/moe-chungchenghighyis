@@ -19,6 +19,8 @@ sections:
         - title: 2022 Home-based learning
           description: ""
           url: /our-curriculum/academic-development/Curriculum/2022-home-based-learning
+      button: Contact Us
+      url: /contact-us
   - infobar:
       title: Direct School Admission Exercise
       description: Please click on read more for more information
