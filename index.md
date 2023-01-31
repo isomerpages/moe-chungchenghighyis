@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Chung Cheng High School (Yishun)
       background: /images/cchy.gif
       key_highlights:
         - title: 2022 Sem 2 Class Timetable and HBL Schedule
@@ -19,8 +18,6 @@ sections:
         - title: 2022 Home-based learning
           description: ""
           url: /our-curriculum/academic-development/Curriculum/2022-home-based-learning
-      button: Contact Us
-      url: /contact-us/
   - infobar:
       title: Direct School Admission Exercise
       description: Please click on read more for more information
@@ -39,4 +36,7 @@ sections:
       url: /our-curriculum/student-development/wellbeing-365
       image: /images/Wellbeing 365 logo 1.jpg
       alt: Image alt text
+  - resources:
+      title: Announcements
+      button: Resources Button Name
 ---
