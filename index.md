@@ -38,5 +38,5 @@ sections:
       alt: Image alt text
   - resources:
       title: Announcements
-      button: Resources Button Name
+      button: Click here for announcements
 ---
