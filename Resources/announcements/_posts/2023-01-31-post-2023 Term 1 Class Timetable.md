@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+Please click on the links below to download the class timetable.
