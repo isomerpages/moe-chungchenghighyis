@@ -27,7 +27,7 @@ sections:
       title: Cyber Wellness
       button: Read More
       description: Please click on read more for more information
-      url: s
+      url: /cyber-wellness/
   - infobar:
       title: Direct School Admission Exercise
       description: Please click on read more for more information
