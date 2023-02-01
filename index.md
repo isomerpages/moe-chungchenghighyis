@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: For Students
           description: ""
-          url: ""
+          url: /folders/useful-links/subfolders/Students
         - title: 2022 June Holiday CCA Programme
           description: ""
           url: /our-cca/2022-june-holiday-cca-programme
