@@ -18,6 +18,9 @@ sections:
         - title: For Parents
           description: ""
           url: useful-links/parents/2021-e-open-house
+  - resources:
+      title: Announcements
+      button: More announcements here
   - infobar:
       title: Personal Learning Device (PLD) & Password Reset
       description: Please click on read more for more information
@@ -41,7 +44,4 @@ sections:
       url: /our-curriculum/student-development/wellbeing-365
       image: /images/Wellbeing 365 logo 1.jpg
       alt: Image alt text
-  - resources:
-      title: Announcements
-      button: More announcements here
 ---
