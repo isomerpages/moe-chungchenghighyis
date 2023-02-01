@@ -14,7 +14,7 @@ sections:
           url: /useful-links/students/students-handbook
         - title: For Staff
           description: ""
-          url: /useful-links/staff/
+          url: /useful-links/staff
         - title: 2022 Home-based learning
           description: ""
           url: /our-curriculum/academic-development/Curriculum/2022-home-based-learning
