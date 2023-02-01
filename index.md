@@ -19,15 +19,15 @@ sections:
           description: ""
           url: useful-links/parents/2021-e-open-house
   - infobar:
-      title: Direct School Admission Exercise
-      description: Please click on read more for more information
-      button: Read More
-      url: /admission/Direct-School-Admission/direct-school-admission-dsa
-  - infobar:
       title: Personal Learning Device (PLD) & Password Reset
       description: Please click on read more for more information
       button: Read more
       url: /Personal-Learning-Device-PLD-Password-Reset/
+  - infobar:
+      title: Direct School Admission Exercise
+      description: Please click on read more for more information
+      button: Read More
+      url: /admission/Direct-School-Admission/direct-school-admission-dsa
   - infopic:
       title: Tips on how to Feel Good and Do Good
       subtitle: How to "Flourish"?
