@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/cchy.gif
       key_highlights:
-        - title: 2022 Sem 2 Class Timetable and HBL Schedule
+        - title: Personal Learning Device (PLD) & Password Reset
           description: ""
-          url: /our-curriculum/academic-development/curriculum/curriculum-timetable
+          url: /our-curriculum/academic-development/department/information-communication-technlogy/personal-learning-device-initiative
         - title: 2022 June Holiday CCA Programme
           description: ""
           url: /our-cca/2022-june-holiday-cca-programme
