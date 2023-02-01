@@ -41,5 +41,7 @@ sections:
       button: More announcements here
   - infobar:
       title: Cyber Wellness
-      button: Button Text
+      button: Read More
+      description: Please click on read more for more information
+      url: s
 ---
