@@ -24,6 +24,11 @@ sections:
       button: Read more
       url: /Personal-Learning-Device-PLD-Password-Reset/
   - infobar:
+      title: Cyber Wellness
+      button: Read More
+      description: Please click on read more for more information
+      url: s
+  - infobar:
       title: Direct School Admission Exercise
       description: Please click on read more for more information
       button: Read More
@@ -39,9 +44,4 @@ sections:
   - resources:
       title: Announcements
       button: More announcements here
-  - infobar:
-      title: Cyber Wellness
-      button: Read More
-      description: Please click on read more for more information
-      url: s
 ---
