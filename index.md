@@ -27,7 +27,7 @@ sections:
       title: Personal Learning Device (PLD) & Password Reset
       description: Please click on read more for more information
       button: Read more
-      url: /personal-learning-device/Personal-Learning-Device-PLD-Password-Reset/
+      url: /Personal-Learning-Device-PLD-Password-Reset/
   - infopic:
       title: Tips on how to Feel Good and Do Good
       subtitle: How to "Flourish"?
