@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/cchy.gif
       key_highlights:
-        - title: Personal Learning Device (PLD) & Password Reset
+        - title: For Students
           description: ""
-          url: /our-curriculum/academic-development/department/information-communication-technlogy/personal-learning-device-initiative
+          url: ""
         - title: 2022 June Holiday CCA Programme
           description: ""
           url: /our-cca/2022-june-holiday-cca-programme
