@@ -39,4 +39,7 @@ sections:
   - resources:
       title: Announcements
       button: More announcements here
+  - infobar:
+      title: Cyber Wellness
+      button: Button Text
 ---
