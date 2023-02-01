@@ -12,9 +12,9 @@ sections:
         - title: For Students
           description: ""
           url: /useful-links/students/students-handbook
-        - title: 2022 June Holiday CCA Programme
+        - title: For Staff
           description: ""
-          url: /our-cca/2022-june-holiday-cca-programme
+          url: /useful-links/staff/
         - title: 2022 Home-based learning
           description: ""
           url: /our-curriculum/academic-development/Curriculum/2022-home-based-learning
