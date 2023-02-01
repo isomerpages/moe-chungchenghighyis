@@ -15,9 +15,9 @@ sections:
         - title: For Staff
           description: ""
           url: /useful-links/staff
-        - title: 2022 Home-based learning
+        - title: For Parents
           description: ""
-          url: /our-curriculum/academic-development/Curriculum/2022-home-based-learning
+          url: useful-links/parents/2021-e-open-house
   - infobar:
       title: Direct School Admission Exercise
       description: Please click on read more for more information
