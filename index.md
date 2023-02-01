@@ -24,10 +24,10 @@ sections:
       button: Read More
       url: /admission/Direct-School-Admission/direct-school-admission-dsa
   - infobar:
-      title: Personal Learning Device & Password Reset
+      title: Personal Learning Device (PLD) & Password Reset
       description: Please click on read more for more information
       button: Read more
-      url: /personal-learning-device/personal-learning-device-password-reset
+      url: /personal-learning-device/personal-learning-device-pld-password-reset
   - infopic:
       title: Tips on how to Feel Good and Do Good
       subtitle: How to "Flourish"?
