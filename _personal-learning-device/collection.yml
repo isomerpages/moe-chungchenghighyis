@@ -1,4 +1,5 @@
 collections:
   personal-learning-device:
     output: true
-    order: []
+    order:
+      - Personal Learning Device (PLD) & Password Reset.md
