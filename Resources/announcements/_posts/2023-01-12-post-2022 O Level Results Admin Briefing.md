@@ -1,9 +1,0 @@
----
-title: 2022 O Level Results Admin Briefing
-permalink: /Resources/announcements/permalink/
-date: 2023-01-12
-layout: post
-description: ""
-image: ""
----
-Please click on the link below to download the briefing slides.
