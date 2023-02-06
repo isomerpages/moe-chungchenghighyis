@@ -1,6 +1,6 @@
 ---
 title: School Crest and Motto
-permalink: /our-cchy/School-Direction/school-philosophy-vision-mission-n-values/school-crest-and-motto
+permalink: /our-cchy/School-Direction/school-philosophy-vision-mission-n-values/school-crest-and-motto/
 description: ""
 third_nav_title: School Direction
 ---
@@ -25,6 +25,7 @@ third_nav_title: School Direction
 <img src="/images/Hao%20Xue%20Li%20Xing.png" 
      style="width:70%">
 
+<center><b>*Success Through Diligence and Perservance*</b></center>
 
 <img src="/images/pavilion.png" 
      style="width:50%">
