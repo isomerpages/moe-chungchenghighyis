@@ -25,7 +25,7 @@ third_nav_title: School Direction
 <img src="/images/Hao%20Xue%20Li%20Xing.png" 
      style="width:70%">
 
-<center><b>*Success Through Diligence and Perservance*</b></center>
+<center><b><i>Success Through Diligence and Perseverance</i></b></center>
 
 <img src="/images/pavilion.png" 
      style="width:50%">
