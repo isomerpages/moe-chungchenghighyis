@@ -14,11 +14,13 @@ third_nav_title: School Direction
 <h1><b>Our Vision 愿景</b></h1>
 
 <center><b>A community of Future-ready Leaders with a Growth Mindset</b><center>
+	
 <center><b>培养积极进取、面向未来的领袖</b><center>
 
 <h1><b>Our Mission 我们的使命</b></h1>
 
 <center><b>Nurturing Lifelong Learners to Serve and to Lead</b><center>
+	
 <center><b>培育致力于服务和引领社稷的终身学习者</b></center>
 
 <h1><b>Our Values 价值观</b></h1>
