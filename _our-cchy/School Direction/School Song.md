@@ -1,6 +1,6 @@
 ---
 title: School Song
-permalink: /our-cchy/School-Direction/school-philosophy-vision-mission-n-values/school-song
+permalink: /our-cchy/School-Direction/school-philosophy-vision-mission-n-values/school-song/
 description: ""
 third_nav_title: School Direction
 ---
@@ -8,7 +8,9 @@ third_nav_title: School Direction
 
 ![](/images/School%20Lyrics.png)
 
-Overlooking the eastern shore of Singapore,   
+<p><center>
+Overlooking the eastern shore of Singapore,
+	
 Gallantly stands the magnificent Chung Cheng of ours.   
 Spreading far and wide our cultural heritage and traditions,  
 Enriching it with the best of all great civilizations,   
@@ -22,7 +24,7 @@ Our success and glory we share
 With people of all countries.    
 To eternity we perpetuate   
 The aspirations of our magnificent Chung Cheng,   
-Far beyond all boundaries.
+Far beyond all boundaries.</center></p>
 
 ![](/images/Chuang%20Uming.jpg)
 
