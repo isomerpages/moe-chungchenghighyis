@@ -69,12 +69,12 @@ third_nav_title: Staff
 | Mr Lim 	| Lim Chia Hwee 	| 3E 	| NCC Air (Boys) 	| [lim_chia_hwee@moe.edu.sg](mailto:lim_chia_hwee@moe.edu.sg) 	| 263 	|
 | Mdm Lim  	| Lim Min Hui  	| 2A 	|   	| [lim_minhui@moe.edu.sg](mailto:lim_minhui@moe.edu.sg)  	| 302 	|
 |  Ms Lim 	|  Lim Jia Ying 	|  1F 	| Chinese Orchestra/Guzheng Ensemble 	| [lim_jia_ying_b@moe.edu.sg](mailto:lim_jia_ying_b@moe.edu.sg)  	| 276 	|
-| Mr Lim  	|  Lim Ying Xuan 	| 3B 	|   	| [lim_ying_xuan@moe.edu.sg](mailto:lim_ying_xuan@moe.edu.sg)  	| 261 	|
-| Ms Lin 	| Lin Siyue 	| 4A 	| Peregrine Scouts Group 	| [lin_siyue@moe.edu.sg](mailto:lin_siyue@moe.edu.sg) 	| 256 	|
+| Mr Lim  	|  Lim Ying Xuan 	| 3B 	| NCC Air (Boys) 	| [lim_ying_xuan@moe.edu.sg](mailto:lim_ying_xuan@moe.edu.sg)  	| 261 	|
 | Ms Lin 	| Lin Xiaoying 	| 1E 	| Technopreneur Club 	| [lin_xiaoying@moe.edu.sg](mailto:lin_xiaoying@moe.edu.sg) 	| 273 	|
 | Ms Low 	| Low Li Shan 	|  	|  	| [low_li_shan@moe.edu.sg](mailto:low_li_shan@moe.edu.sg) 	| 286 	|
-| Ms Maria 	| Maria Duvalinda Agahari 	| 4B 	| Multimedia Club 	| [low_li_shan@moe.edu.sg](mailto:maria_duvalinda_agahari@moe.edu.sg) 	| 253 	|
-| Ms Chia 	| Mellissa Chia Pei Shan 	| 4H 	| Festival Drums 	| [chia_pei_shan_mellissa@moe.edu.sg](mailto:chia_pei_shan_mellissa@moe.edu.sg) 	| 266 	|
+| Ms Maria 	| Maria Duvalinda Agahari 	| 3G 	| Multimedia Club 	| [maria_duvalinda_agahari@moe.edu.sg](mailto:maria_duvalinda_agahari@moe.edu.sg) 	| 253 	|
+| Ms Low 	| Megan Low Ruiqi 	| 1E 	| Symphonic Band 	| [megan_low_ruiqi@moe.edu.sg](mailto:megan_low_ruiqi@moe.edu.sg) 	| 256 	|
+| Ms Chia 	| Mellissa Chia Pei Shan 	| 2A	| Festival Drums 	| [chia_pei_shan_mellissa@moe.edu.sg](mailto:chia_pei_shan_mellissa@moe.edu.sg) 	| 266 	|
 |  Mr Mohamed 	|  Mohamed Ridwan 	|   	|   	| [mohamed_ridwan_mohamed@moe.edu.sg](mailto:mohamed_ridwan_mohamed@moe.edu.sg)  	| 263 	|
 | Ms Nazeema 	| Nazeema Parveen 	| 4H 	| Symphonic Band 	| [nazeema_parveen@moe.edu.sg](mailto:nazeema_parveen@moe.edu.sg) 	| 251 	|
 |  Mr Neo 	| Neo Yao Kian Andy  	| 3A 	| NPCC  	| [neo_yao_kian_andy@moe.edu.sg](mailto:neo_yao_kian_andy@moe.edu.sg)  	| 257 	|
