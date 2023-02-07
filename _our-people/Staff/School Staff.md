@@ -97,9 +97,10 @@ third_nav_title: Staff
 | Ms Sharizan 	| Sharizan Sanwan 	|  	|  	| [sharizan_sanwan@moe.edu.sg](mailto:sharizan_sanwan@moe.edu.sg) 	| 255 	|
 | Mr Sim 	| Sim Kok Heng 	| 4C 	| Choir 	| [sim_kok_heng@moe.edu.sg](mailto:sim_kok_heng@moe.edu.sg) 	| 282 	|
 |  Ms Tan 	| Tan Jie Hui Dorcas  	| 4H 	| Fencing  	| [tan_jie_hui_dorcas@moe.edu.sg](mailto:tan_jie_hui_dorcas@moe.edu.sg)  	| 258 	|
-|  Ms Tan 	|  Tan Mui Mui 	|   	|   	| [tan_mui_mui_b@moe.edu.sg](mailto:tan_mui_mui_b@moe.edu.sg)  	| 308 	|
+|  Ms Tan 	|  Tan Mui Mui 	| 1F 	| Volleyball 	| [tan_mui_mui_b@moe.edu.sg](mailto:tan_mui_mui_b@moe.edu.sg)  	| 308 	|
 |  Mdm Tan 	| Tan Puay Khim  	|   	|   	| [tan_puay_khim@moe.edu.sg](mailto:tan_puay_khim@moe.edu.sg)  	| 327 	|
-| Ms Tan 	|  Tan Si Min 	| 1E  	|   	| [tan_si_min@moe.edu.sg](mailto:tan_si_min@moe.edu.sg)  	| 273 	|
+| Ms Tan 	|  Tan Si Min 	| 2E  	| Chinese Dance  	| [tan_si_min@moe.edu.sg](mailto:tan_si_min@moe.edu.sg)  	| 278 	|
+|  Ms Tan 	| Tan Wan Ting  	|   	|   	| [tan_wan_ting@moe.edu.sg](mailto:tan_wan_ting@moe.edu.sg)  	| 256 	|
 | Ms Teo 	| Teo Shin Yeow 	| 4G 	| Chinese Dance 	| [teo_shin_yeow@moe.edu.sg](mailto:teo_shin_yeow@moe.edu.sg) 	| 265 	|
 | Mdm Thian 	| Thian Siaw Fong 	| 2A 	| Chinese Drama 	| [thian_siaw_fong@moe.edu.sg](mailto:thian_siaw_fong@moe.edu.sg) 	| 328 	|
 | Mr Thong 	| Thong Nai Kee 	|  	|  	| [thong_nai_kee@moe.edu.sg](mailto:thong_nai_kee@moe.edu.sg) 	| 271 	|
