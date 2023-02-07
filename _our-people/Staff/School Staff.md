@@ -1,6 +1,6 @@
 ---
 title: School Staff
-permalink: /our-people/Staff/school-staff
+permalink: /our-people/Staff/school-staff/
 description: ""
 third_nav_title: Staff
 ---
@@ -12,35 +12,35 @@ third_nav_title: Staff
 |  | Name | Designation |
 | --- | --- | --- |
 | Mr | Chia Guo Hao | Principal |
-| Mrs | Chong Lai Peng | Vice-Principal 1 |
-|  Mr |  Chang Fook Yong | Vice-Principal 2 |
-| Mr | Melvin Cheong | Vice-Principal (Administration) |
+| Mrs | Chong Lai Peng | Vice-Principal Academic 1 |
+| Mr | Chang Fook Yong | Vice-Principal Academic 2 |
+| Mr | Melvin Cheong | Vice-Principal Administration |
 
 
 ### Heads of Department
 
 |  	| **Name** 	| **Head of Department** 	| **Email** 	| **Ext** 	|
 | ---	| ---	| ---	| ---	| ---	|
-| Mdm Tay 	| Tay Hui Cheng 	| SSD  	| [tay_hui_cheng@moe.edu.sg](mailto:tay_hui_cheng@moe.edu.sg)  	| 211 	|
-| Mr Ng 	| Ng Chee Meng Kenneth   	| Student Management   	| [kenneth_ng_chee_meng@moe.edu.sg](mailto:kenneth_ng_chee_meng@moe.edu.sg)   	| 218 	|
-| Mrs Goh  	| Magdalene Goh-Joseph  	| English Language & Literature  	| [magdalene_joseph_marimuthu@moe.edu.sg](mailto:magdalene_joseph_marimuthu@moe.edu.sg)  	| 219 	|
-| Ms Low  	| Low Geok Ling   	| Mother-Tongue   	| [low_geok_ling@moe.edu.sg](mailto:low_geok_ling@moe.edu.sg)   	| 220 	|
+| Mdm Tay 	| Tay Hui Cheng 	| School Staff Developer  	| [tay_hui_cheng@moe.edu.sg](mailto:tay_hui_cheng@moe.edu.sg)  	| 211 	|
+| Mrs Koh	| Desilu Anne Nair   	| Student Management   	| [desilu_anne_nair@moe.edu.sg](mailto:desilu_anne_nair@moe.edu.sg)   	| 222 	|
+| Mrs Goh  	| Magdalene Goh-Joseph  	| English & English Literature  	| [magdalene_joseph_marimuthu@moe.edu.sg](mailto:magdalene_joseph_marimuthu@moe.edu.sg)  	| 219 	|
+| Mdm Low  	| Low Geok Ling   	| Mother-Tongue Languages   	| [low_geok_ling@moe.edu.sg](mailto:low_geok_ling@moe.edu.sg)   	| 220 	|
+| Mr Tjhin 	| Tjhin Ke Ming 	| Mathematics 	| [tjhin_ke_ming@moe.edu.sg](mailto:tjhin_ke_ming@moe.edu.sg) 	| 209 	|
 | Mr Lim 	| Lim Wee Keong 	| Science 	| [lim_wee_keong_a@moe.edu.sg](mailto:lim_wee_keong_a@moe.edu.sg) 	| 213 	|
-| Ms Kaur  	| Manvinder Kaur 	| Humanities (Acting HOD)  	| [manvinder_kaur@moe.edu.sg](mailto:manvinder_kaur@moe.edu.sg)  	| 259 	|
-| Mr Quek 	| Quek Wee Siong 	| Aesthetics 	| [quek_wee_siong@moe.edu.sg](mailto:quek_wee_siong@moe.edu.sg) 	| 216 	|
-| Mr Tan 	| Victor Tan 	| PE and CCA 	| [victor_tan@moe.edu.sg](mailto:victor_tan@moe.edu.sg)  	| 217 	|
-| Ms Isma 	| Isma Wati Sidik 	| CCE  	| [isma_wati_sidik@moe.edu.sg](mailto:isma_wati_sidik@moe.edu.sg)  	| 212 	|
-| Mr Ang    	| Ang Hui Jun Edwin 	| ICT 	| [ang_hui_jun_edwin@moe.edu.sg](mailto:ang_hui_jun_edwin@moe.edu.sg) 	| 221 	|
-| Ms Wong 	| Wong Shing Liu  	| Year Head Lower Sec  	| [wong_shing_liu@moe.edu.sg](mailto:wong_shing_liu@moe.edu.sg)  	| 210 	|
-| Mr Yong 	| Yong Yin Yee 	| Year Head Upper Sec 	| [yong_yin_yee@moe.edu.sg](mailto:yong_yin_yee@moe.edu.sg) 	| 215 	|
+| Ms Kaur  	| Manvinder Kaur 	| Humanities  	| [manvinder_kaur@moe.edu.sg](mailto:manvinder_kaur@moe.edu.sg)  	| 218 	|
+| Mr Tan 	| Victor Tan 	| Physical Education & Co-Curricular Activities 	| [victor_tan@moe.edu.sg](mailto:victor_tan@moe.edu.sg)  	| 217 	|
+| Ms Isma 	| Isma Wati Sidik 	| Character & Citizenship Education  	| [isma_wati_sidik@moe.edu.sg](mailto:isma_wati_sidik@moe.edu.sg)  	| 212 	|
+| Mr Ang    	| Ang Hui Jun Edwin 	| Information & Communications Technology 	| [ang_hui_jun_edwin@moe.edu.sg](mailto:ang_hui_jun_edwin@moe.edu.sg) 	| 216 	|
+| Ms Wong 	| Wong Shing Liu  	| Year Head Lower Secondary  	| [wong_shing_liu@moe.edu.sg](mailto:wong_shing_liu@moe.edu.sg)  	| 210 	|
+| Mr Yong 	| Yong Yin Yee 	| Year Head Upper Secondary 	| [yong_yin_yee@moe.edu.sg](mailto:yong_yin_yee@moe.edu.sg) 	| 215 	|
 
 ### Teaching Staff
 
 |  	| Name of Teaching Staff 	| Form Class 	| CCA 	| Email 	| Ext 	|
 | ---	| ---	| ---	| ---	| ---	| ---	|
-| Ms Ang 	| Ang Wee Hoon 	| 3E 	| Volleyball 	| [ang_wee_hoon@moe.edu.sg](mailto:ang_wee_hoon@moe.edu.sg) 	| 275 	|
-| Mdm Priya 	| Anu Priya Nair Appukuttan 	| 4E 	|  	| [anu_priya_nair_appukuttan@moe.edu.sg](mailto:anu_priya_nair_appukuttan@moe.edu.sg) 	| 260 	|
-| Mr White 	| Brett Allan Whiteway 	| 4G 	| Peregine Scouts Group 	| [brett_allan_whiteway@moe.edu.sg](mailto:brett_allan_whiteway@moe.edu.sg) 	| 312 	|
+| Mr Chan 	| Andrew Chan Chun Yan 	| 1C 	| Peregrine Scouts Group 	| [andrew_chan_chun_yan@moe.edu.sg](mailto:andrew_chan_chun_yan@moe.edu.sg) 	| 302 	|
+| Ms Ang 	| Ang Wee Hoon 	| 4E 	| Volleyball 	| [ang_wee_hoon@moe.edu.sg](mailto:ang_wee_hoon@moe.edu.sg) 	| 275 	|
+| Mr White 	| Brett Allan Whiteway 	| 2F 	| Peregine Scouts Group 	| [brett_allan_whiteway@moe.edu.sg](mailto:brett_allan_whiteway@moe.edu.sg) 	| 312 	|
 | Mdm Chai  	| Chai Siew Chin  	|   	|   	| [chai_siew_chin@moe.edu.sg](mailto:chai_siew_chin@moe.edu.sg)  	| 328 	|
 | Mrs Goh 	| Chan Bee Lian 	| 3G 	| Volleyball 	| [chan_bee_lian@moe.edu.sg](mailto:chan_bee_lian@moe.edu.sg) 	| 281 	|
 | Mdm Chen 	| Chen Chung Yi 	| 1E 	| Green Club 	| [chen_chung_yi@moe.edu.sg](mailto:chen_chung_yi@moe.edu.sg) 	| 282 	|
