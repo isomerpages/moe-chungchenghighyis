@@ -32,7 +32,7 @@ third_nav_title: Staff
 | Mdm | Devakumar Manimegalai | Librarian |
 | Ms | Yap Hwee Hoon  | ECG Counsellor |
 | Mdm | Yap Siok Eng  | Kitchen Assistant |
-| Ms | Ng Puay Yeong Ann  | Printing |
+| Ms | Ng Puay Yeong (Ann)  | Printing |
 
 
 <img src="/images/pavilion.png" 
