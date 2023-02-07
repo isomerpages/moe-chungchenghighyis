@@ -28,7 +28,7 @@ third_nav_title: Staff
 | Mdm | Soyah Binte Ismail | Operations Support Officer (OSO) |
 | Mdm | Lee Hong Mui | Operations Support Officer (Adjt OSO) |
 | Mr | Nagarajan Maniam (Raju) | Desktop Engineer |
-|  Mr  | Lim Ming Quan  | Desktop Engineer  |
+| Mr  | Lim Ming Quan  | Desktop Engineer  |
 | Mdm | Devakumar Manimegalai | Librarian |
 | Ms | Yap Hwee Hoon  | ECG Counsellor |
 | Mdm | Yap Siok Eng  | Kitchen Assistant |
