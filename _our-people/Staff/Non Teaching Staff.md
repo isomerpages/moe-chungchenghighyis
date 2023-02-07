@@ -1,6 +1,6 @@
 ---
 title: Non Teaching Staff
-permalink: /our-people/Staff/non-teaching-staff
+permalink: /our-people/Staff/non-teaching-staff/
 description: ""
 third_nav_title: Staff
 ---
@@ -8,29 +8,32 @@ third_nav_title: Staff
 
 |  | Name | Designation |
 | --- | --- | --- |
-| Mdm | Lwa Siew Ling | Administrative Manager |
+| Mdm | Chui Su Fun | Administrative Manager |
 | Mdm | Eliyah Bte Sukor | Administrative Executive (AE) |
 | Mr | Tok Eng Hin | Operations Manager |
 | Mr | Ang Toon Siew | ICT Manager |
-| Mdm  | Tan Guat Imm Aeilin   |   Corporate Support Officer (CSO) |
 | Mdm | Lim Poh Chin | Corporate Support Officer (CSO) |
-| Mdm | S Letcheme | Corporate Support Officer (CSO) |
 |  Mdm | Lim Li Jun  | Corporate Support Officer (CSO)  |
-| Mr | Yeo Chung Beng | TSO (D&T Technical Assistant) |
-| Mr | Rosman Bin Rais | TSO (D&T Technical Assistant) |
-| Mdm | Ashwini K Gopinathan | TSO (SLT) |
-| Ms | Maizatul Nazira A Rasip | TSO (SLT) |
-| Mdm | Lee Bee Eng | Operations Support Officer(OSO) |
-| Mdm | Lim Wai Yue Chris | Operations Support Officer (OSO) |
-| Mdm | Seah Siew Hwa | Operations Support Officer(OSO) |
-| Mr | Tan Poh Chuan | Operations Support Officer(OSO) |
-| Mr | Chandrasekran S/O Ramiah | Operations Support Officer(OSO) |
-| Mdm | Soyah Ismail | Operations Support Officer (OSO) |
-| Mr | Nagarajan M | Desktop Engineer |
-|  Mr  | Liew Soon Huat  | Desktop Engineer  |
-| Ms | Mariani | Librarian |
-| Ms | Lim Siew Hong Eunice | Part Time School Counsellor |
+|  Mdm | Lee Boon See Janet  | Corporate Support Officer (CSO)  |
+|  Ms | Yip Yoke Ping Chris | Corporate Support Officer (CSO)  |
+| Mr | Yeo Chung Beng | Technical Support Officer (Design & Technology) |
+| Mr | Rosman Bin Rais | Technical Support Officer (Design & Technology) |
+| Ms | Ashwini K Gopinathan | Technical Support Officer (Science Lab) |
+| Ms | Maizatul Nazira A Rasip | Technical Support Officer (Science Lab) |
+| Mdm | Lim Wai Yue Chris | Operations Support Officer  (Science Lab) |
+| Mdm | Lee Bee Eng | Operations Support Officer (OSO) |
+| Mdm | Seah Siew Hwa | Operations Support Officer (OSO) |
+| Mr | Tan Poh Chuan | Operations Support Officer (OSO) |
+| Mr | Chandrasekran S/O Ramiah | Operations Support Officer (OSO) |
+| Mdm | Soyah Binte Ismail | Operations Support Officer (OSO) |
+| Mdm | Lee Hong Mui | Operations Support Officer (Adjt OSO) |
+| Mr | Nagarajan Maniam (Raju) | Desktop Engineer |
+|  Mr  | Lim Ming Quan  | Desktop Engineer  |
+| Mdm | Devakumar Manimegalai | Librarian |
 | Ms | Yap Hwee Hoon  | ECG Counsellor |
+| Mdm | Yap Siok Eng  | Kitchen Assistant |
+| Ms | Ng Puay Yeong Ann  | Printing |
+
 
 <img src="/images/pavilion.png" 
      style="width:50%">
