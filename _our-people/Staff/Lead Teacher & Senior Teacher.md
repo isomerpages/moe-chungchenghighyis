@@ -1,6 +1,6 @@
 ---
 title: Lead Teacher & Senior Teacher
-permalink: /our-people/Staff/lead-teacher-n-senior-teacher
+permalink: /our-people/Staff/lead-teacher-n-senior-teacher/
 description: ""
 third_nav_title: Staff
 ---
@@ -9,7 +9,7 @@ third_nav_title: Staff
 
 | Name of Lead Teacher (LT) | Teaching Subject |
 | --- | --- |
-|   |   |
+| Mr Oh Teck Tiong | Physics   |
 
   
   
