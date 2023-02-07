@@ -20,3 +20,9 @@ For more information, please click [here](https://www.betterinternet.sg/).
 ### The Cyber Alert Newsletter
 
 **_The Cyber Alert_** is a newsletter designed to communicate and disseminate issues on cyber wellness for both adults and students. We want it to be entertaining and informative, at times reflective but above all useful.
+
+[THE CYBER ALERT ISSUE 1_2020.pdf](/files/Cyber%20Wellness/THE%20CYBER%20ALERT%20ISSUE%201_2020.pdf)
+
+[CW Special Issue.pdf](/files/Cyber%20Wellness/CW%20Special%20Issue.pdf)
+
+[2021_The Cyber Alert_Issue 1.pdf](/files/Cyber%20Wellness/2021_The%20Cyber%20Alert_Issue%201.pdf)
