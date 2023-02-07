@@ -9,7 +9,7 @@ third_nav_title: Staff
 
 | Name of Lead Teacher  (LT) | Teaching Subject |
 | --- | --- |
-| Mr Oh Teck Tiong | Physics   |
+| Mr Oh Teck Tiong | Physics |
 
 
 | Name of Senior Teacher (ST) | Teaching Subject |
