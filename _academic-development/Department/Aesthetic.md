@@ -1,6 +1,6 @@
 ---
 title: Aesthetic
-permalink: /our-curriculum/academic-development/department/aesthetic
+permalink: /our-curriculum/academic-development/department/aesthetic/
 description: ""
 third_nav_title: Department
 ---
@@ -31,7 +31,7 @@ The framework is based on the National Arts Education Award framework and Art, M
 
 **Application for Art/Music Elective Programme (AEP/MEP) Centres 2022**
 
-If you would like to apply for AEP/MEP, please take note that the online application is open from 4-17 January 2022. More information can be found in the following sites:
+If you would like to apply for AEP/MEP, please take note that the online application is open from 4-17 January 2022.  More information can be found in the following sites:
 
 * AEP: [https://moe.gov.sg/aep](https://moe.gov.sg/aep)
 
