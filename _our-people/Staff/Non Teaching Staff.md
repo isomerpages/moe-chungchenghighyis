@@ -13,9 +13,9 @@ third_nav_title: Staff
 | Mr | Tok Eng Hin | Operations Manager |
 | Mr | Ang Toon Siew | ICT Manager |
 | Mdm | Lim Poh Chin | Corporate Support Officer (CSO) |
-|  Mdm | Lim Li Jun  | Corporate Support Officer (CSO)  |
-|  Mdm | Lee Boon See Janet  | Corporate Support Officer (CSO)  |
-|  Ms | Yip Yoke Ping Chris | Corporate Support Officer (CSO)  |
+| Mdm | Lim Li Jun  | Corporate Support Officer (CSO)  |
+| Mdm | Lee Boon See Janet  | Corporate Support Officer (CSO)  |
+| Ms | Yip Yoke Ping Chris | Corporate Support Officer (CSO)  |
 | Mr | Yeo Chung Beng | Technical Support Officer (Design & Technology) |
 | Mr | Rosman Bin Rais | Technical Support Officer (Design & Technology) |
 | Ms | Ashwini K Gopinathan | Technical Support Officer (Science Lab) |
