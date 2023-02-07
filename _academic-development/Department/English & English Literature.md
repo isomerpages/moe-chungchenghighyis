@@ -4,8 +4,7 @@ permalink: /our-curriculum/academic-development/department/English-n-English-Lit
 description: ""
 third_nav_title: Department
 ---
-
-# **English Language & Literature**
+# **English & English Literature**
 
 
 ### VISION: Nurturing creative, confident and articulate readers, writers and speakers of English
