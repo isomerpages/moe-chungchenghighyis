@@ -6,16 +6,16 @@ third_nav_title: Parents
 ---
 Other useful links:
 
-[Open House](https://sites.google.com/moe.edu.sg/cchyopenhouse2022/)
+1. [Open House](https://sites.google.com/moe.edu.sg/cchyopenhouse2022/)
 
-[AEP/MEP](/our-curriculum/academic-development/department/aesthetic)
+2. [AEP/MEP](/our-curriculum/academic-development/department/aesthetic)
 
-[Cyber-wellness](/our-curriculum/academic-development/department/information-communication-technology)
+3. [Cyber-wellness](/our-curriculum/academic-development/department/information-communication-technology)
 
-[DSA](/admission/Direct-School-Admission/direct-school-admission-dsa)
+4. [DSA](/admission/Direct-School-Admission/direct-school-admission-dsa)
 
-[EAE](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)
+5. [EAE](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)
 
-[Parents Gateway (PG)](/admission/Services/parents-gateway)
+6. [Parents Gateway (PG)](/admission/Services/parents-gateway)
 
-[Schoolbag](https://www.schoolbag.edu.sg/)
+7. [Schoolbag](https://www.schoolbag.edu.sg/)
