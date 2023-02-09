@@ -76,11 +76,11 @@ There are 21 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every 
 
 | Physical Sports 	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
-| **P1** 	| **Basketball (Boys)** 	| Mon & Thu 	| 3.45 – 6.45pm 	| Indoor Sports Court 	|
-| **P2** 	| **Fencing** 	| Tue & Fri 	| 3.45 – 6.45pm 	| Indoor Sports Court 	|
-| **P3** 	| **OutDoor Activities Club (ODAC)** 	| Mon & Thu 	| 3.45 – 6.45pm 	| Indoor Sports Hall (Level 1) 	|
-| **P4** 	| **Volleyball** 	| Mon & Thu (Boys)<br>Tue & Fri (Girls) 	| 3.45 – 6.45pm 	| Indoor Sports Hall 	|
-| **P5** 	| **Wushu** 	| Tue & Thu 	| 3.45 – 6.45pm 	| Indoor Sports Court 	|
+| **P1** 	| **Basketball (Boys)** 	| Mon & Wed 	| 3 – 6pm 	| Indoor Sports Court 	|
+| **P2** 	| **Fencing** 	| Tue & Thu 	| 3 – 6pm 	| Indoor Sports Court 	|
+| **P3** 	| **OutDoor Activities Club (ODAC)** 	| Mon & Thu 	| 3 – 6pm 	| Indoor Sports Hall (Level 1) 	|
+| **P4** 	| **Volleyball** 	| Mon & Wed (Boys)<br><br>Tue & Thu (Girls) 	| 3 – 6pm 	| Indoor Sports Hall 	|
+| **P5** 	| **Wushu** 	| Tue & Thu 	| 3 – 6pm 	| Indoor Sports Court 	|
 
 | Uniformed Groups (UG) 	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
