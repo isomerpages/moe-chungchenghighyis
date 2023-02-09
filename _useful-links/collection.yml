@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Parents/.keep
-      - Parents/2021 eOpen House.md
+      - Parents/Open House 2022.md
       - Parents/CCA Venue & Schedule.md
       - Parents/Sexuality Education Programme.md
       - Parents/Other Useful Links.md
