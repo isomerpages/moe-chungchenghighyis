@@ -1,10 +1,12 @@
 ---
 title: Other Useful Links
-permalink: /useful-links/Parents/other-useful-links
+permalink: /useful-links/Parents/other-useful-links/
 description: ""
 third_nav_title: Parents
 ---
 Other useful links:
+
+[Open House](https://sites.google.com/moe.edu.sg/cchyopenhouse2022/)
 
 [AEP/MEP](/our-curriculum/academic-development/department/aesthetic)
 
