@@ -84,10 +84,10 @@ There are 21 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every 
 
 | Uniformed Groups (UG) 	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
-| **U1** 	| **National Cadet Corps (Air) (NCC Air - Boys)** 	| Tue & Fri 	| 3.45 – 6.45pm 	| Field/Parade Square<br>C101/D101 Classrooms 	|
-| **U2** 	| **National Police Cadet Corps (NPCC)** 	| Tue & Fri 	| 3.45 – 6.45pm 	| Field/Parade Square<br>C102/C103 Classrooms 	|
-| **U3** 	| **Peregrine Scouts Group** 	| Tue & Fri 	| 3.45 – 6.45pm 	| Field/ISH Level 1<br>D102 Classroom 	|
-| **U4** 	| **St John Brigade** 	| Tue (even weeks)<br>Fri 	| 3.45 – 6.45pm 	| Parade Square/<br>SJB Room 	|
+| **U1** 	| **National Cadet Corps (Air) (NCC Air - Boys)** 	| Thu<br><br>*(additional training on Tuesday or when required by HQ)* 	| 3 – 6pm 	| Field/Parade Square/<br>C101/D101 Classrooms 	|
+| **U2** 	| **National Police Cadet Corps (NPCC)** 	| Thu<br><br>*(additional training on Tuesday or when required by HQ)*  	| 3 – 6pm 	| Field/Parade Square/<br>C102/C103 Classrooms 	|
+| **U3** 	| **Peregrine Scouts Group** 	| Tue<br><br>*(additional training on Thursday or when required by HQ)*  	| 3 – 6pm 	| Field/ISH Level 1/<br>D102 Classroom 	|
+| **U4** 	| **St John Brigade** 	| Thu<br><br>*(additional training on Tuesday or when required by HQ)* 	| 3 – 6pm 	| Parade Square/<br>SJB Room 	|
 
 
 | Visual & Performing Arts (VPA) 	|  	|  	|  	|  	|
