@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: For Students
           description: ""
-          url: /useful-links/students/students-handbook
+          url: /useful-links/students/
         - title: For Staff
           description: ""
           url: /useful-links/staff
