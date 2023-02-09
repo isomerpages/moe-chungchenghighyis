@@ -49,36 +49,31 @@ Sec 1 students will also be required to indicate their Top 3 choices of CCA via 
 
 The complete CCA selection process is illustrated in Figure 1 below.
 
-![](/images/2022%20CCA1.jpg)
+![](/images/Our%20CCA/CCA%20figure%201.jpg)
+![](/images/Our%20CCA/CCA%20table%201.jpg)
 
-| Date 	| Activity 	|
-| ---	| ---	|
-| 7 Jan 2022 	| CCA Open House 	|
-| 10-21 Jan 2022 	| CCA Experience:<br><br>Students must attend auditions/interviews/selection trials 	|
-| Mon 24 Jan 2022  	| List of CCAs with vacancies will be published via TV screen<br>(outside General Office) 	|
-| 25-26 Jan 2022  	| Sec 1 students to key in their Top 3 choices via FormSG 	|
-| 4 Feb 2022  	| CCA Membership List for all Sec 1 students to be published via PG 	|
-
-<center><b> Table 1. Timeline </b></center>
 
 **4. CCAs in Chung Cheng High School (Yishun)**   
-There are 21 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every student should commit to a CCA taking up about 6 hours per week of their time.
+There are 21 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every student should commit to a CCA taking up about 6 hours per week.
 
-![](/images/2022%20CCA2.jpg)
+![](/images/Our%20CCA/CCA%20figure%202.jpg)
 
-**5. CCA Schedule**  
-Schedule listed in the tables may be subjected to changes due to school needs.
+**5. CCA Schedule 2023**  
+*Schedule listed in the tables may be subjected to changes due to school needs.
+*
 
 | No 	| CCA 	| Day/s 	| Time 	| Venue 	|
 |---	|---	|---	|---	|---	|
 |  	|  	|  	|  	|  	|
 
-| Clubs & Societies 	|  	|  	|  	|  	|
+| Clubs 	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
-| **C1** 	| **Green Club** 	| Tue & Fri<br>(not inclusive of time spent on project planning and execution) 	| 3.45 – 5.45pm 	| Comp Lab 1 	|
-| **C2** 	| **Journalism & Library Club** 	| Mon & Tue<br>(not inclusive of time spent on projects/publications) 	| 3.45 – 5.45pm 	| Library 	|
-| **C3** 	| **Multimedia Club** 	| Tue &<br>All School Events 	| 3.45 – 5.45pm 	| PA Room in MPH 	|
-| **C4** 	| **Technopreneur Club** 	| Tue & Thu<br>(not inclusive of time spent on project planning and execution) 	| 3.45 – 5.45pm 	| ITR1<br>  	|
+| **C1** 	| **Green Club** 	| Tue & ^Thu<br><br>*(not inclusive of time spent on project planning and execution)* 	| 3 – 5pm 	| ITR3 	|
+| **C2** 	| **Journalism Club** 	| Mon & Tue<br><br>*(not inclusive of time spent on projects/publications)* 	| 3 – 5pm 	| Library 	|
+| **C3** 	| **Multimedia Club** 	| Tue &<br>All School Events 	| 3 – 5pm 	| Outside LT 	|
+| **C4** 	| **Technopreneur Club** 	| Tue<br><br>Thu<br><br>*(not inclusive of time spent on project planning and execution)* 	| 3 – 5pm 	| ITR1<br><br>CE Room  	|
+
+^ on odd week only
 
 | Physical Sports 	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
