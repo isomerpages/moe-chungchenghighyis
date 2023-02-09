@@ -1,12 +1,9 @@
 ---
 title: Wellbeing 365
-permalink: /our-curriculum/student-development/wellbeing-365
+permalink: /our-curriculum/student-development/wellbeing-365/
 description: ""
 third_nav_title: Student Development
 ---
-
-
-
 # **Wellbeing 365**
 <img src="/images/Wellbeing%20365%20days%20of%20the%20year.jpg" 
      style="width:70%">
@@ -66,9 +63,9 @@ Mindfulness Video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1pqPKDu19hU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<center><b>The Power of Gratitude</b></center>
+<center><b>The Power of  Choosing Gratitude</b></center>
 
-[https://www.youtube.com/watch?v=WERppcuabKE](https://www.youtube.com/watch?v=WERppcuabKE) (video not available)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2wvAhZUj1AA?start=18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <center><b>5. School and Community Support Hotline</b></center>
 
