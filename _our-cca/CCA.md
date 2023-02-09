@@ -92,13 +92,13 @@ There are 21 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every 
 
 | Visual & Performing Arts (VPA) 	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
-| **V1** 	| **Chinese Dance** 	| Mon & Thu 	| 3.45 – 6.45pm 	| AVA Room/ MPH<br>  	|
-| **V2** 	| **Chinese Drama** 	| Tue & Thu 	| 3.45 – 6.45pm 	| SBC/ Centre of Excellence (COE) Room 	|
-| **V3<br><br>V4** 	| **Chinese Orchestra<br>Guzheng Ensemble** 	| Tue – All<br> ![](/images/download.png) | 3.45 – 6.45pm 	| Orchestra Room &<br>Level 3 Classrooms 	|
-| **V5** 	| **Choir** 	| Tue & Fri 	| 3.45 – 6.45pm 	| Music Room & 2A/2B/2C classrooms 	|
-| **V6** 	| **Dance Ensemble** 	| Tue & Thu 	| 3.45 – 6.45pm 	| AVA Room/ MPH 	|
-| **V7** 	| **Festival Drums** 	| Mon & Fri 	| 3.45 – 6.45pm 	| Multi-Purpose Room (MPR) 	|
-| **V8** 	| **Symphonic Band** 	| Mon<br> <br> <br>Thu 	| 3.45 – 6.45pm<br> <br> <br>3.45 – 6.45pm 	| MPH, Music Room &<br>Level 4 classrooms<br> <br>MPR, Music Room &<br>Level 1 classrooms 	|
+| **V1** 	| **Chinese Dance** 	| Mon & Thu | 3 – 6pm 	| AVA Room/ MPH<br>  	|
+| **V2** 	| **Chinese Drama** 	| Tue & Thu 	| 3 – 6pm 	| SBC/ Centre of Excellence (COE) Room 	|
+| **V3<br><br>V4** 	| **Chinese Orchestra<br>Guzheng Ensemble** 	| Tue – All<br> ![](/images/download.png) | 3 – 6pm 	| Orchestra Room &<br>Level 2 Classrooms 	|
+| **V5** 	| **Choir** 	| Tue & Thu 	| 3 – 6pm 	| Music Room 	|
+| **V6** 	| **Festival Drums** 	| Mon<br><br>Tue 	| 3 – 6pm 	| MPH<br><br>Multi-Purpose Room (MPR) 	|
+| **V7** 	| **Dance Ensemble** 	| Tue & Thu 	| 3 – 6pm 	| AVA Room/ MPH 	|
+| **V8** 	| **Symphonic Band** 	| Mon<br> <br> <br><br><br><br>Thu 	| 3 – 6pm	| Mulit-Purpose Room (MPR), Music Room & Level 3 classrooms<br> <br>Mulit-Purpose Room (MPR), ITR1 & Level 1 classrooms 	|
 
 ### Physical Sports
 
