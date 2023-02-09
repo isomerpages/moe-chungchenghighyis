@@ -1,6 +1,6 @@
 ---
 title: CCA
-permalink: /our-cca/cca
+permalink: /our-cca/cca/
 description: ""
 ---
 # **CCA**
@@ -11,14 +11,14 @@ CCHY has constantly been attaining laudable results for both academic and CCA do
 
 ### Compulsory CCA Participation
 
-CCA is an integral part of the student’s holistic education in school. Hence, CCA participation is compulsory at the secondary school level, and every student is expected to participate in a CCA from one of the four CCA groups, namely, Clubs & Societies, Physical Sports, Uniformed Groups (UG) and Visual & Performing Arts (VPA). Participation in a school-based CCA allows the teachers to guide and chart the development of the student beyond the learning from the subject disciplines in the classroom, in areas such as leadership and character development, and the 21st Century Competencies (21CC).
+CCA is an integral part of the student’s holistic education in school. Hence, CCA participation is compulsory at the secondary school level, and every student is expected to participate in a CCA from one of the four CCA groups, namely, Clubs, Physical Sports, Uniformed Groups (UG) and Visual & Performing Arts (VPA).  Participation in a school-based CCA allows the teachers to guide and chart the development of the student beyond the learning from the subject disciplines in the classroom, in areas such as leadership and character development, and the 21st Century Competencies (21CC).
 
 ### Sec 1 CCA Experience
 
 **1. Objectives**  
-a) To allow Secondary 1 students to explore their interest in Co-Curricular Activities (CCA) and make a more informed choice
+a) To allow Secondary 1 students to explore their interest in Co-Curricular Activities (CCA) and make an informed choice
 
-b) To involve Upper Secondary students in the selection of CCA members via auditions, selection trials, and interviews
+b) To involve CCA leaders (Upper Secondary students) in the selection of CCA members via auditions, selection trials, and interviews
 
 **2. Duration**   
 It is compulsory for every student to be involved in a school-based CCA, taking up about 6 hours per week. Students have about 2 weeks in January to decide which CCA they are keen to participate in.
@@ -26,19 +26,19 @@ It is compulsory for every student to be involved in a school-based CCA, taking 
 **3. Content of Programme**  
 The following activities will be conducted throughout the month of January:
 
-*   **CCA Open House** on the Friday of Term 1 Week 1 and includes,       
+*   **CCA Carnival** on the Friday of Term 1 Week 1 and includes,       
 
-*   setting up of CCA booths for canvassing and registration for auditions, selection trials or/and interviews
+*   Students visiting CCA booths and signing up for auditions, selection trials or/and interviews
 
-*   Scheduled auditions, selection trials and interviews during Term 1 Week 2 & 3  
+*   Students attending scheduled auditions, selection trials and interviews during Term 1 Week 2 & 3  
     
 
   
 
-**3.1 CCA Open House**   
-CCA Open House will be held on Fri 7 Jan 2022.
+**3.1 CCA Carnival**   
+CCA Open House will be held on Friday of Term 1 Week 1.
 
-CCA booths will be set up in Indoor Sports Courts, MPH, MPR, and the Parade Square, from 2pm to 3.30pm. Upper Secondary students will be tasked to promote or pitch their CCAs to the Sec 1 students. As they share more information to our new students, they could encourage them to register for the CCA and attend the auditions or selections held over the next 2 weeks.  
+CCA booths will be set up in Indoor Sports Courts, MPH, MPR, and the Parade Square.  Upper Secondary CCA leaders will be tasked to promote or pitch their CCAs to the Sec 1 students. As they share more information to new students, they will encourage them to register for the CCA and attend the auditions or selections held over the next 2 weeks.  
 
 **3.2 CCA Selection Process**   
 Students may choose to go for auditions, selection trials and interviews conducted by the various CCAs. The schedule of the selection events, held during Term 1 Week 2 to 3, will be published on our school website. 
