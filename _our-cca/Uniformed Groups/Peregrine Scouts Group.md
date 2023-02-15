@@ -1,11 +1,11 @@
 ---
 title: Peregrine Scouts Group
-permalink: /our-cca/Uniformed-Groups/peregrine-scouts-group
+permalink: /our-cca/Uniformed-Groups/peregrine-scouts-group/
 description: ""
 third_nav_title: Uniformed Groups
 ---
 # **Peregrine Scouts Group**
-Scouts helps young people to develop their full physical, intellectual, emotional, and social capacities as individuals and as members of society. This is achieved through a wide variety of thrilling team-based Scouting activities such as camps, pioneering (building structures), orienteering, outdoor cooking and many more.
+*Scouts helps young people to develop their full physical, intellectual, emotional, and social capacities as individuals and as members of society. This is achieved through a wide variety of thrilling team-based Scouting activities such as camps, pioneering (building structures), orienteering, outdoor cooking and many more*.
 
 ### A Scout
 
@@ -33,9 +33,9 @@ For example, Job Week
 
 ### Teachers-in-charge
 
-Mr Luke Ng Yee Siong (1st IC)   
-Ms Lin Siyue (2nd IC)   
-Mr Brett Allan Whiteway
+Mr Ng Yee Siong (IC)   
+Ms Nurulhuda Binte Khamarudin (2IC)   
+Mr Andrew Chan Chun Yan
 
 ### Training Schedule
 
