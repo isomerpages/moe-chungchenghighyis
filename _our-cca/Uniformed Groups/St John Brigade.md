@@ -1,20 +1,20 @@
 ---
 title: St John Brigade
-permalink: /our-cca/uniformed-groups/st-john-brigade
+permalink: /our-cca/uniformed-groups/st-john-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
 # **St John Brigade**
-Our St John Brigade (SJB) unit aims to serve mankind by relieving pain and suffering. We strive to produce competent, compassionate and confident cadets who can give back to their families, the community and the country.
+*Our St John Brigade (SJB) unit aims to serve mankind by relieving pain and suffering. We strive to produce competent, compassionate and confident cadets who can give back to their families, the community and the country.*
 
 ### Motto
 For The Service of Mankind
 
 ### Teachers-in-charge
 
-Ms Nurhayati (1st IC)   
-Ms Norsuzana Bte Siani (2nd IC)   
-Mrs Peh-Leow Li Yong, Shirley
+Mrs Peh-Leow Li Yong, Shirley (IC)   
+Ms Isabelle Lim Ji Yu   
+
 
 ### Training Schedule
 Please click on the link below to view CCA venue & schedule.   
