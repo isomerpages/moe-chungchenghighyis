@@ -1,6 +1,6 @@
 ---
 title: Chinese Dance
-permalink: /our-cca/Visual-and-Performing-Arts/chinese-dance
+permalink: /our-cca/Visual-and-Performing-Arts/chinese-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
@@ -14,9 +14,9 @@ In the recent Singapore Youth Festival (SYF), the students did our school proud 
 
 ### Teachers-in-charge
 
-Ms Teo Shin Yeow (1st IC)   
-Ms Chong Lee Ching (2nd IC)   
-Mdm Sieow Lee Mei
+Ms Teo Shin Yeow (IC)   
+Ms Tan Si Min (2IC)   
+
 
 ### Training Schedule
 Please click on the link below to view CCA venue & schedule.   
