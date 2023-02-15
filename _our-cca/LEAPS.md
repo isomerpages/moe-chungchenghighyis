@@ -21,8 +21,7 @@ A <u>Fair</u> co-curricular attainment will not translate into any bonus point
 
 For more information, please click
 
-[LEAPS 2.0_Information.pdf](/files/LEAPS_CCHY.pdf)
-
+[LEAPS 2.0_Information.pdf](/files/CCA/LEAPS%202_0_CCHY.pdf)
 
 <img src="/images/pavilion.png" 
      style="width:50%">
