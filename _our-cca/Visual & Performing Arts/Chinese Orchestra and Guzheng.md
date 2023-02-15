@@ -1,6 +1,6 @@
 ---
 title: Chinese Orchestra and Guzheng
-permalink: /our-cca/Visual-and-Performing-Arts/chinese-orchestra-guzheng
+permalink: /our-cca/Visual-and-Performing-Arts/chinese-orchestra-guzheng/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
@@ -26,10 +26,10 @@ Our Chinese Orchestra and Guzheng Ensemble carries the mission of promoting Chin
 华乐是一种文化教育，希望学生对音乐和文化有更深一层的认识。
 
 ### Teachers-in-charge
-Ms Philina Wong Hai Lin (1st IC)    
-Ms Gloria Goh (2nd IC)   
+Ms Goh Wen Ling Gloria (IC)    
+Ms Lim Jia Ying (2IC)   
 Ms Liew Huey Chyi    
-Ms Lim Jia Ying  
+Ms Lee Peiqi  
 
 ### Training Schedule 
 
