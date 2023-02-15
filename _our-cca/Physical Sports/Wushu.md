@@ -1,6 +1,6 @@
 ---
 title: Wushu
-permalink: /our-cca/Physical-Sport/wushu
+permalink: /our-cca/Physical-Sport/wushu/
 description: ""
 third_nav_title: Physical Sports
 ---
@@ -15,10 +15,9 @@ Wushu routines are categorized into two styles, bare hand or weapon-play. It inc
 It helps instill in students perseverance, discipline and confidence. The practice of Wushu improves students' strength, coordination, flexibility, balance and self-defence technique. Through training and competition, students' physical and mental strengths are put to the test. Perseverance is developed when students do not give up after vigorous training or experiencing failure in competition. Discipline is developed as students commit to regular and continued practices to improve their movements. Furthermore, confidence develops when art is executed under pressure during competition or performances.
 
 ## Teachers-in-charge   
-Ms Katrina (1st IC)   
-Mr Ronnie Yeo See Heng (2nd IC)   
-Ms Norlizawati Bte Juahil (Mrs Shah)   
-Mr Terence Poh
+Ms Katrina Nur Hidayah Md Hamsah (IC)<br>
+Ms Norlizawati Binte Juahil (2IC)<br>
+Mr Lee Kah Lin Alvin (2IC)
 
 ### Training Schedule
 Please click on the link below to view CCA venue & schedule.   
