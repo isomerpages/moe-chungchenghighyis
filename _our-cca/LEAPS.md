@@ -20,6 +20,7 @@ iii. At least Level 4 in one domain.
 A <u>Fair</u> co-curricular attainment will not translate into any bonus points as the student has not met the minimum criteria for a Good co-curricular attainment.
 
 For more information, please click
+
 [LEAPS 2.0_Information.pdf](/files/LEAPS_CCHY.pdf)
 
 
