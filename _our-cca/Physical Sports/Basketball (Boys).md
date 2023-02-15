@@ -1,6 +1,6 @@
 ---
 title: Basketball (Boys)
-permalink: /our-cca/physical-sports/basketball-boys
+permalink: /our-cca/physical-sports/basketball-boys/
 description: ""
 third_nav_title: Physical Sports
 ---
@@ -10,8 +10,8 @@ The CCHY Basketball Team focuses on developing sportsmen of resilient character 
 
 ### Teachers-in-charge
 
-Mr Alvin Tok (1st IC)   
-Mr Benedict Chui (2nd IC)
+Mr Alvin Tok Wei Ee (IC)   
+Mr Chui Ming Fa Benedict (2IC)
 
 ### Training Schedule
 
