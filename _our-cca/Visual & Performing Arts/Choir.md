@@ -1,6 +1,6 @@
 ---
 title: Choir
-permalink: /our-cca/Visual-and-Performing-Arts/choir
+permalink: /our-cca/Visual-and-Performing-Arts/choir/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
@@ -24,8 +24,8 @@ To be part of a team and work together as one,
 *   enjoying the experience and the camaraderie
 
 ### Teachers-in-charge
-Mr Sim Kok Heng (1st IC)  
-Ms Nur Marlinda (2nd IC)
+Mr Sim Kok Heng (IC)  
+Ms Nur Marlinda Bte Aziz (2IC)
 
 ### Training Schedule
 
