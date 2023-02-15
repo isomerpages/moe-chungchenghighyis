@@ -1,6 +1,6 @@
 ---
 title: OutDoor Activities Club (ODAC)
-permalink: /our-cca/Physical-Sports/outdoor-activities-club-odac
+permalink: /our-cca/Physical-Sports/outdoor-activities-club-odac/
 description: ""
 third_nav_title: Physical Sports
 ---
@@ -22,9 +22,9 @@ The Outdoor Activities Club (ODAC) was set up to bring out every student’s pot
 
 ### Teachers-in-charge
 
-Mr Jeffrey Ong (1st IC)   
-Ms Sophia Sim (2nd IC)   
-Mr Gary Peh
+Mr Jeffrey Ong Han Hoe (IC)<br> 
+Mr Poh Eng Hua Terence<br>
+Mr Gary Peh Kai Xiang
 
 ### Training Schedule
 Please click on the link below to view CCA venue &amp; schedule.&nbsp;  
