@@ -1,6 +1,6 @@
 ---
 title: Volleyball
-permalink: /our-cca/Physical-Sports/volleyball
+permalink: /our-cca/Physical-Sports/volleyball/
 description: ""
 third_nav_title: Physical Sports
 ---
@@ -10,9 +10,10 @@ third_nav_title: Physical Sports
 
 ### Teachers-in-charge
 
-Mrs Lynn Goh (1st IC)   
-Ms Fyn Ang Wee Hoon (2nd IC)    
-Mr Han Ji
+Mdm Chan Bee Lian (1IC)   
+Ms Ang Wee Hoon (2IC)    
+Mr Han Ji<br>
+Ms Tan Mui Mui
 
 ### Training Schedule
 
