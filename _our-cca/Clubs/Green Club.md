@@ -4,8 +4,6 @@ permalink: /our-cca/Clubs/green-club/
 description: ""
 third_nav_title: Clubs
 ---
-
-
 # **Green Club**
 
 <img src="/images/Chung%20Cheng%20High%20School-Green%20Club%20Symbol.jpg" 
@@ -15,9 +13,9 @@ The Green Club strives to contribute actively to the environment and community t
 
 ### Teachers-in-charge
 
-Mdm Chen Chung Yi (1st IC)    
-Ms Lee Yanmei (2nd IC)   
-Mdm Junaina
+Ms Lee Yanmei (IC)    
+Mr Whiteway Brett Allan (2IC)   
+
 
 ### Training Schedule
 
