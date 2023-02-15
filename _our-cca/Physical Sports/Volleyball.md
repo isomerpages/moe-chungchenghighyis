@@ -10,7 +10,7 @@ third_nav_title: Physical Sports
 
 ### Teachers-in-charge
 
-Mdm Chan Bee Lian (1IC)   
+Mdm Chan Bee Lian (IC)   
 Ms Ang Wee Hoon (2IC)    
 Mr Han Ji<br>
 Ms Tan Mui Mui
