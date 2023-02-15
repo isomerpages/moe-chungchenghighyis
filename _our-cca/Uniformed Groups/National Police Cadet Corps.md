@@ -1,6 +1,6 @@
 ---
 title: National Police Cadet Corps
-permalink: /our-cca/uniformed-groups/national-police-cadet-corps
+permalink: /our-cca/uniformed-groups/national-police-cadet-corps/
 description: ""
 third_nav_title: Uniformed Groups
 ---
@@ -13,9 +13,9 @@ Our cadets are exposed to the unique opportunities to gain exposure and familiar
 
 ### Teachers-in-charge
 
-Ms Mabel Ng (1st IC)   
-Mr Ng Jun Xiong (2nd IC)   
-Mr Neo Yao Kian Andy
+Mr Neo Yao Kian Andy (IC)   
+Ms Ng Boon Cheng (2IC)   
+Mr Ng Jun Xiong
 
 ### Training Schedule
 Please click on the link below to view CCA venue & schedule.   
