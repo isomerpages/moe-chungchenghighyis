@@ -21,7 +21,5 @@ Please click on the link below to download the document:
 [Sec 1 CCA Selection Dates 2023.pdf](/files/CCA/Sec%201%20CCA%20Selection%20Dates%202023.pdf)
 
 
-
-
 <img src="/images/pavilion.png" 
      style="width:50%">
