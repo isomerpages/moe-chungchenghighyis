@@ -15,9 +15,9 @@ Extraordinary Youth Leaders
 To nurture inspiring leaders and committed citizens through fun, adventurous and military-related activities.
 
 ### Teachers-in-charge
-Mr Lim Chia Hwee (1st IC)  
-Mr Alvin Lee Kah Lin (2nd IC)   
-Mr Soo Jun Hao  
+Mr Lim Chia Hwee (IC)  
+Mr Lim Ying Xuan (2IC)   
+Mr Toh Yong Hock  
 
 ### Training Schedule
 
