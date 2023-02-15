@@ -1,6 +1,6 @@
 ---
 title: Dance Ensemble
-permalink: /our-cca/Visual-and-Performing-Arts/dance-ensemble
+permalink: /our-cca/Visual-and-Performing-Arts/dance-ensemble/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
@@ -20,9 +20,9 @@ We are the Dancers, We create the Dreams.
 
 ### Teachers-in-charge
 
-Ms Noor Fazillah (1st IC)    
-Ms Shalynn Sasha Chua (2nd IC)    
-Ms Goh Xiu Qing Elizabeth  
+Ms Noor Fazillah Bte Noor Aziz (IC)    
+Ms Goh Xiu Qing Elizabeth (2IC)    
+
 
 ### Training Schedule
 
