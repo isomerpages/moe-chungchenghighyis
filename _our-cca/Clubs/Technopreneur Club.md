@@ -4,16 +4,14 @@ permalink: /our-cca/Clubs/technopreneur-club/
 description: ""
 third_nav_title: Clubs
 ---
-
-
 # **Technopreneur Club**
 
 ![](/images/Entrepreneur%20Club.jpg)
 
 ### Teachers-in-charge
 
-Mdm Nur Jannah (1st IC)     
-Ms Lin Xiaoying (2nd IC)
+Mdm Nur Jannah Binte Noor (IC)     
+Ms Lin Xiaoying (2IC)
 
 ### Training Schedule
 
