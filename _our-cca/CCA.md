@@ -124,7 +124,7 @@ There are 21 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every 
 *  [Dance Ensemble](/our-cca/Visual-and-Performing-Arts/dance-ensemble)
 *  [Symphonic Band](/our-cca/Visual-and-Performing-Arts/symphonic-band)
 
-### Clubs and Societies
+### Clubs
 *  [Multimedia Club](/our-cca/Clubs/multimedia-club)
 *  [Technopreneur Club](/our-cca/Clubs/technopreneur-club)
 *  [Green Club](/our-cca/Clubs/green-club)
