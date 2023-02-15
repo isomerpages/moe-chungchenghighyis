@@ -1,6 +1,6 @@
 ---
 title: Chinese Drama
-permalink: /our-cca/Visual-and-Performing-Arts/chinese-drama
+permalink: /our-cca/Visual-and-Performing-Arts/chinese-drama/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
@@ -13,8 +13,8 @@ We also provide performance opportunities to build leadership skills in our stud
   
 
 ### Teachers-in-charge
-Mdm Thian Siaw Fong (1st IC)   
-Ms Zhu Peilin (2nd IC)
+Mdm Thian Siaw Fong (IC)   
+Ms Zhu Peilin (2IC)
 
 ### Training Schedule
 Please click on the link below to view CCA venue & schedule.   
