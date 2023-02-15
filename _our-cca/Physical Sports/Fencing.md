@@ -1,6 +1,6 @@
 ---
 title: Fencing
-permalink: /our-cca/Physical-Sports/fencing
+permalink: /our-cca/Physical-Sports/fencing/
 description: ""
 third_nav_title: Physical Sports
 ---
@@ -14,9 +14,9 @@ Fencing requires one to be alert at all times, with the skills and ability to th
 
 ### Teachers-in-charge
 
-Ms Jessica Ho (1st IC)
+Ms Ho Soo Fern (IC)
 
-Ms Tan Jie Hui Dorcas (2nd IC)  
+Ms Tan Jie Hui Dorcas (2IC)  
 
 ### Training Schedule
 Please click on the link below to view CCA venue & schedule.   
