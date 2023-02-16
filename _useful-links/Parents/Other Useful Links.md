@@ -6,7 +6,7 @@ third_nav_title: Parents
 ---
 Other useful links:
 
-1. [Sec 1 Registration](https://sites.google.com/moe.edu.sg/cchyopenhouse2022/)
+1. [Sec 1 Registration for Parents and Students](https://sites.google.com/moe.edu.sg/cchys12023)
 
 2. [Open House](https://sites.google.com/moe.edu.sg/cchyopenhouse2022/)
 
