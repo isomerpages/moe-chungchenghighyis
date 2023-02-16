@@ -28,7 +28,7 @@ Registration Address: 40-56 Goodman Road, Singapore 439012
 
 ### 入会 Application for Membership
 
-[Click here](http://www.chungchengalumni.com/%E5%85%A5%E4%BC%9A%E7%94%B3%E8%AF%B7%E8%A1%A8%E6%A0%BC.php) to submit your membership application
+[Click here](https://www.chungchengalumni.com/%e5%8a%a0%e5%85%a5%e6%88%91%e4%bb%ac/) to submit your membership application
 
 <img src="/images/pavilion.png" 
      style="width:50%">
