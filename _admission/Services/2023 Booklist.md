@@ -24,17 +24,18 @@ Secondary 2:
 
 
 Secondary 3:   
-[3NT.pdf](/files/Booklist/3NT.pdf)    
-[3NA.pdf](/files/Booklist/3NA.pdf)   
-[3EXPRESS.pdf](/files/Booklist/3EXPRESS.pdf)   
+[3_NT.pdf](/files/Admission/Services/Booklist/3_NT.pdf)<br>
+[3_NA.pdf](/files/Admission/Services/Booklist/3_NA.pdf)<br>
+[3_EXPRESS.pdf](/files/Admission/Services/Booklist/3_EXPRESS.pdf)
 
 Secondary 4:    
-[4NT.pdf](/files/Booklist/4NT.pdf)    
-[4NA.pdf](/files/Booklist/4NA.pdf)   
-[4EXPRESS.pdf](/files/Booklist/4EXPRESS.pdf)
+[4_NT.pdf](/files/Admission/Services/Booklist/4_NT.pdf)<br>
+[4_NA.pdf](/files/Admission/Services/Booklist/4_NA.pdf)<br>
+[4_EXPRESS.pdf](/files/Admission/Services/Booklist/4_EXPRESS.pdf)
+
 
 Secondary 5:   
-[5NA.pdf](/files/Booklist/5NA.pdf)
+[5NA.pdf](/files/Admission/Services/Booklist/5NA.pdf)
 
 <img src="/images/pavilion.png" 
      style="width:50%">
