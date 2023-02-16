@@ -1,6 +1,6 @@
 ---
 title: Parents Gateway
-permalink: /admission/Services/parents-gateway
+permalink: /admission/Services/parents-gateway/
 description: ""
 third_nav_title: Services
 ---
@@ -19,9 +19,12 @@ From May 2019, parents who are onboard Parents Gateway will receive announcement
 We look forward to your support. Thank you.
 
 **Updated User Guide for parents**    
-[PG User Guide for Parents - Aug 2020.pdf](/files/PG%20User%20Guide%20for%20Parents%20-%20Aug%202020.pdf) - Contains instruction on Travel Declaration & information on Push Notification    
-[Frequently Asked Questions (For Parents).pdf](/files/Frequently%20Asked%20Questions%20(For%20Parents).pdf)   
-[Read PDFs easily on mobile.pdf](/files/Read%20PDFs%20easily%20on%20mobile.pdf)    
+[PG User Guide for Parents - Aug 2020.pdf](/files/Admission/Services/Parents%20Gateway/PG%20User%20Guide%20for%20Parents%20-%20Aug%202020.pdf) - Contains instruction on Travel Declaration & information on Push Notification   
+
+[Frequently Asked Questions (For Parents).pdf](/files/Admission/Services/Parents%20Gateway/Frequently%20Asked%20Questions%20(For%20Parents).pdf)
+
+[How to read PDFs easily on mobile.pdf](/files/Admission/Services/Parents%20Gateway/Read%20PDFs%20easily%20on%20mobile.pdf)
+
 
 **Annex A - Instructional Guide**
 
