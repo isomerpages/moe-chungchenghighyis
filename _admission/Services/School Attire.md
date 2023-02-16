@@ -24,8 +24,9 @@ Walk-in purchase at retail outlet is strictly by Appointment only, please be rem
 ### School Uniform Sale for 2023 Secondary One Students
 
 Due to Covid-19, booking of appointments shall be necessary for walk-in purchase of books and uniforms, and also for the collection of online orders. For the convenience of our students/ parents, our school uniform and bookshop vendors are using one appointment booking system. Please see the attached document for instructions.  
-  
-[CCHY S1 2023 Sales.pdf](/files/Admission/School%20Attire/CCHY%20S1%202023%20Sales.pdf)	
+
+[CCHY S1 2023 Sales.pdf](/files/Admission/Services/School%20Attire/CCHY%20S1%202023%20Sales.pdf)
+
 
 
 School Uniform
