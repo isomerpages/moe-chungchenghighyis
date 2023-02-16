@@ -12,14 +12,16 @@ third_nav_title: Services
 Please click on the links below to download the booklist:  
   
 Secondary 1:<br>
-[1_NT.pdf](/files/Booklist/1_NT.pdf)<br>
-[1_NA.pdf](/files/Booklist/1_NA.pdf)<br>
-[1_EXPRESS.pdf](/files/Booklist/1_EXPRESS.pdf)
+[1_NT.pdf](/files/Admission/Services/Booklist/1_NT.pdf)<br>
+[1_NA.pdf](/files/Admission/Services/Booklist/1_NA.pdf)<br>
+[1_EXPRESS.pdf](/files/Admission/Services/Booklist/1_EXPRESS.pdf)
+
 
 Secondary 2:   
-[2NT.pdf](/files/Booklist/2_NT.pdf)   
-[2NA.pdf](/files/Booklist/2_NA.pdf)   
-[2EXPRESS.pdf](/files/Booklist/2EXPRESS.pdf)
+[2_NT.pdf](/files/Admission/Services/Booklist/2_NT.pdf)<br>
+[2_NA.pdf](/files/Admission/Services/Booklist/2_NA.pdf)<br>
+[2_EXPRESS.pdf](/files/Admission/Services/Booklist/2_EXPRESS.pdf)
+
 
 Secondary 3:   
 [3NT.pdf](/files/Booklist/3NT.pdf)    
