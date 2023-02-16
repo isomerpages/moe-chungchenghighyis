@@ -31,11 +31,6 @@ sections:
       button: Read More
       description: Please click on read more for more information
       url: /cyber-wellness/
-  - infobar:
-      title: Direct School Admission Exercise
-      description: Please click on read more for more information
-      button: Read More
-      url: /admission/Direct-School-Admission/direct-school-admission-dsa
   - infopic:
       title: Tips on how to Feel Good and Do Good
       subtitle: How to "Flourish"?
@@ -45,4 +40,3 @@ sections:
       image: /images/Wellbeing 365 logo 1.jpg
       alt: Image alt text
 ---
-
