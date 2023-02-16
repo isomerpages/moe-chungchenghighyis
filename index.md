@@ -42,5 +42,6 @@ sections:
   - infobar:
       title: Facebook
       subtitle: MEDIA
-      button: Button Text
+      button: VIEW
+      url: https://www.facebook.com/Chung-Cheng-High-School-Yishun-649727622164220/
 ---
