@@ -10,8 +10,8 @@ Our strategic overseas partnership with reputable educational institutions has g
 ### Links to Twinning Schools
 
 * [Renmin University of China](https://www.rdfz.cn/en/)
-* [Shanghai Shangnan Middle School](http://www.hsshn.pudong-edu.sh.cn/infoweb/)
-* [Shangwen Middle School](http://shangwen.hpe.cn/)
+* [Shanghai Shangnan Middle School](http://www.hsshn.pudong-edu.sh.cn)
+* [Shangwen Middle School](http://shangwen.hpe.cn)
 
 
 <img src="/images/pavilion.png" 
