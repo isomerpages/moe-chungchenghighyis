@@ -32,7 +32,7 @@ Their PSLE score should meet the school's cut-off point of the posting year. Tra
 | SN 	| Description 	| Destination 	|
 |:---:	|:---:	|:---:	|
 | 1 	| Link to access appeal form  	| [https://form.gov.sg/63a25475cf15ee0012a54d26](https://form.gov.sg/63a25475cf15ee0012a54d26) 	|
-| 2 	| QR Code to access appeal form 	| <img src="/images/QR%20Code%20to%20access%20appeal%20form.jpg" style="width:25%"> 	|
+| 2 	| QR Code to access appeal form 	| <img src="/images/QR%20code%20to%20access%20appeal%20form.jpg" style="width:25%"> 	|
 
 
 <img src="/images/pavilion.png" 
