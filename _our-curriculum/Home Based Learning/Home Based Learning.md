@@ -4,11 +4,6 @@ permalink: /our-curriculum/home-based-learning/
 description: ""
 third_nav_title: Home Based Learning
 ---
-
-
-
-
-
 # **2022 Home-based Learning**
 
 ### Curriculum Coverage
