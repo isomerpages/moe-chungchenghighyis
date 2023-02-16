@@ -2,9 +2,9 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Academic Development/Progression in Studies.md
-      - Academic Development/Academic Development.md
       - Academic Development/.keep
+      - Academic Development/Academic Development.md
+      - Academic Development/Progression in Studies.md
       - Student Development/.keep
       - Student Development/Student Development.md
       - Student Development/Student Leadership.md
