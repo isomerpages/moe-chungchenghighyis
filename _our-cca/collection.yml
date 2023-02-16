@@ -2,9 +2,9 @@ collections:
   our-cca:
     output: true
     order:
-      - CCA/CCA Venue & Schedule.md
-      - CCA/CCA.md
       - CCA/.keep
+      - CCA/CCA.md
+      - CCA/CCA Venue & Schedule.md
       - LEAPS.md
       - Physical Sports/.keep
       - Physical Sports/Basketball (Boys).md
