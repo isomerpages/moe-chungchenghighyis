@@ -30,7 +30,7 @@ Their PSLE score should meet the school's cut-off point of the posting year. Tra
 5. The application is deemed to be unsuccessful if you do not hear from the school by 6th January 2023.
 
 | SN 	| Description 	| Destination 	|
-|:---:	|:---:	|:---:	|
+|:---:	|:---	|:---:	|
 | 1 	| Link to access appeal form  	| [https://form.gov.sg/63a25475cf15ee0012a54d26](https://form.gov.sg/63a25475cf15ee0012a54d26) 	|
 | 2 	| QR Code to access appeal form 	| <img src="/images/QR%20code%20to%20access%20appeal%20form.jpg" style="width:25%"> 	|
 
