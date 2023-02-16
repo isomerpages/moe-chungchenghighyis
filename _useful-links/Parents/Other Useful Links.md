@@ -14,12 +14,12 @@ Other useful links:
 
 4. [CCA Venue & Schedule]()
 
-4. [Cyber-wellness](/our-curriculum/academic-development/department/information-communication-technology)
+5. [Cyber-wellness](/our-curriculum/academic-development/department/information-communication-technology)
 
-5. [DSA](/admission/direct-school-admission-dsa)
+6. [DSA](/admission/direct-school-admission-dsa)
 
-6. [EAE](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)
+7. [EAE](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)
 
-7. [Parents Gateway (PG)](/admission/Services/parents-gateway/)
+8. [Parents Gateway (PG)](/admission/Services/parents-gateway/)
 
-8. [Schoolbag](https://www.schoolbag.edu.sg/)
+9. [Schoolbag](https://www.schoolbag.edu.sg/)
