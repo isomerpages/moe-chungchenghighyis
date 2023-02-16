@@ -11,7 +11,7 @@ third_nav_title: Chung Cheng Family
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X4gVEs_7fxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### 中正中学校友2022至2024年理事会
+### 中正中学校友2022至2024年理事
 
 The Alumni of Chung Cheng High School – Management Council
 For more information, please click [here](https://www.chungchengalumni.com/%e7%90%86%e4%ba%8b%e4%bc%9a/).
