@@ -18,6 +18,6 @@ Other useful links:
 
 6. [EAE](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)
 
-7. [Parents Gateway (PG)](/admission/Services/parents-gateway)
+7. [Parents Gateway (PG)](/admission/Services/parents-gateway/)
 
 8. [Schoolbag](https://www.schoolbag.edu.sg/)
