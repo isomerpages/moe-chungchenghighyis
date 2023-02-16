@@ -12,6 +12,8 @@ Other useful links:
 
 3. [AEP/MEP](/our-curriculum/academic-development/department/aesthetic)
 
+4. [CCA Venue & Schedule]()
+
 4. [Cyber-wellness](/our-curriculum/academic-development/department/information-communication-technology)
 
 5. [DSA](/admission/direct-school-admission-dsa)
