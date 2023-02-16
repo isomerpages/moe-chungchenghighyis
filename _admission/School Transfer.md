@@ -6,9 +6,9 @@ description: ""
 # **School Transfer**
 ### School Transfer Form
 
-[2022 S1 Appeal for School Transfer_Application Form.pdf](/files/2022%20S1%20Appeal%20for%20School%20Transfer_Application%20Form.pdf)
+[S1 Appeal for School Transfer_Application Form.pdf](/files/Admission/School%20Transfer/S1%20Appeal%20for%20School%20Transfer_Application%20Form.pdf)
 
-[2022 S2 and S3 Appeal for School Transfer_Application Form.pdf](/files/2022%20S2%20and%20S3%20Appeal%20for%20School%20Transfer_Application%20Form.pdf)
+[S2 and S3 Appeal for School Transfer_Application Form.pdf](/files/Admission/School%20Transfer/S2%20and%20S3%20Appeal%20for%20School%20Transfer_Application%20Form.pdf)
 
 
 ### 2023 S1 Appeal for School Transfer (For School Posting only)
@@ -17,7 +17,7 @@ Primary 6 students who have just received their secondary school posting in 2022
 
 Their PSLE score should meet the school's cut-off point of the posting year. Transfer will be subject to available vacancies and the school’s admission criteria.
 
-**Notes:**
+<u>**Notes:**</u>
 
 1. The personal information provided in this form will be solely used for the purpose of appealing for secondary school transfer based on non-medical reasons. For appeals based on medical reasons (serious medical conditions or severe physical impairments), please request through the posted school by 12:00pm on 22nd December 2022.
 
