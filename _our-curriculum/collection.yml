@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Full Subject Based Banding.md
       - Academic Development/.keep
       - Academic Development/Academic Development.md
       - Academic Development/Promotion Criteria.md
@@ -15,4 +14,5 @@ collections:
       - Signature Programme/ALP.md
       - Signature Programme/LLP.md
       - Signature Programme/Positive Education.md
+      - Full Subject Based Banding.md
       - Home Based Learning.md
