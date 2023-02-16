@@ -1,6 +1,6 @@
 ---
 title: DSA Talent Areas, Criteria and Selection Process
-permalink: /admission/direct-school-admission/dsa-Sec/dsa-talent-areas-criteria-and-selection-process
+permalink: /admission/direct-school-admission/dsa-Sec/dsa-talent-areas-criteria-and-selection-process/
 description: ""
 third_nav_title: DSA (Sec)
 ---
@@ -16,7 +16,7 @@ We invite Primary 6 students with strong interest in the following CCAs to apply
 
 We invite Primary 6 students with strong interest in the following CCAs to apply through the DSA-Sec Exercise.  
   
-Short-listed applicants will be informed of the date, time and other important details for their audition/selection trials and interview.
+<u>Short-listed applicants</u> will be informed of the date, time and other important details for their audition/selection trials and interview.
 
 <img src="/images/pavilion.png" 
      style="width:50%">
