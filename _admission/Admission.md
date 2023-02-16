@@ -1,11 +1,8 @@
 ---
 title: Admission
-permalink: /admission
+permalink: /admission/
 description: ""
 ---
-
-
-
 # **Admission**
 
 #### An introduction to our School
@@ -16,10 +13,19 @@ description: ""
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mrqGIaC5Dps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#### Sec 1 Intake Cut-off Achievement Level (AL) Range
+
+| Year 	| Express 	| Normal Academic 	| Normal Technical 	|
+|:---:	|:---:	|:---:	|:---:	|
+| 2022 	| 5 - 11 	| 21 - 23 	| 25 - 29 	|
+
+* 2023 Sec 1 Intake's AL range may vary depends on the demand pattern and cohort size.
+
 #### Sec 1 Intake Cut-off PSLE Points
 
 | Year 	| Express 	| Normal Academic 	| Normal Technical 	|
 |:---:	|:---:	|:---:	|:---:	|
+| 2021 	| 242 	| 185 	| 143 	|
 | 2020 	| 241 	| 185 	| 142 	|
 |  2019  	|  240  	|  184 	| 142  	|
 | 2018 	| 238 	| 185 	| 139 	|
