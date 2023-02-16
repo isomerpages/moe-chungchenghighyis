@@ -14,7 +14,7 @@ Other useful links:
 
 4. [Cyber-wellness](/our-curriculum/academic-development/department/information-communication-technology)
 
-5. [DSA](/admission/Direct-School-Admission/direct-school-admission-dsa)
+5. [DSA](/admission/direct-school-admission/direct-school-admission-dsa)
 
 6. [EAE](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)
 
