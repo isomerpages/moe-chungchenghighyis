@@ -25,7 +25,8 @@ Walk-in purchase at retail outlet is strictly by Appointment only, please be rem
 
 Due to Covid-19, booking of appointments shall be necessary for walk-in purchase of books and uniforms, and also for the collection of online orders. For the convenience of our students/ parents, our school uniform and bookshop vendors are using one appointment booking system. Please see the attached document for instructions.  
   
-[CCHY S1 2022 sale schedule_.pdf](/files/CCHY%20S1%202022%20sale%20schedule_.pdf)
+[CCHY S1 2023 Sales.pdf](/files/Admission/School%20Attire/CCHY%20S1%202023%20Sales.pdf)	
+
 
 School Uniform
 --------------
