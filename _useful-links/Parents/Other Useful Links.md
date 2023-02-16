@@ -12,7 +12,7 @@ Other useful links:
 
 3. [AEP/MEP](/our-curriculum/academic-development/department/aesthetic)
 
-4. [CCA Venue & Schedule]()
+4. [CCA Venue & Schedule](/our-cca/cca/cca-venue-schedule)
 
 5. [Cyber-wellness](/our-curriculum/academic-development/department/information-communication-technology)
 
