@@ -13,7 +13,7 @@ description: ""
 
 4. [CCA Venue & Schedule](/our-cca/cca/cca-venue-schedule)
 
-5. [Cyber-wellness](/our-curriculum/academic-development/department/information-communication-technology)
+5. [Cyber-wellness](/cyber-wellness/)
 
 6. [DSA](/admission/direct-school-admission-dsa)
 
