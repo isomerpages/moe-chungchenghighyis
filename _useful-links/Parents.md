@@ -15,7 +15,7 @@ description: ""
 
 5. [Cyber-wellness](/cyber-wellness/)
 
-6. [DSA](/admission/direct-school-admission-dsa)
+6. [Direct School Admission (DSA)](/admission/direct-school-admission-dsa)
 
 7. [Early Admissions Exercise (EAE)](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)
 
