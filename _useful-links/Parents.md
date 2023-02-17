@@ -22,3 +22,5 @@ description: ""
 8. [Parents Gateway (PG)](/admission/Services/parents-gateway/)
 
 9. [Schoolbag](https://www.schoolbag.edu.sg/)
+
+10. [Sexuality Education Programme](/our-curriculum/sexuality-education-programme/)
