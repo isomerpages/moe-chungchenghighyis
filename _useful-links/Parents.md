@@ -17,7 +17,7 @@ description: ""
 
 6. [DSA](/admission/direct-school-admission-dsa)
 
-7. [EAE](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)
+7. [Early Admissions Exercise (EAE)](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)
 
 8. [Parents Gateway (PG)](/admission/Services/parents-gateway/)
 
