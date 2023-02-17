@@ -20,7 +20,7 @@ description: ""
 13. [Resource Booking Service (RBS)](https://rbs.avero-tech.com/)
 14. [School Cockpit](https://schoolcockpit.moe.gov.sg)
 15. [SCMobile](https://scmobile.moe.edu.sg/home)
-16. [Student Learning Space](https://vle.learning.moe.edu.sg/login)
+16. [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 
 <img src="/images/pavilion.png" 
      style="width:50%">
