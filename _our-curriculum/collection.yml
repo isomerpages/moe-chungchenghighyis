@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Sexuality Education Programme.md
       - Academic Development/.keep
       - Academic Development/Academic Development.md
       - Academic Development/Promotion Criteria.md
@@ -17,3 +16,4 @@ collections:
       - Signature Programme/Positive Education.md
       - Full Subject Based Banding.md
       - Home Based Learning.md
+      - Sexuality Education Programme.md
