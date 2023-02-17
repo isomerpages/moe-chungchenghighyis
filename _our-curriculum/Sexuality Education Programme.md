@@ -35,7 +35,6 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 
         a.    Science
 
-
         b.    Character and Citizenship Education (CCE)
 
 **Sexuality Education Lessons:**
@@ -44,12 +43,12 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 
 7.    Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-**At Chung Cheng High School (Yishun), the following Sexuality Education lessons will be taught in 2022:**
+**At Chung Cheng High School (Yishun), the following Sexuality Education lessons will be taught in 2023:**
 
 **SECONDARY 1**
 
-| UNIT 	| LESSONS/<br>DURATION 	| LESSON OBJECTIVES<br>At the end of the lesson, students will be able to: 	| TIME PERIOD<br>(e.g. Term 1 Week 2)  	|
-|---	|---	|---	|---	|
+| Unit 	| Lesson Title/<br>Duration	| Lesson Overview | Lesson Objectives<br><br>At the end of the lesson, students will be able to: 	| Time Period<br><br>(e.g. Term 1 Week 2)  	|
+|---	|---	|---	|---	|---	|
 | Respectful Relationships & Safety<br> 	| 1<br>(60 mins) 	| • Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br><br>• Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br><br>• Recognise the importance and understand what builds healthy and supportive relationships, both online and offline <br>Understand what dating is, and recognise that the readiness and interest in dating vary among individuals<br> 	| Term 4 Week 1 	|
 |  	| 2<br>(60 mins) 	| • Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept 	| Term 4 Week 2 	|
 |  	| 3<br>(60 mins) 	| • Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br><br>• Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc) 	| Term 4 Week 3 	|
