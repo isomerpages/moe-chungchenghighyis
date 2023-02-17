@@ -2,6 +2,7 @@ collections:
   academic-development:
     output: true
     order:
+      - Promotion Criteria.md
       - Academic Development.md
       - Department/.keep
       - Department/Aesthetic.md
