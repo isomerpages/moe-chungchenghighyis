@@ -8,7 +8,7 @@ description: ""
 1. [All Ears form builder](https://forms.moe.edu.sg/)
 2. [ADMINBreeze](https://cchy.adminbreeze.com/nationalExamAnalysisSecondary/analysis/html/analysis)
 3. [DMA (Mobile Guardian)](https://sg-portal.mobileguardian.com/#/login)
-4. [HRP](https://www.hrp.gov.sg/hrp/#/)
+4. [Employees and Pensioners Portal (HRP)](https://www.hrp.gov.sg/hrp/#/)
 5. [iCon 2.0](https://workspace.google.com/dashboard)
 6. [ICT Portal](https://sites.google.com/moe.edu.sg/cchyictportal/home)
 7. [iEXAMS2](https://iexams.seab.gov.sg/login)
