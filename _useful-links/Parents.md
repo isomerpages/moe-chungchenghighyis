@@ -3,10 +3,7 @@ title: Parents
 permalink: /useful-links/parents/
 description: ""
 ---
-
-
-
-Other useful links:
+# Useful Links:
 
 1. [Sec 1 Registration microsite](https://sites.google.com/moe.edu.sg/cchys12023)
 
