@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Academic Development/.keep
-      - Academic Development/Academic Development.md
       - Academic Development/Promotion Criteria.md
       - Student Development/.keep
       - Student Development/Student Development.md
