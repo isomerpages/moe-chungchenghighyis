@@ -2,6 +2,7 @@ collections:
   academic-development:
     output: true
     order:
+      - Academic Development.md
       - Department/.keep
       - Department/Aesthetic.md
       - Department/English & English Literature.md
