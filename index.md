@@ -14,7 +14,7 @@ sections:
           url: /useful-links/students/
         - title: For Staff
           description: ""
-          url: /useful-links/staff
+          url: /useful-links/staff/
         - title: For Parents
           description: ""
           url: useful-links/parents/open-house
