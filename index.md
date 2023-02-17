@@ -17,7 +17,7 @@ sections:
           url: /useful-links/staff/
         - title: For Parents
           description: ""
-          url: useful-links/parents/open-house
+          url: useful-links/parents/
   - resources:
       title: Announcements
       button: More announcements here
