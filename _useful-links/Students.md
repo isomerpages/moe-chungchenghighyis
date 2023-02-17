@@ -11,7 +11,7 @@ description: ""
 4. [Library Loan System](https://schoolibrary.moe.edu.sg/chungchenghighyishun)
 5. [My SkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 6. [PDL & Password Reset](/our-curriculum/academic-development/department/information-communication-technology)
-7. [SLS](https://vle.learning.moe.edu.sg/login)
+7. [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 8. [Students Handbook](/files/CCHY%20E-Handbook.pdf)
 9. [Wellbeing 365](/our-curriculum/student-development/wellbeing-365)
 
