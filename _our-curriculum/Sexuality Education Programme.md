@@ -62,25 +62,19 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 
 9.    Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure.  They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.  The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
-**At Chung Cheng High School (Yishun), the eTeens programme will be implemented as follows in 2022:**
-
-| Topics/Lessons 	| Programme Learning Objectives 	| Time Period<br>(e.g. Term 3 Week 9) 	|
-|---	|---	|---	|
-| Mass Talk by HPB appointed vendor 	| • Awareness of the different STIs and HIV/AIDS<br><br>• Modes of transmission<br><br>• Modes of protection, specifically on how the condom is used<br><br>• Consequences and impact of STIs/HIV 	| Term 4 Week 1 	|
-| Classroom-based Lesson 	| • Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making 	| Term 4 Week 2 	|
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2023%20Info%20on%20SEd%20for%20schs%20website%20(Secondary%20Schools)_Page_12.jpg)
 
 
-### INFORMATION FOR PARENTS
+<u>**INFORMATION FOR PARENTS**</u>
 
 10.    Parents may opt their children out of Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.  
 
-11.    Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form.  This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20A.pdf).  The completed form is to be submitted by 25/02/2022.
+11.    Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form.  This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20A.pdf).  The completed form is to be submitted by 10/02/2023.
 
-12.    Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form.  This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20B.pdf).  The completed form is to be submitted by 25/02/2022.
+12.    Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form.  This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20B.pdf).  The completed form is to be submitted by 10/02/2023.
 
-13.    Parents can contact the school at [cchys@moe.edu.sg](mailto:cchys@moe.edu.sg) or 6758 3912 for discussion or to seek clarification about the school’s sexuality education programme.
+13.    Parents can contact the school at [cchys@moe.edu.sg](mailto:cchys@moe.edu.sg) or 6758 3912 for discussion or to seek clarification about the school’s Sexuality Education programme.
 
-14.    Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
 
 
 <img src="/images/pavilion.png" 
