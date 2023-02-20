@@ -43,6 +43,22 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 
 7.    Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2023%20Info%20on%20SEd%20for%20schs%20website%20(Secondary%20Schools)_Page_01.jpg)
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2023%20Info%20on%20SEd%20for%20schs%20website%20(Secondary%20Schools)_Page_02.jpg)
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2023%20Info%20on%20SEd%20for%20schs%20website%20(Secondary%20Schools)_Page_03.jpg)
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2023%20Info%20on%20SEd%20for%20schs%20website%20(Secondary%20Schools)_Page_04.jpg)
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2023%20Info%20on%20SEd%20for%20schs%20website%20(Secondary%20Schools)_Page_05.jpg)
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2023%20Info%20on%20SEd%20for%20schs%20website%20(Secondary%20Schools)_Page_06.jpg)
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2023%20Info%20on%20SEd%20for%20schs%20website%20(Secondary%20Schools)_Page_07.jpg)
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2023%20Info%20on%20SEd%20for%20schs%20website%20(Secondary%20Schools)_Page_08.jpg)
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2023%20Info%20on%20SEd%20for%20schs%20website%20(Secondary%20Schools)_Page_09.jpg)
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2023%20Info%20on%20SEd%20for%20schs%20website%20(Secondary%20Schools)_Page_10.jpg)
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2023%20Info%20on%20SEd%20for%20schs%20website%20(Secondary%20Schools)_Page_11.jpg)
+
+
+
+
+
 **At Chung Cheng High School (Yishun), the following Sexuality Education lessons will be taught in 2023:**
 
 **<center>SECONDARY 1</center>**
