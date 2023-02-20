@@ -57,56 +57,6 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 
 
 
-
-
-**At Chung Cheng High School (Yishun), the following Sexuality Education lessons will be taught in 2023:**
-
-**<center>SECONDARY 1</center>**
-
-| Unit 	| Lesson Title/<br>Duration	| Lesson Overview | Lesson Objectives<br><br>At the end of the lesson, students will be able to: 	| Time Period<br><br>(e.g. Term 1 Week 2)  	|
-|---	|---	|---	|---	|---	|
-| Respectful Relationships & Safety<br> 	| Steady or Not<br><br>Lesson 1<br>(60 mins) 	|This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline. |• recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br><br>• recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br><br>• recognise the importance and understand what builds healthy and supportive relationships, both online and offline <br>understand what dating is, and recognise that the readiness and interest in dating vary among individuals<br> 	| Term 3 Week 8 	|
-|  	|Being Aware, Being Safe<br><br>Lesson 2<br>(60 mins) 	|This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. |• understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept 	| Term 3 Week 9 	|
-|  	| More than Meets the Eye<br><br>Lesson 3<br>(60 mins)|This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. 	| • understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br><br>• recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc) 	| Term 4 Week 1 	|
-
-
-**<center>SECONDARY 2</center>**
-
-| Unit 	| Lesson Title/<br>Duration	| Lesson Overview | Lesson Objectives<br><br>At the end of the lesson, students will be able to: 	| Time Period<br><br>(e.g. Term 1 Week 2)  	|
-|---	|---	|---	|---	|---	|
-| Respectful Relationships & Safety 	|A Role for Everyone<br><br>Lesson 1<br>(60 mins)|This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.<br><br>Students learn to focus on their personal strengths to pursue their interests and build their self- confidence.<br><br>Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.| • know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br>• develop an appreciation of one’s own unique qualities and characteristics as a male or female<br><br>• understand what sexual orientation entails 	| Term 3 Week 8 	|
-|  	|Online Safety Challenge<br><br>Lesson 2A<br>(60 mins) 	|This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.| • recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline 	| Term 4 Week 2 	|
-|  	|Do I or Don't I<br><br>Lesson 2B<br>(60 mins) 	|This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.| • recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br><br>• recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online 	| Term 4 Week 1 	|
-
-**<center>SECONDARY 3</center>**
-
-| Unit 	| Lesson Title/<br>Duration	| Lesson Overview | Lesson Objectives<br><br>At the end of the lesson, students will be able to: 	| Time Period<br><br>(e.g. Term 1 Week 2)  	|
-|---	|---	|---	|---	|---	|
-| Respectful Relationships & Safety 	| 1A<br>(60 mins) 	|| • Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br><br>• Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br><br>• Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship. 	| Term 2 Week 6 	|
-|  	| 1B<br>(60 mins) 	|| • Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br>• Know that a decision to end a relationship will have consequences on oneself and others.<br>• Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br>• Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support. 	| Term 2 Week 7 	|
-|  	| 2<br>(60 mins) 	|| • Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br>• Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.  	| Term 2 Week 8 	|
-
-
-
-
-**<center>SECONDARY 4</center>**
-
-| Unit 	| Lesson Title/<br>Duration	| Lesson Overview | Lesson Objectives<br><br>At the end of the lesson, students will be able to: 	| Time Period<br><br>(e.g. Term 1 Week 2)  	|
-|---	|---	|---	|---	|---	|
-| Respectful Relationships & Safety 	| 1<br>(60 mins) 	|| • Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br>• Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><br>• Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.  	| Term 2 Week 1 	|
-|  	| 2<br>(60 mins) 	|| • Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br><br>• Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.<br><br>• Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.<br><br>• Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.  	| Term 2 Week 2 	|
-|  	| 3<br>(60 mins) 	|| • Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions<br><br>• Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br><br>• Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.  	| Term 2 Week 3 	|
-|   	| 4<br>(60 mins) 	|| • Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.  	| Term 2 Week 5 	|
-
-
-**<center>SECONDARY 5</center>**
-
-| Unit 	| Lesson Title/<br>Duration	| Lesson Overview | Lesson Objectives<br><br>At the end of the lesson, students will be able to: 	| Time Period<br><br>(e.g. Term 1 Week 2)  	|
-|---	|---	|---	|---	|---	|
-| Respectful Relationships & Safety 	| 1<br>(60 mins) 	|| • Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br>• Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><br>• Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.<br> 	| Term 2 Week 1 	|
-
-*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”.
-
 ### eTeens Programme
 
 **_eTeens_ Programme:**
