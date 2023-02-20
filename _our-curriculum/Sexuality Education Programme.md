@@ -37,7 +37,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 
         b.    Character and Citizenship Education (CCE)
 
-<u>**Sexuality Education Lessons:**</u>
+**<u>Sexuality Education Lessons:</u>**
 
 6.    The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet.  Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships.  The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents.  The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation.  The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly.  Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.  
 
@@ -56,7 +56,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 ![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2023%20Info%20on%20SEd%20for%20schs%20website%20(Secondary%20Schools)_Page_11.jpg)
 
 
-<u>***eTeens* Programme:**</u>
+**<u>*eTeens* Programme:</u>**
 
 8.    _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.  _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
 
@@ -65,7 +65,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 ![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2023%20Info%20on%20SEd%20for%20schs%20website%20(Secondary%20Schools)_Page_12.jpg)
 
 
-<u>**INFORMATION FOR PARENTS**</u>
+**<u>INFORMATION FOR PARENTS</u>**
 
 10.    Parents may opt their children out of Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.  
 
