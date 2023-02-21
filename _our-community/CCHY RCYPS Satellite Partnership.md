@@ -1,6 +1,6 @@
 ---
 title: CCHY RCYPS Satellite Partnership
-permalink: /our-community/cchy-rcyps-satellite-partnership
+permalink: /our-community/cchy-rcyps-satellite-partnership/
 description: ""
 ---
 **CCHY-Rainbow Centre Yishun Park School (RCYPS) Satellite Partnership**

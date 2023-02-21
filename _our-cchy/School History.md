@@ -1,6 +1,6 @@
 ---
 title: School History
-permalink: /our-cchy/school-history
+permalink: /our-cchy/school-history/
 description: ""
 ---
 **School History**

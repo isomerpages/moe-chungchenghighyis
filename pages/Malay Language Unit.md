@@ -1,6 +1,6 @@
 ---
 title: Malay Language Unit
-permalink: /malay-language-unit
+permalink: /malay-language-unit/
 description: ""
 ---
 # **Malay Language Unit**

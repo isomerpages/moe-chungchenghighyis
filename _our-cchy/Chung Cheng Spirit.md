@@ -1,6 +1,6 @@
 ---
 title: Chung Cheng Spirit
-permalink: /our-cchy/chung-cheng-spirit
+permalink: /our-cchy/chung-cheng-spirit/
 description: ""
 ---
 **Chung Cheng Spirit**
