@@ -4,9 +4,6 @@ permalink: /our-cca/cca/cca-venue-schedule/
 description: ""
 third_nav_title: CCA
 ---
-
-
-
 # **CCA Venue & Schedule**
 
 *Schedule listed in the tables may be subjected to changes due to school needs.*
@@ -48,7 +45,7 @@ third_nav_title: CCA
 | **V5** 	| **Choir** 	| Tue & Thu 	| 3 – 6pm 	| Music Room 	|
 | **V6** 	| **Festival Drums** 	| Mon<br><br>Tue 	| 3 – 6pm 	| MPH<br><br>Multi-Purpose Room (MPR) 	|
 | **V7** 	| **Dance Ensemble** 	| Tue & Thu 	| 3 – 6pm 	| AVA Room/ MPH 	|
-| **V8** 	| **Symphonic Band** 	| Mon<br> <br> <br><br><br><br>Thu 	| 3 – 6pm	| Mulit-Purpose Room (MPR), Music Room & Level 3 classrooms<br> <br>Mulit-Purpose Room (MPR), ITR1 & Level 1 classrooms 	|
+| **V8** 	| **Symphonic Band** 	| Mon<br> <br> <br><br><br><br>Thu 	| 3 – 6pm	| Mulit-Purpose Room (MPR), Music Room & Level 1 classrooms<br> <br>Mulit-Purpose Room (MPR), ITR1 & Level 3 classrooms 	|
 
 <img src="/images/pavilion.png" 
      style="width:50%">
