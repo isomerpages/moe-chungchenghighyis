@@ -34,7 +34,7 @@ Ms Lee Peiqi
 ### Training Schedule 
 
 Please click on the link below to view CCA venue & schedule.   
-[CCA venue & schedule](/useful-links/parents/cca-venue-n-schedule)
+[CCA venue & schedule](/our-cca/cca/cca-venue-schedule/)
 
 ### Activities/Events
 
