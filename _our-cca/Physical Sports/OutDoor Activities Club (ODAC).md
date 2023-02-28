@@ -28,7 +28,7 @@ Mr Gary Peh Kai Xiang
 
 ### Training Schedule
 Please click on the link below to view CCA venue &amp; schedule.&nbsp;  
-[CCA venue &amp; schedule](/useful-links/parents/cca-venue-n-schedule)
+[CCA venue &amp; schedule](/our-cca/cca/cca-venue-schedule/)
 
 ### Activites/Events
 *   National Inter-Schools Cross Country Championships
