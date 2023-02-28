@@ -18,7 +18,7 @@ Ms Tan Mui Mui
 ### Training Schedule
 
 Please click on the link below to view CCA venue & schedule.   
-[CCA venue & schedule](/useful-links/parents/cca-venue-n-schedule)
+[CCA venue & schedule](/our-cca/cca/cca-venue-schedule/)
 
 <img src="/images/pavilion.png" 
      style="width:50%">
