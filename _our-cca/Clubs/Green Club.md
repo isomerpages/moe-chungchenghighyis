@@ -20,7 +20,7 @@ Mr Whiteway Brett Allan (2IC)
 ### Training Schedule
 
 Please click on the link below to view CCA venue & schedule.   
-[CCA venue & schedule](/useful-links/parents/cca-venue-n-schedule)
+[CCA venue & schedule](/our-cca/cca/cca-venue-schedule/)
 
 ### Activities
 *   The ‘Big Family’ Project in collaboration with Youth Corps Singapore & Ground-Up Initiative (GUI) @ ORTO
