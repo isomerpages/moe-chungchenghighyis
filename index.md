@@ -40,8 +40,7 @@ sections:
       image: /images/Wellbeing 365 logo 1.jpg
       alt: Image alt text
   - infobar:
-      title: Facebook
-      subtitle: MEDIA
-      button: VIEW
-      url: https://www.facebook.com/Chung-Cheng-High-School-Yishun-649727622164220/
+      title: Visit Our Facebook Page!
+      button: view
+      url: /Facebook/
 ---
