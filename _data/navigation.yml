@@ -24,7 +24,7 @@ links:
   - title: Our Community
     collection: our-community
   - title: Admission
-    url: admission/
+    url: /admission/admission
     sublinks:
       - title: Admission
         url: admission
