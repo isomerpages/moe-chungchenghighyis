@@ -18,9 +18,6 @@ sections:
         - title: For Parents
           description: ""
           url: /useful-links/parents/
-        - title: ""
-          description: ""
-          url: ""
   - resources:
       title: Announcements
       button: More announcements here
