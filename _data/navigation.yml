@@ -4,6 +4,8 @@ links:
     collection: our-cchy
   - title: Our People
     collection: our-people
+  - title: Our Curriculum
+    collection: our-curriculum
   - title: Our Curriculum1
     url: /our-curriculum/academic-development/academic-development/
     sublinks:
@@ -42,5 +44,3 @@ links:
         url: /admission/Services/parents-gateway/
   - title: Useful Links
     collection: useful-links
-  - title: Our Curriculum
-    collection: our-curriculum
