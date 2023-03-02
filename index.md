@@ -18,6 +18,9 @@ sections:
         - title: For Parents
           description: ""
           url: /useful-links/parents/
+        - title: Facebook
+          description: ""
+          url: /Facebook/
   - resources:
       title: Announcements
       button: More announcements here
