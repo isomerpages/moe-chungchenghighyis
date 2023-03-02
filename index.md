@@ -48,7 +48,7 @@ sections:
         clipboard-write; encrypted-media; picture-in-picture;
         web-share"></iframe>
   - infobar:
-      title: Facebook Page
+      title: Visit Our Facebook Page
       description: <center><iframe
         src=https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FChung-Cheng-High-School-Yishun-649727622164220&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId
         width="340" height="500" style="border:none;overflow:hidden"
