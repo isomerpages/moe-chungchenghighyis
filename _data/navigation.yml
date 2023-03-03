@@ -27,7 +27,7 @@ links:
     url: /admission/admission
     sublinks:
       - title: Admission
-        url: admission
+        url: /admission
       - title: Direct School Admissions (DSA)
         url: /admission/direct-school-admission-dsa/
       - title: Returning and International
