@@ -32,6 +32,8 @@ links:
         url: /admission/direct-school-admission-dsa/
       - title: Returning Singaporeans
         url: /admission/returning-singaporeans
+      - title: International Students
+        url: /admission/international-students
       - title: School Transfer
         url: /admission/school-transfer
       - title: Sec 1 Registration microsite
@@ -40,7 +42,5 @@ links:
         url: /admission/new-psle-scoring-and-s1-posting-systems
       - title: Services
         url: /admission/Services/parents-gateway
-      - title: International Students
-        url: /admission/international-students
   - title: Useful Links
     collection: useful-links
