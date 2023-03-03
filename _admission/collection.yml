@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Admission.md
-      - Returning Singaporeans and International Students.md
+      - Returning Singaporeans.md
       - International Students.md
       - School Transfer.md
       - Sec 1 Registration for Parents and Students.md
