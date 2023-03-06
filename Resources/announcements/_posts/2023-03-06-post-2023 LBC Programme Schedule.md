@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+# **Learning Beyond Classroom (LBC)**
+
 Please click on the links below to download the programme schedule.
 
 [2023 LBC Time-Table for students - Sec 1.pdf](/files/LBC%20Schedule/2023%20LBC%20Time-Table%20for%20students%20-%20Sec%201.pdf)
