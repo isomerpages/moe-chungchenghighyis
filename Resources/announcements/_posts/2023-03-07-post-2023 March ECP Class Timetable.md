@@ -6,17 +6,12 @@ layout: post
 description: ""
 image: ""
 ---
-
 # **Extended Curriculum Programme (ECP)**
 
-Please click on the links below to download the ECP schedule.
+Please click on the link below to download the ECP schedule.
 
+[2023 March ECP Class Timetable.pdf](/files/ECP%20Schedule/2023%20March%20ECP%20Class%20Timetable.pdf)
 
-[2023_Sem 1_ARP_S1-2.pdf](/files/ARP%20Schedule/2023_Sem%201_ARP_S1-2.pdf)
-
-[2023_Sem 1_ARP_S3.pdf](/files/ARP%20Schedule/2023_Sem%201_ARP_S3.pdf)
-
-[2023_Sem 1_ARP_S4-5.pdf](/files/ARP%20Schedule/2023_Sem%201_ARP_S4-5.pdf)
 
 <img src="/images/pavilion.png" 
      style="width:50%">
