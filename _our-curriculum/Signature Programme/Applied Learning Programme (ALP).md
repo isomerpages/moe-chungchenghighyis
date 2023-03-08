@@ -10,7 +10,7 @@ Singapore is establishing itself as a global hub for food and agri-tech innovati
 
 The foundation module of our ALP focus on enthusing and nurturing our students to be scientifically literate, so that they can make informed decisions and taking responsible decisions in their daily lives. The advanced and accelerated module focus on developing students who have shown deep passion in STEM to innovate in the different aspects of “Health and Food Science” and hence, pursuing STEM for future learning and work.
 
-
+![](/images/Our%20Curriculum/Applied%20Learning%20Programme/CCHY%20ALP%20Subpage_Page_1.jpg)
 
 
 <img src="/images/pavilion.png" 
