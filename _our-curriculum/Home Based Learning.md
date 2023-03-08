@@ -53,7 +53,7 @@ Student sharing his learning from SIL
 Using coding to come up with a game app
 
 ![](/images/Our%20Curriculum/Home%20Based%20Learning/Sharing%20the%20process%20of%20cooking%20a%20dish.jpg)
-Using coding to come up with a game app
+Sharing the process of cooking a dish
 
 ![](/images/Our%20Curriculum/Home%20Based%20Learning/Sharing%20a%20picture%20of%20her%20art%20work.jpg)
 sharing a picture of her art work
