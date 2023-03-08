@@ -3,8 +3,31 @@ title: Home Based Learning
 permalink: /our-curriculum/home-based-learning/
 description: ""
 ---
-# 2023 Home-based Learning
+# **Overview of Blended Learning**
 
+Blended Learning (BL) refers to the re-imagination of our students’ educational experience by providing them with a more seamless blending of different modes of learning. It allows our educators to re-think curriculum and assessment design, and innovate pedagogies to enable students to benefit from a wider spectrum of learning experiences.
+
+The key intended outcomes for BL are:
+
+a.     To nurture self-directed and independent learners<br>
+b.     To develop passionate and intrinsically motivated learners<br>
+c.      To strengthen learners’ collaborative skills and connections to the community<br>
+d.     To deepen digital literacies in learners<br>
+e.     To develop learners who can apply knowledge of cyberwellness and cyber security to safeguard their online learning
+
+
+# **Overview of HBL**
+
+One aspect of Blended Learning is the integration of home-based learning (HBL) as a regular feature of the schooling experience. In CCHY, our HBL day takes place on the Day 10 (Fri) of our timetable.  
+
+On HBL days, it comprises a mix of curriculum coverage and student-initiated learning (SIL).  The school adopts mainly asynchronous learning mode to engage the students. However, for students who need additional support in their learning, school will adopt synchronous learning mode.
+
+SIL allows students to explore their interests and passions, learning within and beyond the curriculum. A range of activities are given for the students to choose from. Students who would like to explore beyond the given lists, they can initiate their own SIL activity. All students are given the autonomy to work as an individual or in group.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/glsCLD3-wkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+# **CCHY HBL Guides**
 
 Please click on the links below for more information related to 2023 HBL.  
   
@@ -20,12 +43,10 @@ Please click on the links below for more information related to 2023 HBL.
 [SIL timeline for students updated 18 Jan.pdf](/files/Home%20Based%20Learning/SIL%20timeline%20for%20students%20updated%2018%20Jan.pdf)
 
 
-<u>**SIL by students**</u><br>
-Making Pancakes (by Ezann Leow):   
-[https://drive.google.com/file/d/1FGNjqUfLRJL6N-G2Mwg9KbhAP\_cICv8W/view?usp=sharing](https://drive.google.com/file/d/1FGNjqUfLRJL6N-G2Mwg9KbhAP_cICv8W/view?usp=sharing)  
-  
-Editing Video (by Zevon Chan):  
-[https://drive.google.com/file/d/1tHdmU92a376Qfj1XQ6nLIzN6vTYgYid6/view?usp=sharing](https://drive.google.com/file/d/1tHdmU92a376Qfj1XQ6nLIzN6vTYgYid6/view?usp=sharing)
+# **CCHY SIL Photos**
+
+
+
 
 <img src="/images/pavilion.png" 
      style="width:50%">
