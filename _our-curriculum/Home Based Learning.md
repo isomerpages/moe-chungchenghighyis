@@ -24,6 +24,7 @@ On HBL days, it comprises a mix of curriculum coverage and student-initiated lea
 
 SIL allows students to explore their interests and passions, learning within and beyond the curriculum. A range of activities are given for the students to choose from. Students who would like to explore beyond the given lists, they can initiate their own SIL activity. All students are given the autonomy to work as an individual or in group.
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/glsCLD3-wkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
