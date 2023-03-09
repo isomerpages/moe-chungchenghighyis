@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /our-curriculum/academic-development/department/science
+permalink: /our-curriculum/academic-development/department/science/
 description: ""
 third_nav_title: Department
 ---
@@ -42,15 +42,7 @@ Selected students in the Science Ambassador Programme have the opportunities to
 
 5.&nbsp; To have the opportunity for further exposure of Science beyond the school through Science related events and competitions.
 
-### Applied Learning Programme
 
-Singapore is establishing itself as a global hub for food and agri-tech innovation. The long-standing focus on the sustainability of food production has driven the push for innovation (Matt, A\*STAR, 2018). With the society having a higher demand for healthier options and the increasing interest in the use of natural ingredients or nature-identical ingredients in their food products (Jeya, 2014), the “Food Science and Technology” programme offers our students an opportunity to apply their scientific knowledge, skills and block-based coding through app development and micro:bit.
-
-The focus of our ALP is on developing Scientific and digital Literacy i.e. the ability to think, reason and analyse scientifically, use scientific knowledge and processes to both understand the challenges faced by other fast growing economies and participate in decisions and problem solving that affect mankind.&nbsp; In addition, Critical and Inventive Thinking &amp; Communication, Collaboration and Information Skills are also developed and reinforced when our students exercise sound reasoning and decision making in their scientific investigative study. These are skills and habits of mind that are aligned to the desired 21st century competencies.
-
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRDSmei0GC_YEBWuCLdUCZRHxqzp_yOkr0Rq62hJy_cZwPL5y0RKnHU_kRVKummcwfCMFSu-IOpYODx/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-(uploaded 8 images, 37 images left.)
 
 Find more on [Google Drive](https://drive.google.com/drive/folders/1r6y0_CwrRZHSoLEUVYM1_n6cV6m5qhzr) 
 
