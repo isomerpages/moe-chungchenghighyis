@@ -49,28 +49,5 @@ Please click on the links below for more information related to 2023 HBL.
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_2fKJuQNZrOmaZq4nOiaL1pFocT3CTQJDbtKqcV8H1N7xXfiwgsnGVza52GLrQSx6RT6aaW-N2X9o/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 
-![](/images/Our%20Curriculum/Home%20Based%20Learning/Student%20sharing%20his%20learning%20from%20SIL.jpg)
-Student sharing his learning from SIL
-
-![](/images/Our%20Curriculum/Home%20Based%20Learning/Using%20coding%20to%20come%20up%20with%20a%20game%20app.jpg)
-Using coding to come up with a game app
-
-![](/images/Our%20Curriculum/Home%20Based%20Learning/Sharing%20the%20process%20of%20cooking%20a%20dish.jpg)
-Sharing the process of cooking a dish
-
-![](/images/Our%20Curriculum/Home%20Based%20Learning/Sharing%20a%20picture%20of%20her%20art%20work.jpg)
-sharing a picture of her art work
-
-![](/images/Our%20Curriculum/Home%20Based%20Learning/Showing%20the%20final%20product%20of%20her%20origami.jpg)
-Showing the final product of her origami
-
-![](/images/Our%20Curriculum/Home%20Based%20Learning/Learning%20a%20new%20language.jpg)
-Learning a new language
-
-![](/images/Our%20Curriculum/Home%20Based%20Learning/School%20curated%20SIL%20activity.jpg)
-School curated SIL activity
-
-![](/images/Our%20Curriculum/Home%20Based%20Learning/S1%20FSBB%20form%20class%20sharing%20their%20SIL%20progress.jpg)
-S1 FSBB form class sharing their SIL progress
 
 <img style="width:50%" src="/images/pavilion.png">
