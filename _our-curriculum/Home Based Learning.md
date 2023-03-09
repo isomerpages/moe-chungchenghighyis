@@ -25,7 +25,7 @@ On HBL days, it comprises a mix of curriculum coverage and student-initiated lea
 SIL allows students to explore their interests and passions, learning within and beyond the curriculum. A range of activities are given for the students to choose from. Students who would like to explore beyond the given lists, they can initiate their own SIL activity. All students are given the autonomy to work as an individual or in group.
 
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/glsCLD3-wkY" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/glsCLD3-wkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 
 # **CCHY HBL Guides**
@@ -46,8 +46,8 @@ Please click on the links below for more information related to 2023 HBL.
 
 # **CCHY SIL Photos**
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_2fKJuQNZrOmaZq4nOiaL1pFocT3CTQJDbtKqcV8H1N7xXfiwgsnGVza52GLrQSx6RT6aaW-N2X9o/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_2fKJuQNZrOmaZq4nOiaL1pFocT3CTQJDbtKqcV8H1N7xXfiwgsnGVza52GLrQSx6RT6aaW-N2X9o/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 
 
-<img style="width:50%" src="/images/pavilion.png">
+<img src="/images/pavilion.png" style="width:50%">
