@@ -4,43 +4,37 @@ permalink: /our-curriculum/academic-development/department/science/
 description: ""
 third_nav_title: Department
 ---
-# **Science**
+![](/images/Our%20Curriculum/Academic%20Development/Department/Science/CCHY%20Science%20Dept%20Subpage_Page_1.jpg)
 
-### Department Vision
+![](/images/Our%20Curriculum/Academic%20Development/Department/Science/CCHY%20Science%20Dept%20Subpage_Page_2.jpg)
 
-"Every Student is a Passionate and Competent Scientist"
+# **Young Scientist Programme**
 
-![](/images/sci-1.jpg)
+Young Scientist Programme is a talent development programme under the Science department.  
 
-![](/images/sci-b.jpg)
+Students in the Young Scientist Programme are given the opportunity to be involved in different science discipline enrichment activities, carry out investigative scientific or engineering projects under the guidance of mentors from CRADLE or external tertiary institutions such as NUS.  
 
-![](/images/sci-c.jpg)
+The research component programme aims to engage students in authentic scientific problem solving through hands-on experimentation and independent scientific thinking. Through cooperative teamwork, it allows students to organise their ideas into an investigative research project. This will allow them to recognise that science and engineering can contribute to meeting many of the major challenges that confront society today and to inspire them to take up careers in Scientific Research, Engineering and Technology in the future. Selected student groups will also participate in competitions such as Science Research Competitions (e.g Elementz, SSEF) to broaden their learning and deepen their scientific research skills and knowledge.
 
-![](/images/sci-d.jpg)
+The YSP programme also aims to develop students in the different disciplines of Science which they are strongly interested in. These are through the in-house and external enrichment activities and local Science competitions such as Junior Olympiads.
 
-### Young Scientist Programme
 
-**Aims**
+# **Science Ambassador Programme**
 
-Selected students in the Young Scientist Programme are given the opportunity to carry out investigative scientific or engineering projects under the guidance of mentors from external tertiary institutions through attachment to these institute of higher learning.
+Science Ambassador Programme targets students who are interested in Science but may or may not be academically strong in the subject. 
 
-The programme aims to engage students in authentic scientific problem solving through hands-on experimentation and independent scientific thinking. Through cooperative teamwork, it allows students to organise their ideas into an investigative research project. This will allow them to recognise that science and engineering can contribute to meeting many of the major challenges that confront society today and to inspire them to take up careers in Scientific Research, Engineering and Technology in future. Selected student groups will also participate in competitions such as Science Research Competitions to broaden their learning and deepen their scientific research skills and knowledge through interactions with mentors and like-minded peers.&nbsp;
+Science ambassadors have the opportunities: 
 
-The programme also aims to develop students in areas of Science which they are strongly interested in. Teacher mentors will coach the students and prepare them for external competitions such as National Science Challenge, Junior Olympiads.
+1.	To enjoy and value Science, with a strong desire to use essential features (question -> evidence -> explain -> connect -> question) of Science as a tool to explore natural and physical world.
 
-**Science Ambassador Programme**
+2.	To promote the learning of Science to the students population beyond the classroom.
 
-Selected students in the Science Ambassador Programme have the opportunities to
+3.	To encourage the development of effective communication skills through expression of Science in creative and meaningful ways.
 
-1.&nbsp;To enjoy&nbsp;and value Science, with a strong desire to use essential features (question -&gt; evidence -&gt; explain -&gt; connect -&gt; question) of Science as a tool to explore natural and physical world.
+4.	To develop leadership skills through organisation of Science-related school events.
 
-2.&nbsp;&nbsp;To promote the learning of Science to the students population beyond the classroom.
+5.  To have the opportunity for further exposure of Science beyond the school through Science related events and competitions. 
 
-3.&nbsp;&nbsp;To encourage the development of effective communication skills through expression of Science in creative and meaningful ways.
-
-4.&nbsp;&nbsp;To develop leadership skills through organisation of Science-related school events.
-
-5.&nbsp; To have the opportunity for further exposure of Science beyond the school through Science related events and competitions.
 
 
 
