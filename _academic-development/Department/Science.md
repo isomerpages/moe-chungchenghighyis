@@ -10,7 +10,7 @@ third_nav_title: Department
 
 ![](/images/Our%20Curriculum/Academic%20Development/Department/Science/CCHY%20Science%20Dept%20Subpage_Page_2.jpg)
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRuPLNEL3Y-DYyc9q16wxPVpXbjbSc3x4Ak528Bw2Jz3lrk5NiAuIN9s5MTBEOupGsPZtoajlJMClk0/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRuPLNEL3Y-DYyc9q16wxPVpXbjbSc3x4Ak528Bw2Jz3lrk5NiAuIN9s5MTBEOupGsPZtoajlJMClk0/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 # **Young Scientist Programme**
 
@@ -21,6 +21,8 @@ Students in the Young Scientist Programme are given the opportunity to be involv
 The research component programme aims to engage students in authentic scientific problem solving through hands-on experimentation and independent scientific thinking. Through cooperative teamwork, it allows students to organise their ideas into an investigative research project. This will allow them to recognise that science and engineering can contribute to meeting many of the major challenges that confront society today and to inspire them to take up careers in Scientific Research, Engineering and Technology in the future. Selected student groups will also participate in competitions such as Science Research Competitions (e.g Elementz, SSEF) to broaden their learning and deepen their scientific research skills and knowledge.
 
 The YSP programme also aims to develop students in the different disciplines of Science which they are strongly interested in. These are through the in-house and external enrichment activities and local Science competitions such as Junior Olympiads.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTbx5RQJwC7AidXl57MZcqztxUCjdlSfmq2QKmdR8p3SbJYGOZBTe09iHqcC0eCpweBvsY1zv6bMtZO/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 
 # **Science Ambassador Programme**
@@ -44,4 +46,4 @@ Science ambassadors have the opportunities:
 
 Find more on [Google Drive](https://drive.google.com/drive/folders/1r6y0_CwrRZHSoLEUVYM1_n6cV6m5qhzr) 
 
-<img style="width:50%" src="/images/pavilion.png">
+<img src="/images/pavilion.png" style="width:50%">
