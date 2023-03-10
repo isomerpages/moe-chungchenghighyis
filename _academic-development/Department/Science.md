@@ -4,6 +4,8 @@ permalink: /our-curriculum/academic-development/department/science/
 description: ""
 third_nav_title: Department
 ---
+# **Science**
+
 ![](/images/Our%20Curriculum/Academic%20Development/Department/Science/CCHY%20Science%20Dept%20Subpage_Page_1.jpg)
 
 ![](/images/Our%20Curriculum/Academic%20Development/Department/Science/CCHY%20Science%20Dept%20Subpage_Page_2.jpg)
