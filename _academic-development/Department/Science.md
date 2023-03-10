@@ -10,7 +10,7 @@ third_nav_title: Department
 
 ![](/images/Our%20Curriculum/Academic%20Development/Department/Science/CCHY%20Science%20Dept%20Subpage_Page_2.jpg)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRuPLNEL3Y-DYyc9q16wxPVpXbjbSc3x4Ak528Bw2Jz3lrk5NiAuIN9s5MTBEOupGsPZtoajlJMClk0/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRuPLNEL3Y-DYyc9q16wxPVpXbjbSc3x4Ak528Bw2Jz3lrk5NiAuIN9s5MTBEOupGsPZtoajlJMClk0/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 # **Young Scientist Programme**
 
@@ -22,7 +22,7 @@ The research component programme aims to engage students in authentic scientific
 
 The YSP programme also aims to develop students in the different disciplines of Science which they are strongly interested in. These are through the in-house and external enrichment activities and local Science competitions such as Junior Olympiads.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTbx5RQJwC7AidXl57MZcqztxUCjdlSfmq2QKmdR8p3SbJYGOZBTe09iHqcC0eCpweBvsY1zv6bMtZO/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTbx5RQJwC7AidXl57MZcqztxUCjdlSfmq2QKmdR8p3SbJYGOZBTe09iHqcC0eCpweBvsY1zv6bMtZO/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 
 # **Science Ambassador Programme**
@@ -41,9 +41,12 @@ Science ambassadors have the opportunities:
 
 5.  To have the opportunity for further exposure of Science beyond the school through Science related events and competitions. 
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQW3lrMwXT_0FArXbgpMt9dVMu5J-ewkUdv_LEx5HMIxZ_uzvy0FwdWLQL5I3DoVTSm_GUmPCfrPwIn/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
+
 
 
 
 Find more on [Google Drive](https://drive.google.com/drive/folders/1r6y0_CwrRZHSoLEUVYM1_n6cV6m5qhzr) 
 
-<img src="/images/pavilion.png" style="width:50%">
+<img style="width:50%" src="/images/pavilion.png">
