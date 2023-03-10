@@ -8,6 +8,8 @@ third_nav_title: Department
 
 ![](/images/Our%20Curriculum/Academic%20Development/Department/Science/CCHY%20Science%20Dept%20Subpage_Page_2.jpg)
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRuPLNEL3Y-DYyc9q16wxPVpXbjbSc3x4Ak528Bw2Jz3lrk5NiAuIN9s5MTBEOupGsPZtoajlJMClk0/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
 # **Young Scientist Programme**
 
 Young Scientist Programme is a talent development programme under the Science department.  
@@ -25,7 +27,7 @@ Science Ambassador Programme targets students who are interested in Science but 
 
 Science ambassadors have the opportunities: 
 
-1.	To enjoy and value Science, with a strong desire to use essential features (question -> evidence -> explain -> connect -> question) of Science as a tool to explore natural and physical world.
+1.	To enjoy and value Science, with a strong desire to use essential features (question -&gt; evidence -&gt; explain -&gt; connect -&gt; question) of Science as a tool to explore natural and physical world.
 
 2.	To promote the learning of Science to the students population beyond the classroom.
 
@@ -40,4 +42,4 @@ Science ambassadors have the opportunities:
 
 Find more on [Google Drive](https://drive.google.com/drive/folders/1r6y0_CwrRZHSoLEUVYM1_n6cV6m5qhzr) 
 
-<img src="/images/pavilion.png" style="width:50%">
+<img style="width:50%" src="/images/pavilion.png">
