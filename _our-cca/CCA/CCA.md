@@ -4,7 +4,6 @@ permalink: /our-cca/cca/
 description: ""
 third_nav_title: CCA
 ---
-
 # **CCA**
 
 怀着追求卓越、止于至善的信念，中正中学（义顺）无论在学术成绩，还是品德教育方面，都以展翅高飞之势，取得令人雀跃的发展。我们竭尽所能帮助孩子争取最高成就，并且和他们一起做好准备，面对充满挑战的未来！
@@ -120,7 +119,7 @@ There are 21 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every 
 ### Visual & Performing Arts
 *  [Chinese Dance](/our-cca/Visual-and-Performing-Arts/chinese-dance)
 *  [Chinese Drama](/our-cca/Visual-and-Performing-Arts/chinese-drama)
-*  [Chinese Orchestra / Guzheng](/our-cca/Visual-and-Performing-Arts/chinese-orchestra-guzheng)
+*  [Chinese Orchestra & Guzheng Ensemble](/our-cca/Visual-and-Performing-Arts/chinese-orchestra-guzheng-ensemble)
 *  [Choir](/our-cca/Visual-and-Performing-Arts/choir)
 *  [Festival Drums](/our-cca/Visual-and-Performing-Arts/festival-drums)
 *  [Dance Ensemble](/our-cca/Visual-and-Performing-Arts/dance-ensemble)
