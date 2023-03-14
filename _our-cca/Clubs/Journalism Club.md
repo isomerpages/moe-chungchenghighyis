@@ -4,7 +4,7 @@ permalink: /our-cca/Clubs/journalism-club/
 description: ""
 third_nav_title: Clubs
 ---
-# Journalism & Library
+# Journalism Club
 
 ### Teachers-in-charge
 
