@@ -4,72 +4,65 @@ permalink: /our-curriculum/academic-development/department/English-n-English-Lit
 description: ""
 third_nav_title: Department
 ---
-# **English & English Literature**
+# **English Language &amp; Literature**
 
 
-### VISION: Nurturing creative, confident and articulate readers, writers and speakers of English
+### VISION
+Nurturing creative, confident and articulate readers, writers and speakers of English
 
-**About the Department** : The English Department comprises of English Language and Literature. Lower Secondary Literature is compulsory for all students of the Normal Academic and Express streams at lower secondary levels. At the upper secondary level, students have the option of selecting the Elective subjects of their choice from an array of subjects. Elective English Literature is offered to upper secondary students whereby students study a set text and a course reader preparing them for unseen passages and poetry.
+### About the Department
 
-Guided by the belief in fostering a learner-centred environment, the Department has decided to ensure proper:
+The English Department comprises English Language and Literature. Students of all levels are required to take English Language.&nbsp;
 
-*   **Alignment** of EL programmes to the current EL Syllabus focus on developing Oral communication skills among our students
-*   **Enjoyment and Appreciation of the language through** :
+Lower Secondary Literature is offered to students in the G2 and G3 levels. At the upper secondary level, students have the option of selecting the Elective subjects of their choice from an array of subjects. Literature in English (as one of the Elective subjects) is offered to upper secondary students whereby students study texts related to prose, poetry and drama.
 
-*   debate
-*   drama
-*   grammar & vocabulary games
 
-*   **Attention to Phonemic awareness**
-*   **Development of**
+### Assessment Principles
 
-*   Word study skills
-*   Writing Skills
+The Department employs both Assessment for Learning (AfL) and Assessment of Learning (AoL) to ensure close monitoring of students’ learning processes to inform classroom teaching and learning. Some of the tasks include:&nbsp;
 
-### Pedagogy
+• Internal Competitions&nbsp;
 
-*   PETALS Framework for Engaged Learning
-*   Debating
-*   Drama
-*   Collaborative Learning
-*   Cooperative Learning
-*   Direct Instruction
-*   Online Portals-AsknLearn & Oral learning Portal
-*   Use of dramatization, role play and perspective-taking, Debates in lessons
-*   Project Work for independent learning
-*   Reading and reflections from newspapers on current affairs
-*   Viewing A Play for Literature
+• Projects
 
-### Assessment
+• Self/Peer Assessment&nbsp;
 
-**Assessment for Learning (AfL) tasks** :
+• Performance-Based Assessment&nbsp;
 
-*   Internal Competitions
-*   Projects
-*   Self/Peer Assessment Rubrics
-*   Diagnostic Tests
-*   Performance-based
+• Weighted Assessment
 
-_Note: Tasks are meant to ensure close monitoring of the learning processes._
+• Summative Year-End Assessment
 
-**Assessment of Learning (AoL)** :
 
-*   Common Tests
-*   Summative Mid and Year-End
 
-_Note: Examinations are still integral in the school environment._
+### Competitions / Enrichment Activities
 
-### Enrichment
+As part of the Department’s aim to deliver an effective and engaging curriculum, every student is offered the unique opportunity to learn beyond the classroom through our signature programmes.
 
-Structured 4-year plan with a specific focus in developing students' Oral and Written skills through enrichment workshops and internal competitions as part of AfL.  
+**Secondary 1 Dramatised Reading Workshop**  
 
-*   Drama-in-Curriculum (S1)
-*   Public Speaking & Debating (S2)
-*   Creative Writing/Comprehension Skills (S3)
-*   Narrative Writing & EL & Elective Literature Exam Skills (S4 & S5)
-*   (Langlit workshop by Marife D’Cruz & STU Literature Seminar)
+Secondary 1 students gain deeper understanding and appreciation of drama and theatre through a closer study of character motivations and emotions in dramatic texts. Students also build personal confidence and communication skills through exposure to performance skills.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS6jFfashG9x86pbjFdXafF8aIT_rN9hQjLouz4ckId8WDH2r5dqNhlN79hUfUJYzyv6ZOsDFI7G3dH/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
+**Secondary 2 Vlogging Workshop**  
+
+Secondary 2 students embrace the multi-dimensional nature of literacy through applying linguistic, cognitive and socio-cultural dimensions to use English in a creative and effective manner. Students are guided in their discovery of opinions and worldviews and equipped to present them responsibly.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQyYs4VxoWP9R0XjL9WREkvcWR-6qbe07FN61a1nHE33EHJhx3m3e-cBAvcd4PnIqaPs-9rmFc98q4B/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
+
+**Secondary 3 Public Presentation and Spoken Interaction Workshop**  
+
+Secondary 3 students plan, organise and develop their ideas through role-play in selected real-world settings. This workshop complements and reinforces the teaching and learning of oral communication and writing skills through opportunities to practise reflective and persuasive language suited to the respective purposes.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR_O-PDjCSK5HSMabzetg8a9km4k6yjwM3mUtdkv0CJCr64w2jjy9MJhwph2qYLU4UxkjKlYViUMH4P/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
+**Secondary 4 and 5 Advanced Text Analysis Workshop**  
+
+Secondary 4 and 5 students learn to detect nuances of language used in context in order to demonstrate their skill in answering techniques. This programme complements and enhances the teaching and learning of text analysis and reading comprehension to give them a leg up in thinking and reasoning skills.
+
 
 Find more on [Google Drive](https://drive.google.com/drive/folders/16EwzvMBvDX9EuqVGLYnyr69wWv2Etpmy)
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img style="width:50%" src="/images/pavilion.png">
