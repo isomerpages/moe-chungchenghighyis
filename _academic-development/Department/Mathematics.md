@@ -7,11 +7,11 @@ third_nav_title: Department
 # **Mathematics**
 
 
-## Vision
+### Vision
 
 Nurturing self-directed learners who are competent in mathematical problem-solving and find joy in learning Mathematics
 
-## Instructional Programme
+### Instructional Programme
 
 The Mathematics Department offers:
 
@@ -41,7 +41,7 @@ Level-wide Programme
     ·        Financial Literacy Challenge (Sec 2 Express)
 		
 
-## Competitions / Enrichment Activities
+### Competitions / Enrichment Activities
 
 Mathematics Competition Training Enrichment
 
