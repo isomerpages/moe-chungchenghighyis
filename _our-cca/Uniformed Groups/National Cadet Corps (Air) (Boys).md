@@ -9,12 +9,6 @@ third_nav_title: Uniformed Groups
 CCHY NCC (Air) aims to develop resourceful, responsible, and resilient leaders who have a resilient mind, fit body and committed heart through fun, yet challenging military-related activities. Besides introducing cadets to useful skills for National Service, our NCC Air Curriculum is aligned to the CCE2021 framework to build citizens with good character and are future-ready leaders who can lead with empathy.
 
 
-### Vision
-Extraordinary Youth Leaders
-
-### Mission
-To nurture inspiring leaders and committed citizens through fun, adventurous and military-related activities.
-
 ### Teachers-in-charge
 Mr Lim Chia Hwee (IC)  
 Mr Lim Ying Xuan (2IC)   
@@ -22,45 +16,45 @@ Mr Toh Yong Hock
 
 ### Training Schedule
 
-Please click on the link below to view CCA venue & schedule.   
-[CCA venue & schedule](/our-cca/cca/cca-venue-schedule/)
+Please click on the link below to view CCA venue &amp; schedule.&nbsp;  
+[CCA venue &amp; schedule](/our-cca/cca/cca-venue-schedule/)
 
-### Activities/Events
+<u>Unit Recognition Award</u>
 
-School - Based Training for all levels   
-School - Based Camp for all levels during March or June   
-Mount Ophir Adventure Training
+Distinction (2019 to 2023). Award suspended in 2021 due to Covid-19.
+ 
+<u>Aeromodelling</u>
 
-**Secondary 1**  
-Affirmation Ceremony   
-Basic Technical Handling  
-Bronze Wing Course   
-Camp Forge
+Secondary One: Paper Gilder and flight simulator
 
-**Secondary 2**  
-Basic Technical Handling   
-Camp Steel   
-Physical Training Instructor (PTI) Course   
-SAR21 IMT  
-Silver Wing Course
+Secondary Two: Balsa Wood gilder
 
-**Secondary 3**   
-Gold Wing Course   
-SAR21 IMT   
-SAR21 Live Firing   
-Specialists’ Assessment   
-Senior Specialist Course  
-Leaders' Camp   
-Post-Secondary   
-Cadet Officer Course
+Secondary Three: Drones
 
-### Competition
+Annual Air Competition  
+ 
 
-*   Air Competition
-*   Freestyle Drill Competition
-*   Mini League Competition
-*   Precision Drill Squad Competition (PDS)
-*   Shooting Competition
+<u>Freestyle Drill Exhibition Team (Secondary One to Four)</u>
+
+Annual Freestyle Drill Competition
+ 
+
+<u>Unit Values-in-action Initiatives</u>
+
+Community Food Drive (2022) and visit to Elderly Care Centre (2022)
+  
+
+<u>Common Modules</u>
+
+Total Defence Badges (Bronze, Silver Gold)
+
+NCC Air Wings (Bronze, Silver Gold)
+
+Singapore Assault Rifle (SAR21) Individual Marksmanship Trainer and Live Shoot
+
+Air Rifle Shooting Experience (Secondary Two)
 
 More information on NCC
 [https://www.facebook.com/sgncc.hq/](https://www.facebook.com/sgncc.hq/)
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRx5FD0xl5FKzci1oHvNMS6PNRIeNp2RAFR8xExBwBP33V7PjnADpxCc5wHbU3AR4jnRp_0JRyRwom-/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
