@@ -58,3 +58,6 @@ More information on NCC
 [https://www.facebook.com/sgncc.hq/](https://www.facebook.com/sgncc.hq/)
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRx5FD0xl5FKzci1oHvNMS6PNRIeNp2RAFR8xExBwBP33V7PjnADpxCc5wHbU3AR4jnRp_0JRyRwom-/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
+<img src="/images/pavilion.png" 
+     style="width:50%">
