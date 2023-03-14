@@ -6,7 +6,8 @@ third_nav_title: Uniformed Groups
 ---
 # **National Cadet Corps (Air) (Boys)**
 
-The Singapore National Cadet Corps (NCC) aims to nurture inspiring leaders and committed citizens through fun, adventurous and military-related activities.  At NCC, we hope to inculcate leadership skills, discipline, uprightness, loyalty to Singapore, commitment, responsibility, care for fellow cadets and an adventurous spirit. We hope that these values help develop our cadets into extraordinary youth leaders.
+CCHY NCC (Air) aims to develop resourceful, responsible, and resilient leaders who have a resilient mind, fit body and committed heart through fun, yet challenging military-related activities. Besides introducing cadets to useful skills for National Service, our NCC Air Curriculum is aligned to the CCE2021 framework to build citizens with good character and are future-ready leaders who can lead with empathy.
+
 
 ### Vision
 Extraordinary Youth Leaders
