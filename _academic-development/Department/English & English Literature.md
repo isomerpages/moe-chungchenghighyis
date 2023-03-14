@@ -7,7 +7,7 @@ third_nav_title: Department
 # **English Language &amp; Literature**
 
 
-### VISION
+### Vision
 Nurturing creative, confident and articulate readers, writers and speakers of English
 
 ### About the Department
