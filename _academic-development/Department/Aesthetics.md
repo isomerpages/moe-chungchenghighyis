@@ -4,41 +4,116 @@ permalink: /our-curriculum/academic-development/department/aesthetics/
 description: ""
 third_nav_title: Department
 ---
-
-# **Aesthetic**
+# **Aesthetics**
 ### Vision
 
-A community of individuals who appreciate and express Aesthetics for a better world.
+A community of creative and innovative arts advocates
 
-### Mission
-
-To develop students an appreciation for the Aesthetics; imparting them with knowledge and skills to express their thoughts in an exciting Aesthetics spaces and through varied Aesthetics activities. In the process, students cultivate good values and contribute meaningfully to the society.
-
-### Philosophy
-
-Value is the at the heart of CCHY’s Aesthetics endeavours, and we strive to create multiple pathways for students to fulfil their aspirations. We aim to expose students to a varied form of Aesthetics experiences to see value of Aesthetics; to engage students in real-life activitites to develop mastery and values for lifelong learning.
 
 ### Instructional Programme
 
-Aesthetics department in CCHY is made up of Art, Music and Design and Technology (D&T). The threading knowledge of elements and principles of Art and Design in these subjects is taught to the students. Besides the curricular programme conducted in classrooms, there will also be enrichment activities to deepen students’ understanding of art knowledge and skills.
+The Aesthetics Department comprises of Art, Design and Technology, Food and Consumer Education and Music unit. All Lower Secondary students are required to take these subjects.&nbsp;
 
-### CCHY Aesthetics Framework
-<img src="/images/Aesthetics%20Framework.jpg" 
-     style="width:50%">
+  
+
+CCHY Aesthetics Education includes:
+
+• Field of inquiry in the various disciplines of Art, Music, D&amp;T, FCE/NFS and VPACCA.
+
+• Meaningful artistic experiences that harness creativity and innovation.
+
+• Nurturing individuals with the ability to express their artistic intention through various art forms and senses.
+
+![](/images/Our%20Curriculum/Academic%20Development/Department/Aesthetics/Aesthetics_1.jpg)
+
+
 		 
-The framework is based on the National Arts Education Award framework and Art, Music and D&T syllabuses to guide school to attain the mission, vision and values of Aesthetics department. In return, school will also develop and assess students learning and achievements in Aesthetics for a holistic secondary education. The framework for arts policy is structured under the three domains of Head, Heart and Hand. Through the three domains, students develop skillful and artful knowledge (Head) through different forms of media (such as painting, playing a musical instrument, etc) and achieved excellence (Hand). Through thinking and understanding the artists’ works of past and present (Art Appreciation) (Head) and through articulating their thoughts and feelings about their works and others works (Heart). The three domains are interconnected and operate dynamically. It also prepares our students to gain the knowledge, skills and values to thrive in a future driven by globalization and technological advancements, fulfilling the three domain of 21st Century Competencies (Civic Literacy, Global Awareness and Cross-Cultural Skills; Critical and Inventive Thinking; and Information and Communication skills).
+The core of the framework includes:
 
-### Art & Music Elective Programmes (AEP/MEP)
+• Core Values
 
-**Application for Art/Music Elective Programme (AEP/MEP) Centres 2022**
+• CCHY Teaching and Learning Framework
 
-If you would like to apply for AEP/MEP, please take note that the online application is open from 4-17 January 2022.  More information can be found in the following sites:
+  
 
-* AEP: [https://moe.gov.sg/aep](https://moe.gov.sg/aep)
+Through our Aesthetics Curriculum, we aim to develop in students:
 
-* MEP: [https://moe.gov.sg/mep](https://moe.gov.sg/mep)
+1. Self-directedness and Joy of learning
+
+2. 21st Thinking Skills and Disposition
+
+  
+
+Three behavioral learning domains encapsulate the cognitive, affective and psychomotor dimensions of students’ engagement in Aesthetics.
+
+  
+
+**Domain 1**: Perceiving and Listening&nbsp;
+
+The ability to pay attention to and analyse what is around them. In perceiving and listening, students develop sensitivities that stimulate their imagination. They learn to gather, organise and record information, and use that information to generate and present their ideas in the various subject disciplines – Art, D&amp;T, Music and FCE
+
+  
+
+**Domain 2**: Creating and Communicating&nbsp;
+
+Art, Music, D&amp;T and FCE communicates e.g. ideas, solutions, emotions, and concepts. By investigating and exploring problems and ideas, students discover creative ways to express themselves and/or develop feasible solutions. They learn to apply their understanding of various skills learnt in authentic learning tasks to express intent and achieve their purpose.
+
+  
+
+**Domain 3**: Connecting and Appreciating
+
+Students learn to reflect and evaluate their own practices and develop the confidence to share their work with others. Through this process, they are able to make connections between their work and their own experiences.
+
+Key Approaches
+
+![](/images/Our%20Curriculum/Academic%20Development/Department/Aesthetics/Aesthetics_2.jpg)
+
+![](/images/Our%20Curriculum/Academic%20Development/Department/Aesthetics/Aesthetics_3.jpg)
+
+**Engagement / Exposure / Appreciation**  
+  
+
+<u>Key Programmes</u>
+
+• Singapore Youth Festival Art Exhibition
+
+• Public Hygiene Council Comic Strip Competition
+
+• Workshop with Artist/Practitioners
+
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;\- Design Thinking Workshop for Secondary 2 Cohort
+
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;\- Foley Design and Sound Effects
+
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;\- Engagement with UOB Painter
+
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;\- EKO studio Interactive Video for Secondary 1 Cohort
+
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;\- Basic and Photography Sessions
+
+• Learning Journey to food factory
+
+• Aesthetics Week&nbsp;
+
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;\- Interest-based workshop for Secondary 2 Cohort
+				
+				
+
+### Art &amp; Music Elective Programmes (AEP/MEP)
+
+**Application for Art/Music Elective Programme (AEP/MEP) Centres**
+
+If you would like to apply for AEP/MEP, please take note of the online application&nbsp;dates.  More information can be found in the following sites:
+
+* AEP:&nbsp;[https://moe.gov.sg/aep](https://moe.gov.sg/aep)
+
+* MEP:&nbsp;[https://moe.gov.sg/mep](https://moe.gov.sg/mep)
+
+
+### Photos
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIGgMyOATnA4UdhCWvrOHJsohtI68qnsKxOecchJAUs2O4IfwvhW122I7bF9EVWwa8zk7ts2TLipAz/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
 
 Find more on [Google Drive](https://drive.google.com/drive/folders/1BorSv7PGaLVV3Jy0UZoufeW7GiFV11Zq)
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img style="width:50%" src="/images/pavilion.png">
