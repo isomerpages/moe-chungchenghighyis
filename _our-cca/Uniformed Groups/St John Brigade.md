@@ -5,53 +5,39 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 # **St John Brigade**
-*Our St John Brigade (SJB) unit aims to serve mankind by relieving pain and suffering. We strive to produce competent, compassionate and confident cadets who can give back to their families, the community and the country.*
+Our St John Brigade (SJB) Corp aims to serve mankind with pride and confidence through training in life saving skills and health care in schools. Through the various proficiency badge subjects (welfare &amp; service, outdoor activities, skills &amp; hobbies), our cadets are given different opportunities to acquire the necessary knowledge that will prepare them for higher education and careers beyond secondary school.
 
-### Motto
-For The Service of Mankind
 
 ### Teachers-in-charge
 
 Mrs Peh-Leow Li Yong, Shirley (IC)   
-Ms Isabelle Lim Ji Yu   
+Ms&nbsp;Isabelle Lim Ji Yu   
 
 
 ### Training Schedule
-Please click on the link below to view CCA venue & schedule.   
-[CCA venue & schedule](/our-cca/cca/cca-venue-schedule/)
+Please click on the link below to view CCA venue &amp; schedule.&nbsp;  
+[CCA venue &amp; schedule](/our-cca/cca/cca-venue-schedule/)
 
 ### Events/Activities
-**Public Duty**   
-School events  
-e.g. S1OC, Chung Cheng Championship  
-External events  
-e.g. Chingay Parade, Singapore Girls Netball Competition
 
-**Events**   
-St. John’s Day    
-St. John Flag Day    
-St. John Walkathon    
-National First Aid Competition    
-National Day Parade   
-Hospital Attachment Program    
-World Water Day   
-Courses and Camps   
-Annual Training Camp   
-N.C.O Course Theory    
-N.C.O Course Camp   
-Basic First Aid    
-Advanced First Aid   
-Heart Saver Assessment   
-Cardiopulmonary Resuscitation (CPR) + AED    
-Basic Cardiac Life Support (BCLS) + AED    
-Civil Defence    
-Total Defence  
-Singapore Anti-Drug Ambassador (SANA)    
-Youth Health Ambassador   
-Water Ambassador   
-Knowledge of the Order of St John
+1. District First Aid Competition
+
+2. Corp First Aid Instructor Course
+
+3. Corp Home Nursing Instructor Course
+
+4. Corp National Basic Drill Instructor Course&nbsp;
+
+5. Hospital Attachment
+
+6. Corp Annual Training Camp&nbsp;
+
+7. Basic and Advanced Non-Commissioned Officer Course
+
+# Photos
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCgpelhu2ptl7dp_CCp_yYEI4BpibSbsj3xgXonRJf1yodWOgMyD1qFJLxOsGCSBi-yhkbznco4v6a/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
 
 More information on SJB: [https://stjohn.org.sg/](https://stjohn.org.sg/)
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img style="width:50%" src="/images/pavilion.png">
