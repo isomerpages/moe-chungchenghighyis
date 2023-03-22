@@ -64,6 +64,13 @@ Secondary 4 and 5 students learn to detect nuances of language used in context i
 
 ### Competitions
 
+![](/images/Our%20Curriculum/Academic%20Development/Department/ELL/ELL_1.jpg)
+
+In addition, we have also participated yearly in Read for Books, a National Reading Movement organised by the National Library Board. It is also a charity book drive with the intention of raising awareness of reading and share the gift of reading with the less privileged. For every 10 people who read for 15 minutes, one book will be donated to the selected beneficiaries. 
+
+In 2021, we submitted an entry for 1155 participants for days between 12th – 23rd July. That makes it **115.5** books donated from our school to the cause. 
+
+In 2022, we submitted an entry for 1224 participants for days between 1st Aug – 16th Sep. That makes it **122** books donated from our school to the cause.
 
 Find more on [Google Drive](https://drive.google.com/drive/folders/16EwzvMBvDX9EuqVGLYnyr69wWv2Etpmy)
 
