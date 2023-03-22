@@ -4,7 +4,6 @@ permalink: /our-curriculum/academic-development/department/English-Language-and-
 description: ""
 third_nav_title: Department
 ---
-
 # **English Language &amp; Literature**
 
 
@@ -36,7 +35,7 @@ The Department employs both Assessment for Learning (AfL) and Assessment of Lear
 
 
 
-### Competitions / Enrichment Activities
+### Signature Programmes
 
 As part of the Department’s aim to deliver an effective and engaging curriculum, every student is offered the unique opportunity to learn beyond the classroom through our signature programmes.
 
@@ -62,6 +61,8 @@ Secondary 3 students plan, organise and develop their ideas through role-play in
 **Secondary 4 and 5 Advanced Text Analysis Workshop**  
 
 Secondary 4 and 5 students learn to detect nuances of language used in context in order to demonstrate their skill in answering techniques. This programme complements and enhances the teaching and learning of text analysis and reading comprehension to give them a leg up in thinking and reasoning skills.
+
+### Competitions
 
 
 Find more on [Google Drive](https://drive.google.com/drive/folders/16EwzvMBvDX9EuqVGLYnyr69wWv2Etpmy)
