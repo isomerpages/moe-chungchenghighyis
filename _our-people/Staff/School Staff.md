@@ -106,6 +106,7 @@ third_nav_title: Staff
 |  Ms Tan 	| Tan Wan Ting  	|   	|   	| [tan_wan_ting@moe.edu.sg](mailto:tan_wan_ting@moe.edu.sg)  	| 256 	|
 | Ms Teo 	| Teo Shin Yeow 	| 3G 	| Chinese Dance 	| [teo_shin_yeow@moe.edu.sg](mailto:teo_shin_yeow@moe.edu.sg) 	| 265 	|
 | Mdm Thian 	| Thian Siaw Fong 	| 3A 	| Chinese Drama 	| [thian_siaw_fong@moe.edu.sg](mailto:thian_siaw_fong@moe.edu.sg) 	| 328 	|
+| Ms Then 	| Then Li-Ping Josephine 	|  	|  	| [then_liping_josephine@moe.edu.sg](mailto:then_liping_josephine@moe.edu.sg) 	| 262 	|
 | Mr Thong 	| Thong Nai Kee 	|  	|  	| [thong_nai_kee@moe.edu.sg](mailto:thong_nai_kee@moe.edu.sg) 	| 271 	|
 | Mr Toh 	| Toh Yong Hock 	| 1A 	| NCC Air (Boys) 	| [toh_yong_hock@moe.edu.sg](mailto:toh_yong_hock@moe.edu.sg) 	| 263 	|
 | Mr Tok 	| Tok Wei Ee Alvin 	|  	| Basketball (Boys) 	| [tok_wei_ee_alvin@moe.edu.sg](mailto:tok_wei_ee_alvin@moe.edu.sg) 	| 280 	|
