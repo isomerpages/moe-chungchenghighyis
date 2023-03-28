@@ -53,7 +53,7 @@ third_nav_title: Staff
 | Ms Foo 	| Foo Yuan Lu Celestine 	|  	|  	| [foo_yuan_lu_celestine@moe.edu.sg](mailto:foo_yuan_lu_celestine@moe.edu.sg) 	| 327 	|
 | Ms Goh 	| Goh Wen Ling Gloria 	|  	| Chinese Orchestra/Guzheng Ensemble 	| [goh_wen_ling_gloria@moe.edu.sg](mailto:goh_wen_ling_gloria@moe.edu.sg) 	| 277 	|
 |  Ms Goh 	|  Goh Xiu Qing Elizabeth 	|  2D 	| Dance Ensemble  	| [goh_xiu_qing_elizabeth@moe.edu.sg](mailto:goh_xiu_qing_elizabeth@moe.edu.sg)  	| 289 	|
-| Mr  	| Gurmit Singh 	|  	|  	| [gurmit_singh_mehervan_singh@moe.edu.sg](mailto:gurmit_singh_mehervan_singh@moe.edu.sg) 	|  	|
+| Mr  	| Gurmit Singh 	|  	|  	| [gurmit_singh_mehervan_singh@moe.edu.sg](mailto:gurmit_singh_mehervan_singh@moe.edu.sg) 	| 309 	|
 | Mr Han 	| Han Ji 	| 4C 	| Volleyball 	| [han_ji@moe.edu.sg](mailto:han_ji@moe.edu.sg) 	| 270 	|
 | Ms Ho 	| Ho Soo Fern 	| 3F 	| Fencing 	| [ho_soo_fern@moe.edu.sg](mailto:ho_soo_fern@moe.edu.sg) 	| 277 	|
 | Ms Lim 	| Isabelle Lim Ji Yu 	| 1H 	| St John Brigade 	| [isabelle_lim_ji_yu@moe.edu.sg](mailto:isabelle_lim_ji_yu@moe.edu.sg) 	| 288 	|
