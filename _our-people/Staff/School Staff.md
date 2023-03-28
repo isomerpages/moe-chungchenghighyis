@@ -50,6 +50,7 @@ third_nav_title: Staff
 | Mrs Chua 	| Choo Huier 	| 2B 	|  	| [choo_huier@moe.edu.sg](mailto:choo_huier@moe.edu.sg) 	| 258 	|
 | Mr Chui 	| Chui Ming Fa Benedict 	| 1B 	| Basketball (Boys) 	| [chui_ming_fa_benedict@moe.edu.sg](mailto:chui_ming_fa_benedict@moe.edu.sg) 	| 270 	|
 | Ms Edina 	| Edina Rahman 	| 3H 	| Journalism Club 	| [edina_rahman@moe.edu.sg](mailto:edina_rahman@moe.edu.sg) 	| 316 	|
+| Ms Foo 	| Foo Yuan Lu Celestine 	|  	|  	| [foo_yuan_lu_celestine@moe.edu.sg](mailto:foo_yuan_lu_celestine@moe.edu.sg) 	| 327 	|
 | Ms Goh 	| Goh Wen Ling Gloria 	|  	| Chinese Orchestra/Guzheng Ensemble 	| [goh_wen_ling_gloria@moe.edu.sg](mailto:goh_wen_ling_gloria@moe.edu.sg) 	| 277 	|
 |  Ms Goh 	|  Goh Xiu Qing Elizabeth 	|  2D 	| Dance Ensemble  	| [goh_xiu_qing_elizabeth@moe.edu.sg](mailto:goh_xiu_qing_elizabeth@moe.edu.sg)  	| 289 	|
 | Mr  	| Gurmit Singh 	|  	|  	| [gurmit_singh_mehervan_singh@moe.edu.sg](mailto:gurmit_singh_mehervan_singh@moe.edu.sg) 	|  	|
