@@ -1,36 +1,50 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Chung Cheng High School (Yishun)
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      background: /images/cchy.gif
+      key_highlights:
+        - title: For Students
+          description: ""
+          url: /useful-links/students/
+        - title: For Staff
+          description: ""
+          url: /useful-links/staff/
+        - title: For Parents
+          description: ""
+          url: /useful-links/parents/
+  - resources:
+      title: Announcements
+      button: More announcements here
+  - infobar:
+      title: Visit Our Facebook Page
+      description: <center><iframe
+        src=https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FChung-Cheng-High-School-Yishun-649727622164220&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId
+        width="340" height="500" style="border:none;overflow:hidden"
+        scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+        clipboard-write; encrypted-media; picture-in-picture;
+        web-share"></iframe></center>
+  - infobar:
+      title: Personal Learning Device (PLD) & Password Reset
+      description: Please click on read more for more information
+      button: Read more
+      url: /Personal-Learning-Device-PLD-Password-Reset/
+  - infobar:
+      title: Cyber Wellness
+      button: Read More
+      description: Please click on read more for more information
+      url: /cyber-wellness/
+  - infopic:
+      title: Tips on how to Feel Good and Do Good
+      subtitle: How to "Flourish"?
+      description: Please click on read more for more information
+      button: Read more
+      url: /our-curriculum/student-development/wellbeing-365
+      image: /images/Wellbeing 365 logo 1.jpg
+      alt: Image alt text
 ---
-

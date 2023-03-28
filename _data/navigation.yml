@@ -1,13 +1,46 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/cchy-logo-name.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Resources
-    resource_room: true
+  - title: Our CCHY
+    collection: our-cchy
+  - title: Our People
+    collection: our-people
+  - title: Our Curriculum
+    url: /our-curriculum/academic-development/academic-development/
+    sublinks:
+      - title: Academic Development
+        url: /our-curriculum/academic-development/academic-development/
+      - title: Student Development
+        url: /our-curriculum/student-development
+      - title: Signature Programme
+        url: /our-curriculum/Signature-Programme/global-classroom
+      - title: Full Subject-Based Banding
+        url: /our-curriculum/full-subject-based-banding
+      - title: Home-Based Learning
+        url: /our-curriculum/home-based-learning
+      - title: Sexuality Education Programme
+        url: /our-curriculum/sexuality-education-programme/
+  - title: Our CCA
+    collection: our-cca
+  - title: Our Community
+    collection: our-community
+  - title: Admission
+    url: /admission/admission
+    sublinks:
+      - title: Admission
+        url: /admission/admission
+      - title: Direct School Admissions (DSA)
+        url: /admission/direct-school-admission-dsa/
+      - title: Returning Singaporeans
+        url: /admission/returning-singaporeans
+      - title: International Students
+        url: /admission/international-students
+      - title: School Transfer
+        url: /admission/school-transfer
+      - title: Sec 1 Registration microsite
+        url: /admission/sec-1-registration-for-parents-and-students
+      - title: PSLE scoring/S1 posting system
+        url: /admission/new-psle-scoring-and-s1-posting-systems
+      - title: Services
+        url: /admission/Services/parents-gateway
+  - title: Useful Links
+    collection: useful-links

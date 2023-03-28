@@ -1,0 +1,12 @@
+collections:
+  our-people:
+    output: true
+    order:
+      - School Management Committee.md
+      - Staff/.keep
+      - Staff/School Staff.md
+      - Staff/Ex Principals' List.md
+      - Staff/School Executive Committee.md
+      - Staff/Lead Teacher & Senior Teacher.md
+      - Staff/Form Teachers.md
+      - Staff/Non Teaching Staff.md
