@@ -69,8 +69,9 @@ third_nav_title: Staff
 |  Ms Lee  	| Lee Yanmei  	|   	| Green Club  	| [lee_yanmei@moe.edu.sg](mailto:lee_yanmei@moe.edu.sg)  	| 259 	|
 | Ms Liew 	| Liew Huey Chyi 	| 1D 	| Chinese Orchestra/Guzheng Ensemble 	| [liew_huey_chyi@moe.edu.sg](mailto:liew_huey_chyi@moe.edu.sg) 	| 286 	|
 | Mr Lim 	| Lim Chia Hwee 	| 3E 	| NCC Air (Boys) 	| [lim_chia_hwee@moe.edu.sg](mailto:lim_chia_hwee@moe.edu.sg) 	| 263 	|
+| Ms Lim 	|  Lim Jia Ying 	|  1F 	| Chinese Orchestra/Guzheng Ensemble 	| [lim_jia_ying_b@moe.edu.sg](mailto:lim_jia_ying_b@moe.edu.sg)  	| 276 	|
+| Ms Lim 	| Lim Lian Ching |  	|  	| [lim_lian_ching@moe.edu.sg](mailto:lim_lian_ching@moe.edu.sg) 	| 255 	|
 | Mdm Lim  	| Lim Min Hui  	| 2A 	|   	| [lim_minhui@moe.edu.sg](mailto:lim_minhui@moe.edu.sg)  	| 302 	|
-|  Ms Lim 	|  Lim Jia Ying 	|  1F 	| Chinese Orchestra/Guzheng Ensemble 	| [lim_jia_ying_b@moe.edu.sg](mailto:lim_jia_ying_b@moe.edu.sg)  	| 276 	|
 | Mr Lim  	|  Lim Ying Xuan 	| 3B 	| NCC Air (Boys) 	| [lim_ying_xuan@moe.edu.sg](mailto:lim_ying_xuan@moe.edu.sg)  	| 261 	|
 | Ms Lin 	| Lin Xiaoying 	| 1E 	| Technopreneur Club 	| [lin_xiaoying@moe.edu.sg](mailto:lin_xiaoying@moe.edu.sg) 	| 273 	|
 | Ms Low 	| Low Li Shan 	|  	|  	| [low_li_shan@moe.edu.sg](mailto:low_li_shan@moe.edu.sg) 	| 286 	|
