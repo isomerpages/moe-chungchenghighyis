@@ -18,7 +18,7 @@ After our relocation to Yishun in 2005, CCHY reaffirmed her commitment to servin
 
 Working hand-in-hand, the CL and ML units deliver comprehensive MTL programmes that are fully in-line with MOE’s stand of Bilingualism as a cornerstone of Singapore’s education system.
 
-### Instructional Programmes
+### Instructional Programme
 
 The MTL Department offers the following Instructional Programmes:
 
