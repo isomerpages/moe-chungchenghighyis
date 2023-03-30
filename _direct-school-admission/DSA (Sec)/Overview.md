@@ -1,9 +1,14 @@
 ---
 title: Overview
-permalink: /admission/direct-school-admission-dsa/dsa-sec/application
+permalink: /admission/direct-school-admission-dsa/dsa-sec/overview/
 description: ""
 third_nav_title: DSA (Sec)
 ---
+
+
+
+
+
 # **Overview**
 
 **2022 Direct School Admission–Secondary (DSA-Sec) Exercise for admission to Secondary One in 2023**
