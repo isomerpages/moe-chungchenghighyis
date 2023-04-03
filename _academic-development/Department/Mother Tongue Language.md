@@ -93,7 +93,7 @@ Our Malay Language teachers / Guru-guru Bahasa Melayu :
 4. Learning Journey : Visual Arts (Malay Culture &amp; Performing Arts)
 
 ### Photo Gallery of School Activities
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSuJpgFgsWLeo1gopJrdylDS7_RxeFcX0awdSMixfDy_pwCriOea2NYF8dre75afGykNRdIQb3y0H-x/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSuJpgFgsWLeo1gopJrdylDS7_RxeFcX0awdSMixfDy_pwCriOea2NYF8dre75afGykNRdIQb3y0H-x/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 
 Find more on [Google Drive](https://drive.google.com/drive/folders/1eHCIWYtBIgHoAvqddPms91mk4YDDSOd0) 
