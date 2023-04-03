@@ -77,7 +77,7 @@ Key Programmes
 You can access our CCHY LLP Photography site&nbsp;[here](https://sites.google.com/moe.edu.sg/cchyllp/our-student-photographers).
 
 ### Photos
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTkCtLfg4c9lh4JY9BqX7xhCWd7xbeXWt5Mzk3guzd_ymVUzbWsA76NCijO0tdmmA_ZCxqmoBmM05xz/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTkCtLfg4c9lh4JY9BqX7xhCWd7xbeXWt5Mzk3guzd_ymVUzbWsA76NCijO0tdmmA_ZCxqmoBmM05xz/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 
 Find more on [Google Drive](https://drive.google.com/drive/folders/15NqZWutusqKUKlEYJm6kXCOtJzmG9k-H)
