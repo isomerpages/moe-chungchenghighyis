@@ -6,7 +6,8 @@ third_nav_title: Physical Sports
 ---
 # **OutDoor Activities Club (ODAC)**
 
-![](/images/ODAC.jpg)
+
+![](/images/Our%20CCA/ODAC/odac%20main%20pic.jpeg)
 
 The Outdoor Activities Club (ODAC) was set up to bring out every student’s potential, developing character, mental resilience and meet to life’s demands with tenacity. Every child will be given the opportunity to excel beyond his or her limits, and to feel a sense of satisfaction through outdoor activities. ODAC members will also learn to persevere through the challenging activities presented to them, as well as learn that results can only be achieved over time through sheer hard work and determination. Finally, ODAC members will apply these soft-skills learnt via ODAC activities to the realms of academia.
 
@@ -36,7 +37,6 @@ Please click on the link below to view CCA venue &amp; schedule.&nbsp;
 
 ### Photo Gallery
 
-<iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQabRNZKwEK1mpF8DgUXrMhnuJA2RuSCtUP_kHjMPoCcPf-zUnjsjd7KengfeuEruWte4365UfqS74M/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-(uploaded 5 images, 8 more images to be uploaded)
+<iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGUc6skzdrkJLtWmJcmydTQIQzF_3axUvSrL8kVJVimbpjzeFzp3tBAlHvf3Ie9AukUgblL8tMDkxQ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 <img src="/images/pavilion.png" style="width:50%">
