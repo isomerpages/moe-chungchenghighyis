@@ -35,7 +35,7 @@ Please click on the link below to view CCA venue &amp; schedule.&nbsp;
 7. Basic and Advanced Non-Commissioned Officer Course
 
 ### Photos
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCgpelhu2ptl7dp_CCp_yYEI4BpibSbsj3xgXonRJf1yodWOgMyD1qFJLxOsGCSBi-yhkbznco4v6a/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCgpelhu2ptl7dp_CCp_yYEI4BpibSbsj3xgXonRJf1yodWOgMyD1qFJLxOsGCSBi-yhkbznco4v6a/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 
 More information on SJB: [https://stjohn.org.sg/](https://stjohn.org.sg/)
