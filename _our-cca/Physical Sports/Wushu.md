@@ -32,8 +32,7 @@ Please click on the link below to view CCA venue &amp; schedule.&nbsp;
 *   Team bonding sessions and activities
 
 ### Photo Gallery
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQOMb8wFRmFDD9Y3pNE-BgutRu2bCk9bj5TOF2s6tEJrGTOyo6opUAzl-nQD-AFyrd49kPKFqNG-Cxd/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQOMb8wFRmFDD9Y3pNE-BgutRu2bCk9bj5TOF2s6tEJrGTOyo6opUAzl-nQD-AFyrd49kPKFqNG-Cxd/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 
 <img style="width:50%" src="/images/pavilion.png">
