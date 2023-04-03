@@ -111,7 +111,7 @@ If you would like to apply for AEP/MEP, please take note of the online applicati
 
 
 ### Photos
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIGgMyOATnA4UdhCWvrOHJsohtI68qnsKxOecchJAUs2O4IfwvhW122I7bF9EVWwa8zk7ts2TLipAz/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIGgMyOATnA4UdhCWvrOHJsohtI68qnsKxOecchJAUs2O4IfwvhW122I7bF9EVWwa8zk7ts2TLipAz/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 
 Find more on [Google Drive](https://drive.google.com/drive/folders/1BorSv7PGaLVV3Jy0UZoufeW7GiFV11Zq)
