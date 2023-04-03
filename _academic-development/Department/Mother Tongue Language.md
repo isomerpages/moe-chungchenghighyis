@@ -44,7 +44,7 @@ The MTL Department also runs the Cross Culture Programme as part of the school�
 * 母语双周
 * 教育部《驻校作家计划》
 * 教育部《文化随意门》
-*  中一年级“书法乐”活动
+* &nbsp;中一年级“书法乐”活动
 * 传统节日庆祝活动：农历新年联欢会、中秋节联欢会
 
 ### Malay Language Unit
@@ -87,38 +87,15 @@ Our Malay Language teachers / Guru-guru Bahasa Melayu :
 2. Cikgu Noor Fazillah Noor Aziz
 
 ### Competitions / Enrichment Activities
-1. Mother Tongue Fortnight (Language & Culture)
+1. Mother Tongue Fortnight (Language &amp; Culture)
 2. Hari Raya Celebration and Cultural Awareness
 3. Internal / External Competitions
-4. Learning Journey : Visual Arts (Malay Culture & Performing Arts)
+4. Learning Journey : Visual Arts (Malay Culture &amp; Performing Arts)
 
 ### Photo Gallery of School Activities
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSuJpgFgsWLeo1gopJrdylDS7_RxeFcX0awdSMixfDy_pwCriOea2NYF8dre75afGykNRdIQb3y0H-x/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
-![](/images/a58667e7a_65557.jpeg)
-Our Principal, Mr Tan, reading the riddles
-
-![](/images/396574d19_65558.jpeg)
-Our special Pomelo lanterns created by our dedicated leaders
-
-![](/images/922f14db0_65559.jpg)
-School Leaders at Chinese New Year Celebration
-
-![](/images/69ebe7e40_65560.jpg)
-Students sharing with their peers the uniqueness of Malay Culture
-
-![](/images/fff198854_65556.jpg)
-Students sharing with their peers the uniqueness of Malay Culture
-
-![](/images/afa0b86b1_65561.jpeg)
-Students trying out lion dance under the guidance of professional lion dancers
-
-![](/images/e83f3762d_65562.jpeg)
-Students writing Chinese calligraphy during the Mother Tongue Languages Fortnight
-
-![](/images/295d5544e_65563.jpeg)
-We managed to celebrate the Mid-Autumn Festival in school while observing the Safe Management Measures
 
 Find more on [Google Drive](https://drive.google.com/drive/folders/1eHCIWYtBIgHoAvqddPms91mk4YDDSOd0) 
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img style="width:50%" src="/images/pavilion.png">
