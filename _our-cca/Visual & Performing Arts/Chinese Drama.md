@@ -1,6 +1,6 @@
 ---
 title: Chinese Drama
-permalink: /our-cca/Visual-and-Performing-Arts/chinese-drama/
+permalink: /our-cca/visual-and-performing-arts/chinese-drama/
 description: ""
 third_nav_title: Visual &amp; Performing Arts
 ---

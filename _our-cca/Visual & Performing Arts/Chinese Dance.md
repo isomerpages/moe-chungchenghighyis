@@ -1,8 +1,8 @@
 ---
 title: Chinese Dance
-permalink: /our-cca/Visual-and-Performing-Arts/chinese-dance/
+permalink: /our-cca/visual-and-performing-arts/chinese-dance/
 description: ""
-third_nav_title: Visual & Performing Arts
+third_nav_title: Visual &amp; Performing Arts
 ---
 # **Chinese Dance**
 
@@ -19,8 +19,8 @@ Ms Tan Si Min (2IC)
 
 
 ### Training Schedule
-Please click on the link below to view CCA venue & schedule.   
-[CCA venue & schedule](/our-cca/cca/cca-venue-schedule/)
+Please click on the link below to view CCA venue &amp; schedule.&nbsp;  
+[CCA venue &amp; schedule](/our-cca/cca/cca-venue-schedule/)
 
 ### Photo Gallery
 
@@ -34,5 +34,4 @@ Please click on the link below to view CCA venue & schedule. 
 
 ![](/images/8e25cc484_62565.jpg)
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">

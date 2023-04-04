@@ -1,6 +1,6 @@
 ---
 title: Chinese Orchestra &amp; Guzheng Ensemble
-permalink: /our-cca/Visual-and-Performing-Arts/chinese-orchestra-guzheng-ensemble/
+permalink: /our-cca/visual-and-performing-arts/chinese-orchestra-guzheng-ensemble/
 description: ""
 third_nav_title: Visual &amp; Performing Arts
 ---

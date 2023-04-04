@@ -1,8 +1,8 @@
 ---
 title: Dance Ensemble
-permalink: /our-cca/Visual-and-Performing-Arts/dance-ensemble/
+permalink: /our-cca/visual-and-performing-arts/dance-ensemble/
 description: ""
-third_nav_title: Visual & Performing Arts
+third_nav_title: Visual &amp; Performing Arts
 ---
 # **Dance Ensemble**
 ![](/images/International%20Dance.jpg)
@@ -10,7 +10,7 @@ third_nav_title: Visual & Performing Arts
 
 Dance Ensemble is an amalgam of rhythm, power, elegance, and beauty. We strive to spark the blossoming of dancers into confident individuals with growing knowledge and passion for dance.
 
-Through events such as Chingay and the Singapore Youth Festival Arts Presentation, students have challenged themselves to choreograph and perform elements of contemporary dance, ballet, and local interpretations of traditional dance moves. This growing repertoire has enhanced their ability to express a myriad of emotions required for various themes. 
+Through events such as Chingay and the Singapore Youth Festival Arts Presentation, students have challenged themselves to choreograph and perform elements of contemporary dance, ballet, and local interpretations of traditional dance moves. This growing repertoire has enhanced their ability to express a myriad of emotions required for various themes.&nbsp;
 
 **Teamwork** is the key to **excellence** and **discipline** in our CCA. Dancers learn to leverage on their different strengths while empathising and collaborating to ensure that success happens as a team.
 
@@ -26,8 +26,8 @@ Ms Goh Xiu Qing Elizabeth (2IC)
 
 ### Training Schedule
 
-Please click on the link below to view CCA venue & schedule.   
-[CCA venue & schedule](/our-cca/cca/cca-venue-schedule/)
+Please click on the link below to view CCA venue &amp; schedule.&nbsp;  
+[CCA venue &amp; schedule](/our-cca/cca/cca-venue-schedule/)
 
 ### Activities/Events
 
@@ -56,5 +56,4 @@ Please click on the link below to view CCA venue & schedule. 
 
 ![](/images/dance%20ensemble7.jpg)
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">
