@@ -1,10 +1,9 @@
 ---
-title: Chinese Orchestra & Guzheng Ensemble
+title: Chinese Orchestra &amp; Guzheng Ensemble
 permalink: /our-cca/Visual-and-Performing-Arts/chinese-orchestra-guzheng-ensemble/
 description: ""
-third_nav_title: Visual & Performing Arts
+third_nav_title: Visual &amp; Performing Arts
 ---
-
 # **Chinese Orchestra &amp; Guzheng Ensemble**
 
 Our Chinese Orchestra and Guzheng Ensemble aims to promote Chinese classical music as well as cultivate an appreciation of Chinese music and heritage through a repertoire of performances and music exchange.
@@ -39,7 +38,6 @@ Mar/Apr – Singapore Youth Festival Arts Presentation
 June Holidays – Training Camp
 
 ### Photos
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRaZkx5kSUGpYd9NuFV6vMIkWnb-4Uq53udsYBJSTqssF1b6x9N4d48i3qeIX2GcjXpu2A4JNfiTDsq/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRaZkx5kSUGpYd9NuFV6vMIkWnb-4Uq53udsYBJSTqssF1b6x9N4d48i3qeIX2GcjXpu2A4JNfiTDsq/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 <img style="width:50%" src="/images/pavilion.png">

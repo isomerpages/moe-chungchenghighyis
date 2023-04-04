@@ -46,8 +46,7 @@ Please click on the links below for more information related to 2023 HBL.
 
 # **CCHY SIL Photos**
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_2fKJuQNZrOmaZq4nOiaL1pFocT3CTQJDbtKqcV8H1N7xXfiwgsnGVza52GLrQSx6RT6aaW-N2X9o/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-
+<iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_2fKJuQNZrOmaZq4nOiaL1pFocT3CTQJDbtKqcV8H1N7xXfiwgsnGVza52GLrQSx6RT6aaW-N2X9o/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 
 <img src="/images/pavilion.png" style="width:50%">

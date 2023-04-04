@@ -1,6 +1,6 @@
 title: Chung Cheng High School (Yishun)
 url: https://chungchenghighyishun.moe.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon-cchy.ico
 colors:
   primary-color: "#823317"
   secondary-color: "#a7473e"
@@ -16,7 +16,7 @@ colors:
     - title: media-color-five
       color: "#00838f"
 resources_name: Resources
-description: ""
+description: A Singapore Government site built with Isomer
 permalink: none
 baseurl: ""
 exclude:
