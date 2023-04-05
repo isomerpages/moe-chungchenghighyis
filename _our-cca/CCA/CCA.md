@@ -12,7 +12,7 @@ CCHY has constantly been attaining laudable results for both academic and CCA do
 
 ### Compulsory CCA Participation
 
-CCA is an integral part of the student’s holistic education in school. Hence, CCA participation is compulsory at the secondary school level, and every student is expected to participate in a CCA from one of the four CCA groups, namely, Clubs, Physical Sports, Uniformed Groups (UG) and Visual & Performing Arts (VPA).  Participation in a school-based CCA allows the teachers to guide and chart the development of the student beyond the learning from the subject disciplines in the classroom, in areas such as leadership and character development, and the 21st Century Competencies (21CC).
+CCA is an integral part of the student’s holistic education in school. Hence, CCA participation is compulsory at the secondary school level, and every student is expected to participate in a CCA from one of the four CCA groups, namely, Clubs, Physical Sports, Uniformed Groups (UG) and Visual &amp; Performing Arts (VPA).  Participation in a&nbsp;school-based&nbsp;CCA allows the teachers to guide and chart the development of the student beyond the learning from the subject disciplines in the classroom, in areas such as leadership and character development, and the 21st&nbsp;Century Competencies (21CC).
 
 ### Sec 1 CCA Experience
 
@@ -27,11 +27,11 @@ It is compulsory for every student to be involved in a school-based CCA, taking 
 **3. Content of Programme**  
 The following activities will be conducted throughout the month of January:
 
-*   **CCA Carnival** on the Friday of Term 1 Week 1 and includes,       
+*   **CCA Carnival**&nbsp;on the Friday of Term 1 Week 1 and includes,&nbsp; &nbsp; &nbsp; &nbsp;
 
 *   Students visiting CCA booths and signing up for auditions, selection trials or/and interviews
 
-*   Students attending scheduled auditions, selection trials and interviews during Term 1 Week 2 & 3  
+*   Students attending scheduled auditions, selection trials and interviews during Term 1 Week 2 &amp; 3  
     
 
   
@@ -39,12 +39,12 @@ The following activities will be conducted throughout the month of January:
 **3.1 CCA Carnival**   
 CCA Open House will be held on Friday of Term 1 Week 1.
 
-CCA booths will be set up in Indoor Sports Courts, MPH, MPR, and the Parade Square.  Upper Secondary CCA leaders will be tasked to promote or pitch their CCAs to the Sec 1 students. As they share more information to new students, they will encourage them to register for the CCA and attend the auditions or selections held over the next 2 weeks.  
+CCA booths will be set up in Indoor Sports Courts, MPH, MPR, and the Parade Square.  Upper Secondary&nbsp;CCA leaders will be tasked to promote or pitch their CCAs to the Sec 1 students. As they share more information to new students, they will encourage them to register for the CCA and attend the auditions or selections held over the next 2 weeks.&nbsp; 
 
 **3.2 CCA Selection Process**   
-Students may choose to go for auditions, selection trials and interviews conducted by the various CCAs. The schedule of the selection events, held during Term 1 Week 2 to 3, will be published on our school website. 
+Students may choose to go for auditions, selection trials and interviews conducted by the various CCAs. The schedule of the&nbsp;selection events, held during Term 1 Week 2 to 3, will be published on our school website. 
 
-Students are strongly advised to be selected for only ONE CCA (~6 hours a week).
+Students are strongly advised to be selected for only&nbsp;ONE&nbsp;CCA (~6 hours a week).
 
 Sec 1 students will also be required to indicate their Top 3 choices of CCA via FormSG (see Table 1). In the unfortunate event, where any student is not selected by any CCA trials, his or her inputs of Top 3 CCA choices (via FormSG) will be considered for the allocation of his/her CCA. However, the allocation will be based on the CCA vacancies available.
 
@@ -68,20 +68,20 @@ There are 21 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every 
 
 | Clubs 	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
-| **C1** 	| **Green Club** 	| Tue & ^Thu<br><br>*(not inclusive of time spent on project planning and execution)* 	| 3 – 5pm 	| ITR3 	|
-| **C2** 	| **Journalism Club** 	| Mon & Tue<br><br>*(not inclusive of time spent on projects/publications)* 	| 3 – 5pm 	| Library 	|
-| **C3** 	| **Multimedia Club** 	| Tue &<br>All School Events 	| 3 – 5pm 	| Outside LT 	|
+| **C1** 	| **Green Club** 	| Tue &amp; ^Thu<br><br>*(not inclusive of time spent on project planning and execution)* 	| 3 – 5pm 	| ITR3 	|
+| **C2** 	| **Journalism Club** 	| Mon &amp; Tue<br><br>*(not inclusive of time spent on projects/publications)* 	| 3 – 5pm 	| Library 	|
+| **C3** 	| **Multimedia Club** 	| Tue &amp;<br>All School Events 	| 3 – 5pm 	| Outside LT 	|
 | **C4** 	| **Technopreneur Club** 	| Tue<br><br>Thu<br><br>*(not inclusive of time spent on project planning and execution)* 	| 3 – 5pm 	| ITR1<br><br>CE Room  	|
 
 ^ on odd week only
 
 | Physical Sports 	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
-| **P1** 	| **Basketball (Boys)** 	| Mon & Wed 	| 3 – 6pm 	| Indoor Sports Court 	|
-| **P2** 	| **Fencing** 	| Tue & Thu 	| 3 – 6pm 	| Indoor Sports Court 	|
-| **P3** 	| **OutDoor Activities Club (ODAC)** 	| Mon & Thu 	| 3 – 6pm 	| Indoor Sports Hall (Level 1) 	|
-| **P4** 	| **Volleyball** 	| Mon & Wed (Boys)<br><br>Tue & Thu (Girls) 	| 3 – 6pm 	| Indoor Sports Hall 	|
-| **P5** 	| **Wushu** 	| Tue & Thu 	| 3 – 6pm 	| Indoor Sports Court 	|
+| **P1** 	| **Basketball (Boys)** 	| Mon &amp; Wed 	| 3 – 6pm 	| Indoor Sports Court 	|
+| **P2** 	| **Fencing** 	| Tue &amp; Thu 	| 3 – 6pm 	| Indoor Sports Court 	|
+| **P3** 	| **OutDoor Activities Club (ODAC)** 	| Mon &amp; Thu 	| 3 – 6pm 	| Indoor Sports Hall (Level 1) 	|
+| **P4** 	| **Volleyball** 	| Mon &amp; Wed (Boys)<br><br>Tue &amp; Thu (Girls) 	| 3 – 6pm 	| Indoor Sports Hall 	|
+| **P5** 	| **Wushu** 	| Tue &amp; Thu 	| 3 – 6pm 	| Indoor Sports Court 	|
 
 | Uniformed Groups (UG) 	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
@@ -91,15 +91,15 @@ There are 21 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every 
 | **U4** 	| **St John Brigade** 	| Thu<br><br>*(additional training on Tuesday or when required by HQ)* 	| 3 – 6pm 	| Parade Square/<br>SJB Room 	|
 
 
-| Visual & Performing Arts (VPA) 	|  	|  	|  	|  	|
+| Visual &amp; Performing Arts (VPA) 	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
-| **V1** 	| **Chinese Dance** 	| Mon & Thu | 3 – 6pm 	| AVA Room/ MPH<br>  	|
-| **V2** 	| **Chinese Drama** 	| Tue & Thu 	| 3 – 6pm 	| SBC/ Centre of Excellence (COE) Room 	|
-| **V3<br><br>V4** 	| **Chinese Orchestra<br>Guzheng Ensemble** 	| Tue – All<br> ![](/images/download.png) | 3 – 6pm 	| Orchestra Room &<br>Level 2 Classrooms 	|
-| **V5** 	| **Choir** 	| Tue & Thu 	| 3 – 6pm 	| Music Room 	|
+| **V1** 	| **Chinese Dance** 	| Mon &amp; Thu | 3 – 6pm 	| AVA Room/ MPH<br>  	|
+| **V2** 	| **Chinese Drama** 	| Tue &amp; Thu 	| 3 – 6pm 	| SBC/ Centre of Excellence (COE) Room 	|
+| **V3<br><br>V4** 	| **Chinese Orchestra<br>Guzheng Ensemble** 	| Tue – All<br> ![](/images/download.png) | 3 – 6pm 	| Orchestra Room &amp;<br>Level 2 Classrooms 	|
+| **V5** 	| **Choir** 	| Tue &amp; Thu 	| 3 – 6pm 	| Music Room 	|
 | **V6** 	| **Festival Drums** 	| Mon<br><br>Tue 	| 3 – 6pm 	| MPH<br><br>Multi-Purpose Room (MPR) 	|
-| **V7** 	| **Dance Ensemble** 	| Tue & Thu 	| 3 – 6pm 	| AVA Room/ MPH 	|
-| **V8** 	| **Symphonic Band** 	| Mon<br> <br> <br><br><br><br>Thu 	| 3 – 6pm	| Mulit-Purpose Room (MPR), Music Room & Level 3 classrooms<br> <br>Mulit-Purpose Room (MPR), ITR1 & Level 1 classrooms 	|
+| **V7** 	| **Dance Ensemble** 	| Tue &amp; Thu 	| 3 – 6pm 	| AVA Room/ MPH 	|
+| **V8** 	| **Symphonic Band** 	| Mon<br> <br> <br><br><br><br>Thu 	| 3 – 6pm	| Mulit-Purpose Room (MPR), Music Room &amp; Level 3 classrooms<br> <br>Mulit-Purpose Room (MPR), ITR1 &amp; Level 1 classrooms 	|
 
 ### Physical Sports
 
@@ -116,14 +116,14 @@ There are 21 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every 
 *  [Peregrine Scouts Group](/our-cca/Uniformed-Groups/peregrine-scouts-group)
 *  [St John Brigade](/our-cca/uniformed-groups/st-john-brigade)
 
-### Visual & Performing Arts
-*  [Chinese Dance](/our-cca/Visual-and-Performing-Arts/chinese-dance)
-*  [Chinese Drama](/our-cca/Visual-and-Performing-Arts/chinese-drama)
-*  [Chinese Orchestra & Guzheng Ensemble](/our-cca/Visual-and-Performing-Arts/chinese-orchestra-guzheng-ensemble)
-*  [Choir](/our-cca/Visual-and-Performing-Arts/choir)
-*  [Festival Drums](/our-cca/Visual-and-Performing-Arts/festival-drums)
-*  [Dance Ensemble](/our-cca/Visual-and-Performing-Arts/dance-ensemble)
-*  [Symphonic Band](/our-cca/Visual-and-Performing-Arts/symphonic-band)
+### Visual &amp; Performing Arts
+*  [Chinese Dance](/our-cca/visual-and-performing-arts/chinese-dance/)
+*  [Chinese Drama](/our-cca/visual-and-performing-arts/chinese-drama/)
+*  [Chinese Orchestra &amp; Guzheng Ensemble](/our-cca/visual-and-performing-arts/chinese-orchestra-guzheng-ensemble/)
+*  [Choir](/our-cca/visual-and-performing-arts/choir/)
+*  [Festival Drums](/our-cca/visual-and-performing-arts/festival-drums/)
+*  [Dance Ensemble](/our-cca/visual-and-performing-arts/dance-ensemble/)
+*  [Symphonic Band](/our-cca/visual-and-performing-arts/symphonic-band/)
 
 ### Clubs
 *  [Multimedia Club](/our-cca/Clubs/multimedia-club)
@@ -133,5 +133,4 @@ There are 21 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every 
 
 Find more on [Google Drive](https://drive.google.com/drive/folders/1cfNOLIQnIaD-Km3xs-BLHBhs-E5ktOTe)
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">
