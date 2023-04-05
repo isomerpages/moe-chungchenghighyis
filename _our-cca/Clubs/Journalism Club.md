@@ -35,4 +35,7 @@ Please click on the link below to view CCA venue &amp; schedule.&nbsp;
 
 (4) Chung Cheng Herald website (ongoing)
 
+### Photo Gallery
+<iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTlAUNRUrJT8PDExAzONjaEc5HOuIQy5tTxSlB8qCEuNW3wGp_jjR8ffebAM8tiiHtoiN1quCCXeAoR/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
 <img src="/images/pavilion.png" style="width:50%">
