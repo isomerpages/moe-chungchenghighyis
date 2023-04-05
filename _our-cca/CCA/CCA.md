@@ -103,18 +103,18 @@ There are 21 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every 
 
 ### Physical Sports
 
-* [Basketball (Boys)](/our-cca/physical-sports/basketball-boys)
-* [Fencing](/our-cca/Physical-Sports/fencing)
-* [Outdoor Activities Club (ODAC)](/our-cca/Physical-Sports/outdoor-activities-club-odac)
-* [Volleyball](/our-cca/Physical-Sports/volleyball)
-* [Wushu](/our-cca/Physical-Sport/wushu)
+* [Basketball (Boys)](/our-cca/physical-sports/basketball-boys/)
+* [Fencing](/our-cca/physical-sports/fencing/)
+* [Outdoor Activities Club (ODAC)](/our-cca/physical-sports/outdoor-activities-club-odac/)
+* [Volleyball](/our-cca/physical-sports/volleyball/)
+* [Wushu](/our-cca/physical-sports/wushu/)
 
 ### Uniformed Groups
 
-*  [National Cadet Corps (Air)(Boys)](/our-cca/uniformed-groups/national-cadet-corps-air-boys)
-*  [National Police Cadet Corps](/our-cca/uniformed-groups/national-police-cadet-corps)
-*  [Peregrine Scouts Group](/our-cca/Uniformed-Groups/peregrine-scouts-group)
-*  [St John Brigade](/our-cca/uniformed-groups/st-john-brigade)
+*  [National Cadet Corps (Air)(Boys)](/our-cca/uniformed-groups/national-cadet-corps-air-boys/)
+*  [National Police Cadet Corps](/our-cca/uniformed-groups/national-police-cadet-corps/)
+*  [Peregrine Scouts Group](/our-cca/uniformed-groups/peregrine-scouts-group/)
+*  [St John Brigade](/our-cca/uniformed-groups/st-john-brigade/)
 
 ### Visual &amp; Performing Arts
 *  [Chinese Dance](/our-cca/visual-and-performing-arts/chinese-dance/)
@@ -126,10 +126,10 @@ There are 21 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every 
 *  [Symphonic Band](/our-cca/visual-and-performing-arts/symphonic-band/)
 
 ### Clubs
-*  [Multimedia Club](/our-cca/Clubs/multimedia-club)
-*  [Technopreneur Club](/our-cca/Clubs/technopreneur-club)
-*  [Green Club](/our-cca/Clubs/green-club)
-*  [Journalism  Club](/our-cca/Clubs/journalism-club)
+*  [Multimedia Club](/our-cca/clubs/multimedia-club/)
+*  [Technopreneur Club](/our-cca/clubs/technopreneur-club/)
+*  [Green Club](/our-cca/clubs/green-club/)
+*  [Journalism  Club](/our-cca/clubs/journalism-club/)
 
 Find more on [Google Drive](https://drive.google.com/drive/folders/1cfNOLIQnIaD-Km3xs-BLHBhs-E5ktOTe)
 
