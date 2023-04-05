@@ -12,6 +12,7 @@ The foundation module of our ALP focus on enthusing and nurturing our students t
 
 ![](/images/Our%20Curriculum/Applied%20Learning%20Programme/CCHY%20ALP%20Subpage_Page_1.jpg)
 
+### Photo Gallery
 <iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTYWAdKchoYrMXQQ_UPnCkL6SfZNBsAVZv0m5IYQmlxf2-3TgBZICVclOcKOeZ_lXHh-vTTOZu4dUSa/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 
