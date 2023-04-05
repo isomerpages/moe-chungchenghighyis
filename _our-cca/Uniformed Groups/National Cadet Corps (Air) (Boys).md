@@ -54,6 +54,7 @@ Singapore Assault Rifle (SAR21) Individual Marksmanship Trainer and Live Shoot
 
 Air Rifle Shooting Experience (Secondary Two)
 
+### Photo Gallery
 <iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRx5FD0xl5FKzci1oHvNMS6PNRIeNp2RAFR8xExBwBP33V7PjnADpxCc5wHbU3AR4jnRp_0JRyRwom-/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 More information on NCC
