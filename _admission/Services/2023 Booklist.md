@@ -1,6 +1,6 @@
 ---
 title: 2023 Booklist
-permalink: /admission/Services/2023-booklist/
+permalink: /admission/services/2023-booklist/
 description: ""
 third_nav_title: Services
 ---
@@ -37,5 +37,4 @@ Secondary 4:
 Secondary 5:   
 [5NA.pdf](/files/Admission/Services/Booklist/5NA.pdf)
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">

@@ -1,6 +1,6 @@
 ---
 title: Chung Cheng High School (Main)
-permalink: /our-community/Chung-Cheng-Family/chung-cheng-high-school-main
+permalink: /our-community/chung-cheng-family/chung-cheng-high-school-main/
 description: ""
 third_nav_title: Chung Cheng Family
 ---
@@ -8,21 +8,20 @@ third_nav_title: Chung Cheng Family
 
 ### **Our affiliated secondary school**
 
-**Address:** 40-56 Goodman Road, Singapore 439012
+**Address:**&nbsp;40-56 Goodman Road, Singapore 439012
 
   
 
-**Telephone:** 6344 1393
+**Telephone:**&nbsp;6344 1393
 
-**Fax:** 6344 9686
+**Fax:**&nbsp;6344 9686
 
-**Email:** [cchms@moe.edu.sg](mailto:cchms@moe.edu.sg)
+**Email:**&nbsp;[cchms@moe.edu.sg](mailto:cchms@moe.edu.sg)
 
-**Website:** [http://www.chungchenghighmain.moe.edu.sg](http://www.chungchenghighmain.moe.edu.sg/)
+**Website:**&nbsp;[http://www.chungchenghighmain.moe.edu.sg](http://www.chungchenghighmain.moe.edu.sg/)
 
-**Bus Services:** 10, 12, 14, 16, 30, 31, 32, 33, 40, 76
+**Bus Services:**&nbsp;10, 12, 14, 16, 30, 31, 32, 33, 40, 76
 
-**Nearest MRT Station:** Paya Lebar
+**Nearest MRT Station:**&nbsp;Paya Lebar
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">

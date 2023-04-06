@@ -1,6 +1,6 @@
 ---
 title: Peregrine Scouts Group
-permalink: /our-cca/Uniformed-Groups/peregrine-scouts-group/
+permalink: /our-cca/uniformed-groups/peregrine-scouts-group/
 description: ""
 third_nav_title: Uniformed Groups
 ---
@@ -39,8 +39,8 @@ Mr Andrew Chan Chun Yan
 
 ### Training Schedule
 
-Please click on the link below to view CCA venue & schedule.   
-[CCA venue & schedule](/our-cca/cca/cca-venue-schedule/)
+Please click on the link below to view CCA venue &amp; schedule.&nbsp;  
+[CCA venue &amp; schedule](/our-cca/cca/cca-venue-schedule/)
 
 ### Activities/Events
 
@@ -66,5 +66,4 @@ Please click on the link below to view CCA venue & schedule. 
 More information on Scouts: [https://scout.sg/](https://scout.sg/)
 
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">

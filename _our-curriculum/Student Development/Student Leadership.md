@@ -1,6 +1,6 @@
 ---
 title: Student Leadership
-permalink: /our-curriculum/student-development/student-leadership/student-council
+permalink: /our-curriculum/student-development/student-leadership/student-council/
 description: ""
 third_nav_title: Student Development
 ---
@@ -27,7 +27,7 @@ The Student Council is headed by the President, assisted by a Vice-President and
 
 **1. Criteria For Selection**
 
-*   Good Leadership & Character Attributes eg. integrity, compassion, courage & analytical skills
+*   Good Leadership &amp; Character Attributes eg. integrity, compassion, courage &amp; analytical skills
 *   Good Academic Performances and CCA Records
 
 
@@ -56,5 +56,4 @@ Leaders for Tomorrow Camp @ Guangzhou, Camp Zenith - Overseas Leadership Camp
 
 Find more on [Google Drive](https://drive.google.com/drive/folders/1abDws-vWhZvykz2v9TO4UTnd-R-DVC9y)
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">

@@ -1,10 +1,9 @@
 ---
 title: Subject Combinations
-permalink: /our-curriculum/academic-development/Curriculum/subject-combinations
+permalink: /our-curriculum/academic-development/curriculum/subject-combinations/
 description: ""
 third_nav_title: Curriculum
 ---
-
 # **Subject Combinations**
 
 ### 2022 Sec 3 Subject Combinations
@@ -17,9 +16,9 @@ Click here to view the Academic Information Booklet 2021:
 
 ### Lower Secondary Subjects Offered
 
-| Lower Secondary (for Express & Normal Academic) 	|  	|  	|
+| Lower Secondary (for Express &amp; Normal Academic) 	|  	|  	|
 | ---	| ---	| ---	|
-| English Language 	| Geography 	| Design & Technology 	|
+| English Language 	| Geography 	| Design &amp; Technology 	|
 | Chinese / Malay Language 	| History 	| CCE* 	|
 | Higher Chinese Language (Exp only) 	| Literature 	| PE* 	|
 | Mathematics 	| Visual Art 	| Music* 	|
@@ -29,7 +28,7 @@ Click here to view the Academic Information Booklet 2021:
 | ---	| ---	| ---	|
 | English Language 	| Social Studies* 	| CCE* 	|
 | Basic Chinese / Malay Lang 	| Computer Application 	| PE* 	|
-| Chinese / Malay Lang at NA level 	| Design & Technology 	| Music 	|
+| Chinese / Malay Lang at NA level 	| Design &amp; Technology 	| Music 	|
 | Mathematics at NA level 	| Visual Art 	|  	|
 | Science 	| Food and Consumer Education 	|  	|
 
@@ -37,5 +36,4 @@ Click here to view the Academic Information Booklet 2021:
 
 
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">

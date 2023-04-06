@@ -1,10 +1,10 @@
 ---
-title: Lead Teacher & Senior Teacher
-permalink: /our-people/Staff/lead-teacher-n-senior-teacher/
+title: Lead Teacher &amp; Senior Teacher
+permalink: /our-people/staff/lead-teacher-n-senior-teacher/
 description: ""
 third_nav_title: Staff
 ---
-# **Lead Teacher & Senior Teacher**
+# **Lead Teacher &amp; Senior Teacher**
 
 
 | Name of Lead Teacher  (LT) | Teaching Subject |
@@ -17,7 +17,6 @@ third_nav_title: Staff
 | Mr Sim Kok Heng | Music |
 | Ms Teo Shin Yeow | Mathematics |
 | Ms Lin Xiaoying | Mathematics |
-| Mdm Thian Siaw Fong  | CL  |
+| Mdm Thian Siaw Fong&nbsp; | CL&nbsp; |
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">

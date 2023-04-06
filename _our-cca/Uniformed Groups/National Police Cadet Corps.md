@@ -82,7 +82,7 @@ Please click on the link below to view CCA venue &amp; schedule.&nbsp;
 
 • Kayaking
 
-### Photos
+### Photo Gallery
 <iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQadx_3l2x93OvVwwW9Dhw-QEr0vQVNLy4sQHzTuQn-Ptluypzig9-3edN4brE49w-9Z71m4RqWhYOI/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 

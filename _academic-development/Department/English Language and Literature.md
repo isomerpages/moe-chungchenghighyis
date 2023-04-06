@@ -1,6 +1,6 @@
 ---
 title: English Language and Literature
-permalink: /our-curriculum/academic-development/department/English-Language-and-Literature/
+permalink: /our-curriculum/academic-development/department/english-language-and-literature/
 description: ""
 third_nav_title: Department
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chung Cheng High School (Yishun) Alumni
-permalink: /our-community/Chung-Cheng-Family/chung-cheng-high-school-yishun-alumni
+permalink: /our-community/chung-cheng-family/chung-cheng-high-school-yishun-alumni/
 description: ""
 third_nav_title: Chung Cheng Family
 ---
@@ -29,5 +29,4 @@ We welcome all graduates to attend school celebrations or visit their teachers. 
 
 Please note that the above list is not exhaustive. In the event of non-compliance or any other valid reason, the school reserves the right to refuse your entry into the school compound.
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">

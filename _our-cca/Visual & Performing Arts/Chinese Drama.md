@@ -18,7 +18,7 @@ Ms Zhu Peilin (2IC)
 Please click on the link below to view CCA venue &amp; schedule.&nbsp;  
 [CCA venue &amp; schedule](/our-cca/cca/cca-venue-schedule/)
 
-### Photos
+### Photo Gallery
 
 <iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-LeDZKtAAUcOdyyRv84pUprHgl6pLcj_Wy9iGjomGbOtrZuKYUN3khI5pEocnLrdYywynytBjSdGv/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 

@@ -1,6 +1,6 @@
 ---
 title: School Staff
-permalink: /our-people/Staff/school-staff/
+permalink: /our-people/staff/school-staff/
 description: ""
 third_nav_title: Staff
 ---
@@ -23,14 +23,14 @@ third_nav_title: Staff
 | ---	| ---	| ---	| ---	| ---	|
 | Mdm Tay 	| Tay Hui Cheng 	| School Staff Developer  	| [tay_hui_cheng@moe.edu.sg](mailto:tay_hui_cheng@moe.edu.sg)  	| 211 	|
 | Mrs Koh	| Desilu Anne Nair   	| Student Management   	| [desilu_anne_nair@moe.edu.sg](mailto:desilu_anne_nair@moe.edu.sg)   	| 222 	|
-| Mrs Goh  	| Magdalene Goh-Joseph  	| English & English Literature  	| [magdalene_joseph_marimuthu@moe.edu.sg](mailto:magdalene_joseph_marimuthu@moe.edu.sg)  	| 219 	|
+| Mrs Goh  	| Magdalene Goh-Joseph  	| English &amp; English Literature  	| [magdalene_joseph_marimuthu@moe.edu.sg](mailto:magdalene_joseph_marimuthu@moe.edu.sg)  	| 219 	|
 | Mdm Low  	| Low Geok Ling   	| Mother-Tongue Languages   	| [low_geok_ling@moe.edu.sg](mailto:low_geok_ling@moe.edu.sg)   	| 220 	|
 | Mr Tjhin 	| Tjhin Ke Ming 	| Mathematics 	| [tjhin_ke_ming@moe.edu.sg](mailto:tjhin_ke_ming@moe.edu.sg) 	| 209 	|
 | Mr Lim 	| Lim Wee Keong 	| Science 	| [lim_wee_keong_a@moe.edu.sg](mailto:lim_wee_keong_a@moe.edu.sg) 	| 213 	|
 | Ms Kaur  	| Manvinder Kaur 	| Humanities  	| [manvinder_kaur@moe.edu.sg](mailto:manvinder_kaur@moe.edu.sg)  	| 218 	|
-| Mr Tan 	| Victor Tan 	| Physical Education & Co-Curricular Activities 	| [victor_tan@moe.edu.sg](mailto:victor_tan@moe.edu.sg)  	| 217 	|
-| Ms Isma 	| Isma Wati Sidik 	| Character & Citizenship Education  	| [isma_wati_sidik@moe.edu.sg](mailto:isma_wati_sidik@moe.edu.sg)  	| 212 	|
-| Mr Ang    	| Ang Hui Jun Edwin 	| Information & Communications Technology 	| [ang_hui_jun_edwin@moe.edu.sg](mailto:ang_hui_jun_edwin@moe.edu.sg) 	| 216 	|
+| Mr Tan 	| Victor Tan 	| Physical Education &amp; Co-Curricular Activities 	| [victor_tan@moe.edu.sg](mailto:victor_tan@moe.edu.sg)  	| 217 	|
+| Ms Isma 	| Isma Wati Sidik 	| Character &amp; Citizenship Education  	| [isma_wati_sidik@moe.edu.sg](mailto:isma_wati_sidik@moe.edu.sg)  	| 212 	|
+| Mr Ang    	| Ang Hui Jun Edwin 	| Information &amp; Communications Technology 	| [ang_hui_jun_edwin@moe.edu.sg](mailto:ang_hui_jun_edwin@moe.edu.sg) 	| 216 	|
 | Ms Wong 	| Wong Shing Liu  	| Year Head Lower Secondary  	| [wong_shing_liu@moe.edu.sg](mailto:wong_shing_liu@moe.edu.sg)  	| 210 	|
 | Mr Yong 	| Yong Yin Yee 	| Year Head Upper Secondary 	| [yong_yin_yee@moe.edu.sg](mailto:yong_yin_yee@moe.edu.sg) 	| 215 	|
 
@@ -122,9 +122,8 @@ third_nav_title: Staff
 |  	| Name 	| Email (Ext) 	| Ext 	| Areas 	|
 |---	|---	|---	|---	|---	|
 | Ms Lee 	| Lee Soo Hong 	| [lee_soo_hong@moe.edu.sg](mailto:lee_soo_hong@moe.edu.sg) 	| 299 	| Counsellor 	|
-| Mr Peh 	| Gary Peh Kaixiang 	| [gary_peh_kaixiang@moe.edu.sg](mailto:gary_peh_kaixiang@moe.edu.sg) 	| 309 	| Teaching & Learning 	|
-|  Ms Goh 	|  Goh Shu Xian 	| [goh_shu_xian@moe.edu.sg](mailto:goh_shu_xian@moe.edu.sg)  	|  LBS Room 	|  Learning & Behavioural Support 	|
+| Mr Peh 	| Gary Peh Kaixiang 	| [gary_peh_kaixiang@moe.edu.sg](mailto:gary_peh_kaixiang@moe.edu.sg) 	| 309 	| Teaching &amp; Learning 	|
+|  Ms Goh 	|  Goh Shu Xian 	| [goh_shu_xian@moe.edu.sg](mailto:goh_shu_xian@moe.edu.sg)  	|  LBS Room 	|  Learning &amp; Behavioural Support 	|
 
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">

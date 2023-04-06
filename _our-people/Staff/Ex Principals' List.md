@@ -1,6 +1,6 @@
 ---
 title: Ex Principals' List
-permalink: /our-people/Staff/ex-principals-list
+permalink: /our-people/staff/ex-principals-list/
 description: ""
 third_nav_title: Staff
 ---
@@ -26,8 +26,7 @@ Principals who have served the school from 1939 include:
 <center>第一任校长</center>
 <center><b>庄竹林博士</b></center>
 
-<img src="/images/1st%20Principal_Dr%20Chuang%20Chu%20Lin.jpg" 
-     style="width:50%">
+<img src="/images/1st%20Principal_Dr%20Chuang%20Chu%20Lin.jpg" style="width:50%">
 		 
 		 
 ![](/images/CCHY%20Ex-principals.jpg)
@@ -37,7 +36,7 @@ Principals who have served the school from 1939 include:
 | Year | Vice-Principal |  |
 | --- | --- | --- |
 | 2020 to present | Mr Melvin Cheong | 张永福副校长 |
-| 2018 to present  | Mr Chang Fook Yong  | 张福勇副校长  |
+| 2018 to present&nbsp; | Mr Chang Fook Yong&nbsp; | 张福勇副校长&nbsp; |
 | 2017 - 2020 | Ms Elsie Tan | 陈淑凤副校长 |
 | 2012 - 2016 | Mr Chia Keng Hwee | 谢锦辉副校长 |
 | 2011 to present | Mrs Chong Lai Peng | 杨丽萍副校长 |
@@ -45,5 +44,4 @@ Principals who have served the school from 1939 include:
 | 2007 - 2010 | Mr Toh Teck Wang | 苏德望副校长 |
 | 2006 | Mr Lim Meng Wei |
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">

@@ -1,14 +1,12 @@
 ---
 title: Student Development
-permalink: /our-curriculum/student-development
+permalink: /our-curriculum/student-development/
 description: ""
 third_nav_title: Student Development
 ---
-
-
 # **Student Development**
 
-### VISION & MISSION
+### VISION &amp; MISSION
 
 **Vision:**   
 Students of good character and able to overcome life's challenges.
@@ -25,5 +23,4 @@ The Student Development Department in collaboration with all teachers seeks to:
 *   To equip students with knowledge and skills to enable them to make informed decisions on subject choices and future careers.
 *   To promote understanding of national issues and deepen students' sense of belonging to Singapore
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">

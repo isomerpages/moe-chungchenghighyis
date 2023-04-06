@@ -1,6 +1,6 @@
 ---
 title: Non Teaching Staff
-permalink: /our-people/Staff/non-teaching-staff/
+permalink: /our-people/staff/non-teaching-staff/
 description: ""
 third_nav_title: Staff
 ---
@@ -13,11 +13,11 @@ third_nav_title: Staff
 | Mr | Tok Eng Hin | Operations Manager |
 | Mr | Ang Toon Siew | ICT Manager |
 | Mdm | Lim Poh Chin | Corporate Support Officer (CSO) |
-| Mdm | Lim Li Jun  | Corporate Support Officer (CSO)  |
-| Mdm | Lee Boon See Janet  | Corporate Support Officer (CSO)  |
-| Ms | Yip Yoke Ping Chris | Corporate Support Officer (CSO)  |
-| Mr | Yeo Chung Beng | Technical Support Officer (Design & Technology) |
-| Mr | Rosman Bin Rais | Technical Support Officer (Design & Technology) |
+| Mdm | Lim Li Jun&nbsp; | Corporate Support Officer (CSO)&nbsp; |
+| Mdm | Lee Boon See Janet&nbsp; | Corporate Support Officer (CSO)&nbsp; |
+| Ms | Yip Yoke Ping Chris | Corporate Support Officer (CSO)&nbsp; |
+| Mr | Yeo Chung Beng | Technical Support Officer (Design &amp; Technology) |
+| Mr | Rosman Bin Rais | Technical Support Officer (Design &amp; Technology) |
 | Ms | Ashwini K Gopinathan | Technical Support Officer (Science Lab) |
 | Ms | Maizatul Nazira A Rasip | Technical Support Officer (Science Lab) |
 | Mdm | Lim Wai Yue Chris | Operations Support Officer  (Science Lab) |
@@ -28,12 +28,11 @@ third_nav_title: Staff
 | Mdm | Soyah Binte Ismail | Operations Support Officer (OSO) |
 | Mdm | Lee Hong Mui | Operations Support Officer (Adjt OSO) |
 | Mr | Nagarajan Maniam (Raju) | Desktop Engineer |
-| Mr  | Lim Ming Quan  | Desktop Engineer  |
+| Mr&nbsp; | Lim Ming Quan&nbsp; | Desktop Engineer&nbsp; |
 | Mdm | Devakumar Manimegalai | Librarian |
-| Ms | Yap Hwee Hoon  | ECG Counsellor |
-| Mdm | Yap Siok Eng  | Kitchen Assistant |
-| Ms | Ng Puay Yeong (Ann)  | Printing |
+| Ms | Yap Hwee Hoon&nbsp; | ECG Counsellor |
+| Mdm | Yap Siok Eng&nbsp; | Kitchen Assistant |
+| Ms | Ng Puay Yeong (Ann)&nbsp; | Printing |
 
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">

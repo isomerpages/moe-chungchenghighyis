@@ -1,12 +1,11 @@
 ---
 title: Fencing
-permalink: /our-cca/Physical-Sports/fencing/
+permalink: /our-cca/physical-sports/fencing/
 description: ""
 third_nav_title: Physical Sports
 ---
 # **Fencing**
-<img src="/images/Fencing.jpg" 
-     style="width:50%">
+<img src="/images/Fencing.jpg" style="width:50%">
 		 
 CCHY Fencing is made up of a Team who is passionate about our sport. Under the dedicated guidance of our coaches and teachers, we take part in numerous competitions throughout the Fencing season. The team has been achieving good results consistently in each championship and we are always striving to outdo ourselves with each coming year.
 
@@ -18,9 +17,8 @@ Ms Ho Soo Fern (IC)<br>
 Ms Tan Jie Hui Dorcas (2IC)  
 
 ### Training Schedule
-Please click on the link below to view CCA venue & schedule.   
-[CCA venue & schedule](/our-cca/cca/cca-venue-schedule/)
+Please click on the link below to view CCA venue &amp; schedule.&nbsp;  
+[CCA venue &amp; schedule](/our-cca/cca/cca-venue-schedule/)
 
 		 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">

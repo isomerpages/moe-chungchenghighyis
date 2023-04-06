@@ -1,6 +1,6 @@
 ---
 title: Form Teachers
-permalink: /our-people/Staff/form-teachers/
+permalink: /our-people/staff/form-teachers/
 description: ""
 third_nav_title: Staff
 ---
@@ -8,5 +8,4 @@ third_nav_title: Staff
 
 ![](/images/2023%20Term%201%20Form%20Teachers.jpg)
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">

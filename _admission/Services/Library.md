@@ -1,6 +1,6 @@
 ---
 title: Library
-permalink: /admission/Services/library/
+permalink: /admission/services/library/
 description: ""
 third_nav_title: Services
 ---
@@ -17,5 +17,4 @@ Every Monday to Thursday (except Public Holidays)
 Every Friday (except Public Holidays)   
 8:00 am to 4:00 pm
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">

@@ -1,6 +1,6 @@
 ---
-title: Personal Learning Device (PLD) & Password Reset
-permalink: /Personal-Learning-Device-PLD-Password-Reset/
+title: Personal Learning Device (PLD) &amp; Password Reset
+permalink: /personal-learning-device-pld-password-reset/
 description: ""
 ---
 # **Personal Learning Device Initiative**
@@ -29,7 +29,7 @@ Student Kit Cyber Wellness and Learning with a Personal Learning Device.pdf - fi
 [Policy on the Use of Locker.pdf](/files/Personal%20Learning%20Device/Policy%20on%20the%20Use%20of%20Locker.pdf)<br>
 [Number Combination Padlock User Guide.pdf](/files/Personal%20Learning%20Device/Number%20Combination%20Padlock%20User%20Guide.pdf)
 
-Click [here](https://drive.google.com/file/d/1LWAO4XOy7URCWjnA1j_KXws_Ub5unzeW/view) to access the Number Combination Padlock user guide video.
+Click&nbsp;[here](https://drive.google.com/file/d/1LWAO4XOy7URCWjnA1j_KXws_Ub5unzeW/view)&nbsp;to access the Number Combination Padlock user guide video.
 
 ### Information on student's account
 
@@ -43,15 +43,14 @@ Click [here](https://drive.google.com/file/d/1LWAO4XOy7URCWjnA1j_KXws_Ub5unzeW/
 
 *   Please read password policy as shown below:
 ![](/images/ICT_PDL.jpg)
-*   To reset MIMS password, click [password reset form](https://docs.google.com/forms/d/e/1FAIpQLSef7YQxPj4RszC1evMGWl8qU43xSjULdYFlLzkiyNDwqNymhQ/viewform).
+*   To reset MIMS password, click&nbsp;[password reset form](https://docs.google.com/forms/d/e/1FAIpQLSef7YQxPj4RszC1evMGWl8qU43xSjULdYFlLzkiyNDwqNymhQ/viewform).
 
-### Issues related to MIMS password 
+### Issues related to MIMS password&nbsp;
 
 1\. If you cannot login to your personal handphone with your student iCON account, please try the following:  
 (a) Logout student icon from all devices including your PLD.  
-(b) If it is still unsolved, please proceed to computer lab 2, 3PM to 4PM daily for assistance.   
+(b) If it is still unsolved, please proceed to computer lab 2, 3PM to 4PM daily for assistance.&nbsp;  
   
 2\. If you cannot login to your PLD with new password, please proceed to computer lab 2, 3PM to 4PM daily for assistance.
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">

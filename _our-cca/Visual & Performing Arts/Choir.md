@@ -35,7 +35,7 @@ Choral Exchanges
 
 Bicultural choral exchange
 
-### Photos
+### Photo Gallery
 <iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQEKxxL3lZJhzwWlTfYHNCOk1npp2HeUvZfx_trDhvkBxNFWi2wzdRYUdrHa53Roo6Mj6o9kPm1FrsZ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 

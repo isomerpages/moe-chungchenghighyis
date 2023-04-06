@@ -1,6 +1,6 @@
 ---
 title: Group Personal Accident Plan for students
-permalink: /admission/Services/group-personal-accident-plan-for-students
+permalink: /admission/services/group-personal-accident-plan-for-students/
 description: ""
 third_nav_title: Services
 ---
@@ -10,11 +10,10 @@ Should you injured yourself while participating in school's activities, or any a
 
 Our current insurer is NTUC Income Insurance Co-operative Limited.
 
-Please [click here](https://www.income.com.sg/insurance/insurance-for-businesses/group-insurance/group-personal-accident-insurance-for-students) for more information on the insurance coverage.
+Please&nbsp;[click here](https://www.income.com.sg/insurance/insurance-for-businesses/group-insurance/group-personal-accident-insurance-for-students)&nbsp;for more information on the insurance coverage.
 
-Please [click here](https://www.income.com.sg/claims/group-insurance/group-personal-accident-for-students-claim) for the step-by-step guide on how to make a claim.
+Please&nbsp;[click here](https://www.income.com.sg/claims/group-insurance/group-personal-accident-for-students-claim)&nbsp;for the step-by-step guide on how to make a claim.
 
-Alternatively, you can make an online claim [here](https://studentgpa.incomegroupins.com.sg/#/).
+Alternatively, you can make an online claim&nbsp;[here](https://studentgpa.incomegroupins.com.sg/#/).
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">

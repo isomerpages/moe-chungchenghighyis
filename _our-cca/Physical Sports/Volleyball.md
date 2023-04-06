@@ -1,6 +1,6 @@
 ---
 title: Volleyball
-permalink: /our-cca/Physical-Sports/volleyball/
+permalink: /our-cca/physical-sports/volleyball/
 description: ""
 third_nav_title: Physical Sports
 ---
@@ -17,8 +17,7 @@ Ms Tan Mui Mui
 
 ### Training Schedule
 
-Please click on the link below to view CCA venue & schedule.   
-[CCA venue & schedule](/our-cca/cca/cca-venue-schedule/)
+Please click on the link below to view CCA venue &amp; schedule.&nbsp;  
+[CCA venue &amp; schedule](/our-cca/cca/cca-venue-schedule/)
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">

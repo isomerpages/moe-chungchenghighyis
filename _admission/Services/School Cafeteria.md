@@ -1,6 +1,6 @@
 ---
 title: School Cafeteria
-permalink: /admission/Services/school-cafeteria
+permalink: /admission/services/school-cafeteria/
 description: ""
 third_nav_title: Services
 ---
@@ -17,5 +17,4 @@ third_nav_title: Services
 | 7 	| Woo Kum Wah 	| Japanese Food 	|
 | 8 	| Fong Yew Lin 	| Vegetarian Food 	|
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">

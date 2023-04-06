@@ -1,6 +1,6 @@
 ---
 title: School Bookstore
-permalink: /admission/Services/school-bookstore
+permalink: /admission/services/school-bookstore/
 description: ""
 third_nav_title: Services
 ---
@@ -15,5 +15,4 @@ third_nav_title: Services
 | 5 	| Opening Hours 	| Mon to Fri: 9:00a.m. to 5:00p.m.<br><br>(excluding lunch time from 12.30p.m. – 1.30p.m. and Public Holidays ) 	| Mon to Fri: 9:00a.m. to 3:00p.m. during school term (excluding Public Holidays) 	|
 | 6 	| Online Sale Guide or Link 	| [www.popular.com.sg](www.popular.com.sg) 	| For Year-end textbook order only: <br>Login to Popular homepage -  [textbook.popular.com.sg](textbook.popular.com.sg)    <br><br>Follow simple guided steps to create an account and password.<br><br>Login with your ID and password. 	|
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">

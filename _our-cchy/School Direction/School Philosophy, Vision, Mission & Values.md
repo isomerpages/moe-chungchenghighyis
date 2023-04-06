@@ -1,6 +1,6 @@
 ---
-title: School Philosophy, Vision, Mission & Values
-permalink: /our-cchy/School-Direction/school-philosophy-vision-mission-n-values/
+title: School Philosophy, Vision, Mission &amp; Values
+permalink: /our-cchy/school-direction/school-philosophy-vision-mission-n-values/
 description: ""
 third_nav_title: School Direction
 ---
@@ -34,5 +34,4 @@ third_nav_title: School Direction
 <center><b>With Empathy We Lead</b></center>
 <center><b>行以至善</b></center>
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">

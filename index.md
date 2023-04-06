@@ -23,14 +23,17 @@ sections:
       button: More announcements here
   - infobar:
       title: Visit Our Facebook Page
-      description: <center><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FChung-Cheng-High-School-Yishun-649727622164220&amp;tabs=timeline&amp;width=340&amp;height=500&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+      description: <center><iframe
+        src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FChung-Cheng-High-School-Yishun-649727622164220&amp;tabs=timeline&amp;width=340&amp;height=500&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId"
+        width="340" height="500" style="border:none;overflow:hidden"
+        scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
         clipboard-write; encrypted-media; picture-in-picture;
         web-share"></iframe></center>
   - infobar:
-      title: Personal Learning Device (PLD) &amp; Password Reset
+      title: Personal Learning Device (PLD) & Password Reset
       description: Please click on read more for more information
       button: Read more
-      url: /Personal-Learning-Device-PLD-Password-Reset/
+      url: /personal-learning-device-pld-password-reset/
   - infobar:
       title: Cyber Wellness
       button: Read More
