@@ -6,3 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
+
+Please click on the links below to download the documents.
+
+[cchy_2023wa2_formatscope_s1.pdf](/files/WA%20Format%20and%20Scope/cchy_2023wa2_formatscope_s1.pdf)
+
+[cchy_2023wa2_formatscope_s2.pdf](/files/WA%20Format%20and%20Scope/cchy_2023wa2_formatscope_s2.pdf)
+
+[cchy_2023wa2_formatscope_s3.pdf](/files/WA%20Format%20and%20Scope/cchy_2023wa2_formatscope_s3.pdf)
