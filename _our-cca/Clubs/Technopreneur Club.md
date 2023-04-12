@@ -6,11 +6,11 @@ third_nav_title: Clubs
 ---
 # **Technopreneur Club**
 
-![](/images/Entrepreneur%20Club.jpg)
+Our Technopreneur Club offers students a unique opportunity to learn about entrepreneurship as well as develop their technological skills, such as coding. By collaborating in teams, our students are able to exercise their creativity, able to build leadership skills and learn to create innovative products that are sold during events like Teacher’s Day and Be Your Own Boss Day. Through these experiences, our students gain practical experience in technology and learn financial literacy and business management skills that are essential for success in today’s world.
 
 ### Teachers-in-charge
 
-Mdm Nur Jannah Binte Noor (IC)     
+Ms Nur Jannah Noor (IC)     
 Ms Lin Xiaoying (2IC)
 
 ### Training Schedule
@@ -18,26 +18,16 @@ Ms Lin Xiaoying (2IC)
 Please click on the link below to view CCA venue &amp; schedule.&nbsp;  
 [CCA venue &amp; schedule](/our-cca/cca/cca-venue-schedule/)
 
-### Activities/Events
+### Events/Competitions
 
-*   Ice-cream making workshop
-*   Republic Polytechnic Entrepreneurship Education Programme&nbsp;
-*   Young Entrepreneur Competition
-*   Swenson’s Ice-cream Competition&nbsp;
-*   National Pushcart Challenge
+*   Be Your Own Boss Day
+*   Creathon 2021
+*   Young Innovators Challenge
+*   DSTA BrainHack
+*   National Cashflow Competition
 
 ### Photo Gallery
 
-<img src="/images/15df46238_62587.jpg" style="width:50%">
-
-![](/images/cfc90c57d_62588.jpg)
-
-![](/images/4379a60b8_62589.jpg)
-
-<img src="/images/06f5b1b2d_62590.jpg" style="width:50%">
-
-![](/images/62f06223c_62591.jpg)
-
-![](/images/4ed428a43_62592.jpg)
+<iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTJhJ5VhmkeJeTvEQUmPMdjM_WCnTvPNY13nUO4_FX3eCqjXxYfnpg2ecfRwJYYu47hEZMw7u_kr_vX/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 <img src="/images/pavilion.png" style="width:50%">
