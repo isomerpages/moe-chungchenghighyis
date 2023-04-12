@@ -9,7 +9,7 @@ description: ""
 
 2. [Open House](https://sites.google.com/moe.edu.sg/cchyopenhouse2022/)
 
-3. [AEP/MEP](/our-curriculum/academic-development/department/aesthetic)
+3. [AEP/MEP](/our-curriculum/academic-development/department/aesthetics)
 
 4. [CCA Venue & Schedule](/our-cca/cca/cca-venue-schedule)
 
