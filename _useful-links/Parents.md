@@ -19,7 +19,7 @@ description: ""
 
 7. [Early Admissions Exercise (EAE)](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)
 
-8. [Parents Gateway (PG)](/admission/Services/parents-gateway/)
+8. [Parents Gateway (PG)](/admission/services/parents-gateway/)
 
 9. [Schoolbag](https://www.schoolbag.edu.sg/)
 
