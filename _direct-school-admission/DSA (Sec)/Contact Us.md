@@ -17,5 +17,3 @@ For any enquiries, do contact the following personnel-in-charge of DSA:
 *   Call our General Office during office and school hours, from Mon to Fri (except Public Holidays and eve of PHs), 9am to 5pm, at 6758 3912 to fix an appointment.
 
 For more information related to DSA, kindly access the **MOE DSA-Sec website**: [http://www.moe.gov.sg/dsa-sec/](http://www.moe.gov.sg/dsa-sec/)
-
-[](http://www.moe.gov.sg/education/admissions/dsa-sec/)
