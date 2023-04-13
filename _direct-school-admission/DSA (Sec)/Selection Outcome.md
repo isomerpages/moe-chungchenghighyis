@@ -4,11 +4,9 @@ permalink: /admission/direct-school-admission-dsa/dsa-sec/selection-outcome/
 description: ""
 third_nav_title: DSA (Sec)
 ---
-
-
 # **Selection Outcome**
 
-**Selection Outcome (by 12 Sep 2022)**
+**Selection Outcome**
 
 Results will be compiled and applicants will be notified of the selection outcome.
 
@@ -16,7 +14,6 @@ Letters will be issued to all shortlisted DSA-Sec applicants to inform the outco
 
 i) Confirmed Offer (CO), ii) Waiting List (WL), iii) Rejected.
 
-Applicants given a Confirmed Offer (CO) are guaranteed a place and a course \[Express, Normal (Academic) or Normal (Technical)\] in the school, for which the student is eligible based on the PSLE aggregate of the student.
+Applicants&nbsp;given&nbsp;a&nbsp;Confirmed&nbsp;Offer&nbsp;(CO)&nbsp;are&nbsp;guaranteed&nbsp;a&nbsp;place&nbsp;and&nbsp;a&nbsp;course&nbsp;\[Express, Normal (Academic) or Normal (Technical)\] in the school, for which the student is eligible based on the AL Score of the student.
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">
