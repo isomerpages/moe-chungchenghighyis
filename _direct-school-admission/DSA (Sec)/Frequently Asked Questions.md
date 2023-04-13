@@ -10,7 +10,7 @@ third_nav_title: DSA (Sec)
 
 **Are&nbsp;there&nbsp;any&nbsp;other&nbsp;documents&nbsp;that&nbsp;I&nbsp;need&nbsp;to&nbsp;submit&nbsp;along with&nbsp;my&nbsp;online application via DSA-Sec portal?**    
 
-No. Should you be shortlisted, you may share with us on your relevant experience during the e-interview. Having an elaborate portfolio is not necessary.
+No. Should you be shortlisted, you may share with us on your relevant experience during the interview. Having an elaborate portfolio is not necessary.
 
 **I have received several DSA-Sec offers, when must I decide to accept one?**
 
