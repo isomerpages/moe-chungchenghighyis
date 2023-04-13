@@ -10,7 +10,7 @@ Application for DSA-Sec can be submitted through the online DSA-Sec Portal.&nbsp
 
 Follow these steps to apply:
 
-1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Log in to the DSA-Sec portal with your SingPass. Find out&nbsp;[how to register for a SingPass](https://www.singpass.gov.sg/main/html/faq.html)&nbsp;if you don't have one.
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Log in to the DSA-Sec portal with your SingPass Two-Factor Authentication (Singpass 2FA). Find out&nbsp;[how to register for a SingPass and 2FA](https://www.singpass.gov.sg/home/ui/register/instructions)&nbsp;if you don't have one.
 
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can indicate up to 3 choices and 3 talent areas.
 
