@@ -13,7 +13,7 @@ description: ""
 6. [My SkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 7. [Personal Learning Device (PLD) &amp; Password Reset](/personal-learning-device-pld-password-reset/)
 8. [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
-9. [Students Handbook](/files/CCHY%20E-Handbook.pdf)
+9. [Students Handbook]([](/files/cchy%20e-handbook%202023_21apr.pdf))
 10. [Wellbeing 365](/our-curriculum/student-development/wellbeing-365)
 
 
