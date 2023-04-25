@@ -1,5 +1,5 @@
 ---
-title: Personal Learning Device (PLD) &amp; Password Reset
+title: Personal Learning Device (PLD) & Password Reset
 permalink: /personal-learning-device-pld-password-reset/
 description: ""
 ---
@@ -20,7 +20,7 @@ description: ""
 
 [PLD Initiative Student Briefing Slides.pdf](/files/Personal%20Learning%20Device/PLD%20Initiative%20Student%20Briefing%20Slides.pdf)<br>
 [CCHY Acceptable_Use Policy_(AUP).pdf](/files/Personal%20Learning%20Device/CCHY%20Acceptable_Use%20Policy_(AUP).pdf)<br>
-[CCHY General Learning Routines with PLD.pdf](/files/Personal%20Learning%20Device/CCHY%20General%20Learning%20Routines%20with%20PLD.pdf)<br>
+[CCHY General Learning Routines with PLD.pdf](/files/Personal%20Learning%20Device/cchy%20general%20learning%20routines%20with%20pld.pdf)<br>
 [PLD_familiarisation_for_students.pdf](/files/Personal%20Learning%20Device/PLD_familiarisation_for_students.pdf)<br>
 [Student Device Information Kit.pdf](/files/Personal%20Learning%20Device/Student%20Device%20Information%20Kit.pdf)<br>
 
