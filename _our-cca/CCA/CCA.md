@@ -99,7 +99,7 @@ There are 21 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every 
 | **V5** 	| **Choir** 	| Tue &amp; Thu 	| 3 – 6pm 	| Music Room 	|
 | **V6** 	| **Festival Drums** 	| Mon &amp; Tue	| 3 – 6pm 	| Multi-Purpose Room (MPR) 	|
 | **V7** 	| **Dance Ensemble** 	| Tue &amp; Thu 	| 3 – 6pm 	| AVA Room/ MPH 	|
-| **V8** 	| **Symphonic Band** 	| Mon<br><br><br><br>Thu 	| 3 – 6pm	| MPH, Music Room &amp; Level 1 classrooms<br> <br>Mulit-Purpose Room (MPR), ITR1 &amp; Level 3 classrooms 	|
+| **V8** 	| **Symphonic Band** 	| Mon<br><br><br>Thu 	| 3 – 6pm	| MPH, Music Room &amp; Level 1 classrooms<br> <br>Mulit-Purpose Room (MPR), ITR1 &amp; Level 3 classrooms 	|
 
 ### Physical Sports
 
