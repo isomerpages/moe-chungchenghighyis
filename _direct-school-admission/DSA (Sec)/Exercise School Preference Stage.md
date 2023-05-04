@@ -6,7 +6,7 @@ third_nav_title: DSA (Sec)
 ---
 # **Exercise School Preference Stage**
 
-**School Preference Submission**
+**School Preference Submission (23 - 27 Oct 2023)**
 
 School Preference DSA-Sec applicants who receive&nbsp;<u>at least one DSA-Sec offer</u>&nbsp;and are studying in MOE mainstream schools will each receive a School Preference Form through their primary schools.
 
