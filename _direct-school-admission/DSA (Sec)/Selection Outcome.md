@@ -6,7 +6,7 @@ third_nav_title: DSA (Sec)
 ---
 # **Selection Outcome**
 
-**Selection Outcome**
+**Selection Outcome (12 - 14 Sep 2023)**
 
 Results will be compiled and applicants will be notified of the selection outcome.
 

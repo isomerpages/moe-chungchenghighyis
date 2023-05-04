@@ -6,7 +6,7 @@ third_nav_title: DSA (Sec)
 ---
 # **School Allocation Results**
 
-**DSA-Sec Allocation Results Release**
+**DSA-Sec Allocation Results Release (Late Nov 2023)**
 
 DSA-Sec candidates studying in MOE mainstream schools will receive their DSA-Sec results together with their PSLE results through their primary schools.
 

@@ -18,7 +18,7 @@ You will have to indicate your preferences for up to 3 schools during the Exerci
 
 **Will relevant qualification (or certification) in Dance/Music/Sports be necessary?**
 
-Yes.&nbsp;Relevant qualification and&nbsp;proof&nbsp;of&nbsp;achievements&nbsp;will be required in order to be shortlisted for our DSA selection process.
+Yes.&nbsp;Relevant qualification and&nbsp;proof&nbsp;of&nbsp;achievements&nbsp;will be required in order to be shortlisted for our DSA selection process.  Most achievements are captured in primary schools' system, and there is no need to prepare any portfolio.
 
   
 
