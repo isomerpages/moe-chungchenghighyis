@@ -8,8 +8,8 @@ third_nav_title: DSA (Sec)
 
 **School Preference Submission (23 - 27 Oct 2023)**
 
-School Preference DSA-Sec applicants who receive&nbsp;<u>at least one DSA-Sec offer</u>&nbsp;and are studying in MOE mainstream schools will each receive a School Preference Form through their primary schools.
+Students who receive at least one DSA-Sec offer (including from SOTA) will receive email and SMS notifications via Postman.gov.sg on the School Preference Submission in mid to end Oct 2023.
 
-After receiving the School Preference Form, DSA-Sec applicants may indicate up to three school preferences. Applicants may submit their school preferences through the MOE online system, or by submitting the completed School Preference Form (in hardcopy) to their primary schools.
+**Both parents are required to login to the DSA-Sec Portal using their Singpass to submit up to three school preferences.**  If parent(s) are unable to submit online, they can approach their child's primary school for assistance to submit the school preferences on their behalf.
 
 <img src="/images/pavilion.png" style="width:50%">
