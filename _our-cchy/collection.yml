@@ -2,6 +2,7 @@ collections:
   our-cchy:
     output: true
     order:
+      - Principal's Welcome Message.md
       - School History.md
       - School Direction/.keep
       - School Direction/School Philosophy, Vision, Mission & Values.md
