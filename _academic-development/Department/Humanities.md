@@ -1,6 +1,6 @@
 ---
 title: Humanities
-permalink: /our-curriculum/academic-development/department/humanities
+permalink: /our-curriculum/academic-development/department/humanities/
 description: ""
 third_nav_title: Department
 ---
@@ -52,7 +52,7 @@ These are the subjects offered by the department:
 
 *   Opportunities for students to participate as a community of learners through on-line platforms such as forum and portals.
 *   Use of dramatization, role play and perspective-taking, debates in lessons
-*   Project Work for holistic and more meaningful learning (All Sec 1 and 2 Express classes are required to complete an inter-disciplinary projects)
+*   Project Work for holistic and more meaningful learning (All Sec 1 and 2 Express/G3 classes are required to complete an inter-disciplinary projects)
 *   Lecture-tutorial system for upper secondary Social Studies lessons to ensure greater rigour in the coverage of issues as well as engage students in discussions in the tutorial sessions
 *   Reading and reflections on current developments related to the topics learnt
 
@@ -74,5 +74,4 @@ Secondary 3 Geography students had a chance to learn about the natural vegetatio
 
 Find more on [Google Drive](https://drive.google.com/drive/folders/1E65N04DlqmJglagKnakCsuA8NXopZIQk) 
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">
