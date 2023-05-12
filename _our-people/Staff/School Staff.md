@@ -31,6 +31,7 @@ third_nav_title: Staff
 | Mr Tan 	| Victor Tan 	| Physical Education &amp; Co-Curricular Activities 	| [victor_tan@moe.edu.sg](mailto:victor_tan@moe.edu.sg)  	| 217 	|
 | Ms Isma 	| Isma Wati Sidik 	| Character &amp; Citizenship Education  	| [isma_wati_sidik@moe.edu.sg](mailto:isma_wati_sidik@moe.edu.sg)  	| 212 	|
 | Mr Ang    	| Ang Hui Jun Edwin 	| Information &amp; Communications Technology 	| [ang_hui_jun_edwin@moe.edu.sg](mailto:ang_hui_jun_edwin@moe.edu.sg) 	| 216 	|
+| Ms Kwok  	| Kwok Kai Hwei 	| Aesthetics (Acting) 	| [kwok_kai_hwei@moe.edu.sg](mailto:kwok_kai_hwei@moe.edu.sg) 	| 303	|
 | Ms Wong 	| Wong Shing Liu  	| Year Head Lower Secondary  	| [wong_shing_liu@moe.edu.sg](mailto:wong_shing_liu@moe.edu.sg)  	| 210 	|
 | Mr Yong 	| Yong Yin Yee 	| Year Head Upper Secondary 	| [yong_yin_yee@moe.edu.sg](mailto:yong_yin_yee@moe.edu.sg) 	| 215 	|
 
@@ -63,7 +64,6 @@ third_nav_title: Staff
 | Ms Vanee 	| Kallaivanee Paramaseevan 	|  	|  	| [kallaivanee_paramaseevan@moe.edu.sg](mailto:kallaivanee_paramaseevan@moe.edu.sg) 	| 261 	|
 | Mrs Raja 	| Kamala Davi D/O Vadivaloo 	|  	|  	| [kamala_davi_d_o@moe.edu.sg](mailto:kamala_davi_d_o@moe.edu.sg) 	| 251 	|
 | Ms Katrina 	| Katrina Nur Hidayah Mohamad 	| 1G 	| Wushu 	| [katrina_nur_hidayah_mohamad@moe.edu.sg](mailto:katrina_nur_hidayah_mohamad@moe.edu.sg) 	| 268 	|
-| Ms Kwok  	|  Kwok Kai Hwei 	|  	|   	| [kwok_kai_hwei@moe.edu.sg](mailto:kwok_kai_hwei@moe.edu.sg)  	| 303 	|
 | Mr Lee 	| Lee Kah Lin Alvin 	| 2D 	| Wushu 	| [kah_lin_alvin_lee@moe.edu.sg](mailto:kah_lin_alvin_lee@moe.edu.sg) 	| 261 	|
 | Ms Lee 	| Lee Peiqi 	| 2C 	| Chinese Orchestra/Guzheng Ensemble 	| [lee_peiqi@moe.edu.sg](mailto:lee_peiqi@moe.edu.sg) 	| 265 	|
 |  Ms Lee  	| Lee Yanmei  	|   	| Green Club  	| [lee_yanmei@moe.edu.sg](mailto:lee_yanmei@moe.edu.sg)  	| 259 	|
