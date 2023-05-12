@@ -19,7 +19,7 @@ third_nav_title: Staff
 | SH English Literature 	| Ms 	| Chiang Foong Min 	|
 | HOD Humanities 	| Ms 	| Manvinder Kaur 	|
 | HOD Mother Tongue Languages 	| Mdm 	| Low Geok Ling 	|
-| SH Art 	| Ms  	| Kwok Kai Hwei   	|
+| HOD Aesthetics (Acting) 	| Ms  	| Kwok Kai Hwei   	|
 | SH D&amp;T  	| Mdm  	| Lim Min Hui   	|
 | HOD Information &amp; Communications Technology 	| Mr 	| Edwin Ang 	|
 | HOD Science 	| Mr 	| Lim Wee Keong 	|
