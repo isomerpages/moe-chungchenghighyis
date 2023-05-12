@@ -2,13 +2,13 @@ collections:
   our-cchy:
     output: true
     order:
-      - Principal's Welcome Message.md
       - School History.md
       - School Direction/.keep
       - School Direction/School Philosophy, Vision, Mission & Values.md
       - School Direction/School Crest and Motto.md
       - School Direction/School Song.md
       - Chung Cheng Spirit.md
+      - Principal's Welcome Message.md
       - Achievements/.keep
       - Achievements/Academic.md
       - Achievements/CCA.md
