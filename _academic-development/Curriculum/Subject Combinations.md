@@ -28,8 +28,8 @@ Click here to view the Academic Information Booklet 2021:
 | :---	| :---	| :---	|
 | English Language 	| Social Studies* 	| CCE* 	|
 | Basic Chinese / Malay Lang 	| Computer Application 	| PE* 	|
-| Chinese / Malay Lang at NA level 	| Design &amp; Technology 	| Music 	|
-| Mathematics at NA level 	| Visual Art 	|  	|
+| Chinese / Malay Lang at NA/G2 level 	| Design &amp; Technology 	| Music 	|
+| Mathematics at NA/G2 level 	| Visual Art 	|  	|
 | Science 	| Food and Consumer Education 	|  	|
 
 \*non-examinable subjects
