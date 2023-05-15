@@ -22,9 +22,9 @@ Working hand-in-hand, the CL and ML units deliver comprehensive MTL programmes t
 
 The MTL Department offers the following Instructional Programmes:
 
-* Normal (Technical): Basic Chinese Language N(T), Basic Malay Language N(T)
-* Normal (Academic): Chinese Language N(A), Malay Language N(A)
-* Express: Chinese Language, Higher Chinese Language, Malay Language
+* Normal (Technical)/G1: Basic Chinese Language N(T)/G1, Basic Malay Language N(T)/G1
+* Normal (Academic)/G2: Chinese Language N(A)/G2, Malay Language N(A)/G2
+* Express/G3: Chinese Language, Higher Chinese Language, Malay Language
 * _Students who offer Tamil Language will attend lessons in other schools within the vicinity that have been designated as Tamil Language Centres._
 
 ### Cross-Cultural Programme

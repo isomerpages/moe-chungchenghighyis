@@ -3,21 +3,20 @@ title: Admission
 permalink: /admission/admission/
 description: ""
 ---
-
 # **Admission**
 
 #### An introduction to our School
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZbetyS-bNfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZbetyS-bNfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mrqGIaC5Dps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mrqGIaC5Dps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### Sec 1 Intake Cut-off Achievement Level (AL) Range
 
-| Year 	| Express 	| Normal Academic 	| Normal Technical 	|
-|:---:	|:---:	|:---:	|:---:	|
+| Year 	| G3 	| G2 	| G1 	|
+|:---|:---	|:---	|:---	|
 | 2023<br>(new*) 	| 4 - 13 | 21 - 22 	| 25 - 27 	|
 | 2022 	| 5 - 11 	| 21 - 23 	| 25 - 29 	|
 
@@ -25,8 +24,8 @@ description: ""
 
 #### Sec 1 Intake Cut-off PSLE Points
 
-| Year 	| Express 	| Normal Academic 	| Normal Technical 	|
-|:---:	|:---:	|:---:	|:---:	|
+| Year 	| G3 	| G2 	| G1 	|
+|:---	|:---	|:---	|:---	|
 | 2021 	| 242 	| 185 	| 143 	|
 | 2020 	| 241 	| 185 	| 142 	|
 |  2019  	|  240  	|  184 	| 142  	|
@@ -45,5 +44,4 @@ description: ""
 | 2006 	| 230 	| 177 	| 98 	|
 | 2005 	| 226 	| 175 	| 85 	|
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">

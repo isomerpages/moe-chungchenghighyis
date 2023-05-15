@@ -16,20 +16,20 @@ Click here to view the Academic Information Booklet 2021:
 
 ### Lower Secondary Subjects Offered
 
-| Lower Secondary (for Express &amp; Normal Academic) 	|  	|  	|
-| ---	| ---	| ---	|
+| Lower Secondary (for Express/G3 &amp; Normal Academic/G2) 	|  	|  	|
+| :---	| :---	| :---	|
 | English Language 	| Geography 	| Design &amp; Technology 	|
 | Chinese / Malay Language 	| History 	| CCE* 	|
 | Higher Chinese Language (Exp only) 	| Literature 	| PE* 	|
 | Mathematics 	| Visual Art 	| Music* 	|
 | Science 	| Food and Consumer Education 	|  	|
 
-| Lower Secondary (for NT) 	|  	|  	|
-| ---	| ---	| ---	|
+| Lower Secondary (for NT/G1) 	|  	|  	|
+| :---	| :---	| :---	|
 | English Language 	| Social Studies* 	| CCE* 	|
 | Basic Chinese / Malay Lang 	| Computer Application 	| PE* 	|
-| Chinese / Malay Lang at NA level 	| Design &amp; Technology 	| Music 	|
-| Mathematics at NA level 	| Visual Art 	|  	|
+| Chinese / Malay Lang at NA/G2 level 	| Design &amp; Technology 	| Music 	|
+| Mathematics at NA/G2 level 	| Visual Art 	|  	|
 | Science 	| Food and Consumer Education 	|  	|
 
 \*non-examinable subjects

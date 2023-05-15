@@ -38,7 +38,7 @@ Level-wide Programme
 
 &nbsp;&nbsp; &nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MetaMath (Sec 1)
 
-&nbsp;&nbsp; &nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Financial Literacy Challenge (Sec 2 Express)
+&nbsp;&nbsp; &nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Financial Literacy Challenge (Sec 2 Express/G3)
 		
 
 ### Competitions / Enrichment Activities
