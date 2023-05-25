@@ -24,6 +24,6 @@ Through positive partnership between the school and parents, we aim to be part o
 
 ![](/images/CCHY%20PSG%20EXCO%202023.jpg)
 
-We look forward to meeting you and welcoming you as a PSG member.
+We look forward to meeting you and welcoming you as a PSG member.  **For further enquiries, please write to cchypsg@gmail.com.  Thank you.**
 
 <img src="/images/pavilion.png" style="width:50%">
