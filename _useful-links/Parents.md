@@ -24,3 +24,5 @@ description: ""
 9. [Schoolbag](https://www.schoolbag.edu.sg/)
 
 10. [Sexuality Education Programme](/our-curriculum/sexuality-education-programme/)
+
+11. [2023 PTM Principal's Lunchtime Talk](/files/2023%20ptm%20p's%20talk%20slides.pdf)
