@@ -31,9 +31,9 @@ third_nav_title: Staff
 | Mr Tan 	| Victor Tan 	| Physical Education &amp; Co-Curricular Activities 	| [victor_tan@moe.edu.sg](mailto:victor_tan@moe.edu.sg)  	| 217 	|
 | Ms Isma 	| Isma Wati Sidik 	| Character &amp; Citizenship Education  	| [isma_wati_sidik@moe.edu.sg](mailto:isma_wati_sidik@moe.edu.sg)  	| 212 	|
 | Mr Ang    	| Ang Hui Jun Edwin 	| Information &amp; Communications Technology 	| [ang_hui_jun_edwin@moe.edu.sg](mailto:ang_hui_jun_edwin@moe.edu.sg) 	| 216 	|
-| Ms Kwok  	| Kwok Kai Hwei 	| Aesthetics (Acting) 	| [kwok_kai_hwei@moe.edu.sg](mailto:kwok_kai_hwei@moe.edu.sg) 	| 303	|
+| Ms Kwok  	| Kwok Kai Hwei 	| Aesthetics 	| [kwok_kai_hwei@moe.edu.sg](mailto:kwok_kai_hwei@moe.edu.sg) 	| 303	|
 | Ms Wong 	| Wong Shing Liu  	| Year Head Lower Secondary  	| [wong_shing_liu@moe.edu.sg](mailto:wong_shing_liu@moe.edu.sg)  	| 210 	|
-| Mr Yong 	| Yong Yin Yee 	| Year Head Upper Secondary 	| [yong_yin_yee@moe.edu.sg](mailto:yong_yin_yee@moe.edu.sg) 	| 215 	|
+| Ms Vanee	| Kallaivanee Paramaseevan 	| Year Head Upper Secondary (Acting) 	| [kallaivanee_paramaseevan@moe.edu.sg](mailto:kallaivanee_paramaseevan@moe.edu.sg) 	| 261 	|
 
 ### Teaching Staff
 
@@ -61,7 +61,6 @@ third_nav_title: Staff
 | Mr Ong 	| Jeffrey Ong Han Hoe 	| 4B 	| Outdoor Activities Club (ODAC) 	| [jeffrey_ong_han_hoe@moe.edu.sg](mailto:jeffrey_ong_han_hoe@moe.edu.sg) 	| 252 	|
 | Mdm Junaina 	| Junaina Bte Ab Hassan 	| 2C 	|  	| [junaina_ab_hassan@moe.edu.sg](mailto:junaina_ab_hassan@moe.edu.sg) 	| 262 	|
 | Ms Junainah 	| Junainah Bte Amran 	| 3A 	| Multimedia Club 	| [junainah_amran@moe.edu.sg](mailto:junainah_amran@moe.edu.sg) 	| 314 	|
-| Ms Vanee 	| Kallaivanee Paramaseevan 	|  	|  	| [kallaivanee_paramaseevan@moe.edu.sg](mailto:kallaivanee_paramaseevan@moe.edu.sg) 	| 261 	|
 | Mrs Raja 	| Kamala Davi D/O Vadivaloo 	|  	|  	| [kamala_davi_d_o@moe.edu.sg](mailto:kamala_davi_d_o@moe.edu.sg) 	| 251 	|
 | Ms Katrina 	| Katrina Nur Hidayah Mohamad 	| 1G 	| Wushu 	| [katrina_nur_hidayah_mohamad@moe.edu.sg](mailto:katrina_nur_hidayah_mohamad@moe.edu.sg) 	| 268 	|
 | Mr Lee 	| Lee Kah Lin Alvin 	| 2D 	| Wushu 	| [kah_lin_alvin_lee@moe.edu.sg](mailto:kah_lin_alvin_lee@moe.edu.sg) 	| 261 	|
@@ -70,8 +69,7 @@ third_nav_title: Staff
 | Ms Liew 	| Liew Huey Chyi 	| 1D 	| Chinese Orchestra/Guzheng Ensemble 	| [liew_huey_chyi@moe.edu.sg](mailto:liew_huey_chyi@moe.edu.sg) 	| 286 	|
 | Mr Lim 	| Lim Chia Hwee 	| 3E 	| NCC Air (Boys) 	| [lim_chia_hwee@moe.edu.sg](mailto:lim_chia_hwee@moe.edu.sg) 	| 263 	|
 | Ms Lim 	|  Lim Jia Ying 	|  1F 	| Chinese Orchestra/Guzheng Ensemble 	| [lim_jia_ying_b@moe.edu.sg](mailto:lim_jia_ying_b@moe.edu.sg)  	| 276 	|
-| Ms Lim 	| Lim Lian Ching |  	|  	| [lim_lian_ching@moe.edu.sg](mailto:lim_lian_ching@moe.edu.sg) 	| 255 	|
-| Mdm Lim  	| Lim Min Hui  	| 2A 	|   	| [lim_minhui@moe.edu.sg](mailto:lim_minhui@moe.edu.sg)  	| 302 	|
+ Mdm Lim  	| Lim Min Hui  	| 2A 	|   	| [lim_minhui@moe.edu.sg](mailto:lim_minhui@moe.edu.sg)  	| 302 	|
 | Mr Lim  	|  Lim Ying Xuan 	| 3B 	| NCC Air (Boys) 	| [lim_ying_xuan@moe.edu.sg](mailto:lim_ying_xuan@moe.edu.sg)  	| 261 	|
 | Ms Lin 	| Lin Xiaoying 	| 1E 	| Technopreneur Club 	| [lin_xiaoying@moe.edu.sg](mailto:lin_xiaoying@moe.edu.sg) 	| 273 	|
 | Ms Low 	| Low Li Shan 	|  	|  	| [low_li_shan@moe.edu.sg](mailto:low_li_shan@moe.edu.sg) 	| 286 	|
@@ -85,7 +83,6 @@ third_nav_title: Staff
 | Ms Ng 	| Ng Boon Cheng Mabel 	| 3B 	| NPCC 	| [ng_boon_cheng_mabel@moe.edu.sg](mailto:ng_boon_cheng_mabel@moe.edu.sg) 	| 265 	|
 | Mr Ng  	| Ng Jun Xiong  	| 1H 	| NPCC  	| [ng_jun_xiong@moe.edu.sg](mailto:ng_jun_xiong@moe.edu.sg)  	| 275 	|
 | Mr Ng 	| Ng Yee Siong 	| 3H 	| Peregrine Scouts Group 	| [ng_yee_siong@moe.edu.sg](mailto:ng_yee_siong@moe.edu.sg) 	| 279 	|
-| Mr Ng  	|  Ng Yong Hee Johnny 	|   	|   	| [ng_yong_hee_johnny@moe.edu.sg](mailto:ng_yong_hee_johnny@moe.edu.sg)  	| 301 	|
 | Ms Seah 	| Nicole Xin Yuen Seah 	|  	|  	| [nicole_xin_yuen_seah@moe.edu.sg](mailto:nicole_xin_yuen_seah@moe.edu.sg) 	| 265 	|
 | Ms Fazillah 	| Noor Fazillah Noor Aziz 	| 1A 	| Dance Ensemble 	| [noor_fazillah_noor_aziz@moe.edu.sg](mailto:noor_fazillah_noor_aziz@moe.edu.sg) 	| 253 	|
 | Ms Norfida 	| Norfida Alias 	| 5D 	|  	| [norfida_alias@moe.edu.sg](mailto:norfida_alias@moe.edu.sg) 	| 260 	|
@@ -96,24 +93,21 @@ third_nav_title: Staff
 | Mr Oh 	| Oh Teck Tiong 	|  	|  	| [oh_teck_tiong@moe.edu.sg](mailto:oh_teck_tiong@moe.edu.sg) 	| 269 	|
 |  Mr Peh 	| Gary Peh Kaixiang  	|  3A 	| Outdoor Activities Club (ODAC)  	| [gary_peh_kaixiang@moe.edu.sg](mailto:gary_peh_kaixiang@moe.edu.sg)  	| 309 	|
 |  Mrs Peh 	|  Peh-Leow Li Yong, Shirley 	|  4B 	| St John Brigade  	| [peh-leow_li_yong_shirley@moe.edu.sg](mailto:peh-leow_li_yong_shirley@moe.edu.sg)  	| 283 	|
-| Mr Poh 	| Poh Eng Hua Terence 	|  	| Outdoor Activities Club (ODAC) 	| [poh_eng_hua_terence@moe.edu.sg](mailto:poh_eng_hua_terence@moe.edu.sg) 	| 308 	|
 | Ms Sharizan 	| Sharizan Sanwan 	|  	|  	| [sharizan_sanwan@moe.edu.sg](mailto:sharizan_sanwan@moe.edu.sg) 	| 255 	|
 | Mr Sim 	| Sim Kok Heng 	| 4C 	| Choir 	| [sim_kok_heng@moe.edu.sg](mailto:sim_kok_heng@moe.edu.sg) 	| 282 	|
 |  Ms Tan 	| Tan Jie Hui Dorcas  	| 4H 	| Fencing  	| [tan_jie_hui_dorcas@moe.edu.sg](mailto:tan_jie_hui_dorcas@moe.edu.sg)  	| 258 	|
 |  Ms Tan 	|  Tan Mui Mui 	| 1F 	| Volleyball 	| [tan_mui_mui_b@moe.edu.sg](mailto:tan_mui_mui_b@moe.edu.sg)  	| 308 	|
 |  Mdm Tan 	| Tan Puay Khim  	|   	|   	| [tan_puay_khim@moe.edu.sg](mailto:tan_puay_khim@moe.edu.sg)  	| 327 	|
 | Ms Tan 	|  Tan Si Min 	| 2E  	| Chinese Dance  	| [tan_si_min@moe.edu.sg](mailto:tan_si_min@moe.edu.sg)  	| 278 	|
-|  Ms Tan 	| Tan Wan Ting  	|   	|   	| [tan_wan_ting@moe.edu.sg](mailto:tan_wan_ting@moe.edu.sg)  	| 256 	|
 | Ms Teo 	| Teo Shin Yeow 	| 3G 	| Chinese Dance 	| [teo_shin_yeow@moe.edu.sg](mailto:teo_shin_yeow@moe.edu.sg) 	| 265 	|
 | Mdm Thian 	| Thian Siaw Fong 	| 3A 	| Chinese Drama 	| [thian_siaw_fong@moe.edu.sg](mailto:thian_siaw_fong@moe.edu.sg) 	| 328 	|
-| Ms Then 	| Then Li-Ping Josephine 	|  	|  	| [then_liping_josephine@moe.edu.sg](mailto:then_liping_josephine@moe.edu.sg) 	| 262 	|
 | Mr Thong 	| Thong Nai Kee 	|  	|  	| [thong_nai_kee@moe.edu.sg](mailto:thong_nai_kee@moe.edu.sg) 	| 271 	|
 | Mr Toh 	| Toh Yong Hock 	| 1A 	| NCC Air (Boys) 	| [toh_yong_hock@moe.edu.sg](mailto:toh_yong_hock@moe.edu.sg) 	| 263 	|
 | Mr Tok 	| Tok Wei Ee Alvin 	|  	| Basketball (Boys) 	| [tok_wei_ee_alvin@moe.edu.sg](mailto:tok_wei_ee_alvin@moe.edu.sg) 	| 280 	|
-| Mdm Tumini 	| Tumini Bte Sa'at 	|  	|  	| [tumini_saat@moe.edu.sg](mailto:tumini_saat@moe.edu.sg) 	| 311 	|
 | Ms Wu  	| Wu Simin  	|   	|   	| [wu_simin@moe.edu.sg](mailto:wu_simin@moe.edu.sg)  	| 311 	|
 | Mdm Yeo  	| Yeo Siok Chin  	|   	|   	| [yeo_siok_chin@moe.edu.sg](mailto:yeo_siok_chin@moe.edu.sg)  	| 328 	|
 | Mdm Yeoh 	| Yeoh Ai Bee 	|  	|  	| [yeoh_ai_bee@moe.edu.sg](mailto:yeoh_ai_bee@moe.edu.sg) 	| 329 	|
+| Mr Yong 	| Yong Yin Yee 	|  	|  	| [yong_yin_yee@moe.edu.sg](mailto:yong_yin_yee@moe.edu.sg) 	| 215 	|
 | Ms Yvonne 	| Yvonne Suvitha Selvadurai 	| 4F 	| Symphonic Band 	| [yvonne_suvitha_selvadurai@moe.edu.sg](mailto:yvonne_suvitha_selvadurai@moe.edu.sg) 	| 252 	|
 | Ms Zhu 	| Zhu Peilin 	| 1G 	| Chinese Drama 	| [zhu_peilin@moe.edu.sg](mailto:zhu_peilin@moe.edu.sg) 	| 286 	|
 
