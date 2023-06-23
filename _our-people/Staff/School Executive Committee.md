@@ -20,7 +20,7 @@ third_nav_title: Staff
 | HOD Humanities 	| Ms 	| Manvinder Kaur 	|
 | SH Geography 	| Mr 	| Luo Yanjie 	|
 | HOD Mother Tongue Languages 	| Mdm 	| Low Geok Ling 	|
-| SH Chinese Language 	| Mdm  	| Sew Mek Len   	|
+| SH CL 	| Mdm  	| Sew Mek Len   	|
 | HOD Aesthetics 	| Ms  	| Kwok Kai Hwei   	|
 | SH D&amp;T  	| Mdm  	| Lim Min Hui   	|
 | HOD Information &amp; Communications Technology 	| Mr 	| Edwin Ang 	|
