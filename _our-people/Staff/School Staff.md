@@ -79,6 +79,7 @@ third_nav_title: Staff
 | Mr Lim  	|  Lim Ying Xuan 	| 3B 	| NCC Air (Boys) 	| [lim_ying_xuan@moe.edu.sg](mailto:lim_ying_xuan@moe.edu.sg)  	| 261 	|
 | Ms Lin 	| Lin Xiaoying 	| 1E 	| Technopreneur Club 	| [lin_xiaoying@moe.edu.sg](mailto:lin_xiaoying@moe.edu.sg) 	| 273 	|
 | Ms Low 	| Low Li Shan 	|  	|  	| [low_li_shan@moe.edu.sg](mailto:low_li_shan@moe.edu.sg) 	| 286 	|
+| Mr Luo 	| Luo Yanjie 	|  	|  	| [luo_yanjie@moe.edu.sg](mailto:luo_yanjie@moe.edu.sg) 	| 256 	|
 | Ms Maria 	| Maria Duvalinda Agahari 	| 3G 	| Multimedia Club 	| [maria_duvalinda_agahari@moe.edu.sg](mailto:maria_duvalinda_agahari@moe.edu.sg) 	| 253 	|
 | Ms Low 	| Megan Low Ruiqi 	| 1E 	| Symphonic Band 	| [megan_low_ruiqi@moe.edu.sg](mailto:megan_low_ruiqi@moe.edu.sg) 	| 256 	|
 | Ms Chia 	| Mellissa Chia Pei Shan 	| 2A	| Festival Drums 	| [chia_pei_shan_mellissa@moe.edu.sg](mailto:chia_pei_shan_mellissa@moe.edu.sg) 	| 266 	|
@@ -101,6 +102,7 @@ third_nav_title: Staff
 |  Mrs Peh 	|  Peh-Leow Li Yong, Shirley 	|  4B 	| St John Brigade  	| [peh-leow_li_yong_shirley@moe.edu.sg](mailto:peh-leow_li_yong_shirley@moe.edu.sg)  	| 283 	|
 | Ms Razinah 	| Razinah Bte AA Rahmatulla 	|  	|  	| [razinah_aa_rahmatulla@moe.edu.sg](mailto:razinah_aa_rahmatulla@moe.edu.sg) 	| 252 	|
 | Ms Sharizan 	| Sharizan Sanwan 	|  	|  	| [sharizan_sanwan@moe.edu.sg](mailto:sharizan_sanwan@moe.edu.sg) 	| 255 	|
+| Mdm Sew 	| Sew Mek Len 	|  	|  	| [sew_mek_len@moe.edu.sg](mailto:sew_mek_len@moe.edu.sg) 	| 285 	|
 | Mr Sim 	| Sim Kok Heng 	| 4C 	| Choir 	| [sim_kok_heng@moe.edu.sg](mailto:sim_kok_heng@moe.edu.sg) 	| 282 	|
 |  Ms Tan 	| Tan Jie Hui Dorcas  	| 4H 	| Fencing  	| [tan_jie_hui_dorcas@moe.edu.sg](mailto:tan_jie_hui_dorcas@moe.edu.sg)  	| 258 	|
 |  Mr Tan 	|  Tan Jin Poh 	|  	|  	| [tan_jin_poh@moe.edu.sg](mailto:tan_jin_poh@moe.edu.sg)  	| 267 	|
