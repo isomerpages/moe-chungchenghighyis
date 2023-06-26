@@ -37,7 +37,6 @@ Please click on the links below for more information related to 2023 HBL.
 [Annex C - Students’ Guide for Zoom (2023).pdf](/files/Home%20Based%20Learning/Annex%20C%20-%20Students’%20Guide%20for%20Zoom%20(2023).pdf)<br>
 [Annex D – Students’ Guide for Google Meet (2023).pdf](/files/Home%20Based%20Learning/Annex%20D%20–%20Students’%20Guide%20for%20Google%20Meet%20(2023).pdf)<br>
 [Annex E - Students' Guide for New SLS Interface.pdf](/files/Home%20Based%20Learning/Annex%20E%20-%20Students'%20Guide%20for%20New%20SLS%20Interface.pdf)<br>
-[Annex E - Students' Guide for New SLS Interface.pdf](/files/Home%20Based%20Learning/Annex%20E%20-%20Students'%20Guide%20for%20New%20SLS%20Interface.pdf)<br>
 [Annex F - HBL Briefing Slides for All Students Term 1_Sch Website.pdf](/files/Home%20Based%20Learning/Annex%20F%20-%20HBL%20Briefing%20Slides%20for%20All%20Students%20Term%201_Sch%20Website.pdf)<br>
 [Annex G - CCHY SIL FAQ for Students (2023).pdf](/files/Home%20Based%20Learning/Annex%20G%20-%20CCHY%20SIL%20FAQ%20for%20Students%20(2023).pdf)<br>
 [Infosheet for Students_2023.pdf](/files/Home%20Based%20Learning/Infosheet%20for%20Students_2023.pdf)<br>
