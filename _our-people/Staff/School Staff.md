@@ -66,7 +66,7 @@ third_nav_title: Staff
 | Ms Junainah 	| Junainah Bte Amran 	| 3A 	| Multimedia Club 	| [junainah_amran@moe.edu.sg](mailto:junainah_amran@moe.edu.sg) 	| 314 	|
 | Mrs Raja 	| Kamala Davi D/O Vadivaloo 	|  	|  	| [kamala_davi_d_o@moe.edu.sg](mailto:kamala_davi_d_o@moe.edu.sg) 	| 251 	|
 | Ms Katrina 	| Katrina Nur Hidayah Mohamad 	| 1G 	| Wushu 	| [katrina_nur_hidayah_mohamad@moe.edu.sg](mailto:katrina_nur_hidayah_mohamad@moe.edu.sg) 	| 268 	|
-| Mdm Lee  	| Lee Ching Julia  	|  	|  	| [lee_ching_julia@moe.edu.sg](mailto:lee_ching_julia@moe.edu.sg) 	| 301  	|
+| Mrs Julia Soh  	| Lee Ching Julia  	|  	|  	| [lee_ching_julia@moe.edu.sg](mailto:lee_ching_julia@moe.edu.sg) 	| 301  	|
 | Mr Lee 	| Lee Kah Lin Alvin 	| 2D 	| Wushu 	| [kah_lin_alvin_lee@moe.edu.sg](mailto:kah_lin_alvin_lee@moe.edu.sg) 	| 261 	|
 | Ms Lee 	| Lee Peiqi 	| 2C 	| Chinese Orchestra/Guzheng Ensemble 	| [lee_peiqi@moe.edu.sg](mailto:lee_peiqi@moe.edu.sg) 	| 265 	|
 |  Ms Lee  	| Lee Wen Lin  	|   	|   	| [lee_wen_lin@moe.edu.sg](mailto:lee_wen_lin@moe.edu.sg)  	| 314 	|
