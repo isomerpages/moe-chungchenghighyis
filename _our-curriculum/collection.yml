@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Student Development/Character and Citizenship Education (CCE).md
       - Student Development/.keep
       - Student Development/Student Development.md
       - Student Development/Student Leadership.md
