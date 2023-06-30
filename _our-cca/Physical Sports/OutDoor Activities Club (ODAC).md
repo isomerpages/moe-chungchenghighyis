@@ -24,7 +24,7 @@ The Outdoor Activities Club (ODAC) was set up to bring out every student’s pot
 ### Teachers-in-charge
 
 Mr Jeffrey Ong Han Hoe (IC)<br> 
-Mr Poh Eng Hua Terence<br>
+Mr Yong Yin Yee (2IC)<br>
 Mr Gary Peh Kai Xiang
 
 ### Training Schedule
