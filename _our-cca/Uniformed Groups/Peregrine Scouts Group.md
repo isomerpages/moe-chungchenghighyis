@@ -34,7 +34,7 @@ For example, Job Week
 ### Teachers-in-charge
 
 Mr Ng Yee Siong (IC)   
-Ms Nurulhuda Binte Khamarudin (2IC)   
+Ms Nurulhuda Binte Khamarudin  
 Mr Andrew Chan Chun Yan
 
 ### Training Schedule
