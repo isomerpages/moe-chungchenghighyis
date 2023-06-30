@@ -2,7 +2,7 @@
 title: Symphonic Band
 permalink: /our-cca/visual-and-performing-arts/symphonic-band/
 description: ""
-third_nav_title: Visual &amp; Performing Arts
+third_nav_title: Visual & Performing Arts
 ---
 # **Symphonic Band**
 
@@ -11,7 +11,7 @@ third_nav_title: Visual &amp; Performing Arts
 ### Teachers-in-charge
 
 Mr Chia Poh Cheng (IC)   
-Ms Nazeema Parveen Bte Shaik Alaudee (2IC)    
+Mdm Juaina Bte Ab Hassan    
 Ms Yvonne Suvitha Selvadurai<br>
 Ms Megan Low Ruiqi
 
