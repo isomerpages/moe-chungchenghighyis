@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-# **Afternoon Reinforcement Programme (ARP)**
 
 Please click on the links below to download the class timetable.
 
