@@ -42,7 +42,7 @@ Click&nbsp;[here](https://drive.google.com/file/d/1LWAO4XOy7URCWjnA1j_KXws_Ub5un
 ### Information on MIMS Password
 
 *   Please read password policy as shown below:
-![](/images/ICT_PDL.jpg)
+![](/images/password%20policy.jpg)
 *   To reset MIMS password, click&nbsp;[password reset form](https://docs.google.com/forms/d/e/1FAIpQLSef7YQxPj4RszC1evMGWl8qU43xSjULdYFlLzkiyNDwqNymhQ/viewform).
 
 ### Issues related to MIMS password&nbsp;
