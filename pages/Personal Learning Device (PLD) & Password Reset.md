@@ -43,14 +43,22 @@ Click&nbsp;[here](https://drive.google.com/file/d/1LWAO4XOy7URCWjnA1j_KXws_Ub5un
 
 *   Please read password policy as shown below:
 ![](/images/password%20policy.jpg)
-*   To reset MIMS password, click&nbsp;[password reset form](https://docs.google.com/forms/d/e/1FAIpQLSef7YQxPj4RszC1evMGWl8qU43xSjULdYFlLzkiyNDwqNymhQ/viewform).
+*   To request for MIMS password reset by Student Administrator (SA), click [password reset form](https://docs.google.com/forms/d/e/1FAIpQLSef7YQxPj4RszC1evMGWl8qU43xSjULdYFlLzkiyNDwqNymhQ/viewform).
+*   To perform MIMS Self-Service Password Reset (SSPR), follow the below steps:
+*   **Step1:**<br>
+Go to [here](
+https://mims.moe.gov.sg/sspr) and click 'Forgot Password?'.  
+*   **Step2:**<br>
+Type in your username and answer the Challenge Questions that you have set previously.  
+*   **Step3:**<br>
+Once you have correctly answered your challenge questions, you will be able to reset your password.
 
 ### Issues related to MIMS password&nbsp;
 
 1\. If you cannot login to your personal handphone with your student iCON account, please try the following:  
 (a) Logout student icon from all devices including your PLD.  
-(b) If it is still unsolved, please proceed to computer lab 2, 3PM to 4PM daily for assistance.&nbsp;  
+(b) If it is still unsolved, please proceed to Computer Lab 2, 3PM to 4PM daily for assistance.  
   
-2\. If you cannot login to your PLD with new password, please proceed to computer lab 2, 3PM to 4PM daily for assistance.
+2\. If you cannot login to your PLD with new password, please proceed to Computer Lab 2, 3PM to 4PM daily for assistance.
 
 <img src="/images/pavilion.png" style="width:50%">
