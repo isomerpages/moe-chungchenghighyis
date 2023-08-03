@@ -11,7 +11,7 @@ description: ""
 4. [Direct School Admission (DSA)](/admission/direct-school-admission-dsa)
 5. [Early Admissions Exercise (EAE)](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)
 6. [Library Loan System](https://schoolibrary.moe.edu.sg/chungchenghighyishun)
-7. [MIMS Self Service Password Reset (SSPR)](https://mims.moe.gov.sg/sspr)
+7. [MIMS Self-Service Password Reset (SSPR)](https://mims.moe.gov.sg/sspr)
 8. [My SkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 9. [Personal Learning Device (PLD) &amp; Password Reset](/personal-learning-device-pld-password-reset/)
 10. [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
