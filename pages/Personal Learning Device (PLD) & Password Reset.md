@@ -43,9 +43,15 @@ Click&nbsp;[here](https://drive.google.com/file/d/1LWAO4XOy7URCWjnA1j_KXws_Ub5un
 
 *   Please read password policy as shown below:
 ![](/images/password%20policy.jpg)
-*   To request MIMS password reset by Student Administrator (SA), click [password reset form](https://docs.google.com/forms/d/e/1FAIpQLSef7YQxPj4RszC1evMGWl8qU43xSjULdYFlLzkiyNDwqNymhQ/viewform).
-*   To perform MIMS self-service password reset, click [here](
-https://mims.moe.gov.sg/sspr).
+*   To request for MIMS password reset by Student Administrator (SA), click [password reset form](https://docs.google.com/forms/d/e/1FAIpQLSef7YQxPj4RszC1evMGWl8qU43xSjULdYFlLzkiyNDwqNymhQ/viewform).
+*   To perform MIMS Self-Service Password Reset (SSPR), follow the below steps:
+*   **Step1:**<br>
+Go to [here](
+https://mims.moe.gov.sg/sspr) and click 'Forgot Password?'.  
+*   **Step2:**<br>
+Type in your username and answer the Challenge Questions that you have set previously.  
+*   **Step3:**<br>
+Once you have correctly answered your challenge questions, you will be able to reset your password.
 
 ### Issues related to MIMS password&nbsp;
 
