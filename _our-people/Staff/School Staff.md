@@ -61,6 +61,7 @@ third_nav_title: Staff
 | Mr Ingmar 	| Ingmar Salim 	|  	|  	| [ingmar_salim@moe.edu.sg](mailto:ingmar_salim@moe.edu.sg) 	| 311 	|
 | Ms Lim 	| Isabelle Lim Ji Yu 	| 1H 	| St John Brigade 	| [isabelle_lim_ji_yu@moe.edu.sg](mailto:isabelle_lim_ji_yu@moe.edu.sg) 	| 288 	|
 | Mr Ong 	| Jeffrey Ong Han Hoe 	| 4B 	| Outdoor Activities Club (ODAC) 	| [jeffrey_ong_han_hoe@moe.edu.sg](mailto:jeffrey_ong_han_hoe@moe.edu.sg) 	| 283 	|
+| Mdm Hoong 	| Jeslyn Hoong Siew Choo 	| 1G 	|  	| [jeslyn_hoong_siew_choo@moe.edu.sg](mailto:jeslyn_hoong_siew_choo@moe.edu.sg) 	| 273 	|
 | Mdm Junaina 	| Junaina Bte Ab Hassan 	| 2C 	| Symphonic Band 	| [junaina_ab_hassan@moe.edu.sg](mailto:junaina_ab_hassan@moe.edu.sg) 	| 262 	|
 | Ms Junainah 	| Junainah Bte Amran 	| 3A 	| Multimedia Club 	| [junainah_amran@moe.edu.sg](mailto:junainah_amran@moe.edu.sg) 	| 316 	|
 | Mrs Raja 	| Kamala Davi D/O Vadivaloo 	|  	|  	| [kamala_davi_d_o@moe.edu.sg](mailto:kamala_davi_d_o@moe.edu.sg) 	| 251 	|
