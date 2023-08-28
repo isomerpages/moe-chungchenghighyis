@@ -19,11 +19,10 @@ third_nav_title: Staff
 | Mr | Yeo Chung Beng | Technical Support Officer (Design &amp; Technology) |
 | Mr | Rosman Bin Rais | Technical Support Officer (Design &amp; Technology) |
 | Ms | Ashwini K Gopinathan | Technical Support Officer (Science Lab) |
-| Ms | Maizatul Nazira A Rasip | Technical Support Officer (Science Lab) |
+| Mr | Muhammad Firdaus Abdul Rahim Kamsi | Technical Support Officer (Science Lab) |
 | Mdm | Lim Wai Yue Chris | Operations Support Officer  (Science Lab) |
 | Mdm | Lee Bee Eng | Operations Support Officer (OSO) |
 | Mdm | Seah Siew Hwa | Operations Support Officer (OSO) |
-| Mr | Tan Poh Chuan | Operations Support Officer (OSO) |
 | Mr | Chandrasekran S/O Ramiah | Operations Support Officer (OSO) |
 | Mdm | Soyah Binte Ismail | Operations Support Officer (OSO) |
 | Mdm | Lee Hong Mui | Operations Support Officer (Adjt OSO) |
