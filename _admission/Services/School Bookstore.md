@@ -8,11 +8,12 @@ third_nav_title: Services
 
 | SN 	| Item 	| Head Office 	| School Bookstore 	|
 |:---:	|---	|---	|---	|
-| 1 	| Name 	| Popular Book Co Pte Ltd 	| Popular Book Co Pte Ltd 	|
-| 2 	| Address 	| 15 Serangoon North Avenue 5, Singapore 554360 	| 11 Yishun Street 61, Singapore 768547 	|
-| 3 	| Telephone 	| 6462 9530 	| 6255 7089 	|
-| 4 	| Fax 	| 6463 2206 	| 6255 7085 	|
-| 5 	| Opening Hours 	| Mon to Fri: 9:00a.m. to 5:00p.m.<br><br>(excluding lunch time from 12.30p.m. – 1.30p.m. and Public Holidays ) 	| Mon to Fri: 9:00a.m. to 3:00p.m. during school term (excluding Public Holidays) 	|
-| 6 	| Online Sale Guide or Link 	| [www.popular.com.sg](www.popular.com.sg) 	| For Year-end textbook order only: <br>Login to Popular homepage -  [textbook.popular.com.sg](textbook.popular.com.sg)    <br><br>Follow simple guided steps to create an account and password.<br><br>Login with your ID and password. 	|
+| 1 	| Name 	| Overseas Associates (Pte) Ltd | Overseas Associates (Pte) Ltd |
+| 2 	| Address 	| 24 Lim Teck Boo Road, #03-01 Nanyang Centre, Singapore 537003 	| Chung Cheng High School (Yishun)<br> 11 Yishun Street 61, Singapore 768547 	|
+| 3 	| Telephone 	| 6382 6789 (3 lines) 	| 6382 6789 Ext 126 	|
+| 4 	| Fax 	| No longer using fax 	| No fax in bookshop 	|
+| 5 	| Opening Hours 	| 9am to 6pm<br>(Lunch: 12.30pm - 1.30pm)	| Monday to Friday except School Holidays<br>8am to 3pm (Lunch: 12pm - 12.45pm)<br>Actual lunch hour not fixed as we will adjust according to students' timetable fir different days 	|
+| 6 	| Email	| sales@oapl.sg 	| cchy@oapl.sg
+| 7 	| Online Sale	|  	| School Textbook and Stationery - For Year-end sale only<br>Website: [www.oapl.sg](www.oapl.sg)    <br><br>Does the parent need to register? Yes. 	|
 
 <img src="/images/pavilion.png" style="width:50%">
