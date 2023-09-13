@@ -65,7 +65,6 @@ third_nav_title: Staff
 | Mdm Junaina 	| Junaina Bte Ab Hassan 	| 2C 	| Symphonic Band 	| [junaina_ab_hassan@moe.edu.sg](mailto:junaina_ab_hassan@moe.edu.sg) 	| 262 	|
 | Ms Junainah 	| Junainah Bte Amran 	| 3A 	| Multimedia Club 	| [junainah_amran@moe.edu.sg](mailto:junainah_amran@moe.edu.sg) 	| 316 	|
 | Mrs Raja 	| Kamala Davi D/O Vadivaloo 	|  	|  	| [kamala_davi_d_o@moe.edu.sg](mailto:kamala_davi_d_o@moe.edu.sg) 	| 251 	|
-| Ms Katrina 	| Katrina Nur Hidayah Mohamad 	| 1G 	| Wushu 	| [katrina_nur_hidayah_mohamad@moe.edu.sg](mailto:katrina_nur_hidayah_mohamad@moe.edu.sg) 	| 268 	|
 | Mrs Julia Soh  	| Lee Ching Julia  	| 2B 	| Choir  	| [lee_ching_julia@moe.edu.sg](mailto:lee_ching_julia@moe.edu.sg) 	| 301  	|
 | Mr Lee 	| Lee Kah Lin Alvin 	| 2D 	| Wushu 	| [kah_lin_alvin_lee@moe.edu.sg](mailto:kah_lin_alvin_lee@moe.edu.sg) 	| 261 	|
 | Ms Lee 	| Lee Peiqi 	| 2C 	| Chinese Orchestra/Guzheng Ensemble 	| [lee_peiqi@moe.edu.sg](mailto:lee_peiqi@moe.edu.sg) 	| 265 	|
@@ -84,7 +83,6 @@ third_nav_title: Staff
 | Ms Low 	| Megan Low Ruiqi 	| 1E 	| Symphonic Band 	| [megan_low_ruiqi@moe.edu.sg](mailto:megan_low_ruiqi@moe.edu.sg) 	| 256 	|
 | Ms Chia 	| Mellissa Chia Pei Shan 	| 2A	| Festival Drums 	| [chia_pei_shan_mellissa@moe.edu.sg](mailto:chia_pei_shan_mellissa@moe.edu.sg) 	| 266 	|
 | Ms Nazeema 	| Nazeema Parveen 	|  	|  	| [nazeema_parveen@moe.edu.sg](mailto:nazeema_parveen@moe.edu.sg) 	| 251 	|
-|  Ms Neo 	| Neo Hwee Koon  	|  	|   	| [neo_hwee_koon@moe.edu.sg](mailto:neo_hwee_koon@moe.edu.sg)  	| 328 	|
 |  Mr Neo 	| Neo Yao Kian Andy  	| 4A 	| NPCC  	| [neo_yao_kian_andy@moe.edu.sg](mailto:neo_yao_kian_andy@moe.edu.sg)  	| 257 	|
 |  Mdm Ng 	| Ng Bee Eng  	|  	|   	| [ng_bee_eng_a_1@moe.edu.sg](mailto:ng_bee_eng_a_1@moe.edu.sg)  	| 329 	|
 | Ms Ng 	| Ng Boon Cheng Mabel 	| 3B 	| NPCC 	| [ng_boon_cheng_mabel@moe.edu.sg](mailto:ng_boon_cheng_mabel@moe.edu.sg) 	| 265 	|
@@ -125,7 +123,7 @@ third_nav_title: Staff
 
 |  	| Name 	| Email (Ext) 	| Ext 	| Areas 	|
 |---	|---	|---	|---	|---	|
-| Ms Lee 	| Lee Soo Hong 	| [lee_soo_hong@moe.edu.sg](mailto:lee_soo_hong@moe.edu.sg) 	| 299 	| Counsellor 	|
+| Mr Raj 	| Rajinder Singh S/O Kashmir Singh 	| [rajinder_singh_kashmir_singh@moe.edu.sg](mailto:rajinder_singh_kashmir_singh@moe.edu.sg) 	| 299 	| Counsellor 	|
 | Mr Peh 	| Gary Peh Kaixiang 	| [gary_peh_kaixiang@moe.edu.sg](mailto:gary_peh_kaixiang@moe.edu.sg) 	| 309 	| Teaching &amp; Learning 	|
 |  Ms Goh 	|  Goh Shu Xian 	| [goh_shu_xian@moe.edu.sg](mailto:goh_shu_xian@moe.edu.sg)  	|  LBS Room 	|  Learning &amp; Behavioural Support 	|
 
