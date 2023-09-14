@@ -13,7 +13,7 @@ description: ""
 6. [ICT Portal](https://sites.google.com/moe.edu.sg/cchyictportal/home)
 7. [iEXAMS2](https://iexams.seab.gov.sg/login)
 8. [Intranet](https://intranet.moe.gov.sg/)
-9. [MIMS Portal](https://portal.mims.moe.gov.sg/idmdash/#/landing)
+9. [MIMS Portal](https://mims.moe.gov.sg/)
 10. [MIMS Self-Service Password Reset (SSPR)](https://mims.moe.gov.sg/sspr)
 11. [MySkills Future](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 12. [OPAL 2.0](https://www.opal2.moe.edu.sg/app/learner)
