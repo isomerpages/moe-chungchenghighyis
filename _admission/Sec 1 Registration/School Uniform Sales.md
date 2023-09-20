@@ -15,4 +15,7 @@ via the uniform vendor’s online platform at:
 ##### **Walk-in Purchase (At Retail Outlet)- Strictly by appointment**<br>
 
 
-Strictly by Appointment
+| Strictly by appointment 	| Location 	|
+|--- | --- |
+| [https://jeepsinguniform.com/<br>pages/appointment-booking](https://jeepsinguniform.com/pages/appointment-booking)<br>&nbsp;Walk-in purchase without<br> appointment <u>will NOT be entertained</u> | Techplace 1<br>Blk 4012 Ang Mo Kio Ave 10<br>#01-09<br>Singapore 569628<br>Tel: 3163 6074<br><br> 	| Monday to Friday: 10am to 6pm<br><br>Lunch break and Sanitising of Store - 1pm  to 2pm<br><br>Saturday: 10am to 2pm<br><br>Closed on Sunday and Public Holidays 	|
+| <u>**Payment method**</u><br><br>Cash, Nets, PayNow,<br> DBS Paylah! 	| **Opening Hours**<br><br>Monday to Friday: 10am to 6pm<br>Lunch Break and Sanitizing of Store: 1pm to 2pm<br>Saturday: 10am to 2pm<br>Closed on Sunday and Public Holidays |
