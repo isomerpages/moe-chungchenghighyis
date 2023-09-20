@@ -2,10 +2,10 @@ collections:
   admission:
     output: true
     order:
-      - Sec 1 Registration/FSBB.md
       - Sec 1 Registration/.keep
       - Sec 1 Registration/Welcoming.md
       - Sec 1 Registration/Registration.md
+      - Sec 1 Registration/FSBB.md
       - Admission.md
       - Returning Singaporeans.md
       - International Students.md
