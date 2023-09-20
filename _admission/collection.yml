@@ -2,6 +2,7 @@ collections:
   admission:
     output: true
     order:
+      - Sec 1 Registration/Appeal Matters.md
       - Sec 1 Registration/Parent Support Group.md
       - Sec 1 Registration/Special Needs and Counselling Matters.md
       - Sec 1 Registration/Financial Assistance Scheme.md
