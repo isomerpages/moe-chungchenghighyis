@@ -12,3 +12,7 @@ You can download the [MOE FAS application form](https://www.moe.gov.sg/financial
 If you have children in different government or government-aided schools, you can submit ONE application form to any of their schools. The school that receives the application form will inform you of the outcome.
 
 Confirmation for the MOE FAS will only be determined after the school has reviewed your application with the necessary supporting documents.
+
+
+
+<img src="/images/pavilion.png" style="width:50%">
