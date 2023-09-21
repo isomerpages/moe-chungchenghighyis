@@ -40,3 +40,7 @@ Note:
     
 
 Severe Physical Impairments. Students with physical impairments, such as those requiring permanent use of a wheelchair. An assessment from qualified medical professional(s) of the student’s conditions and needs should be submitted. The assessment should clearly describe the extent of impairments (temporary/ permanent) and the type of assistive device that the student is currently using (e.g. use of a wheelchair).
+
+
+
+<img src="/images/pavilion.png" style="width:50%">
