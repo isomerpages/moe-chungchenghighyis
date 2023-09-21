@@ -21,3 +21,5 @@ Email: yong_yin_yee@moe.edu.sg<br>
 Email: yipsingapore@yahoo.com
 
 
+
+<img src="/images/pavilion.png" style="width:50%">
