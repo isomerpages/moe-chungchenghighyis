@@ -13,3 +13,7 @@ Email: goh_shu_xian@moe.edu.sg<br>
 **Mr Rajinder Singh, School Counsellor**<br>
 Telephone: 6758 3912 Ext 299<br>
 Email: rajinder_singh_kashmir_singh@moe.edu.sg<br>
+
+
+
+<img src="/images/pavilion.png" style="width:50%">
