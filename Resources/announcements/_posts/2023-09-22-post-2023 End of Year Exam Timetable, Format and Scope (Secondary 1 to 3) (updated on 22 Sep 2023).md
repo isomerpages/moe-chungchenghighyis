@@ -22,3 +22,5 @@ Please click on the links below to download the documents.
 [CCHY S2 End-of-Year Exam 2023 Format and Scope_updated 18 Sep](/files/Exam%20Timetable/cchy_s2_end-of-year%20exam%202023_format%20scope_updated18sep.pdf)
 
 [CCHY S3 End-of-Year Exam 2023 Format and Scope_updated 18 Sep](/files/Exam%20Timetable/cchy_s3_end-of-year%20exam%202023_format%20scope_updated18sep.pdf)
+
+<img src="/images/pavilion.png" style="width:50%">
