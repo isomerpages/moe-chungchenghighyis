@@ -117,13 +117,13 @@ There are 21 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every 
 *  [St John Brigade](/our-cca/uniformed-groups/st-john-brigade/)
 
 ### Visual &amp; Performing Arts
-*  [Chinese Dance](/our-cca/visual-and-performing-arts/chinese-dance/)
-*  [Chinese Drama](/our-cca/visual-and-performing-arts/chinese-drama/)
-*  [Chinese Orchestra &amp; Guzheng Ensemble](/our-cca/visual-and-performing-arts/chinese-orchestra-guzheng-ensemble/)
-*  [Choir](/our-cca/visual-and-performing-arts/choir/)
-*  [Festival Drums](/our-cca/visual-and-performing-arts/festival-drums/)
-*  [Dance Ensemble](/our-cca/visual-and-performing-arts/dance-ensemble/)
-*  [Symphonic Band](/our-cca/visual-and-performing-arts/symphonic-band/)
+*  [Chinese Dance](/our-cca/visual-performing-arts/chinese-dance/)
+*  [Chinese Drama](/our-cca/visual-performing-arts/chinese-drama/)
+*  [Chinese Orchestra &amp; Guzheng Ensemble](/our-cca/visual-performing-arts/chinese-orchestra-guzheng-ensemble/)
+*  [Choir](/our-cca/visual-performing-arts/choir/)
+*  [Festival Drums](/our-cca/visual-performing-arts/festival-drums/)
+*  [Dance Ensemble](/our-cca/visual-performing-arts/dance-ensemble/)
+*  [Symphonic Band](/our-cca/visual-performing-arts/symphonic-band/)
 
 ### Clubs
 *  [Multimedia Club](/our-cca/clubs/multimedia-club/)
