@@ -1,8 +1,8 @@
 ---
 title: Dance Ensemble
-permalink: /our-cca/visual-and-performing-arts/dance-ensemble/
+permalink: /our-cca/visual-performing-arts/dance-ensemble/
 description: ""
-third_nav_title: Visual &amp; Performing Arts
+third_nav_title: Visual & Performing Arts
 ---
 # **Dance Ensemble**
 ![](/images/International%20Dance.jpg)

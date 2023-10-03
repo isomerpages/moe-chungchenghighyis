@@ -1,6 +1,6 @@
 ---
 title: Symphonic Band
-permalink: /our-cca/visual-and-performing-arts/symphonic-band/
+permalink: /our-cca/visual-performing-arts/symphonic-band/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---

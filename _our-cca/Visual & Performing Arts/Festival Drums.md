@@ -1,8 +1,8 @@
 ---
 title: Festival Drums
-permalink: /our-cca/visual-and-performing-arts/festival-drums/
+permalink: /our-cca/visual-performing-arts/festival-drums/
 description: ""
-third_nav_title: Visual &amp; Performing Arts
+third_nav_title: Visual & Performing Arts
 ---
 # **Festival Drums**
 
