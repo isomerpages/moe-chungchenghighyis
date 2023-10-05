@@ -16,6 +16,7 @@ description: ""
 9. [Personal Learning Device (PLD) &amp; Password Reset](/personal-learning-device-pld-password-reset/)
 10. [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 11. [Wellbeing 365](/our-curriculum/student-development/wellbeing-365)
+12. [Class Timetable](https://cchy.edupage.org/timetable)
 
 
 
