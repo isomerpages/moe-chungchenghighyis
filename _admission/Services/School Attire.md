@@ -23,7 +23,7 @@ Walk-in purchase at retail outlet is strictly by Appointment only, please be rem
 
 ### School Uniform Sale for 2024 Secondary One Students
 
-Booking of appointments is <u>**required**</u>  for walk-in purchase of uniform at retail shop only.  Please see attached document for instructions.
+Booking of appointments is **<u>required</u>**  for walk-in purchase of uniform at retail shop only.  Please see attached document for instructions.
 
 [CCHY uniform sale schedule EY23](/files/Admission/Services/School%20Attire/cchy%20uniform%20sale%20schedule%20ey23.pdf)
 
