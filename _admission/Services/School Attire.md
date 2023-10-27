@@ -21,11 +21,12 @@ Walk-in purchase at retail outlet is strictly by Appointment only, please be rem
 |<u>Support Centre</u><br><br>[https://bit.ly/JSFSUPPORT ](https://bit.ly/JSFSUPPORT )  	| <u>Mode of Payment</u><br><br>Cash, Nets, PayNow, DBS Paylah! 	|
 
 
-### School Uniform Sale for 2023 Secondary One Students
+### School Uniform Sale for 2024 Secondary One Students
 
-Due to Covid-19, booking of appointments shall be necessary for walk-in purchase of books and uniforms, and also for the collection of online orders. For the convenience of our students/ parents, our school uniform and bookshop vendors are using one appointment booking system. Please see the attached document for instructions.  
+Booking of appointments is <u>**required**</u>  for walk-in purchase of uniform at retail shop only.  Please see attached document for instructions.
 
-[CCHY S1 2023 Sales.pdf](/files/Admission/Services/School%20Attire/CCHY%20S1%202023%20Sales.pdf)
+[CCHY uniform sale schedule EY23](/files/Admission/Services/School%20Attire/cchy%20uniform%20sale%20schedule%20ey23.pdf)
+
 
 
 
