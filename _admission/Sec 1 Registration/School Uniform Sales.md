@@ -27,6 +27,19 @@ via the uniform vendor’s online platform at:
 |--- | --- |
 | Opening Hours<br>9am to 3pm<br>Lunch break: 12noon to 1pm | Acceptable payment modes include CASH, PayNow, Paylah!<br>**No Nets Payment accepted.**	|
 
+##### **School Attire**<br>
 
+There are 2 types of official school attire:<br>
+1. Full school uniform (for days with NO PE lessons)<br>
+2. Half uniform (for days with PE lessons - 2 days of the week)<br>
+* PE shirt<br>
+* PE shorts with skirt/shorts/pants worn over<br>
+
+Note:<br>
+* Students are to purchase their uniforms from the school uniform vendor to ensure the correct standards are met.  Modification to the uniform is strictly not allowed.<br>
+* The number of sets to buy is dependent on each individual household.  The numbers below are only <u>**suggested based on past experiences.**</u><br>
+* <u>**School badge and School tie would be provided by the school for all Secondary 1 students.**</u>
+
+![](/images/Admission/Sec%201%20Registration/School%20Uniform%20Sales/school%20uniform%20sales%20pic%201.jpg)
 
 <img src="/images/pavilion.png" style="width:50%">
