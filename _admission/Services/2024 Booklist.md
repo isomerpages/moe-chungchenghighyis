@@ -15,19 +15,19 @@ Please click on the links below to download the documents.
 
 [CCHY Final Booklist 2024 Sec 2 G3](/files/Admission/Services/Booklist/cchy%20final%20booklist%202024%20s2%20g3.pdf)
 
-[CCHY Final Booklist 2024 Sec 3 G1](/files/Admission/Services/Booklist/cchy%20final%20booklist%202024%20s3%20g1.pdf)
+[CCHY Final Booklist 2024 Sec 3NT](/files/Admission/Services/Booklist/CCHY_Final_Booklist_2024_S3_N_T_.pdf)
 
-[CCHY Final Booklist 2024 Sec 3 G2](/files/Admission/Services/Booklist/cchy%20final%20booklist%202024%20s3%20g2.pdf)
+[CCHY Final Booklist 2024 Sec 3NA](/files/Admission/Services/Booklist/CCHY_Final_Booklist_2024_S3_N_A_.pdf)
 
-[CCHY Final Booklist 2024 Sec 3 G3](/files/Admission/Services/Booklist/cchy%20final%20booklist%202024%20s3%20g3.pdf)
+[CCHY Final Booklist 2024 Sec 3EXP](/files/Admission/Services/Booklist/CCHY_Final_Booklist_2024_S3_Exp.pdf)
 
-[CCHY Final Booklist 2024 Sec 4 G1](/files/Admission/Services/Booklist/cchy%20final%20booklist%202024%20s4%20g1.pdf)
+[CCHY Final Booklist 2024 Sec 4NT](/files/Admission/Services/Booklist/CCHY_Final_Booklist_2024_S4_N_T_.pdf)
 
-[CCHY Final Booklist 2024 Sec 4 G2](/files/Admission/Services/Booklist/cchy%20final%20booklist%202024%20s4%20g2.pdf)
+[CCHY Final Booklist 2024 Sec 4NA](/files/Admission/Services/Booklist/CCHY_Final_Booklist_2024_S4_N_A_.pdf)
 
-[CCHY Final Booklist 2024 Sec 4 G3](/files/Admission/Services/Booklist/cchy%20final%20booklist%202024%20s4%20g3.pdf)
+[CCHY Final Booklist 2024 Sec 4EXP](/files/Admission/Services/Booklist/CCHY_Final_Booklist_2024_S4_Exp.pdf)
 
-[CCHY Final Booklist 2024 Sec 5 G2](/files/Admission/Services/Booklist/cchy%20final%20booklist%202024%20s5%20g2.pdf)
+[CCHY Final Booklist 2024 Sec 5NA](/files/Admission/Services/Booklist/CCHY_Final_Booklist_2024_S5_N_A_.pdf)
 
 
 ![](https://raw.githubusercontent.com/isomerpages/moe-chungchenghighyis/staging/images/pavilion.png)
