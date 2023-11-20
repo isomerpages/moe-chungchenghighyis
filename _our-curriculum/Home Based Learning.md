@@ -2,6 +2,7 @@
 title: Home Based Learning
 permalink: /our-curriculum/home-based-learning/
 description: ""
+variant: markdown
 ---
 # **Overview of Blended Learning**
 
@@ -14,6 +15,9 @@ b.&nbsp;&nbsp;&nbsp;&nbsp; To develop passionate and intrinsically motivated lea
 c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To strengthen learners’ collaborative skills and connections to the community<br>
 d.&nbsp;&nbsp;&nbsp;&nbsp; To deepen digital literacies in learners<br>
 e.&nbsp;&nbsp;&nbsp;&nbsp; To develop learners who can apply knowledge of cyberwellness and cyber security to safeguard their online learning
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xf2St0Du8GM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
 
 
 # **Overview of HBL**

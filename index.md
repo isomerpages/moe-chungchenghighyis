@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Open_House_2023_KW.jpeg
+      background: /images/website banner.gif
       key_highlights:
         - title: For Students
           description: ""
@@ -21,6 +21,14 @@ sections:
   - resources:
       title: Announcements
       button: More announcements here
+  - infobar:
+      title: CCHY Student Experiences
+      id: infobar
+      description: <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/kdOAXr3_ek4" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen=""></iframe>
   - infobar:
       title: Visit Our Facebook Page
       description: <center><iframe
