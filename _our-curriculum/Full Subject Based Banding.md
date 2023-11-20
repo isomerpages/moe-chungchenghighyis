@@ -14,3 +14,5 @@ variant: markdown
 **For more information on FULL SBB, please visit&nbsp;[www.moe.gov.sg/microsites/psle-fsbb](http://www.moe.gov.sg/microsites/psle-fsbb).**
 
 ![](/images/Our%20Curriculum/Full%20Subject%20Based%20Banding/Full%20SBB%20image%202.png)
+
+<img src="/images/pavilion.png" style="width:50%">
