@@ -49,6 +49,8 @@ variant: markdown
 * Places that are not taken up by Friday 6th January 2023 will be reallocated to other applicants.
 * Lesson commencement dates will depend on the timetable allocated to students.  Please confirm the actual date at the respective MOELC or Zonal Centres during registration.
 
+![](/images/Admission/Sec%201%20Registration/third_lang_pic_1.jpg)
+
 #### **When / Where to learn the 3rd language?**
 
 * Students will be attending their lessons at either MOE Language Centre (Bishan Campus) or MOE Language Centre (Newton Campus).
@@ -74,5 +76,6 @@ variant: markdown
 * Students will need to submit their applications through schools.
 * Please submit the application forms to the school General Office by 4th January 2023.
 
+![](/images/Admission/Sec%201%20Registration/third_lang_pic_2.jpg)
 
 <img src="/images/pavilion.png" style="width:50%">
