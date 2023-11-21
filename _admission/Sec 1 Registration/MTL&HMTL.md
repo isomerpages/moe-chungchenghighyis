@@ -29,10 +29,10 @@ variant: markdown
 
 **Based on PSLE result:**
 * Students with an overall PSLE score of 8 or better and offer MTL at PSLE, or
-* Students with a PSLE score of 9-14 and obtained AL1/AL2 in MTL or D/M in HTML
+* Students with a PSLE score of 9-14 and obtained AL1/AL2 in MTL or D/M in HMTL
 
 **Based on Sec 1 year-end overall MTL result:**
-* Students who are not offered HMTL in Sec 1 will be offered HTML in Sec 2 if their Sec 1 End-of-Year MTL overall result is 75% or above.
+* Students who are not offered HMTL in Sec 1 will be offered HMTL in Sec 2 if their Sec 1 End-of-Year MTL overall result is 75% or above.
 
 ##### **How do I know if my child is offered HMTL for 2023?**
 
