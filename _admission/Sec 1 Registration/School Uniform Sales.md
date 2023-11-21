@@ -3,6 +3,7 @@ title: School Uniform Sales
 permalink: /admission/sec-1-registration/schooluniformsales/
 description: ""
 third_nav_title: Sec 1 Registration
+variant: markdown
 ---
 ##### **Announcement for School Uniform Sales**<br>
 Purchase of School Uniforms and Books can be done through online platforms or walk in at CCHY.<br><br>
@@ -40,6 +41,6 @@ Note:<br>
 * The number of sets to buy is dependent on each individual household.  The numbers below are only <u>**suggested based on past experiences.**</u><br>
 * <u>**School badge and School tie would be provided by the school for all Secondary 1 students.**</u>
 
-![](/images/Admission/Sec%201%20Registration/School%20Uniform%20Sales/school%20uniform%20sales%20pic%201.jpg)
+![](/images/Admission/Sec%201%20Registration/school%20uniform%20sales%20pic%201.jpg)
 
 <img src="/images/pavilion.png" style="width:50%">
