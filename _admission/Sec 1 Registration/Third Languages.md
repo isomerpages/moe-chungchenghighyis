@@ -78,4 +78,9 @@ variant: markdown
 
 ![](/images/Admission/Sec%201%20Registration/third_lang_pic_2.jpg)
 
+Download forms:<br>
+[Late Application / Appeal to offer Bahasa Indonesia/Arabic](/files/Admission/Sec%201%20Registration/Late_Application_Appeal__Form__BI_and_Arabic.pdf)
+
+[Late Application / Appeal to offer Malay/Chinese (Special Programme)](/files/Admission/Sec%201%20Registration/Late_Application_Appeal__Form__M_SP___C_SP_.pdf)
+
 <img src="/images/pavilion.png" style="width:50%">
