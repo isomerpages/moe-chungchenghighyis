@@ -48,14 +48,14 @@ The criteria for taking Humanities at a more demanding level will be based on st
 
 ##### **How do I know if my child is offered a more demanding level subject(s) for 2024?**
 
-If your child is eligible, you will receive an option form&nbsp; stating the offered subject(s) on Parents Gateway (PG) by&nbsp;Wednesday, 27&nbsp;December 2023.
+If your child is eligible, you will receive an option form&nbsp; stating the offered subject(s) on Parents Gateway (PG) by&nbsp;Friday, 22&nbsp;December 2023.
 
 ##### **If my child is offered&nbsp;&nbsp;a more demanding level subject(s)&nbsp;for 2024, how do I submit my reply?**
 
 For eligible students, please submit your response on Parents Gateway (PG) by&nbsp;Wednesday, 27 December 2023.
 
 
-##### **For further Clarifications related to FSBB and Subject Curriculum**
+##### **For further clarifications related to FSBB and Subject Curriculum**
 
 ###### **English Language:**
 
