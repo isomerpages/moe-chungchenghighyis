@@ -32,21 +32,21 @@ variant: markdown
 1. The third languages which students are eligible for are indicated in the Eligibility Letter that they received on the the day they collected their results.
 2. If a particular third language is not indicated, it means they are not eligible for that third language.
 
-#### **How do I know if my child is offered Third Language for 2024?**
+#### **How do I know if my child is offered Third Language for 20xx?**
 
 * The Eligibility Letter your child received on the day he/she collected his/her result would indicate if he/she is eligible to offer third language in Secondary 1, as will as the third language he/she is eligible to offer.
-* You will receive an option form on Parents Gateway (PG) by 26 December 2023 to indicate if you would like your child to offer the third language he/she is allocated.
-* Parents will receive the details on MOELC registration when they received the option form on Parents Gateway (PG) by 26 December 2023.
+* You will receive an option form on Parents Gateway (PG) by xx December 20xx to indicate if you would like your child to offer the third language he/she is allocated.
+* Parents will receive the details on MOELC registration when they received the option form on Parents Gateway (PG) by xx December 20xx.
 
-##### **If I am offered Third Language for 2024, how do I submit my reply?**
+##### **If I am offered Third Language for 20xx, how do I submit my reply?**
 
-* Please submit your response on Parents Gateway (PG) by **Wednes, 28th December 2023 and proceed to submit the online registration on MOE Language Centre (MOELC) website**.
-* Parents will receive the details on MOELC online registration when they received the option form on Parents Gateway (PG) by 26 December 2023.
+* Please submit your response on Parents Gateway (PG) by **Wednesday, xx December 20xx and proceed to submit the online registration on MOE Language Centre (MOELC) website**.
+* Parents will receive the details on MOELC online registration when they received the option form on Parents Gateway (PG) by xx December 20xx.
 
 **General Information for students posted to Zonal Centres or MOE Language Centres:**
 
-* Registration for the Zonal Centres and MOE Language Centres will be from <u>22nd December 2023 to 4th January 2024</u>.
-* Places that are not taken up by Friday 5th January 2024 will be reallocated to other applicants.
+* Registration for the Zonal Centres and MOE Language Centres will be from <u>xx December 20xx to xx January 20xx</u>.
+* Places that are not taken up by Friday xx January 20xx will be reallocated to other applicants.
 * Lesson commencement dates will depend on the timetable allocated to students.  Please confirm the actual date at the respective MOELC or Zonal Centres during registration.
 
 ![](/images/Admission/Sec%201%20Registration/third_lang_pic_1.jpg)
@@ -59,9 +59,9 @@ variant: markdown
 **Students posted to MOE Language Centre (Bishan and Newton) for their Third Language Studies**
 
 * For students posted to the MOE Language Centres (Bishan and Newton), please go to the MOE Language Centre website [(https://www.moelc.moe.edu.sg/)](https://www.moelc.moe.edu.sg/) to confirm the acceptance of the offer and complete the online registration.
-* Students can only do so when the registration opens on 22nd December 2023.
+* Students can only do so when the registration opens on xx December 20xx.
 * The registration website is on the home page, there will be very simple instruction guide for parents to follow.
-* Seconday 1 lesson commences around week 3 of January 2024.
+* Seconday 1 lesson commences around week 3 of January 20xx.
 * Exact dates of lesson commencement will be indicated on the timetable allocated to student.
 * During online registration, students will be given the class details and the commencement date of their lessons.
 
@@ -74,7 +74,7 @@ variant: markdown
 **Appeal and late application for Asian Languages:**
 
 * Students will need to submit their applications through schools.
-* Please submit the application forms to the school General Office by 3rd January 2024.
+* Please submit the application forms to the school General Office by xx January 20xx.
 
 ![](/images/Admission/Sec%201%20Registration/third_lang_pic_2.jpg)
 
