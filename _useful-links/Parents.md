@@ -2,10 +2,11 @@
 title: Parents
 permalink: /useful-links/parents/
 description: ""
+variant: markdown
 ---
 # **Useful Links:**
 
-1. [Sec 1 Registration microsite](https://sites.google.com/moe.edu.sg/cchys12023)
+1. [2024 Secondary 1 Registration](https://sites.google.com/moe.edu.sg/cchys12024)
 
 2. [Open House](https://sites.google.com/moe.edu.sg/cchyopenhouse2022/)
 

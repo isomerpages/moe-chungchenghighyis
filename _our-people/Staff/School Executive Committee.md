@@ -3,6 +3,7 @@ title: School Executive Committee
 permalink: /our-people/staff/school-executive-committee/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 # **School Executive Committee**
 
@@ -10,7 +11,7 @@ third_nav_title: Staff
 |---	|---	|---	|
 | Principal 	| Mr 	| Chia Guo Hao 	|
 | Vice-Principal Academic 1 	| Mrs 	| Chong Lai Peng 	|
-| Vice-Principal Academic 2 	| Mr 	| Chang Fook Yong 	|
+| Vice-Principal Academic 2 	| Mr 	| Woo Lee Yen 	|
 | Vice-Principal Administration  	| Mr  	| Melvin Cheong  	|
 | Administrative Manager 	| Mdm 	| Chui Su Fun 	|
 | Operations Manager 	| Mr 	| Tok Eng Hin 	|
@@ -35,6 +36,6 @@ third_nav_title: Staff
 | SH Student Leadership 	| Ms 	| Sharizan Sanwan 	|
 | Year Head Lower Secondary 	| Ms 	| Wong Shing Liu 	|
 | Assistant Year Head Lower Secondary 	| Ms 	| Nicole Seah Xin Yuen 	|
-| Year Head Upper Secondary (Acting)  	| Ms 	| Kallaivanee 	|
+| Year Head Upper Secondary  	| Ms 	| Kallaivanee 	|
 
 <img src="/images/pavilion.png" style="width:50%">

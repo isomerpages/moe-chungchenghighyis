@@ -1,8 +1,9 @@
 ---
-title: Special Needs and Counselling Matters
+title: Special Needs and Counselling Matters (===draft copy===)
 permalink: /admission/sec-1-registration/sencounselling/
 description: ""
 third_nav_title: Sec 1 Registration
+variant: tiptap
 ---
 ##### **Special Needs Education**<br>
 **Ms Goh Shu Xian, Senior Special Educations Needs (SEN) Officer**<br>

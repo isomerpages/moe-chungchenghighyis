@@ -3,6 +3,7 @@ title: Non Teaching Staff
 permalink: /our-people/staff/non-teaching-staff/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 # **Non-Teaching Staff**
 
@@ -31,7 +32,7 @@ third_nav_title: Staff
 | Mdm | Devakumar Manimegalai | Librarian |
 | Ms | Yap Hwee Hoon&nbsp; | ECG Counsellor |
 | Mdm | Yap Siok Eng&nbsp; | Kitchen Assistant |
-| Ms | Ng Puay Yeong (Ann)&nbsp; | Printing |
+| Ms | Yeong Khar Yee Karol&nbsp; | Printing |
 
 
 <img src="/images/pavilion.png" style="width:50%">

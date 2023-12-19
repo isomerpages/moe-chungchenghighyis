@@ -3,25 +3,26 @@ collections:
     output: true
     order:
       - Sec 1 Registration/.keep
-      - Sec 1 Registration/Welcoming.md
-      - Sec 1 Registration/Registration.md
-      - Sec 1 Registration/FSBB.md
-      - Sec 1 Registration/MTL&HMTL.md
-      - Sec 1 Registration/3rd Language.md
-      - Sec 1 Registration/Parents Briefings.md
-      - Sec 1 Registration/Education and Career Guidance.md
-      - Sec 1 Registration/Book Sales.md
-      - Sec 1 Registration/School Uniform Sales.md
-      - Sec 1 Registration/Financial Assistance Scheme (FAS).md
-      - Sec 1 Registration/Special Needs and Counselling Matters.md
-      - Sec 1 Registration/Parent Support Group (PSG).md
-      - Sec 1 Registration/Appeal Matters.md
-      - Sec 1 Registration/Contact Us.md
+      - Sec 1 Registration/Welcoming (===draft copy===).md
+      - Sec 1 Registration/Registration (===draft copy===).md
+      - Sec 1 Registration/FSBB (===draft copy===).md
+      - Sec 1 Registration/MTL&HMTL (===draft copy===).md
+      - Sec 1 Registration/Third Languages (===draft copy===).md
+      - Sec 1 Registration/Parents Briefings (===draft copy===).md
+      - Sec 1 Registration/Education and Career Guidance (===draft copy===).md
+      - Sec 1 Registration/Book Sales (===draft copy===).md
+      - Sec 1 Registration/School Uniform Sales (===draft copy===).md
+      - Sec 1 Registration/Financial Assistance Scheme (FAS) (===draft
+        copy===).md
+      - Sec 1 Registration/Special Needs and Counselling Matters (===draft
+        copy===).md
+      - Sec 1 Registration/Parent Support Group (PSG) (===draft copy===).md
+      - Sec 1 Registration/Appeal Matters (===draft copy===).md
+      - Sec 1 Registration/Contact Us (===draft copy===).md
       - Admission.md
       - Returning Singaporeans.md
       - International Students.md
       - School Transfer.md
-      - Sec 1 Registration for Parents and Students.md
       - New PSLE Scoring and S1 Posting Systems.md
       - Services/.keep
       - Services/Parents Gateway.md
