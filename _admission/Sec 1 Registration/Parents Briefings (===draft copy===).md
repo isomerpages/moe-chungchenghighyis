@@ -10,12 +10,12 @@ The school will be conducting <u>TWO</u> parent briefings in<br> Term 1.  We wou
 **TERM 1 PARENTS BRIEFINGS**
 
 **Talk 1: Getting to know CCHY**<br>
-	6th Jan 2023<br>
+	xx Jan 20xx<br>
 	3:00pm to 6:30pm<br>
 	Respective Venues
 
 **Talk 2: Academic Briefing**<br>
-	11th Feb 2023<br>
+	xx Feb 20xx<br>
 	9:30am to 11:00am<br>
 	Zoom
 
