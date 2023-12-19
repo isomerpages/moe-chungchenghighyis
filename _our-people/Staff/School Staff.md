@@ -3,6 +3,7 @@ title: School Staff
 permalink: /our-people/staff/school-staff/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 # **School Staff**
 
@@ -13,7 +14,7 @@ third_nav_title: Staff
 | --- | --- | --- |
 | Mr | Chia Guo Hao | Principal |
 | Mrs | Chong Lai Peng | Vice-Principal Academic 1 |
-| Mr | Chang Fook Yong | Vice-Principal Academic 2 |
+| Mr | Woo Lee Yen | Vice-Principal Academic 2 |
 | Mr | Melvin Cheong | Vice-Principal Administration |
 
 
@@ -33,7 +34,7 @@ third_nav_title: Staff
 | Mr Ang    	| Ang Hui Jun Edwin 	| Information &amp; Communications Technology 	| [ang_hui_jun_edwin@moe.edu.sg](mailto:ang_hui_jun_edwin@moe.edu.sg) 	| 216 	|
 | Ms Kwok  	| Kwok Kai Hwei 	| Aesthetics 	| [kwok_kai_hwei@moe.edu.sg](mailto:kwok_kai_hwei@moe.edu.sg) 	| 215	|
 | Ms Wong 	| Wong Shing Liu  	| Year Head Lower Secondary  	| [wong_shing_liu@moe.edu.sg](mailto:wong_shing_liu@moe.edu.sg)  	| 210 	|
-| Ms Vanee	| Kallaivanee Paramaseevan 	| Year Head Upper Secondary (Acting) 	| [kallaivanee_paramaseevan@moe.edu.sg](mailto:kallaivanee_paramaseevan@moe.edu.sg) 	| 261 	|
+| Ms Vanee	| Kallaivanee Paramaseevan 	| Year Head Upper Secondary 	| [kallaivanee_paramaseevan@moe.edu.sg](mailto:kallaivanee_paramaseevan@moe.edu.sg) 	| 261 	|
 
 ### Teaching Staff
 
