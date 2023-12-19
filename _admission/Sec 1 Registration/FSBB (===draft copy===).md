@@ -13,7 +13,7 @@ Chung Cheng High School (Yishun) is one of 30+ secondary schools which has imple
 Full SBB is part of MOE's ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students.  Under Full SBB, the Express, N(A) and N(T) streams will be phased out.
 
 ##### **Mixed form classes with the provision of a common curriculum**
-The 2024&nbsp;cohort of Secondary 1 students will be grouped in&nbsp;mixed form classes, comprising students from different courses of study. Mixed form classes present more opportunities for students to interact with other students taking different subject combinations, and with different strengths and interests.
+The 20xx&nbsp;cohort of Secondary 1 students will be grouped in&nbsp;mixed form classes, comprising students from different courses of study. Mixed form classes present more opportunities for students to interact with other students taking different subject combinations, and with different strengths and interests.
 
 In their mixed form classes, students will take a set of subjects at a common level, amounting to about one-third of curriculum time. This would allow students in mixed form classes to spend curriculum time together in these subjects.
 
@@ -46,13 +46,13 @@ Our school will also provide Secondary 2 students the opportunity to take Humani
 
 The criteria for taking Humanities at a more demanding level will be based on students’ aptitude for and interest in these subjects at Secondary 1. They should also possess positive attitude towards learning and strong commitment to offer the subject at a more demanding level.
 
-##### **How do I know if my child is offered a more demanding level subject(s) for 2024?**
+##### **How do I know if my child is offered a more demanding level subject(s) for 20xx?**
 
-If your child is eligible, you will receive an option form&nbsp; stating the offered subject(s) on Parents Gateway (PG) by&nbsp;Friday, 22&nbsp;December 2023.
+If your child is eligible, you will receive an option form&nbsp; stating the offered subject(s) on Parents Gateway (PG) by&nbsp;Friday, xx&nbsp;December 20xx.
 
-##### **If my child is offered&nbsp;&nbsp;a more demanding level subject(s)&nbsp;for 2024, how do I submit my reply?**
+##### **If my child is offered&nbsp;&nbsp;a more demanding level subject(s)&nbsp;for 20xx, how do I submit my reply?**
 
-For eligible students, please submit your response on Parents Gateway (PG) by&nbsp;Wednesday, 27 December 2023.
+For eligible students, please submit your response on Parents Gateway (PG) by&nbsp;Wednesday, xx December 20xx.
 
 
 ##### **For further clarifications related to FSBB and Subject Curriculum**
