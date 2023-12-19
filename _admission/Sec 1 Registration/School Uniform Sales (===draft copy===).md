@@ -24,7 +24,7 @@ via the uniform vendor’s online platform at:
 ##### **Walk-in Purchase (In School)- Appointment NOT required**<br>
 
 
-| 23rd, 27th - 29th Dec 2022 	| Payment Methods 	|
+| xx, xx - xx Dec 20xx 	| Payment Methods 	|
 |--- | --- |
 | Opening Hours<br>9am to 3pm<br>Lunch break: 12noon to 1pm | Acceptable payment modes include CASH, PayNow, Paylah!<br>**No Nets Payment accepted.**	|
 
