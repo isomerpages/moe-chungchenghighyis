@@ -35,14 +35,14 @@ Students eligible to take HMTL in Sec 1 will be notified when they received thei
 **Based on Sec 1 year-end overall MTL result:**
 * Students who are not offered HMTL in Sec 1 will be offered HMTL in Sec 2 if their Sec 1 End-of-Year MTL overall result is 75% or above.
 
-##### **How do I know if my child is offered HMTL for 2024?**
+##### **How do I know if my child is offered HMTL for 20xx?**
 
 * The Eligibility Letter your child received on the day he/she collected his/her result would indicate if he/she is eligible to take up HMTL in Secondary 1.
-* You will receive an option form on Parents Gateway (PG) by 26 December 2023 to indicate if you would like your child to take up HMTL in Secondary 1.
+* You will receive an option form on Parents Gateway (PG) by xx December 20xx to indicate if you would like your child to take up HMTL in Secondary 1.
 
-##### **If I am offered HMTL for 2024, how do I submit my reply?**
+##### **If I am offered HMTL for 20xx, how do I submit my reply?**
 
-For eligible students, please submit your response on Parents Gateway (PG) by **Wednesday, 28th December 2023**.
+For eligible students, please submit your response on Parents Gateway (PG) by **Wednesday, xx December 20xx**.
 
 
 
