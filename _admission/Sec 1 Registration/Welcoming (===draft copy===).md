@@ -22,7 +22,7 @@ For the next 4 to 5 years, the experience for your child/ward will be a holistic
 
 Students do not need to report to their posted secondary schools this year after receiving their posting results. As such, this website was created to keep you informed of the key administrative matters so that your child/ward's transition to the school will be a smooth one. Please refer to the pages in this website for more details.
 
-In addition, we would like to invite you to a zoom session on the XXnd December 2023.&nbsp;
+In addition, we would like to invite you to a zoom session on the XXnd December 20xx.&nbsp;
 
 Should you have any queries, please do not hesitate to contact&nbsp;
 
