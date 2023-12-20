@@ -2,12 +2,13 @@
 title: Students
 permalink: /useful-links/students/
 description: ""
+variant: markdown
 ---
 # **Useful Links:**
 
 1. [ADMINBreeze](https://cchy.adminbreeze.com/)
 2. [Alumni Dress Code](/our-community/chung-cheng-family/chung-cheng-high-school-yishun-alumni)
-3. [CCHY E-Handbook](/files/cchy%20e-handbook%20-%202504.pdf)
+3. [CCHY E-Handbook](/files/CCHY_E_Handbook.pdf)
 4. [Direct School Admission (DSA)](/admission/direct-school-admission-dsa)
 5. [Early Admissions Exercise (EAE)](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)
 6. [Library Loan System](https://schoolibrary.moe.edu.sg/chungchenghighyishun)
