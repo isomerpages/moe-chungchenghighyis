@@ -2,6 +2,7 @@ collections:
   sec-1-registration-draft-copy:
     output: true
     order:
+      - School Uniform Sales (===draft copy===).md
       - Book Sales (===draft copy===).md
       - Education and Career Guidance (===draft copy===).md
       - Parents Briefings (===draft copy===).md
