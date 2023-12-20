@@ -2,4 +2,5 @@ collections:
   sec-1-registration-draft-copy:
     output: true
     order:
+      - Registration (===draft copy===).md
       - Welcoming (===draft copy===).md
