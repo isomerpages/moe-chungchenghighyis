@@ -2,7 +2,6 @@
 title: Parents Briefings (===draft copy===)
 permalink: /admission/sec-1-registration/parentsbriefings/
 description: ""
-third_nav_title: Sec 1 Registration
 variant: markdown
 ---
 The school will be conducting <u>TWO</u> parent briefings in<br> Term 1.  We would like to invite parents to join us for these two briefings.

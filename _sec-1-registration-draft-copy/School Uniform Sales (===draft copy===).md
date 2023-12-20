@@ -2,7 +2,6 @@
 title: School Uniform Sales (===draft copy===)
 permalink: /admission/sec-1-registration/schooluniformsales/
 description: ""
-third_nav_title: Sec 1 Registration
 variant: markdown
 ---
 ##### **Announcement for School Uniform Sales**<br>

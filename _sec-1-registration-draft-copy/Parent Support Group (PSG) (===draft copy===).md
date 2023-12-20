@@ -2,7 +2,6 @@
 title: Parent Support Group (PSG) (===draft copy===)
 permalink: /admission/sec-1-registration/psg/
 description: ""
-third_nav_title: Sec 1 Registration
 variant: markdown
 ---
 A warm welcome from CCHY PSG!&nbsp;

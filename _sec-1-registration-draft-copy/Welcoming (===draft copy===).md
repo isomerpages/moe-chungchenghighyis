@@ -2,7 +2,6 @@
 title: Welcoming (===draft copy===)
 permalink: /admission/sec-1-registration/welcoming/
 description: ""
-third_nav_title: Sec 1 Registration
 variant: markdown
 ---
 # **中正义顺欢迎新中一生**

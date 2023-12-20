@@ -2,7 +2,6 @@
 title: Third Languages (===draft copy===)
 permalink: /admission/sec-1-registration/thirdlanguages/
 description: ""
-third_nav_title: Sec 1 Registration
 variant: markdown
 ---
 <u>Category 1</u><br>

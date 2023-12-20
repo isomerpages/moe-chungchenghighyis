@@ -2,7 +2,6 @@
 title: Financial Assistance Scheme (FAS) (===draft copy===)
 permalink: /admission/sec-1-registration/fas/
 description: ""
-third_nav_title: Sec 1 Registration
 variant: tiptap
 ---
 Eligible Singapore Citizens (SCs) in financial need can get assistance from MOE on school fees and other expenses by applying for the MOE Financial Assistance Scheme (FAS).<br>
