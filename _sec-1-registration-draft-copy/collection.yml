@@ -2,6 +2,7 @@ collections:
   sec-1-registration-draft-copy:
     output: true
     order:
+      - Third Languages (===draft copy===).md
       - MTL&HMTL (===draft copy===).md
       - FSBB (===draft copy===).md
       - Registration (===draft copy===).md
