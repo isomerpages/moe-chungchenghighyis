@@ -2,6 +2,7 @@ collections:
   sec-1-registration-draft-copy:
     output: true
     order:
+      - Education and Career Guidance (===draft copy===).md
       - Parents Briefings (===draft copy===).md
       - Third Languages (===draft copy===).md
       - MTL&HMTL (===draft copy===).md
