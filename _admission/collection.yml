@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Sec 1 Registration/.keep
-      - Sec 1 Registration/Third Languages (===draft copy===).md
       - Sec 1 Registration/Parents Briefings (===draft copy===).md
       - Sec 1 Registration/Education and Career Guidance (===draft copy===).md
       - Sec 1 Registration/Book Sales (===draft copy===).md
