@@ -2,5 +2,6 @@ collections:
   sec-1-registration-draft-copy:
     output: true
     order:
+      - FSBB (===draft copy===).md
       - Registration (===draft copy===).md
       - Welcoming (===draft copy===).md
