@@ -27,4 +27,6 @@ Along Tanjong Katong Road: 10, 31, 32, 40, 43, 43e, 134, 135, 197, 401, 853
 
 **Nearest MRT Station:**&nbsp;Dakota MRT
 
+[View Map](https://www.google.com/maps/place/Chung+Cheng+High+School+(Main)/@1.3054175,103.8889746,17z/data=!4m6!3m5!1s0x31da186a8081a8cf:0xaa8088824b3a6f56!8m2!3d1.3054121!4d103.8915495!16zL20vMDd6Nmp0?hl=en&amp;entry=ttu)
+
 <img src="/images/pavilion.png" style="width:50%">
