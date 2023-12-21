@@ -3,6 +3,7 @@ title: Aesthetics
 permalink: /our-curriculum/academic-development/department/aesthetics/
 description: ""
 third_nav_title: Department
+variant: markdown
 ---
 # **Aesthetics**
 ### Vision
@@ -114,6 +115,9 @@ If you would like to apply for AEP/MEP, please take note of the online applicati
 <iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIGgMyOATnA4UdhCWvrOHJsohtI68qnsKxOecchJAUs2O4IfwvhW122I7bF9EVWwa8zk7ts2TLipAz/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 
-Find more on [Google Drive](https://drive.google.com/drive/folders/1BorSv7PGaLVV3Jy0UZoufeW7GiFV11Zq)
+### CCHY Arts Adventure
+
+Click on the below link:<br>
+[CCHY Arts Adventure](https://sites.google.com/moe.edu.sg/cchyartsadventure/home?authuser=0)
 
 <img style="width:50%" src="/images/pavilion.png">

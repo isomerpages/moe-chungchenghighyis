@@ -3,6 +3,7 @@ title: English Language and Literature
 permalink: /our-curriculum/academic-development/department/english-language-and-literature/
 description: ""
 third_nav_title: Department
+variant: markdown
 ---
 # **English Language &amp; Literature**
 
@@ -72,6 +73,5 @@ In 2021, we submitted an entry for 1155 participants for days between 12th – 2
 
 In 2022, we submitted an entry for 1224 participants for days between 1st Aug – 16th Sep. That makes it&nbsp;**122**&nbsp;books donated from our school to the cause.
 
-Find more on [Google Drive](https://drive.google.com/drive/folders/16EwzvMBvDX9EuqVGLYnyr69wWv2Etpmy)
 
 <img style="width:50%" src="/images/pavilion.png">

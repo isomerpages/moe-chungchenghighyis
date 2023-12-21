@@ -1,6 +1,6 @@
 ---
 title: 2024 Secondary 1 Registration
-date: 2023-12-19
+date: 2023-12-20
 layout: link
 description: ""
 image: ""

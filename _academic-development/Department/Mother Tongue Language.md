@@ -3,6 +3,7 @@ title: Mother Tongue Language
 permalink: /our-curriculum/academic-development/department/mother-tongue-language/
 description: ""
 third_nav_title: Department
+variant: markdown
 ---
 # **Mother Tongue Language**
 
@@ -96,6 +97,5 @@ Our Malay Language teachers / Guru-guru Bahasa Melayu :
 <iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSuJpgFgsWLeo1gopJrdylDS7_RxeFcX0awdSMixfDy_pwCriOea2NYF8dre75afGykNRdIQb3y0H-x/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 
-Find more on [Google Drive](https://drive.google.com/drive/folders/1eHCIWYtBIgHoAvqddPms91mk4YDDSOd0) 
 
 <img style="width:50%" src="/images/pavilion.png">

@@ -3,6 +3,7 @@ title: Humanities
 permalink: /our-curriculum/academic-development/department/humanities/
 description: ""
 third_nav_title: Department
+variant: markdown
 ---
 # **Humanities**
 
@@ -72,6 +73,5 @@ These are the subjects offered by the department:
 
 Secondary 3 Geography students had a chance to learn about the natural vegetation of Singapore when their teachers packed them off on nature walks through the Bukit Timah Forest Reserve and the Sungei Buloh Wetland Reserve. Besides learning about the structure of these forests and their adaptations to the environment, students also had a chance to discover more about the value of these forests whose trees and plants provide food, herbs and many household items for use. Students who completed these outdoor lessons have learnt to appreciate the importance of conservation of these disappearing forests in Singapore.
 
-Find more on [Google Drive](https://drive.google.com/drive/folders/1E65N04DlqmJglagKnakCsuA8NXopZIQk) 
 
 <img src="/images/pavilion.png" style="width:50%">

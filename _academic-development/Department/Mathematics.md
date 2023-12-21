@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /our-curriculum/academic-development/department/mathematics/
 description: ""
 third_nav_title: Department
+variant: markdown
 ---
 # **Mathematics**
 
@@ -54,6 +55,5 @@ Mathematics Competition Training Enrichment
 ### Photo Gallery		
 <iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ5J7N0KMn4m301JMFuKbw3Hob4nSdw7F4Fl7L7g_knTDlXn6PnvKy6sjpW5e6yHr-fAP9xcspzkipZ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-Find more on [Google Drive](https://drive.google.com/drive/folders/1TSyz_LY1fTFEr9u595jc_UPCw6aHNNiJ) 
 
 <img style="width:50%" src="/images/pavilion.png">
