@@ -3,6 +3,7 @@ title: Science
 permalink: /our-curriculum/academic-development/department/science/
 description: ""
 third_nav_title: Department
+variant: markdown
 ---
 # **Science**
 
@@ -44,7 +45,5 @@ Science ambassadors have the opportunities:
 
 <iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQW3lrMwXT_0FArXbgpMt9dVMu5J-ewkUdv_LEx5HMIxZ_uzvy0FwdWLQL5I3DoVTSm_GUmPCfrPwIn/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
-
-Find more on [Google Drive](https://drive.google.com/drive/folders/1r6y0_CwrRZHSoLEUVYM1_n6cV6m5qhzr) 
 
 <img style="width:50%" src="/images/pavilion.png">
