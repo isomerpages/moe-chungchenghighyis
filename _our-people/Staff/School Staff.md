@@ -50,15 +50,15 @@ variant: markdown
 | Ms Chiang 	| Chiang Foong Min 	| 2D 	|  	| [chiang_foong_min@moe.edu.sg](mailto:chiang_foong_min@moe.edu.sg) 	| 259 	|
 | Ms Chin 	| Chin Xin Yee 	|  	|  	| [chin_xin_yee@moe.edu.sg](mailto:chin_xin_yee@moe.edu.sg) 	| 308  	|
 | Ms Chong 	| Chong Lee Ching 	| 4C 	| Journalism Club 	| [chong_lee_ching_a@moe.edu.sg](mailto:chong_lee_ching_a@moe.edu.sg) 	| 278 	|
-| Mrs Chua 	| Choo Huier 	| 3E 	|  	| [choo_huier@moe.edu.sg](mailto:choo_huier@moe.edu.sg) 	| 258 	|
+| Mrs Chua 	| Choo Huier 	| 3E 	| Outdoor Activities Club (ODAC) 	| [choo_huier@moe.edu.sg](mailto:choo_huier@moe.edu.sg) 	| 258 	|
 | Mr Chui 	| Chui Ming Fa Benedict 	| 2B 	| Basketball (Boys) 	| [chui_ming_fa_benedict@moe.edu.sg](mailto:chui_ming_fa_benedict@moe.edu.sg) 	| 270 	|
 | Ms Edina 	| Edina Rahman 	| 4H 	| Journalism Club 	| [edina_rahman@moe.edu.sg](mailto:edina_rahman@moe.edu.sg) 	| 316 	|
-| Mr Foo 	| Foo Chee Chai 	| 3C 	|  	| [foo_chee_chai@moe.edu.sg](mailto:foo_chee_chai@moe.edu.sg) 	| 280 	|
+| Mr Foo 	| Foo Chee Chai 	| 3C 	| Outdoor Activities Club (ODAC) 	| [foo_chee_chai@moe.edu.sg](mailto:foo_chee_chai@moe.edu.sg) 	| 280 	|
 |  Ms Goh 	|  Goh Xiu Qing Elizabeth 	|  3D 	| Dance Ensemble  	| [goh_xiu_qing_elizabeth@moe.edu.sg](mailto:goh_xiu_qing_elizabeth@moe.edu.sg)  	| 289 	|
 | Mr Gurmit  	| Gurmit Singh 	|  	|  	| [gurmit_singh_mehervan_singh@moe.edu.sg](mailto:gurmit_singh_mehervan_singh@moe.edu.sg) 	| 309 	|
 | Ms Ho 	| Ho Soo Fern 	| 1H 	| Fencing 	| [ho_soo_fern@moe.edu.sg](mailto:ho_soo_fern@moe.edu.sg) 	| 277 	|
 | Ms Lim 	| Isabelle Lim Ji Yu 	| 2H 	| St John Brigade 	| [isabelle_lim_ji_yu@moe.edu.sg](mailto:isabelle_lim_ji_yu@moe.edu.sg) 	| 288 	|
-| Mdm Hoong 	| Jeslyn Hoong Siew Choo 	| 1G 	|  	| [jeslyn_hoong_siew_choo@moe.edu.sg](mailto:jeslyn_hoong_siew_choo@moe.edu.sg) 	| 273 	|
+| Mdm Hoong 	| Jeslyn Hoong Siew Choo 	| 1G 	| Wushu 	| [jeslyn_hoong_siew_choo@moe.edu.sg](mailto:jeslyn_hoong_siew_choo@moe.edu.sg) 	| 273 	|
 | Mdm Junaina 	| Junaina Bte Ab Hassan 	| 2B 	| Symphonic Band 	| [junaina_ab_hassan@moe.edu.sg](mailto:junaina_ab_hassan@moe.edu.sg) 	| 262 	|
 | Ms Junainah 	| Junainah Bte Amran 	| 4A 	| Multimedia Club 	| [junainah_amran@moe.edu.sg](mailto:junainah_amran@moe.edu.sg) 	| 316 	|
 | Mrs Raja 	| Kamala Davi D/O Vadivaloo 	|  	|  	| [kamala_davi_d_o@moe.edu.sg](mailto:kamala_davi_d_o@moe.edu.sg) 	| 251 	|
@@ -67,12 +67,13 @@ variant: markdown
 | Mr Lim 	| Lim Chia Hwee 	| 4E 	| NCC Air (Boys) 	| [lim_chia_hwee@moe.edu.sg](mailto:lim_chia_hwee@moe.edu.sg) 	| 263 	|
 | Mr Lim 	| Lim Cheng Teik Sebastian 	| 1F	| Chinese Drama 	| [lim_cheng_teik_sebastian@moe.edu.sg](mailto:lim_cheng_teik_sebastian@moe.edu.sg) | 303	|
 | Ms Lim 	|  Lim Jia Ying 	|  1E 	| Chinese Orchestra/Guzheng Ensemble 	| [lim_jia_ying_b@moe.edu.sg](mailto:lim_jia_ying_b@moe.edu.sg)  	| 286 	|
+| Mr Lim  	| Lim Meng Teck  	| 4C 	| NCC Air (Boys) 	| [lim_meng_teck@moe.edu.sg](mailto:lim_meng_teck@moe.edu.sg)  	| 267 	|
 | Mdm Lim  	| Lim Min Hui  	| 3A 	|   	| [lim_minhui@moe.edu.sg](mailto:lim_minhui@moe.edu.sg)  	| 302 	|
-| Ms Lim 	| Lim Xiangting 	| 3F 	|  	| [lim_xiangting@moe.edu.sg](mailto:lim_xiangting@moe.edu.sg) 	| 261 	|
+| Ms Lim 	| Lim Xiangting 	| 3F 	| NPCC 	| [lim_xiangting@moe.edu.sg](mailto:lim_xiangting@moe.edu.sg) 	| 261 	|
 | Mr Lim  	|  Lim Ying Xuan 	| 4B 	| NCC Air (Boys) 	| [lim_ying_xuan@moe.edu.sg](mailto:lim_ying_xuan@moe.edu.sg)  	| 261 	|
 | Ms Lin 	| Lin Xiaoying 	| 2E 	| Technopreneur Club 	| [lin_xiaoying@moe.edu.sg](mailto:lin_xiaoying@moe.edu.sg) 	| 273 	|
 | Ms Low 	| Low Li Shan 	|  	|  	| [low_li_shan@moe.edu.sg](mailto:low_li_shan@moe.edu.sg) 	| 286 	|
-| Ms Low 	| Low Yuet Wan 	| 1B 	|  	| [low_yuet_wan@moe.edu.sg](mailto:low_yuet_wan@moe.edu.sg) 	| 277 	|
+| Ms Low 	| Low Yuet Wan 	| 1B 	| Wushu	| [low_yuet_wan@moe.edu.sg](mailto:low_yuet_wan@moe.edu.sg) 	| 277 	|
 | Mr Luo 	| Luo Yanjie 	| 2A 	|  	| [luo_yanjie@moe.edu.sg](mailto:luo_yanjie@moe.edu.sg) 	| 256 	|
 | Ms Maria 	| Maria Duvalinda Agahari 	| 3F 	| Multimedia Club 	| [maria_duvalinda_agahari@moe.edu.sg](mailto:maria_duvalinda_agahari@moe.edu.sg) 	| 253 	|
 | Ms Low 	| Megan Low Ruiqi 	| 1D 	| Symphonic Band 	| [megan_low_ruiqi@moe.edu.sg](mailto:megan_low_ruiqi@moe.edu.sg) 	| 256 	|
