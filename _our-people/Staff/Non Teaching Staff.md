@@ -21,6 +21,7 @@ variant: markdown
 | Mr | Rosman Bin Rais | Technical Support Officer (Design &amp; Technology) |
 | Ms | Ashwini K Gopinathan | Technical Support Officer (Science Lab) |
 | Mr | Muhammad Firdaus Abdul Rahim Kamsi | Technical Support Officer (Science Lab) |
+| Mr | Lester Sim Xing Chen | Technical Support Officer (Science Lab) |
 | Mdm | Lim Wai Yue Chris | Operations Support Officer  (Science Lab) |
 | Mdm | Lee Bee Eng | Operations Support Officer (OSO) |
 | Mdm | Seah Siew Hwa | Operations Support Officer (OSO) |
