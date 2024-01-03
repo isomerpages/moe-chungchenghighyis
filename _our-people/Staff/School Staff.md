@@ -96,7 +96,7 @@ variant: markdown
 |  Mrs Peh 	|  Peh-Leow Li Yong, Shirley 	|  5D 	| St John Brigade  	| [peh-leow_li_yong_shirley@moe.edu.sg](mailto:peh-leow_li_yong_shirley@moe.edu.sg)  	| 283 	|
 | Ms Wong 	| Philina Wong Hai Lin 	| 3H 	| Chinese Orchestra/Guzheng Ensemble 	| [philina_wong_hai_lina@moe.edu.sg](mailto:philina_wong_hai_lin@moe.edu.sg) 	| 283 	|
 | Ms Razinah 	| Razinah Bte AA Rahmatulla 	| 3C 	| St John Brigade	| [razinah_aa_rahmatulla@moe.edu.sg](mailto:razinah_aa_rahmatulla@moe.edu.sg) 	| 252 	|
-| Mr Rudi 	| Rudidermawan Khairi 	| 3D 	|  	| [rudidermawan_khairi@moe.edu.sg](mailto:rudidermawan_khairi@moe.edu.sg) 	| 275 	|
+| Mr Rudi 	| Rudidermawan Khairi 	| 3D 	| NPCC 	| [rudidermawan_khairi@moe.edu.sg](mailto:rudidermawan_khairi@moe.edu.sg) 	| 275 	|
 | Ms Sharizan 	| Sharizan Sanwan 	|  	|  	| [sharizan_sanwan@moe.edu.sg](mailto:sharizan_sanwan@moe.edu.sg) 	| 255 	|
 | Mdm Sew 	| Sew Mek Len 	| 4B 	|  	| [sew_mek_len@moe.edu.sg](mailto:sew_mek_len@moe.edu.sg) 	| 285 	|
 | Mr Sim 	| Sim Kok Heng 	|  	|  	| [sim_kok_heng@moe.edu.sg](mailto:sim_kok_heng@moe.edu.sg) 	| 282 	|
