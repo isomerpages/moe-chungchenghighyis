@@ -35,7 +35,8 @@ variant: markdown
 | SH Physical Education &amp; Co-Curricular Activities 	| Mr 	| Tok Wei Ee Alvin 	|
 | SH Student Leadership 	| Ms 	| Sharizan Sanwan 	|
 | Year Head Lower Secondary 	| Ms 	| Wong Shing Liu 	|
-| Assistant Year Head Lower Secondary 	| Ms 	| Nicole Seah Xin Yuen 	|
+| Assistant Year Head Lower Secondary 	| Mr 	| Udayakumar S/O Manogaran 	|
 | Year Head Upper Secondary  	| Ms 	| Kallaivanee 	|
+| Assistant Year Head Upper Secondary 	| Mdm 	| Irene Lim 	|
 
 <img src="/images/pavilion.png" style="width:50%">
