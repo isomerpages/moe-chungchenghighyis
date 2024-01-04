@@ -132,6 +132,5 @@ There are 21 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every 
 *  [Green Club](/our-cca/clubs/green-club/)
 *  [Journalism  Club](/our-cca/clubs/journalism-club/)
 
-Find more on [Google Drive](https://drive.google.com/drive/folders/1cfNOLIQnIaD-Km3xs-BLHBhs-E5ktOTe)
 
 <img src="/images/pavilion.png" style="width:50%">
