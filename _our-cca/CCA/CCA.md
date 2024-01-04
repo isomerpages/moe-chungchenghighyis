@@ -52,7 +52,7 @@ Sec 1 students will also be required to indicate their Top 3 choices of CCA via 
 The complete CCA selection process is illustrated in Figure 1 below.
 
 ![](/images/Our%20CCA/CCA%20figure%201.jpg)
-![](/images/Our%20CCA/CCA%20table%201.jpg)
+![](/images/Our%20CCA/CCA_table_1.jpg)
 
 
 **4. CCAs in Chung Cheng High School (Yishun)**   
