@@ -3,6 +3,7 @@ title: Basketball (Boys)
 permalink: /our-cca/physical-sports/basketball-boys/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 # **Basketball (Boys)**
 
@@ -10,13 +11,13 @@ The CCHY Basketball Team focuses on developing sportsmen of resilient character 
 
 ### Teachers-in-charge
 
-Mr Alvin Tok Wei Ee (IC)   
+Mr Tok Wei Ee Alvin (IC)   
 Mr Chui Ming Fa Benedict (2IC)
 
 ### Training Schedule
 
-Please click on the link below to view CCA venue & schedule.   
-[CCA venue & schedule](/our-cca/cca/cca-venue-schedule/)
+Please click on the link below to view CCA venue &amp; schedule.&nbsp;  
+[CCA venue &amp; schedule](/our-cca/cca/cca-venue-schedule/)
 
 ### Photo Gallery
 
@@ -33,5 +34,4 @@ Please click on the link below to view CCA venue & schedule. 
 ![](/images/98ccb4a51_62526.jpg)
 
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">
