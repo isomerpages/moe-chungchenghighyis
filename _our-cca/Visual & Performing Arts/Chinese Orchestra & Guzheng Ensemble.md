@@ -3,6 +3,7 @@ title: Chinese Orchestra & Guzheng Ensemble
 permalink: /our-cca/visual-performing-arts/chinese-orchestra-guzheng-ensemble/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 # **Chinese Orchestra &amp; Guzheng Ensemble**
 
@@ -15,10 +16,10 @@ To develop musicians who will be ambassadors for Chinese music.
 To provide students with basic training in playing Chinese music instruments and strive for excellence in performances through teamwork.
 
 ### Teachers-in-charge
-Ms Goh Wen Ling Gloria (IC)    
+Ms Philina Wong Hai Lin (IC)    
 Ms Lim Jia Ying (2IC)   
-Ms Liew Huey Chyi    
-Ms Lee Peiqi  
+Mdm Thian Siaw Fong    
+Mdm Ng Bee Eng
 
 ### Training Schedule&nbsp;
 

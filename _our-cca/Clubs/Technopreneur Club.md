@@ -3,6 +3,7 @@ title: Technopreneur Club
 permalink: /our-cca/clubs/technopreneur-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 # **Technopreneur Club**
 
@@ -10,7 +11,7 @@ Our Technopreneur Club offers students a unique opportunity to learn about entre
 
 ### Teachers-in-charge
 
-Ms Nur Jannah Noor (IC)     
+Ms Nur Jannah Binte Noor (IC)     
 Ms Lin Xiaoying (2IC)
 
 ### Training Schedule

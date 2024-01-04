@@ -3,6 +3,7 @@ title: OutDoor Activities Club (ODAC)
 permalink: /our-cca/physical-sports/outdoor-activities-club-odac/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 # **OutDoor Activities Club (ODAC)**
 
@@ -23,8 +24,8 @@ The Outdoor Activities Club (ODAC) was set up to bring out every student’s pot
 
 ### Teachers-in-charge
 
-Mr Jeffrey Ong Han Hoe (IC)<br> 
-Mr Yong Yin Yee (2IC)<br>
+Mr Foo Chee Chai (IC)<br> 
+Ms Choo Huier<br>
 Mr Gary Peh Kai Xiang
 
 ### Training Schedule

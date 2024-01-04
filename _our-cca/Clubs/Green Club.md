@@ -3,6 +3,7 @@ title: Green Club
 permalink: /our-cca/clubs/green-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 # **Green Club**
 
@@ -13,7 +14,8 @@ The Green Club strives to contribute actively to the environment and community t
 ### Teachers-in-charge
 
 Ms Lee Yanmei (IC)    
-Mr Whiteway Brett Allan (2IC)   
+Mr Whiteway Brett Allan (2IC)<br>
+Mr Tan Jin Poh
 
 
 ### Training Schedule
