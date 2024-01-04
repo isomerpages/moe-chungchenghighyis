@@ -3,6 +3,7 @@ title: National Police Cadet Corps
 permalink: /our-cca/uniformed-groups/national-police-cadet-corps/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 # **National Police Cadet Corps**
 
@@ -13,8 +14,8 @@ Our close affiliation to the Singapore Police Force exposes our cadets to unique
 ### Teachers-in-charge
 
 Mr Neo Yao Kian Andy (IC)   
-Ms Ng Boon Cheng (2IC)   
-Mr Ng Jun Xiong
+Ms Lim Xiangting   
+Mr Rudidermawan Khairi
 
 ### Training Schedule
 Please click on the link below to view CCA venue &amp; schedule.&nbsp;  
