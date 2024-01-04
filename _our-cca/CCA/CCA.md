@@ -23,7 +23,7 @@ a) To allow Secondary 1 students to explore their interest in Co-Curricular Acti
 b) To involve CCA leaders (Upper Secondary students) in the selection of CCA members via auditions, selection trials, and interviews
 
 **2. Duration**   
-It is compulsory for every student to be involved in a school-based CCA, taking up about 6 hours per week. Students have about 2 weeks in January to decide which CCA they are keen to participate in.
+It is compulsory for every student to be involved in a school-based CCA, taking up about 6 hours per week. Students have about 3 weeks in January to decide which CCA they are keen to participate in.
 
 **3. Content of Programme**  
 The following activities will be conducted throughout the month of January:
@@ -32,7 +32,7 @@ The following activities will be conducted throughout the month of January:
 
 *   Students visiting CCA booths and signing up for auditions, selection trials or/and interviews
 
-*   Students attending scheduled auditions, selection trials and interviews during Term 1 Week 2 &amp; 3  
+*   Students attending scheduled auditions, selection trials and interviews during Term 1 Week 2 to 4  
     
 
   
@@ -40,14 +40,14 @@ The following activities will be conducted throughout the month of January:
 **3.1 CCA Carnival**   
 CCA Open House will be held on Friday of Term 1 Week 1.
 
-CCA booths will be set up in Indoor Sports Courts, MPH, MPR, and the Parade Square.  Upper Secondary&nbsp;CCA leaders will be tasked to promote or pitch their CCAs to the Sec 1 students. As they share more information to new students, they will encourage them to register for the CCA and attend the auditions or selections held over the next 2 weeks.&nbsp; 
+CCA booths will be set up in Indoor Sports Courts, MPH, MPR, and the Parade Square.  Upper Secondary&nbsp;CCA leaders will be tasked to promote or pitch their CCAs to the Sec 1 students. As they share more information to new students, they will encourage them to register for the CCA and attend the auditions or selections held over the next 3 weeks.&nbsp; 
 
 **3.2 CCA Selection Process**   
-Students may choose to go for auditions, selection trials and interviews conducted by the various CCAs. The schedule of the&nbsp;selection events, held during Term 1 Week 2 to 3, will be published on our school website. 
+Students may choose to go for auditions, selection trials and interviews conducted by the various CCAs. The schedule of the&nbsp;selection events, held during Term 1 Week 2 to 4, will be published on our school website. 
 
 Students are strongly advised to be selected for only&nbsp;ONE&nbsp;CCA (~6 hours a week).
 
-Sec 1 students will also be required to indicate their Top 3 choices of CCA via FormSG (see Table 1). In the unfortunate event, where any student is not selected by any CCA trials, his or her inputs of Top 3 CCA choices (via FormSG) will be considered for the allocation of his/her CCA. However, the allocation will be based on the CCA vacancies available.
+Sec 1 students will also be required to indicate their Top 3 choices of CCA via ALL Ears Form (see *Table 1*). In the unfortunate event, when any student is not selected by any CCA trials, his or her inputs of Top 3 CCA choices will be considered for the allocation of his/her CCA. However, the allocation will be based on the CCA vacancies available.
 
 The complete CCA selection process is illustrated in Figure 1 below.
 
