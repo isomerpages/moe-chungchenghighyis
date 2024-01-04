@@ -3,6 +3,7 @@ title: Wushu
 permalink: /our-cca/physical-sports/wushu/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 # **Wushu**
 
@@ -16,9 +17,9 @@ With its emphasis on self-defense, meditation, and performance, wushu can provid
 
 
 ## Teachers-in-charge   
-Ms Katrina Nur Hidayah Md Hamsah (IC)<br>
-Ms Norlizawati Binte Juahil (2IC)<br>
-Mr Lee Kah Lin Alvin (2IC)
+Mdm Jeslyn Hoong Siew Choo (IC)<br>
+Ms Low Yuet Wan<br>
+Ms Norlizawati Binte Juahil<br>
 
 ### Training Schedule
 Please click on the link below to view CCA venue &amp; schedule.&nbsp;  
