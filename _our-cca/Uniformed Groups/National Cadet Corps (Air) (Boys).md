@@ -3,6 +3,7 @@ title: National Cadet Corps (Air) (Boys)
 permalink: /our-cca/uniformed-groups/national-cadet-corps-air-boys/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 # **National Cadet Corps (Air) (Boys)**
 
@@ -10,9 +11,10 @@ CCHY NCC (Air) aims to develop resourceful, responsible, and resilient leaders w
 
 
 ### Teachers-in-charge
-Mr Lim Chia Hwee (IC)  
-Mr Lim Ying Xuan (2IC)   
-Mr Toh Yong Hock  
+
+Mr Lim Ying Xuan (IC)   
+Mr Lim Chia Hwee (2IC)  
+Mr Lim Meng Teck
 
 ### Training Schedule
 
