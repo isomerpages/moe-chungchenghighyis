@@ -46,6 +46,9 @@ Please click on the links below for more information related to 2023 HBL.
 [Infosheet for Students_(2024)](/files/Home%20Based%20Learning/Infosheet_for_Students_2024.pdf)<br>
 [SIL Timeline for Students](/files/Home%20Based%20Learning/SIL_timeline_for_Students.pdf)
 
+# **CCHY SIL Google Site**
+[https://sites.google.com/moe.edu.sg/cchystudentinitiatedlearning/home](https://sites.google.com/moe.edu.sg/cchystudentinitiatedlearning/home)
+
 
 # **CCHY SIL Photos**
 
