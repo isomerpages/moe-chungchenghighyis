@@ -41,7 +41,7 @@ Please click on the links below for more information related to 2024 HBL.
 [Annex C - Students’ Guide for Zoom (2024)](/files/Home%20Based%20Learning/Annex_C___Students__Guide_for_Zoom__2024_.pdf)<br>
 [Annex D – Students’ Guide for Google Meet (2024)](/files/Home%20Based%20Learning/Annex_D___Students__Guide_for_Google_Meet__2024_.pdf)<br>
 [Annex E – Students’ Guide for New SLS Interface (2024)](/files/Home%20Based%20Learning/Annex_E___Students__Guide_for_New_SLS_Interface__2024_.pdf)<br>
-[Annex F - HBL Briefing Slides_Students_2024_Assembly Slot_BL Com_without video](/files/Home%20Based%20Learning/Annex_F_HBL_Briefing_Slides_Students_2024_Assembly_Slot_BL_Com_without_video.pdf)<br>
+[Annex F - HBL Briefing Slides Students (2024 )](/files/Home%20Based%20Learning/Annex_F_HBL_Briefing_Slides_Students__2024__.pdf)<br>
 [Annex G - CCHY SIL FAQ for Students (2024)](/files/Home%20Based%20Learning/Annex_G___CCHY_SIL_FAQ_for_Students__2024_.pdf)<br>
 [Infosheet for Students_(2024)](/files/Home%20Based%20Learning/Infosheet_for_Students_2024.pdf)<br>
 [SIL Timeline for Students](/files/Home%20Based%20Learning/SIL_timeline_for_Students.pdf)
