@@ -35,8 +35,8 @@ SIL allows students to explore their interests and passions, learning within and
 # **CCHY HBL Guides**
 
 Please click on the links below for more information related to 2024 HBL.  
-  
-[Annex A - HBL Timetable](/files/Home%20Based%20Learning/Annex_A___HBL_Timetable__from_timetable_com_.pdf)<br>
+
+[Annex A - HBL Timetable (latest 18 Jan)](/files/Home%20Based%20Learning/Annex_A___HBL_Timetable__from_timetable_com__latest_18_Jan.pdf)<br>
 [Annex B – How to access Announcements page on SLS (2024)](/files/Home%20Based%20Learning/Annex_B___How_to_access_Announcements_page_on_SLS__2024_.pdf)<br>
 [Annex C - Students’ Guide for Zoom (2024)](/files/Home%20Based%20Learning/Annex_C___Students__Guide_for_Zoom__2024_.pdf)<br>
 [Annex D – Students’ Guide for Google Meet (2024)](/files/Home%20Based%20Learning/Annex_D___Students__Guide_for_Google_Meet__2024_.pdf)<br>
