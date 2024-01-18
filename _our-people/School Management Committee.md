@@ -2,18 +2,14 @@
 title: School Management Committee
 permalink: /our-people/school-management-committee/
 description: ""
+variant: markdown
 ---
-School Management Committee
-===========================
+### Directors 董事
 
-![](/images/CCHY%20SMC%201.jpg)
+![](/images/Our%20People/SMC/SMC_pic_1.jpg)
+![](/images/Our%20People/SMC/SMC_pic_2.jpg)
 
-![](/images/CCHY%20SMC%202.jpg)
+### Honorary Directors 名誉董事
+![](/images/Our%20People/SMC/SMC_pic_3.jpg)
 
-![](/images/CCHY%20SMC%203-2.jpg)
-
-![](/images/CCHY%20SMC%205.jpg)
-![](/images/CCHY%20SMC%204.jpg)
-
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">
