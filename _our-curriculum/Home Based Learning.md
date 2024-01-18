@@ -34,17 +34,20 @@ SIL allows students to explore their interests and passions, learning within and
 
 # **CCHY HBL Guides**
 
-Please click on the links below for more information related to 2023 HBL.  
+Please click on the links below for more information related to 2024 HBL.  
   
-[Annex A - HBL Timetable 2023 Semester 2](/files/Home%20Based%20Learning/annex%20a%20-%20semester%202%20hbl%20timetable.pdf)<br>
-[Annex B – How to access Announcements page on SLS (2023).pdf](/files/Home%20Based%20Learning/Annex%20B%20–%20How%20to%20access%20Announcements%20page%20on%20SLS%20(2023).pdf)<br>
-[Annex C - Students’ Guide for Zoom (2023).pdf](/files/Home%20Based%20Learning/Annex%20C%20-%20Students’%20Guide%20for%20Zoom%20(2023).pdf)<br>
-[Annex D – Students’ Guide for Google Meet (2023).pdf](/files/Home%20Based%20Learning/Annex%20D%20–%20Students’%20Guide%20for%20Google%20Meet%20(2023).pdf)<br>
-[Annex E - Students' Guide for New SLS Interface.pdf](/files/Home%20Based%20Learning/Annex%20E%20-%20Students'%20Guide%20for%20New%20SLS%20Interface.pdf)<br>
-[Annex F - HBL Briefing Slides for All Students Term 1_Sch Website.pdf](/files/Home%20Based%20Learning/Annex%20F%20-%20HBL%20Briefing%20Slides%20for%20All%20Students%20Term%201_Sch%20Website.pdf)<br>
-[Annex G - CCHY SIL FAQ for Students (2023).pdf](/files/Home%20Based%20Learning/Annex%20G%20-%20CCHY%20SIL%20FAQ%20for%20Students%20(2023).pdf)<br>
-[Infosheet for Students_2023.pdf](/files/Home%20Based%20Learning/Infosheet%20for%20Students_2023.pdf)<br>
-[SIL Timeline for Students updated 15 Jun](/files/Home%20Based%20Learning/sil%20timeline%20for%20students%20updated%2015%20jun.pdf)
+[Annex A - HBL Timetable](/files/Home%20Based%20Learning/Annex_A___HBL_Timetable__from_timetable_com_.pdf)<br>
+[Annex B – How to access Announcements page on SLS (2024)](/files/Home%20Based%20Learning/Annex_B___How_to_access_Announcements_page_on_SLS__2024_.pdf)<br>
+[Annex C - Students’ Guide for Zoom (2024)](/files/Home%20Based%20Learning/Annex_C___Students__Guide_for_Zoom__2024_.pdf)<br>
+[Annex D – Students’ Guide for Google Meet (2024)](/files/Home%20Based%20Learning/Annex_D___Students__Guide_for_Google_Meet__2024_.pdf)<br>
+[Annex E – Students’ Guide for New SLS Interface (2024)](/files/Home%20Based%20Learning/Annex_E___Students__Guide_for_New_SLS_Interface__2024_.pdf)<br>
+[Annex F - HBL Briefing Slides Students (2024 )](/files/Home%20Based%20Learning/Annex_F_HBL_Briefing_Slides_Students__2024__.pdf)<br>
+[Annex G - CCHY SIL FAQ for Students (2024)](/files/Home%20Based%20Learning/Annex_G___CCHY_SIL_FAQ_for_Students__2024_.pdf)<br>
+[Infosheet for Students_(2024)](/files/Home%20Based%20Learning/Infosheet_for_Students_2024.pdf)<br>
+[SIL Timeline for Students](/files/Home%20Based%20Learning/SIL_timeline_for_Students.pdf)
+
+# **CCHY SIL Google Site**
+[https://sites.google.com/moe.edu.sg/cchystudentinitiatedlearning/home](https://sites.google.com/moe.edu.sg/cchystudentinitiatedlearning/home)
 
 
 # **CCHY SIL Photos**
