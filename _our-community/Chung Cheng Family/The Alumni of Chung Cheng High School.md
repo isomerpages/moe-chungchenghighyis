@@ -3,6 +3,7 @@ title: The Alumni of Chung Cheng High School
 permalink: /our-community/chung-cheng-family/the-alumni-of-chung-cheng-high-school/
 description: ""
 third_nav_title: Chung Cheng Family
+variant: markdown
 ---
 # **The Alumni of Chung Cheng High School**
 <img src="/images/The%20Alumni%20of%20Chung%20Cheng%20High%20School_logo.png" style="width:70%">
@@ -28,5 +29,8 @@ Registration Address: 40-56 Goodman Road, Singapore 439012
 ### 入会 Application for Membership
 
 [Click here](https://www.chungchengalumni.com/%e5%8a%a0%e5%85%a5%e6%88%91%e4%bb%ac/)&nbsp;to submit your membership application
+
+![](/images/Our%20Community/Chung%20Cheng%20Family/85th_anniversary_alumni_lunch.jpg)
+
 
 <img src="/images/pavilion.png" style="width:50%">
