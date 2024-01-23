@@ -33,8 +33,14 @@ Registration Address: 40-56 Goodman Road, Singapore 439012
 
 ![](/images/Our%20Community/Chung%20Cheng%20Family/85th_anniversary_alumni_lunch.jpg)
 
-
 [85th Anniversary Alumni Lunch booking form](/files/85th_anniversary_alumni_lunch_bookingform.pdf)
+
+Click [here](https://www.chungchengalumni.com/%e4%b8%ad%e6%ad%a3%e4%b8%ad%e5%ad%a685%e5%91%a8%e5%b9%b4%e6%a0%a1%e5%ba%86%e5%8d%88%e5%ae%b4-%e4%b8%ad%e6%ad%a3%e5%85%ab%e4%ba%94%e5%bc%a6%e6%ad%8c%e4%b8%8d%e8%be%8d/) for more details.
+
+
+
+
+
 
 ### **Upcoming Event**
 Date: 25th May 2024 (Saturday)<br>
