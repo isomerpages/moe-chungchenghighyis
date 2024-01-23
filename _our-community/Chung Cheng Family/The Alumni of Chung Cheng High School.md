@@ -30,7 +30,15 @@ Registration Address: 40-56 Goodman Road, Singapore 439012
 
 [Click here](https://www.chungchengalumni.com/%e5%8a%a0%e5%85%a5%e6%88%91%e4%bb%ac/)&nbsp;to submit your membership application
 
+
 ![](/images/Our%20Community/Chung%20Cheng%20Family/85th_anniversary_alumni_lunch.jpg)
 
+
+[85th Anniversary Alumni Lunch booking form](/files/85th_anniversary_alumni_lunch_bookingform.pdf)
+
+### **Upcoming Event**
+Date: 25th May 2024 (Saturday)<br>
+Event: Combined CCHM / CCHY Carnival<br>
+Venue: CCHM
 
 <img src="/images/pavilion.png" style="width:50%">
