@@ -1,0 +1,46 @@
+---
+title: Terms of Use
+permalink: /terms-of-use/
+---
+Terms of Use
+============
+
+Thank you for visiting Chung Cheng High School (Yishun). By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.
+
+## General
+
+
+1.  These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
+2.  These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
+
+## Proprietary Rights
+
+
+1.  This Web Site is maintained by Chung Cheng High School (Yishun). It is owned by Chung Cheng High School (Yishun).
+2.  The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by Chung Cheng High School (Yishun).
+
+## Restrictions on Use of Materials
+
+1.  Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of Chung Cheng High School (Yishun). To use any parts of the contents of this Site, the user must seek permission in writing, stating the contents for use; intent of use; manner of use; time frame of use and identity of the user. MOE reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient.
+2.  Modification of any of the Contents or use of the Contents for any other purpose will be a violation of Chung Cheng High School (Yishun)’s copyright and other intellectual property rights. Graphics and images on this Web Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of Chung Cheng High School (Yishun).
+
+## Right of Access
+
+1.  Chung Cheng High School (Yishun) reserves all rights to deny or restrict access to this Web Site to any particular person, or to block access from a particular external address to this Web Site, at any time, without ascribing any reasons whatsoever.
+
+## Disclaimer of Warranties and Liability
+
+1.  The Contents of this Web Site are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, Chung Cheng High School (Yishun) does not warrant and hereby disclaims any warranty:
+
+1.  as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Web Site;
+2.  that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements.
+
+2.  Chung Cheng High School (Yishun) shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Web Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Web Site.
+
+## Links from This Web Site to Other Web Sites
+
+1.  This Web Site contains hyperlinks to web sites which are not maintained Chung Cheng High School (Yishun). Chung Cheng High School (Yishun) is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such web sites are entirely at your own risk.
+2.  Hyperlinks to other web sites are provided as a convenience. In no circumstances shall Chung Cheng High School (Yishun) be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked.
+
+<img src="/images/pavilion.png" 
+     style="width:50%">

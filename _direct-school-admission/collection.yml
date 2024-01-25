@@ -1,0 +1,15 @@
+collections:
+  direct-school-admission:
+    output: true
+    order:
+      - Direct School Admission (DSA).md
+      - DSA (Sec)/.keep
+      - DSA (Sec)/Overview.md
+      - DSA (Sec)/Application.md
+      - DSA (Sec)/DSA Talent Areas, Criteria and Selection Process.md
+      - DSA (Sec)/Selection Outcome.md
+      - DSA (Sec)/Exercise School Preference Stage.md
+      - DSA (Sec)/School Allocation Results.md
+      - DSA (Sec)/Frequently Asked Questions.md
+      - DSA (Sec)/Contact Us.md
+      - DSA (JC).md
