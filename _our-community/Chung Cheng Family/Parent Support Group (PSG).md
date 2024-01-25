@@ -3,6 +3,7 @@ title: Parent Support Group (PSG)
 permalink: /our-community/chung-cheng-family/parent-support-group-psg/
 description: ""
 third_nav_title: Chung Cheng Family
+variant: markdown
 ---
 # **Parent Support Group (PSG)**
 <img src="/images/Parent%20Support%20Group%20logo.jpg" style="width:50%">
@@ -22,7 +23,8 @@ Through positive partnership between the school and parents, we aim to be part o
 
 3.&nbsp;&nbsp; &nbsp;Provide opportunities for parents to network and support each other in understanding the youths in our parenting journey.
 
-![](/images/CCHY%20PSG%20EXCO%202023.jpg)
+### CCHY PSG EXCO 2024
+![](/images/Our%20Community/Chung%20Cheng%20Family/CCHY_PSG_EXCO_2024.jpg)
 
 We look forward to meeting you and welcoming you as a PSG member.  **For further enquiries, please write to cchypsg@gmail.com.  Thank you.**
 
