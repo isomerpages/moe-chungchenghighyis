@@ -109,7 +109,8 @@ variant: tiptap
             <td rowspan="1" colspan="1">
                 <p><strong>School Counsellors</strong> 
                     <br>
-                    <br>Rajinder Singh S/O Kashmir Singh 67583912 Ext: 299
+                    <br>Mr Rajinder Singh S/O Kashmir Singh</p>
+                <p>67583912 Ext: 299
                     <br><a href="mailto:rajinder_singh_kashmir_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rajinder_singh_kashmir_singh@moe.edu.sg</a> 
                     <br>
                     <br>
@@ -128,13 +129,14 @@ variant: tiptap
             <td rowspan="1" colspan="1">
                 <p><strong>Year Heads</strong> 
                     <br>
-                    <br>Ms Wong Shing Liu 67583912 Ext: 210
+                    <br>Ms Wong Shing Liu</p>
+                <p>67583912 Ext: 210
                     <br><a href="mailto:wong_shing_liu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_shing_liu@moe.edu.sg</a> 
                     <br>
                 </p>
-                <p>Ms Kallaivanee Paramaseevan 67583912</p>
-                <p>Ext: 221</p>
-                <p><a href="mailto:kallaivanee_paramaseevan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kallaivanee_paramaseevan@moe.edu.sg</a> 
+                <p>Ms Kallaivanee Paramaseevan</p>
+                <p>67583912 Ext: 221</p>
+                <p><a href="mailto:kallaivanee_paramaseevan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kallaivanee_paramaseevan@moe.edu.sg</a>
                     <br>
                     <br>
                 </p>
