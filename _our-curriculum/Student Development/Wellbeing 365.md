@@ -9,7 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
     <img style="width:70%" height="auto" width="100%" src="/images/Wellbeing%20365%20days%20of%20the%20year.jpg">
 </div>
-<p><strong> 1. Top 10 Stress Management Techniques</strong>
+<p><strong>1. Top 10 Stress Management Techniques</strong>
 </p>
 <div class="isomer-image-wrapper">
     <img style="width:70%" height="auto" width="100%" src="/images/Wellbeing%20365%20picture%201.jpg">
@@ -107,16 +107,16 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p><strong>School Counsellors</strong>
+                <p><strong>School Counsellors</strong> 
                     <br>
                     <br>Rajinder Singh S/O Kashmir Singh 67583912 Ext: 299
-                    <br><a href="mailto:rajinder_singh_kashmir_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rajinder_singh_kashmir_singh@moe.edu.sg</a>
+                    <br><a href="mailto:rajinder_singh_kashmir_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rajinder_singh_kashmir_singh@moe.edu.sg</a> 
                     <br>
                     <br>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><strong>Samaritans of Singapore (SOS)</strong>
+                <p><strong>Samaritans of Singapore (SOS)</strong> 
                     <br>
                     <br>Provides emotional support to people who have difficulty coping during
                     a crisis, who are thinking of committing suicide or are affected by a suicide.
@@ -126,21 +126,21 @@ variant: tiptap
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p><strong>Year Heads</strong>
+                <p><strong>Year Heads</strong> 
                     <br>
                     <br>Ms Wong Shing Liu 67583912 Ext: 210
-                    <br><a href="mailto:wong_shing_liu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_shing_liu@moe.edu.sg</a>
+                    <br><a href="mailto:wong_shing_liu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_shing_liu@moe.edu.sg</a> 
                     <br>
                 </p>
                 <p>Ms Kallaivanee Paramaseevan 67583912</p>
                 <p>Ext: 221</p>
-                <p><a href="mailto:kallaivanee_paramaseevan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kallaivanee_paramaseevan@moe.edu.sg</a>
+                <p><a href="mailto:kallaivanee_paramaseevan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kallaivanee_paramaseevan@moe.edu.sg</a> 
                     <br>
                     <br>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><strong>Touchline</strong>
+                <p><strong>Touchline</strong> 
                     <br>
                     <br>1800-377-2252</p>
             </td>
@@ -163,7 +163,7 @@ variant: tiptap
                 <p></p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><strong>IMH Emergency Hotline</strong>
+                <p><strong>IMH Emergency Hotline</strong> 
                     <br>
                     <br>Urgent intervention for those who are facing a mental health crisis
                     <br>
@@ -175,7 +175,7 @@ variant: tiptap
                 <p></p>
             </td>
             <td rowspan="1" colspan="1">
-                <p><strong>eCounselling Online counselling service</strong>
+                <p><strong>eCounselling Online counselling service</strong> 
                     <br>
                     <br><a href="www.eC2.sg" rel="noopener noreferrer nofollow" target="_blank">www.eC2.sg</a>
                 </p>
