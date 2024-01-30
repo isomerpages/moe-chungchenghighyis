@@ -70,9 +70,9 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 
 10.&nbsp;&nbsp; &nbsp;Parents may opt their children out of Sexuality Education lessons,&nbsp;_eTeens_&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.  
 
-11.&nbsp;&nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form.&nbsp; This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](/files/Our%20Curriculum/Sexuality%20Education%20Programme/Annex%20A.pdf).&nbsp;&nbsp;The completed form is to be submitted by 16/02/2024 to the Form Teacher.
+11.&nbsp;&nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form.&nbsp; This form is downloadable&nbsp;[here](/files/Our%20Curriculum/Sexuality%20Education%20Programme/ANNEX_A.pdf).&nbsp;&nbsp;The completed form is to be submitted by 16/02/2024 to the Form Teacher.
 
-12.&nbsp;&nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;**_eTeens_&nbsp;programme**&nbsp;need to complete an opt-out form.&nbsp; This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](/files/Our%20Curriculum/Sexuality%20Education%20Programme/Annex%20B.pdf).&nbsp;&nbsp;The completed form is to be submitted by 16/02/2024 to the Form Teacher.
+12.&nbsp;&nbsp; &nbsp;Secondary Three parents who wish to opt their children out of the&nbsp;**_eTeens_&nbsp;programme**&nbsp;need to complete an opt-out form.&nbsp; This form is downloadable&nbsp;[here](/files/Our%20Curriculum/Sexuality%20Education%20Programme/ANNEX_B_eTeens_Opt_Out.pdf).&nbsp;&nbsp;The completed form is to be submitted by 16/02/2024 to the Form Teacher.
 
 13.&nbsp;&nbsp; &nbsp;Parents can contact the school at&nbsp;[cchys@moe.edu.sg](mailto:cchys@moe.edu.sg)&nbsp;or 6758 3912 for discussion or to seek clarification about the school’s Sexuality Education programme.
 
