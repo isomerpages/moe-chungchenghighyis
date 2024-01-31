@@ -41,15 +41,6 @@ Students are to report punctually in the PE attire. They should also have enough
 
 Students who are on medical leave for that day will have to take the test on another day. Only students who are on long-term medical leave will be exempted from taking the test.
 
-2.4 KM Run Test for NAPFA. Please click on the link below for more information.
-
-[Parent Letter for NAPFA Run Test.pdf](/files/Parent%20Letter%20for%20NAPFA%20Run%20Test.pdf)
-
-[2.4km Student Briefing Information.pdf](/files/Student%20Briefing%20Information.pdf) 
-
-[2.4km Test Male Detailing List.pdf](/files/Test%20Male%20Detailing%20List.pdf)
-
-[2.4km Test Female Detailing List.pdf](/files/Test%20Female%20Detailing%20List.pdf)
 
 ### PE Grade
 
