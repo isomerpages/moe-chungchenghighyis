@@ -66,7 +66,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://www.chungchenghighyishun.moe.edu.sg/our-cca/cca/" rel="noopener noreferrer nofollow" target="_blank"> CCA</a>
+<p><a href="https://www.chungchenghighyishun.moe.edu.sg/our-cca/cca/" rel="noopener noreferrer nofollow" target="_blank">CCA</a>
 </p>
 </li>
 </ol>
@@ -77,21 +77,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><a href="https://www.chungchenghighyishun.moe.edu.sg/our-curriculum/academic-development/department/aesthetics/" rel="noopener noreferrer nofollow" target="_blank">AEP/MEP</a>
-</p>
-</li>
-</ol>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Information on Art Elective Programme (AEP) / Music Elective Programme
-(MEP)</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="3" data-tight="true" class="tight">
+<ol start="2" data-tight="true" class="tight">
 <li>
 <p><a href="https://www.chungchenghighyishun.moe.edu.sg/personal-learning-device-pld-password-reset/" rel="noopener noreferrer nofollow" target="_blank">PLD Initiative</a>
 </p>
@@ -104,7 +98,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="4" data-tight="true" class="tight">
+<ol start="3" data-tight="true" class="tight">
 <li>
 <p><a href="https://www.chungchenghighyishun.moe.edu.sg/admission/services/parents-gateway/" rel="noopener noreferrer nofollow" target="_blank">Services</a>
 </p>
@@ -118,7 +112,7 @@ school library and Group Personal Accident Plan for students</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="5" data-tight="true" class="tight">
+<ol start="4" data-tight="true" class="tight">
 <li>
 <p><a href="https://www.chungchenghighyishun.moe.edu.sg/our-curriculum/full-subject-based-banding/" rel="noopener noreferrer nofollow" target="_blank">FSBB</a>
 </p>
@@ -126,12 +120,12 @@ school library and Group Personal Accident Plan for students</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>Information on Full Subject-Based Banding</p>
+<p>Information on Full Subject-Based Banding (FSBB)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="6" data-tight="true" class="tight">
+<ol start="5" data-tight="true" class="tight">
 <li>
 <p><a href="https://www.chungchenghighyishun.moe.edu.sg/our-curriculum/home-based-learning/" rel="noopener noreferrer nofollow" target="_blank">HBL</a>
 </p>
@@ -145,7 +139,7 @@ school library and Group Personal Accident Plan for students</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="7" data-tight="true" class="tight">
+<ol start="6" data-tight="true" class="tight">
 <li>
 <p><a href="https://www.chungchenghighyishun.moe.edu.sg/our-curriculum/student-development/cce/" rel="noopener noreferrer nofollow" target="_blank">CCE</a>
 </p>
@@ -153,7 +147,20 @@ school library and Group Personal Accident Plan for students</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>Information on Character and Citizenship Education</p>
+<p>Information on Character and Citizenship Education (CCE)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="7" data-tight="true" class="tight">
+<li>
+<p><a href="https://www.chungchenghighyishun.moe.edu.sg/our-curriculum/student-development/wellbeing-365/" rel="noopener noreferrer nofollow" target="_blank">Wellbeing  365</a>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Stress management techniques, mindfulness and support hotlines.</p>
 </td>
 </tr>
 </tbody>
@@ -193,6 +200,20 @@ school library and Group Personal Accident Plan for students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Admission details to CCHY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><a href="https://www.chungchenghighyishun.moe.edu.sg/our-curriculum/academic-development/department/aesthetics/" rel="noopener noreferrer nofollow" target="_blank">AEP/MEP</a>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Information on Art Elective Programme (AEP) / Music Elective Programme
+(MEP)</p>
 </td>
 </tr>
 </tbody>
