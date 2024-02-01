@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 </li>
 </ol>
-<p>Useful Information for all Parents</p>
+<h4><strong>Useful Information for all Parents</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -136,7 +136,7 @@ school library and Group Personal Accident Plan for students</p>
 </tr>
 </tbody>
 </table>
-<p>Information for Prospective Parents</p>
+<h4><strong>Information for Prospective Parents</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -176,7 +176,7 @@ Secondary One</p>
 </tr>
 </tbody>
 </table>
-<p>Information for Secondary 1 Parents</p>
+<h4><strong>Information for Secondary 1 Parents</strong></h4>
 <table>
 <tbody>
 <tr>
