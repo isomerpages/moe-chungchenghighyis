@@ -51,7 +51,114 @@ variant: tiptap
 </p>
 </li>
 </ol>
-<p>Secondary 1 Parents</p>
+<p>Information for all Parents</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Website Link</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Description</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://www.chungchenghighyishun.moe.edu.sg/our-cca/cca/" rel="noopener noreferrer nofollow" target="_blank"> CCA</a>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Information on CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><a href="https://www.chungchenghighyishun.moe.edu.sg/our-curriculum/academic-development/department/aesthetics/" rel="noopener noreferrer nofollow" target="_blank">AEP/MEP</a>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Information on Art Elective Programme (AEP) / Music Elective Programme
+(MEP)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><a href="https://www.chungchenghighyishun.moe.edu.sg/personal-learning-device-pld-password-reset/" rel="noopener noreferrer nofollow" target="_blank">PLD Initiative</a>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Information on Personal Learning Devices (PLD)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p><a href="https://www.chungchenghighyishun.moe.edu.sg/admission/services/parents-gateway/" rel="noopener noreferrer nofollow" target="_blank">Services</a>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Information on booklists, school attire, school bookstore, school cafeteria,
+school library and Group Personal Accident Plan for students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p><a href="https://www.chungchenghighyishun.moe.edu.sg/our-curriculum/full-subject-based-banding/" rel="noopener noreferrer nofollow" target="_blank">FSBB</a>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Information on Full Subject-Based Banding</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p><a href="https://www.chungchenghighyishun.moe.edu.sg/our-curriculum/home-based-learning/" rel="noopener noreferrer nofollow" target="_blank">HBL</a>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Information on Home-Based Learning (HBL) and Student-Initiated Learning
+(SIL)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="7" data-tight="true" class="tight">
+<li>
+<p><a href="https://www.chungchenghighyishun.moe.edu.sg/our-curriculum/student-development/cce/" rel="noopener noreferrer nofollow" target="_blank">CCE</a>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Information on Character and Citizenship Education</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Information for Secondary 1 Parents</p>
 <table>
 <tbody>
 <tr>
@@ -88,60 +195,8 @@ variant: tiptap
 <p>Admission details to CCHY</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p><a href="https://www.chungchenghighyishun.moe.edu.sg/our-cca/cca/" rel="noopener noreferrer nofollow" target="_blank">CCA</a>
-</p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>Information on CCA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p><a href="https://www.chungchenghighyishun.moe.edu.sg/admission/services/parents-gateway/" rel="noopener noreferrer nofollow" target="_blank">Services</a>
-</p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>Information on booklists, school attire, school bookstore, school cafeteria,
-school library and Group Personal Accident Plan for students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol start="5" data-tight="true" class="tight">
-<li>
-<p><a href="https://www.chungchenghighyishun.moe.edu.sg/our-curriculum/full-subject-based-banding/" rel="noopener noreferrer nofollow" target="_blank">FSBB</a>
-</p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>Information of Full Subject-Based Banding</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol start="6" data-tight="true" class="tight">
-<li>
-<p><a href="https://www.chungchenghighyishun.moe.edu.sg/our-curriculum/home-based-learning/" rel="noopener noreferrer nofollow" target="_blank">HBL</a>
-</p>
-</li>
-</ol>
-</td>
-<td rowspan="1" colspan="1">
-<p>Information on Home-Based Learning (HBL) and Student-Initiated Learning
-(SIL)</p>
-</td>
-</tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
