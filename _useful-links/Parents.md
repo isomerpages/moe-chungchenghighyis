@@ -104,7 +104,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="http://Schoolbag.sg" rel="noopener noreferrer nofollow" target="_blank">Schoolbag.sg</a> provides
 parents, educators and the general public with education news, school features
-and tips.</p>
+and tips</p>
 </td>
 </tr>
 <tr>
@@ -149,8 +149,12 @@ school library and Group Personal Accident Plan for students</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
 <p><a href="https://www.chungchenghighyishun.moe.edu.sg/our-cchy/360-virtual-tour/" rel="noopener noreferrer nofollow" target="_blank">360 Virtual Tour</a>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>Virtual tour of CCHY</p>
@@ -158,8 +162,12 @@ school library and Group Personal Accident Plan for students</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="2" data-tight="true" class="tight">
+<li>
 <p><a href="https://www.chungchenghighyishun.moe.edu.sg/admission/direct-school-admission-dsa/dsa-sec/overview/" rel="noopener noreferrer nofollow" target="_blank">DSA (Sec)</a>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>Direct School Admission–Secondary (DSA-Sec) Exercise for admission to
