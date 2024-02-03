@@ -20,3 +20,8 @@ High School (Yishun) today.</p>
 our heartfelt condolences to Dr Wee’s family.</p>
 <p>Thank you, Dr Wee, for all you have done for Chung Cheng. May you rest
 in peace.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pavilion.png">
+</div>
+<p></p>
