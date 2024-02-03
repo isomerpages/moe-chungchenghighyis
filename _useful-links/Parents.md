@@ -5,16 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Useful Links:</strong></h1>
-<ol>
-<li>
-<p><a href="/admission/direct-school-admission-dsa" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission (DSA)</a>
-</p>
-</li>
-<li>
-<p><a href="https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp" rel="noopener noreferrer nofollow" target="_blank">Early Admissions Exercise (EAE)</a>
-</p>
-</li>
-</ol>
 <h4><strong>Useful Information for all Parents</strong></h4>
 <table>
 <tbody>
@@ -134,9 +124,35 @@ school library and Group Personal Accident Plan for students</p>
 <p>Stress management techniques, mindfulness and support hotlines.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="9" data-tight="true" class="tight">
+<li>
+<p><a href="https://www.chungchenghighyishun.moe.edu.sg/admission/direct-school-admission-dsa/dsa-jc/" rel="noopener noreferrer nofollow" target="_blank">DSA-JC</a>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Direct School Admission–Secondary (DSA-JC) Exercise for admission to JC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="10" data-tight="true" class="tight">
+<li>
+<p><a href="https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp" rel="noopener noreferrer nofollow" target="_blank">EAE</a>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Early Admission Exercise to Polytechnic</p>
+</td>
+</tr>
 </tbody>
 </table>
-<h4><strong>Information for Prospective Parents</strong></h4>
+<h4><strong>Information for Secondary 1 Parents</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -174,22 +190,9 @@ school library and Group Personal Accident Plan for students</p>
 Secondary One</p>
 </td>
 </tr>
-</tbody>
-</table>
-<h4><strong>Information for Secondary 1 Parents</strong></h4>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Website Link</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Description</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol>
+<ol start="3" data-tight="true" class="tight">
 <li>
 <p><a href="https://sites.google.com/moe.edu.sg/cchys12024" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 1 Registration</a>
 </p>
@@ -202,7 +205,7 @@ Secondary One</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="2" data-tight="true" class="tight">
+<ol start="4" data-tight="true" class="tight">
 <li>
 <p><a href="https://www.chungchenghighyishun.moe.edu.sg/admission/admission/" rel="noopener noreferrer nofollow" target="_blank">Admission</a>
 </p>
@@ -215,7 +218,7 @@ Secondary One</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="3" data-tight="true" class="tight">
+<ol start="5" data-tight="true" class="tight">
 <li>
 <p><a href="https://www.chungchenghighyishun.moe.edu.sg/our-curriculum/academic-development/department/aesthetics/" rel="noopener noreferrer nofollow" target="_blank">AEP/MEP</a>
 </p>
