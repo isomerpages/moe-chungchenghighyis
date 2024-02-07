@@ -3,6 +3,7 @@ title: Chinese Dance
 permalink: /our-cca/visual-performing-arts/chinese-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 # **Chinese Dance**
 
@@ -24,14 +25,6 @@ Please click on the link below to view CCA venue &amp; schedule.&nbsp;
 
 ### Photo Gallery
 
-![](/images/ff08ed15e_62561.jpg)
-
-![](/images/817d3fef9_62562.jpg)
-
-![](/images/31c640c39_62563.jpg)
-
-![](/images/27d871817_62564.jpg)
-
-![](/images/8e25cc484_62565.jpg)
+<iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQXJSFl0e8a2Zu_yHensTKlvM5YHNfkGC4fJzb1-QE6msxnxL7rfloaCMdyMQtQd-qhDw0lFHTNKt9l/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 <img src="/images/pavilion.png" style="width:50%">
