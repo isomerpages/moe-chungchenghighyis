@@ -46,6 +46,6 @@ variant: markdown
 | **V5** 	| **Choir** 	| Tue &amp; Thu 	| 3 – 6pm 	| Music Room 	|
 | **V6** 	| **Festival Drums** 	| Mon &amp; Tue 	| 3 – 6pm 	|Multi-Purpose Room (MPR) 	|
 | **V7** 	| **Dance Ensemble** 	| Tue &amp; Thu 	| 3 – 6pm 	| AVA Room/ MPH 	|
-| **V8** 	| **Symphonic Band** 	| Tue<br><br>Thu 	| 3 – 6pm	| AVA Room, ITR1 &amp; Level 1 classrooms<br> <br>Mulit-Purpose Room (MPR), ITR1 &amp; Level 3 classrooms 	|
+| **V8** 	| **Symphonic Band** 	| Tue<br><br>Thu 	| 3 – 6pm	| AVA Room, ITR1 &amp; Level 1 classrooms<br> <br>Mulit-Purpose Room (MPR), LT &amp; Level 3 classrooms 	|
 
 <img src="/images/pavilion.png" style="width:50%">
