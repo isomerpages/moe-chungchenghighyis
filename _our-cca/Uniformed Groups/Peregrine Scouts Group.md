@@ -3,6 +3,7 @@ title: Peregrine Scouts Group
 permalink: /our-cca/uniformed-groups/peregrine-scouts-group/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 # **Peregrine Scouts Group**
 *Scouts helps young people to develop their full physical, intellectual, emotional, and social capacities as individuals and as members of society. This is achieved through a wide variety of thrilling team-based Scouting activities such as camps, pioneering (building structures), orienteering, outdoor cooking and many more*.
@@ -55,13 +56,7 @@ Please click on the link below to view CCA venue &amp; schedule.&nbsp;
 
 ### Photo Gallery
 
-![](/images/scouts.jpg)
-
-![](/images/scouts%201.jpg)
-
-![](/images/scouts%202.jpg)
-
-![](/images/scouts%203.jpg)
+<iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRkIEguqRJjabWUI59qVPhLWGVBdaH8m2Vd6ZMtczUgw3DVXGsGvIVaAk5HPRr9pAPKIasVncYloJ-j/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 More information on Scouts: [https://scout.sg/](https://scout.sg/)
 
