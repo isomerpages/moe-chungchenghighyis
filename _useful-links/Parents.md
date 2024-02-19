@@ -150,6 +150,19 @@ school library and Group Personal Accident Plan for students</p>
 <p>Early Admission Exercise to Polytechnic</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="11" data-tight="true" class="tight">
+<li>
+<p><a href="https://www.chungchenghighyishun.moe.edu.sg/our-community/chung-cheng-family/parent-support-group-psg/" rel="noopener noreferrer nofollow" target="_blank">PSG</a>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parent Spport Group (PSG)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Information for Secondary 1 Parents</strong></h4>
