@@ -26,6 +26,10 @@ Through positive partnership between the school and parents, we aim to be part o
 ### CCHY PSG EXCO 2024
 ![](/images/Our%20Community/Chung%20Cheng%20Family/CCHY_PSG_EXCO_2024.jpg)
 
+Click [here](https://www.facebook.com/profile.php?id=100093399604423&amp;mibextid=ZbWKwL) to visit our Facebook page.
+
+Click [here](https://www.instagram.com/cchypsg?igsh=bjRqcnZ3d3ZseThn) to visit our Instagram page,
+
 We look forward to meeting you and welcoming you as a PSG member.  **For further enquiries, please write to cchypsg@gmail.com.  Thank you.**
 
 <img src="/images/pavilion.png" style="width:50%">

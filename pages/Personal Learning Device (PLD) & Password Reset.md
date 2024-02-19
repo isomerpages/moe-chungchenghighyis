@@ -6,27 +6,26 @@ variant: tiptap
 ---
 <h1><strong>Personal Learning Device Initiative</strong></h1>
 <h3>Information for parents</h3>
-<p><a href="/files/Personal%20Learning%20Device/Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on Learning with a PLD_2023.pdf</a>
+<p><a href="/files/Personal%20Learning%20Device/Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on Learning with a PLD_2023.pdf</a> 
 <br><a href="/files/Personal%20Learning%20Device/Parent%20Handbook%20(II)%20on%20Learning%20with%20a%20PLD_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II) on Learning with a PLD_2023.pdf</a>
 </p>
-<p><a href="/files/Personal%20Learning%20Device/DMA%20Parent%20Guide(ver2)%20-%20Default%20Option.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide v2.0 - Default Option.pdf</a>
-<br><a href="/files/Personal%20Learning%20Device/DMA%20Parent%20Guide%20(ver2)%20-%20Option%20A.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide v2.0 - Option A.pdf</a>
-<br><a href="/files/Personal%20Learning%20Device/DMA%20Parent%20Guide%20(ver2)%20-%20Option%20B.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide v2.0 - Option B.pdf</a>
+<p><a href="/files/Personal Learning Device/DMA_Parent_Guide___Default_Option.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Default Option</a>
 </p>
+<p><a href="/files/Personal Learning Device/DMA_Parent_Guide___Option_A__reduced_size_.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option A</a>
+</p>
+<p><a href="/files/Personal Learning Device/DMA_Parent_Guide___Option_B__reduced_size_.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option B</a>
+</p>
+<p></p>
 <p>To change DMA option, please go to <a href="https://go.gov.sg/cchydma" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cchydma</a>, please
 note that changes to the After-School DMA Options will only take effect
 at the <u>end of every month</u>.</p>
 <h3>Information for students</h3>
-<p><a href="/files/Personal%20Learning%20Device/PLD%20Initiative%20Student%20Briefing%20Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Initiative Student Briefing Slides.pdf</a>
-<br><a href="/files/Personal%20Learning%20Device/CCHY%20Acceptable_Use%20Policy_(AUP).pdf" rel="noopener noreferrer nofollow" target="_blank">CCHY Acceptable_Use Policy_(AUP).pdf</a>
-<br><a href="/files/Personal%20Learning%20Device/cchy%20general%20learning%20routines%20with%20pld.pdf" rel="noopener noreferrer nofollow" target="_blank">CCHY General Learning Routines with PLD.pdf</a>
-<br><a href="/files/Personal%20Learning%20Device/PLD_familiarisation_for_students.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD_familiarisation_for_students.pdf</a>
-<br><a href="/files/Personal%20Learning%20Device/Student%20Device%20Information%20Kit.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit.pdf</a>
-<br>
-</p>
-<p>Student Kit Cyber Wellness and Learning with a Personal Learning Device.pdf
-- file size exceeds 5MB</p>
-<p><a href="/files/Personal%20Learning%20Device/Policy%20on%20the%20Use%20of%20Locker.pdf" rel="noopener noreferrer nofollow" target="_blank">Policy on the Use of Locker.pdf</a>
+<p><a href="/files/Personal%20Learning%20Device/PLD%20Initiative%20Student%20Briefing%20Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Initiative Student Briefing Slides.pdf</a> 
+<br><a href="/files/Personal%20Learning%20Device/CCHY%20Acceptable_Use%20Policy_(AUP).pdf" rel="noopener noreferrer nofollow" target="_blank">CCHY Acceptable_Use Policy_(AUP).pdf</a> 
+<br><a href="/files/Personal%20Learning%20Device/cchy%20general%20learning%20routines%20with%20pld.pdf" rel="noopener noreferrer nofollow" target="_blank">CCHY General Learning Routines with PLD.pdf</a> 
+<br><a href="/files/Personal%20Learning%20Device/PLD_familiarisation_for_students.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD_familiarisation_for_students.pdf</a> 
+<br><a href="/files/Personal%20Learning%20Device/Student%20Device%20Information%20Kit.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit.pdf</a> 
+<br><a href="/files/Personal%20Learning%20Device/Policy%20on%20the%20Use%20of%20Locker.pdf" rel="noopener noreferrer nofollow" target="_blank">Policy on the Use of Locker.pdf</a> 
 <br><a href="/files/Personal%20Learning%20Device/Number%20Combination%20Padlock%20User%20Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Number Combination Padlock User Guide.pdf</a>
 </p>
 <p>Click&nbsp;<a href="https://drive.google.com/file/d/1LWAO4XOy7URCWjnA1j_KXws_Ub5unzeW/view" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
@@ -98,17 +97,17 @@ access the Number Combination Padlock user guide video.</p>
 <p>To perform MIMS Self-Service Password Reset (SSPR), follow the below steps:</p>
 </li>
 <li>
-<p><strong>Step1:</strong>
+<p><strong>Step1:</strong> 
 <br>Go to <a href="https://mims.moe.gov.sg/sspr" rel="noopener noreferrer nofollow" target="_blank">here</a> and
 click 'Forgot Password?'.</p>
 </li>
 <li>
-<p><strong>Step2:</strong>
+<p><strong>Step2:</strong> 
 <br>Type in your username and answer the Challenge Questions that you have
 set previously.</p>
 </li>
 <li>
-<p><strong>Step3:</strong>
+<p><strong>Step3:</strong> 
 <br>Once you have correctly answered your challenge questions, you will be
 able to reset your password.</p>
 </li>
