@@ -24,7 +24,8 @@ Through positive partnership between the school and parents, we aim to be part o
 3.&nbsp;&nbsp; &nbsp;Provide opportunities for parents to network and support each other in understanding the youths in our parenting journey.
 
 ### CCHY PSG EXCO 2024
-![](/images/Our%20Community/Chung%20Cheng%20Family/CCHY_PSG_EXCO_2024.jpg)
+
+![](/images/Our%20Community/Chung%20Cheng%20Family/CCHY_PSG_EXCO_2024__as_of_22Feb2024_.jpg)
 
 Click [here](https://www.facebook.com/profile.php?id=100093399604423&amp;mibextid=ZbWKwL) to visit our Facebook page.
 
