@@ -2,7 +2,6 @@
 title: Academic
 permalink: /our-cchy/achievements/academic/
 description: ""
-third_nav_title: Achievements
 variant: markdown
 ---
 Academic

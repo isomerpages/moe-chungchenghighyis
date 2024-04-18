@@ -2,7 +2,6 @@
 title: CCA
 permalink: /our-cchy/achievements/cca/
 description: ""
-third_nav_title: Achievements
 ---
 **CCA Achievements**
 ===

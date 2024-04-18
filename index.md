@@ -37,16 +37,6 @@ sections:
         scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
         clipboard-write; encrypted-media; picture-in-picture;
         web-share"></iframe></center>
-  - infobar:
-      title: Personal Learning Device (PLD) & Password Reset
-      description: Please click on read more for more information
-      button: Read more
-      url: /personal-learning-device-pld-password-reset/
-  - infobar:
-      title: Cyber Wellness
-      button: Read More
-      description: Please click on read more for more information
-      url: /cyber-wellness/
   - infopic:
       title: Tips on how to Feel Good and Do Good
       subtitle: How to "Flourish"?
