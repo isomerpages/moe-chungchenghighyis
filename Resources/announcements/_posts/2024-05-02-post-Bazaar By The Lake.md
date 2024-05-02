@@ -8,6 +8,9 @@ image: ""
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bazaar_by_the_Lake.png">
+</div>
 <p>Get ready for an incredible day of fun, excitement, and endless entertainment!</p>
 <p>There will be a wide array of activities and attractions that will make
 this Bazaar an event to remember.</p>
