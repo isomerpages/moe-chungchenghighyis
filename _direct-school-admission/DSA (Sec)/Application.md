@@ -23,7 +23,7 @@ Follow these steps to apply:
 
 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There is no need to submit any supporting documents during application. Your child's primary school records (for example, P5 academic results, CCA, school-based activities, achievements or awards) will be automatically shared with the schools.
 
-6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enter your contact details correctly. This allows the schools to contact you if your child is shortlisted for the selection process.
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enter your contact details correctly. This allows us to contact you if your child is shortlisted for the selection process.
 
 7.&nbsp; &nbsp; &nbsp;If you are unable to apply online, approach your child's primary school for assistance.
 
