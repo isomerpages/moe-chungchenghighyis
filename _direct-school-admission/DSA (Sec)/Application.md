@@ -3,14 +3,17 @@ title: Application
 permalink: /admission/direct-school-admission-dsa/dsa-sec/application/
 description: ""
 third_nav_title: DSA (Sec)
+variant: markdown
 ---
 # **Application**
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal.&nbsp; The application is free-of-charge.  
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal.&nbsp; The application is free-of-charge.
+
+Applicants who do not have prior experience may also apply.  The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.
 
 Follow these steps to apply:
 
-1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Log in to the DSA-Sec portal with your SingPass Two-Factor Authentication (Singpass 2FA). Find out&nbsp;[how to register for a SingPass and 2FA](https://www.singpass.gov.sg/home/ui/register/instructions)&nbsp;if you don't have one.
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Log in to the DSA-Sec portal with your SingPass. Find out [how to register for a Singpass](https://www.singpass.gov.sg/home/ui/register/instructions) (if you don't have one.
 
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can indicate up to 3 choices and 3 talent areas.
 
