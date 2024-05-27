@@ -8,3 +8,7 @@ image: /images/85th_Anniversary_Combined_Schools_Concert.png
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/85th_Anniversary_Combined_Schools_Concert.png">
+</div>
+<p></p>
