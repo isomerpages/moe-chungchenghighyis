@@ -7,7 +7,7 @@ variant: tiptap
 <h1><strong>Useful Links:</strong></h1>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024_CCHY_Handbook.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Handbook 2024</a>
+<p><a href="https://www.chungchenghighyishun.moe.edu.sg/files/2024_Handbook.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Handbook 2024</a>
 </p>
 </li>
 <li>
