@@ -48,9 +48,7 @@ variant: markdown
 | Mdm Chew 	| Chew Joke 	|  	|  	| [chew_joke@moe.edu.sg](mailto:chew_joke@moe.edu.sg) 	| 279 	|
 | Mr Chia 	| Chia Poh Cheng 	| 4F 	| Symphonic Band 	| [chia_poh_cheng@moe.edu.sg](mailto:chia_poh_cheng@moe.edu.sg) 	| 271 	|
 | Ms Chiang 	| Chiang Foong Min 	| 2D 	|  	| [chiang_foong_min@moe.edu.sg](mailto:chiang_foong_min@moe.edu.sg) 	| 259 	|
-| Ms Chin 	| Chin Xin Yee 	|  	|  	| [chin_xin_yee@moe.edu.sg](mailto:chin_xin_yee@moe.edu.sg) 	| 308  	|
 | Ms Chong 	| Chong Lee Ching 	| 4C 	| Journalism Club 	| [chong_lee_ching_a@moe.edu.sg](mailto:chong_lee_ching_a@moe.edu.sg) 	| 278 	|
-| Ms Choo 	| Choo Choy Joo Abby 	|  	|  	| [choo_choy_joo_a@moe.edu.sg](mailto:choo_choy_joo@moe.edu.sg) 	| 328 	|
 | Mrs Chua 	| Choo Huier 	| 3E 	| Outdoor Activities Club (ODAC) 	| [choo_huier@moe.edu.sg](mailto:choo_huier@moe.edu.sg) 	| 258 	|
 | Mr Chui 	| Chui Ming Fa Benedict 	| 2B 	| Basketball (Boys) 	| [chui_ming_fa_benedict@moe.edu.sg](mailto:chui_ming_fa_benedict@moe.edu.sg) 	| 270 	|
 | Ms Edina 	| Edina Rahman 	| 4H 	| Journalism Club 	| [edina_rahman@moe.edu.sg](mailto:edina_rahman@moe.edu.sg) 	| 316 	|
@@ -74,8 +72,6 @@ variant: markdown
 | Ms Lim 	| Lim Xiangting 	| 3F 	| NPCC 	| [lim_xiangting@moe.edu.sg](mailto:lim_xiangting@moe.edu.sg) 	| 261 	|
 | Mr Lim  	|  Lim Ying Xuan 	| 4B 	| NCC Air (Boys) 	| [lim_ying_xuan@moe.edu.sg](mailto:lim_ying_xuan@moe.edu.sg)  	| 261 	|
 | Ms Lin 	| Lin Xiaoying 	| 2E 	| Technopreneur Club 	| [lin_xiaoying@moe.edu.sg](mailto:lin_xiaoying@moe.edu.sg) 	| 273 	|
-| Ms Low 	| Low Li Shan 	|  	|  	| [low_li_shan@moe.edu.sg](mailto:low_li_shan@moe.edu.sg) 	| 286 	|
-| Ms Low 	| Low Yuet Wan 	| 1B 	| Wushu	| [low_yuet_wan@moe.edu.sg](mailto:low_yuet_wan@moe.edu.sg) 	| 277 	|
 | Mr Luo 	| Luo Yanjie 	| 2A 	|  	| [luo_yanjie@moe.edu.sg](mailto:luo_yanjie@moe.edu.sg) 	| 256 	|
 | Ms Maria 	| Maria Duvalinda Agahari 	| 3F 	| Multimedia Club 	| [maria_duvalinda_agahari@moe.edu.sg](mailto:maria_duvalinda_agahari@moe.edu.sg) 	| 253 	|
 | Mdm Mariam 	| Mariam Bte Suliman 	| 1D 	| Volleyball 	| [mariam_suliman@moe.edu.sg](mailto:mariam_suliman@moe.edu.sg) 	| 261 	|
@@ -95,7 +91,6 @@ variant: markdown
 |  Mr Peh 	| Gary Peh Kaixiang  	|  4A 	| Outdoor Activities Club (ODAC)  	| [gary_peh_kaixiang@moe.edu.sg](mailto:gary_peh_kaixiang@moe.edu.sg)  	| 309 	|
 |  Mrs Peh 	|  Peh-Leow Li Yong, Shirley 	|  5D 	| St John Brigade  	| [peh-leow_li_yong_shirley@moe.edu.sg](mailto:peh-leow_li_yong_shirley@moe.edu.sg)  	| 283 	|
 | Ms Wong 	| Philina Wong Hai Lin 	| 3H 	| Chinese Orchestra/Guzheng Ensemble 	| [philina_wong_hai_lin@moe.edu.sg](mailto:philina_wong_hai_lin@moe.edu.sg) 	| 283 	|
-| Ms Razinah 	| Razinah Bte AA Rahmatulla 	| 3C 	| St John Brigade	| [razinah_aa_rahmatulla@moe.edu.sg](mailto:razinah_aa_rahmatulla@moe.edu.sg) 	| 252 	|
 | Mr Rudi 	| Rudidermawan Khairi 	| 3D 	| NPCC 	| [rudidermawan_khairi@moe.edu.sg](mailto:rudidermawan_khairi@moe.edu.sg) 	| 275 	|
 | Ms Sharizan 	| Sharizan Sanwan 	|  	|  	| [sharizan_sanwan@moe.edu.sg](mailto:sharizan_sanwan@moe.edu.sg) 	| 255 	|
 | Mdm Sew 	| Sew Mek Len 	| 4B 	|  	| [sew_mek_len@moe.edu.sg](mailto:sew_mek_len@moe.edu.sg) 	| 285 	|
