@@ -31,6 +31,7 @@ variant: markdown
 | HOD Character &amp; Citizenship Education 	| Ms 	| Isma Wati Bte Sidik 	|
 | SH Character &amp; Citizenship Education 	| Ms 	| Nazeema Parveen 	|
 | HOD Student Management 	| Ms 	| Desilu Anne Nair 	|
+| SH Student Management (acting) 	| Mr 	| Lim Chia Hwee 	|
 | HOD Physical Education &amp; Co-Curricular Activities 	| Mr 	| Victor Tan 	|
 | SH Physical Education &amp; Co-Curricular Activities 	| Mr 	| Tok Wei Ee Alvin 	|
 | SH Student Leadership 	| Ms 	| Sharizan Sanwan 	|
