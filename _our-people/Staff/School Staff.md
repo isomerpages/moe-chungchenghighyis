@@ -42,6 +42,7 @@ variant: markdown
 | ---	| ---	| ---	| ---	| ---	| ---	|
 | Mr Chan 	| Andrew Chan Chun Yan 	| 2C 	| Peregrine Scouts Group 	| [andrew_chan_chun_yan@moe.edu.sg](mailto:andrew_chan_chun_yan@moe.edu.sg) 	| 302 	|
 | Ms Ang 	| Ang Wee Hoon 	| 3E 	| Volleyball 	| [ang_wee_hoon@moe.edu.sg](mailto:ang_wee_hoon@moe.edu.sg) 	| 275 	|
+| Mr Ayob 	| Ayob Bin Moktar 	|  	| 	| [ayob_moktar@moe.edu.sg](mailto:ayob_moktar@moe.edu.sg) 	| 253 	|
 | Mdm Boo 	| Boo Ming Ming 	|  	|  	| [boo_ming_ming@moe.edu.sg](mailto:boo_ming_ming@moe.edu.sg) 	| 311 	|
 | Mr White 	| Brett Allan Whiteway 	| 3H 	| Green Club 	| [brett_allan_whiteway@moe.edu.sg](mailto:brett_allan_whiteway@moe.edu.sg) 	| 312 	|
 | Mrs Goh 	| Chan Bee Lian 	| 3G 	| Volleyball 	| [chan_bee_lian@moe.edu.sg](mailto:chan_bee_lian@moe.edu.sg) 	| 281 	|
@@ -75,6 +76,7 @@ variant: markdown
 | Mr Lim  	|  Lim Ying Xuan 	| 4B 	| NCC Air (Boys) 	| [lim_ying_xuan@moe.edu.sg](mailto:lim_ying_xuan@moe.edu.sg)  	| 261 	|
 | Ms Lin 	| Lin Xiaoying 	| 2E 	| Technopreneur Club 	| [lin_xiaoying@moe.edu.sg](mailto:lin_xiaoying@moe.edu.sg) 	| 273 	|
 | Mr Luo 	| Luo Yanjie 	| 2A 	|  	| [luo_yanjie@moe.edu.sg](mailto:luo_yanjie@moe.edu.sg) 	| 256 	|
+| Mr Lim 	| Malvin Lim Cheong Beng 	|  	|  	| [malvin_lim_cheong_beng@moe.edu.sg](mailto:malvin_lim_cheong_beng@moe.edu.sg) 	| 301 	|
 | Ms Maria 	| Maria Duvalinda Agahari 	| 3F 	| Multimedia Club 	| [maria_duvalinda_agahari@moe.edu.sg](mailto:maria_duvalinda_agahari@moe.edu.sg) 	| 253 	|
 | Mdm Mariam 	| Mariam Bte Suliman 	|  	|  	| [mariam_suliman@moe.edu.sg](mailto:mariam_suliman@moe.edu.sg) 	| 261 	|
 | Ms Low 	| Megan Low Ruiqi 	| 1D 	| Symphonic Band 	| [megan_low_ruiqi@moe.edu.sg](mailto:megan_low_ruiqi@moe.edu.sg) 	| 256 	|
