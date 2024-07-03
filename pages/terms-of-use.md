@@ -37,7 +37,8 @@ Thank you for visiting Chung Cheng High School (Yishun). By accessing and using 
 
 	(a)  as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Web Site;<br>
 
-	(b)  that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements.
+	(b)  that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements.<br>
+	
 
 2.  Chung Cheng High School (Yishun) shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Web Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Web Site.
 
@@ -61,7 +62,7 @@ Thank you for visiting Chung Cheng High School (Yishun). By accessing and using 
 
 6.  Chung Cheng High School (Yishun) reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents.
 
-## Govering Law
+## Governing Law
 
 1.  These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
 
