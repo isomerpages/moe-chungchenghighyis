@@ -10,19 +10,19 @@ variant: markdown
 |  | Name | Designation |
 | --- | --- | --- |
 | Mdm | Chui Su Fun | Administrative Manager |
-| Mdm | Eliyah Bte Sukor | Administrative Executive (AE) |
 | Mr | Tok Eng Hin | Operations Manager |
 | Mr | Ang Toon Siew | ICT Manager |
-| Mdm | Lim Poh Chin | Corporate Support Officer (CSO) |
+| Mdm | Eliyah Bte Sukor | Administrative Executive (AE) |
+| Mdm | Lim Poh Chin | Administrative Executive (AE) |
 | Mdm | Lim Li Jun&nbsp; | Corporate Support Officer (CSO)&nbsp; |
 | Mdm | Lee Boon See Janet&nbsp; | Corporate Support Officer (CSO)&nbsp; |
 | Ms | Yip Yoke Ping Chris | Corporate Support Officer (CSO)&nbsp; |
-| Mr | Yeo Chung Beng | Technical Support Officer (Design &amp; Technology) |
-| Mr | Rosman Bin Rais | Technical Support Officer (Design &amp; Technology) |
-| Ms | Ashwini K Gopinathan | Technical Support Officer (Science Lab) |
-| Mr | Muhammad Firdaus Abdul Rahim Kamsi | Technical Support Officer (Science Lab) |
-| Mr | Lester Sim Xing Chen | Technical Support Officer (Science Lab) |
-| Mdm | Lim Wai Yue Chris | Operations Support Officer  (Science Lab) |
+| Mr | Yeo Chung Beng | Stem Instructor (Workshop) |
+| Mr | Rosman Bin Rais | Stem Instructor (Workshop) |
+| Ms | Ashwini K Gopinathan | Stem Instructor (Laboratory) |
+| Mr | Muhammad Firdaus Abdul Rahim Kamsi | Stem Instructor (Laboratory) |
+| Mr | Lester Sim Xing Chen | Stem Instructor (Laboratory) |
+| Mdm | Lim Wai Yue Chris | Operations Support Officer  (OSO) |
 | Mdm | Lee Bee Eng | Operations Support Officer (OSO) |
 | Mdm | Seah Siew Hwa | Operations Support Officer (OSO) |
 | Mr | Chandrasekran S/O Ramiah | Operations Support Officer (OSO) |
