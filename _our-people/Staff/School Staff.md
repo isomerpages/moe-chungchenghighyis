@@ -68,7 +68,9 @@ variant: markdown
 |  Ms Lee  	| Lee Yanmei  	|   	| Green Club  	| [lee_yanmei@moe.edu.sg](mailto:lee_yanmei@moe.edu.sg)  	| 259 	|
 | Mr Lim 	| Lim Chia Hwee 	| 4E 	| NCC Air (Boys) 	| [lim_chia_hwee@moe.edu.sg](mailto:lim_chia_hwee@moe.edu.sg) 	| 263 	|
 | Mr Lim 	| Lim Cheng Teik Sebastian 	| 1F	| Chinese Drama 	| [lim_cheng_teik_sebastian@moe.edu.sg](mailto:lim_cheng_teik_sebastian@moe.edu.sg) | 303	|
+| Mr Lim 	| Malvin Lim Cheong Beng 	|  	|  	| [malvin_lim_cheong_beng@moe.edu.sg](mailto:malvin_lim_cheong_beng@moe.edu.sg) 	| 301 	|
 | Mdm Lim 	|  Lim Irene 	|   |  	| [lim_irene@moe.edu.sg](mailto:lim_irene@moe.edu.sg)  	| 266 	|
+| Mr Lim 	|  Sean Lim Jia Hui 	|   | NCC Air (Boys) 	| [sean_lim_jia_hui@moe.edu.sg](mailto:sean_lim_jia_hui@moe.edu.sg)  	| 279 	|
 | Ms Lim 	|  Lim Jia Ying 	|  1E 	| Chinese Orchestra/Guzheng Ensemble 	| [lim_jia_ying_b@moe.edu.sg](mailto:lim_jia_ying_b@moe.edu.sg)  	| 286 	|
 | Mr Lim  	| Lim Meng Teck  	| 4C 	| NCC Air (Boys) 	| [lim_meng_teck@moe.edu.sg](mailto:lim_meng_teck@moe.edu.sg)  	| 267 	|
 | Mdm Lim  	| Lim Min Hui  	| 3A 	|   	| [lim_minhui@moe.edu.sg](mailto:lim_minhui@moe.edu.sg)  	| 302 	|
@@ -76,7 +78,6 @@ variant: markdown
 | Mr Lim  	|  Lim Ying Xuan 	| 4B 	| NCC Air (Boys) 	| [lim_ying_xuan@moe.edu.sg](mailto:lim_ying_xuan@moe.edu.sg)  	| 261 	|
 | Ms Lin 	| Lin Xiaoying 	| 2E 	| Technopreneur Club 	| [lin_xiaoying@moe.edu.sg](mailto:lin_xiaoying@moe.edu.sg) 	| 273 	|
 | Mr Luo 	| Luo Yanjie 	| 2A 	|  	| [luo_yanjie@moe.edu.sg](mailto:luo_yanjie@moe.edu.sg) 	| 256 	|
-| Mr Lim 	| Malvin Lim Cheong Beng 	|  	|  	| [malvin_lim_cheong_beng@moe.edu.sg](mailto:malvin_lim_cheong_beng@moe.edu.sg) 	| 301 	|
 | Ms Maria 	| Maria Duvalinda Agahari 	| 3F 	| Multimedia Club 	| [maria_duvalinda_agahari@moe.edu.sg](mailto:maria_duvalinda_agahari@moe.edu.sg) 	| 253 	|
 | Mdm Mariam 	| Mariam Bte Suliman 	|  	|  	| [mariam_suliman@moe.edu.sg](mailto:mariam_suliman@moe.edu.sg) 	| 261 	|
 | Ms Low 	| Megan Low Ruiqi 	| 1D 	| Symphonic Band 	| [megan_low_ruiqi@moe.edu.sg](mailto:megan_low_ruiqi@moe.edu.sg) 	| 256 	|
