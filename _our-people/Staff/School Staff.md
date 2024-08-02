@@ -70,7 +70,7 @@ variant: markdown
 | Mr Lim 	| Lim Cheng Teik Sebastian 	| 1F	| Chinese Drama 	| [lim_cheng_teik_sebastian@moe.edu.sg](mailto:lim_cheng_teik_sebastian@moe.edu.sg) | 303	|
 | Mr Lim 	| Malvin Lim Cheong Beng 	|  	|  	| [malvin_lim_cheong_beng@moe.edu.sg](mailto:malvin_lim_cheong_beng@moe.edu.sg) 	| 301 	|
 | Mdm Lim 	|  Lim Irene 	|   |  	| [lim_irene@moe.edu.sg](mailto:lim_irene@moe.edu.sg)  	| 266 	|
-| Mr Lim 	|  Sean Lim Jia Hui 	|   | NCC Air (Boys) 	| [sean_lim_jia_hui@moe.edu.sg](mailto:sean_lim_jia_hui@moe.edu.sg)  	| 279 	|
+| Mr Lim 	|  Sean Lim Jia Hui 	| 2G  | NCC Air (Boys) 	| [sean_lim_jia_hui@moe.edu.sg](mailto:sean_lim_jia_hui@moe.edu.sg)  	| 279 	|
 | Ms Lim 	|  Lim Jia Ying 	|  1E 	| Chinese Orchestra/Guzheng Ensemble 	| [lim_jia_ying_b@moe.edu.sg](mailto:lim_jia_ying_b@moe.edu.sg)  	| 286 	|
 | Mr Lim  	| Lim Meng Teck  	| 4C 	| NCC Air (Boys) 	| [lim_meng_teck@moe.edu.sg](mailto:lim_meng_teck@moe.edu.sg)  	| 267 	|
 | Mdm Lim  	| Lim Min Hui  	| 3A 	|   	| [lim_minhui@moe.edu.sg](mailto:lim_minhui@moe.edu.sg)  	| 302 	|
@@ -82,7 +82,7 @@ variant: markdown
 | Mdm Mariam 	| Mariam Bte Suliman 	|  	|  	| [mariam_suliman@moe.edu.sg](mailto:mariam_suliman@moe.edu.sg) 	| 261 	|
 | Ms Low 	| Megan Low Ruiqi 	| 1D 	| Symphonic Band 	| [megan_low_ruiqi@moe.edu.sg](mailto:megan_low_ruiqi@moe.edu.sg) 	| 256 	|
 | Ms Chia 	| Mellissa Chia Pei Shan 	| 3A	| Festival Drums 	| [chia_pei_shan_mellissa@moe.edu.sg](mailto:chia_pei_shan_mellissa@moe.edu.sg) 	| 266 	|
-| Ms Nazeema 	| Nazeema Parveen 	| 5D	|  	| [nazeema_parveen@moe.edu.sg](mailto:nazeema_parveen@moe.edu.sg) 	| 251 	|
+| Ms Nazeema 	| Nazeema Parveen 	| 	|  	| [nazeema_parveen@moe.edu.sg](mailto:nazeema_parveen@moe.edu.sg) 	| 251 	|
 |  Mr Neo 	| Neo Yao Kian Andy  	| 1A 	| NPCC  	| [neo_yao_kian_andy@moe.edu.sg](mailto:neo_yao_kian_andy@moe.edu.sg)  	| 257 	|
 |  Mdm Ng 	| Ng Bee Eng  	|  	| Chinese Orchestra/Guzheng Ensemble 	| [ng_bee_eng_a_1@moe.edu.sg](mailto:ng_bee_eng_a_1@moe.edu.sg)  	| 312 	|
 | Mr Ng 	| Ng Yee Siong 	| 3B 	| Peregrine Scouts Group 	| [ng_yee_siong@moe.edu.sg](mailto:ng_yee_siong@moe.edu.sg) 	| 279 	|
@@ -131,6 +131,7 @@ variant: markdown
 | Mr Raj 	| Rajinder Singh S/O Kashmir Singh 	| [rajinder_singh_kashmir_singh@moe.edu.sg](mailto:rajinder_singh_kashmir_singh@moe.edu.sg) 	| 299 	| Counsellor 	|
 | Mr Peh 	| Gary Peh Kaixiang 	| [gary_peh_kaixiang@moe.edu.sg](mailto:gary_peh_kaixiang@moe.edu.sg) 	| 309 	| Teaching &amp; Learning 	|
 |  Ms Goh 	|  Goh Shu Xian 	| [goh_shu_xian@moe.edu.sg](mailto:goh_shu_xian@moe.edu.sg)  	|  LBS Room 	|  Learning &amp; Behavioural Support 	|
+| Ms Yap 	| Yap Hwee Hoon 	| [yap_hwee_hoon@schools.gov.sg](mailto:yap_hwee_hoon@schools.gov.sg) 	| 300	| ECG Counsellor 	|
 
 
 <img src="/images/pavilion.png" style="width:50%">
