@@ -7,6 +7,5 @@ variant: markdown
 ---
 # **Form Teachers**
 
-
-![](/images/Our%20People/Staff/2024_Sem_2_Form_Teachers.jpg)
+![](/images/Our%20People/Staff/2024_Sem_2_Form_Teachers__revised_.jpg)
 <img src="/images/pavilion.png" style="width:50%">
