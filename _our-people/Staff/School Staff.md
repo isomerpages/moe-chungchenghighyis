@@ -57,7 +57,6 @@ variant: markdown
 | Mr Foo 	| Foo Chee Chai 	| 3C 	| Outdoor Activities Club (ODAC) 	| [foo_chee_chai@moe.edu.sg](mailto:foo_chee_chai@moe.edu.sg) 	| 280 	|
 |  Ms Gan 	|  Gan Sim Yee 	|  2D 	|   	| [gan_sim_yee@moe.edu.sg](mailto:gan_sim_yee@moe.edu.sg)  	| 286 	|
 |  Ms Goh 	|  Goh Xiu Qing Elizabeth 	|  3D 	| Dance Ensemble  	| [goh_xiu_qing_elizabeth@moe.edu.sg](mailto:goh_xiu_qing_elizabeth@moe.edu.sg)  	| 289 	|
-| Mr Gurmit  	| Gurmit Singh 	|  	|  	| [gurmit_singh_mehervan_singh@moe.edu.sg](mailto:gurmit_singh_mehervan_singh@moe.edu.sg) 	| 309 	|
 | Ms Ho 	| Ho Soo Fern 	| 1H 	| Fencing 	| [ho_soo_fern@moe.edu.sg](mailto:ho_soo_fern@moe.edu.sg) 	| 277 	|
 | Ms Lim 	| Isabelle Lim Ji Yu 	| 2H 	| St John Brigade 	| [isabelle_lim_ji_yu@moe.edu.sg](mailto:isabelle_lim_ji_yu@moe.edu.sg) 	| 288 	|
 | Mdm Hoong 	| Jeslyn Hoong Siew Choo 	| 1G 	| Wushu 	| [jeslyn_hoong_siew_choo@moe.edu.sg](mailto:jeslyn_hoong_siew_choo@moe.edu.sg) 	| 273 	|
@@ -131,7 +130,7 @@ variant: markdown
 | Mr Raj 	| Rajinder Singh S/O Kashmir Singh 	| [rajinder_singh_kashmir_singh@moe.edu.sg](mailto:rajinder_singh_kashmir_singh@moe.edu.sg) 	| 299 	| School Counsellor 	|
 | Mr Peh 	| Gary Peh Kaixiang 	| [gary_peh_kaixiang@moe.edu.sg](mailto:gary_peh_kaixiang@moe.edu.sg) 	| 309 	| Teaching &amp; Learning 	|
 |  Ms Goh 	|  Goh Shu Xian 	| [goh_shu_xian@moe.edu.sg](mailto:goh_shu_xian@moe.edu.sg)  	|  LBS Room 	|  Senior SEN Officer 	|
-| Ms Yap 	| Yap Hwee Hoon 	| [yap_hwee_hoon@schools.gov.sg](mailto:yap_hwee_hoon@schools.gov.sg) 	| 300	| ECG Counsellor 	|
+| Ms Yap 	| Yap Hwee Hoon  | [yap_hwee_hoon@schools.gov.sg](mailto:yap_hwee_hoon@schools.gov.sg) 	| 300	| ECG Counsellor 	|
 | Ms Seah | Seah Lay Kian 	| [seah_lay_kian@moe.edu.sg](mailto:seah_lay_kian@moe.edu.sg) 	| 299 	| Part-Time School Counsellor 	|
 
 <img src="/images/pavilion.png" style="width:50%">
