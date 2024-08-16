@@ -22,7 +22,7 @@ Their PSLE score should meet the school's cut-off point of the posting year. Tra
 
 1. The personal information provided in this form will be solely used for the purpose of appealing for secondary school transfer based on non-medical reasons. For appeals based on medical reasons (serious medical conditions or severe physical impairments), please request through the posted school.
 
-2. The deadline for the submission of appeals is on 30th  December 5:00pm. Late submission will not be allowed.
+2. The deadline for the submission of appeals is on 30 December 5:00pm. Late submission will not be allowed.
 
 3. Schools do not disclose reasons for selection / non-selection of students.
 
