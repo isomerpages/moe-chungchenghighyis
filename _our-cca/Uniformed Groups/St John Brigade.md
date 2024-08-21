@@ -3,6 +3,7 @@ title: St John Brigade
 permalink: /our-cca/uniformed-groups/st-john-brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 # **St John Brigade**
 Our St John Brigade (SJB) Corp aims to serve mankind with pride and confidence through training in life saving skills and health care in schools. Through the various proficiency badge subjects (welfare &amp; service, outdoor activities, skills &amp; hobbies), our cadets are given different opportunities to acquire the necessary knowledge that will prepare them for higher education and careers beyond secondary school.
@@ -12,7 +13,7 @@ Our St John Brigade (SJB) Corp aims to serve mankind with pride and confidence t
 
 Mrs Peh-Leow Li Yong, Shirley (IC)   
 Ms Isabelle Lim Ji Yu<br>
-Ms Razinah Bte AA Rahmatulla
+Mr Pee Wei Meng
 
 
 ### Training Schedule
