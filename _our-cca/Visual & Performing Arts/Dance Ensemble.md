@@ -22,7 +22,8 @@ We are the Dancers, We create the Dreams.
 ### Teachers-in-charge
 
 Ms Noor Fazillah Bte Noor Aziz (IC)    
-Ms Goh Xiu Qing Elizabeth (2IC)    
+Ms Goh Xiu Qing Elizabeth (2IC)<br>
+Ms Toh Li Bin
 
 
 ### Training Schedule
