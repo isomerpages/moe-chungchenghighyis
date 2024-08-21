@@ -13,8 +13,8 @@ variant: markdown
 
 Mdm Chan Bee Lian (IC)   
 Ms Ang Wee Hoon (2IC)    
-Mdm Mariam Bte Suliman<br>
-Ms Tan Mui Mui
+Ms Tan Mui Mui<br>
+Ms Raawiyah Hafizah
 
 ### Training Schedule
 
