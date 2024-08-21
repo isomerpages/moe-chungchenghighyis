@@ -85,7 +85,7 @@ variant: markdown
 |  Mr Neo 	| Neo Yao Kian Andy  	| 1A 	| NPCC  	| [neo_yao_kian_andy@moe.edu.sg](mailto:neo_yao_kian_andy@moe.edu.sg)  	| 257 	|
 |  Mdm Ng 	| Ng Bee Eng  	|  	| Chinese Orchestra/Guzheng Ensemble 	| [ng_bee_eng_a_1@moe.edu.sg](mailto:ng_bee_eng_a_1@moe.edu.sg)  	| 312 	|
 | Mr Ng 	| Ng Yee Siong 	| 3B 	| Peregrine Scouts Group 	| [ng_yee_siong@moe.edu.sg](mailto:ng_yee_siong@moe.edu.sg) 	| 279 	|
- | Ms Fazillah 	| Noor Fazillah Noor Aziz 	| 2A 	|  	| [noor_fazillah_noor_aziz@moe.edu.sg](mailto:noor_fazillah_noor_aziz@moe.edu.sg) 	| 253 	|
+ | Ms Fazillah 	| Noor Fazillah Noor Aziz 	| 2A 	| Dance Ensemble 	| [noor_fazillah_noor_aziz@moe.edu.sg](mailto:noor_fazillah_noor_aziz@moe.edu.sg) 	| 253 	|
 | Ms Norfida 	| Norfida Alias 	| 1B 	|  	| [norfida_alias@moe.edu.sg](mailto:norfida_alias@moe.edu.sg) 	| 260 	|
 | Mrs Shah 	| Norlizawati Juahil 	| 1A 	| Wushu 	| [norlizawati_juahil@moe.edu.sg](mailto:norlizawati_juahil@moe.edu.sg) 	| 255 	|
 | Ms Jannah 	| Nur Jannah Noor 	| 3B 	| Technopreneur Club 	| [nur_jannah_noor@moe.edu.sg](mailto:nur_jannah_noor@moe.edu.sg) 	| 276 	|
