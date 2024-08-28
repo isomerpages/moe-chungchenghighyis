@@ -8,7 +8,5 @@ variant: markdown
 
 ![](/images/Our%20People/SMC/SMC_Members_2024__school_website_.jpg)
 
-### Honorary Directors 名誉董事
-![](/images/Our%20People/SMC/SMC_pic_3.jpg)
 
 <img src="/images/pavilion.png" style="width:50%">
