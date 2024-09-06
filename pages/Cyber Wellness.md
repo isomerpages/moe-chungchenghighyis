@@ -2,6 +2,7 @@
 title: Cyber Wellness
 permalink: /cyber-wellness/
 description: ""
+variant: markdown
 ---
 Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The focus of CW is about helping students to become responsible digital learners. 
 
@@ -15,7 +16,7 @@ For more information, please click [here](https://www.moe.gov.sg/education-in-sg
 
 The Media Literacy Council (MLC) is a group of members from the people, private, and public sectors. The MLC spearheads public education on media literacy and cyber wellness, and advises the government on appropriate policy responses to the evolving world of media, technology, and consumer participation.  
   
-For more information, please click [here](https://www.betterinternet.sg/).
+For more information, please click [here](https://www.mlc.sg/).
 
 ### The Cyber Alert Newsletter
 
