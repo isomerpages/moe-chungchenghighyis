@@ -2,6 +2,7 @@
 title: Cyber Wellness
 permalink: /cyber-wellness/
 description: ""
+variant: markdown
 ---
 Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The focus of CW is about helping students to become responsible digital learners. 
 
