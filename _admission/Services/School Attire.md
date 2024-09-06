@@ -3,6 +3,7 @@ title: School Attire
 permalink: /admission/services/school-attire/
 description: ""
 third_nav_title: Services
+variant: markdown
 ---
 # **School Attire**
 
@@ -12,8 +13,6 @@ third_nav_title: Services
 School uniform and P.E. attire are now available at Jeep Sing Fashion's online store via the URL:    
 [https://jeepsinguniform.com/collections/chung-cheng-high-yishun](https://jeepsinguniform.com/collections/chung-cheng-high-yishun)  
 
-Walk-in purchase at retail outlet is strictly by Appointment only, please be reminded to book your time slots via this link:   
-[https://jeepsinguniform.com/pages/appointment-booking](https://jeepsinguniform.com/pages/appointment-booking)  
 
 | <u>Retail address</u> 	| <u>Opening Hours</u> 	|
 |---	|---	|
