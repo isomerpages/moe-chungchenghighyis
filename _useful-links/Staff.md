@@ -16,9 +16,10 @@ variant: markdown
 8. [MIMS Self-Service Password Reset (SSPR)](https://mims.moe.gov.sg/sspr)
 9. [MySkills Future](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 10. [OPAL 2.0](https://www.opal2.moe.edu.sg/app/learner)
-11. [Parents Gateway (PG)](https://pg.moe.edu.sg/)
-12. [School Cockpit](https://schoolcockpit.moe.gov.sg)
-13. [SCMobile](https://scmobile.moe.edu.sg/home)
-14. [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
+11. [Pair Chat](https://pair.gov.sg)
+12. [Parents Gateway (PG)](https://pg.moe.edu.sg/)
+13. [School Cockpit](https://schoolcockpit.moe.gov.sg)
+14. [SCMobile](https://scmobile.moe.edu.sg/home)
+15. [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 
 <img src="/images/pavilion.png" style="width:50%">
