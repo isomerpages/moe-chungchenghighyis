@@ -5,11 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Useful Links:</strong></h1>
+<p></p>
 <ol data-tight="true" class="tight">
-<li>
-<p><a href="/files/2024_Handbook.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Handbook 2024</a>
-</p>
-</li>
 <li>
 <p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">All Ears form builder</a>
 </p>
