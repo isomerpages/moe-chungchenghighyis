@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Open_House_Banner_2024_FINAL_version_For_School_Website_v2_Compressed.jpg
+      background: /images/website banner.gif
       key_highlights:
         - title: For Students
           description: ""
