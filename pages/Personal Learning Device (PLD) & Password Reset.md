@@ -31,7 +31,12 @@ at the <u>end of every month</u>.</p>
 <p>Click&nbsp;<a href="https://drive.google.com/file/d/1LWAO4XOy7URCWjnA1j_KXws_Ub5unzeW/view" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 access the Number Combination Padlock user guide video.</p>
 <h3>Information on student's account</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -90,12 +95,8 @@ access the Number Combination Padlock user guide video.</p>
 </div>
 </li>
 <li>
-<p>To request for MIMS password reset by Student Administrator (SA), click
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSef7YQxPj4RszC1evMGWl8qU43xSjULdYFlLzkiyNDwqNymhQ/viewform" rel="noopener noreferrer nofollow" target="_blank">password reset form</a>.</p>
-</li>
-<li>
 <p>To perform MIMS Self-Service Password Reset (SSPR), follow the below steps:</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Step1:</strong> 
 <br>Go to <a href="https://mims.moe.gov.sg/sspr" rel="noopener noreferrer nofollow" target="_blank">here</a> and
@@ -110,6 +111,19 @@ set previously.</p>
 <p><strong>Step3:</strong> 
 <br>Once you have correctly answered your challenge questions, you will be
 able to reset your password.</p>
+</li>
+<li>
+<p><strong>Step 4:</strong>
+</p>
+<p>Login to your PLD in school (to enable new password to apply on PLD and
+validate the new password)</p>
+<p></p>
+</li>
+</ul>
+</li>
+<li>
+<p>To request for MIMS password reset by Student Administrator (SA), click
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSef7YQxPj4RszC1evMGWl8qU43xSjULdYFlLzkiyNDwqNymhQ/viewform" rel="noopener noreferrer nofollow" target="_blank">password reset form</a>.</p>
 </li>
 </ul>
 <h3>Issues related to MIMS password&nbsp;</h3>
