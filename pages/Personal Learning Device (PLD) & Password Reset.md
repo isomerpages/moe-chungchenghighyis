@@ -20,7 +20,8 @@ variant: tiptap
 note that changes to the After-School DMA Options will only take effect
 at the <u>end of every month</u>.</p>
 <h3>Information for students</h3>
-<p><a href="/files/Personal%20Learning%20Device/PLD%20Initiative%20Student%20Briefing%20Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Initiative Student Briefing Slides.pdf</a> 
+<p><a href="/files/Personal%20Learning%20Device/PLD%20Initiative%20Student%20Briefing%20Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Initiative Student Briefing Slides.</a>
+<a href="/files/PLD_Initiative_Student_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">file.</a><a href="/files/Personal%20Learning%20Device/PLD%20Initiative%20Student%20Briefing%20Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">pdf</a> 
 <br><a href="/files/Personal%20Learning%20Device/CCHY%20Acceptable_Use%20Policy_(AUP).pdf" rel="noopener noreferrer nofollow" target="_blank">CCHY Acceptable_Use Policy_(AUP).pdf</a> 
 <br><a href="/files/Personal%20Learning%20Device/cchy%20general%20learning%20routines%20with%20pld.pdf" rel="noopener noreferrer nofollow" target="_blank">CCHY General Learning Routines with PLD.pdf</a> 
 <br><a href="/files/Personal%20Learning%20Device/PLD_familiarisation_for_students.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD_familiarisation_for_students.pdf</a> 
