@@ -12,7 +12,6 @@ variant: markdown
 | Mdm | Chui Su Fun | Administrative Manager |
 | Mr | Tok Eng Hin | Operations Manager |
 | Mr | Ang Toon Siew | ICT Manager |
-| Mdm | Eliyah Bte Sukor | Administrative Executive (AE) |
 | Mdm | Lim Poh Chin | Administrative Executive (AE) |
 | Mdm | Lim Li Jun&nbsp; | Corporate Support Officer (CSO)&nbsp; |
 | Mdm | Lee Boon See Janet&nbsp; | Corporate Support Officer (CSO)&nbsp; |
