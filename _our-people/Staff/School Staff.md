@@ -83,6 +83,7 @@ variant: markdown
 | Ms Chia 	| Mellissa Chia Pei Shan 	| 3A	| Festival Drums 	| [chia_pei_shan_mellissa@moe.edu.sg](mailto:chia_pei_shan_mellissa@moe.edu.sg) 	| 266 	|
 | Ms Nazeema 	| Nazeema Parveen 	| 	|  	| [nazeema_parveen@moe.edu.sg](mailto:nazeema_parveen@moe.edu.sg) 	| 251 	|
 |  Mr Neo 	| Neo Yao Kian Andy  	| 1A 	| NPCC  	| [neo_yao_kian_andy@moe.edu.sg](mailto:neo_yao_kian_andy@moe.edu.sg)  	| 257 	|
+|  Ms Ng 	| Ng Bao Xian  	|  	|   	| [ng_bao_xian@moe.edu.sg](mailto:ng_bao_xian@moe.edu.sg)  	|  	|
 |  Mdm Ng 	| Ng Bee Eng  	|  	| Chinese Orchestra/Guzheng Ensemble 	| [ng_bee_eng_a_1@moe.edu.sg](mailto:ng_bee_eng_a_1@moe.edu.sg)  	| 312 	|
 | Mr Ng 	| Ng Yee Siong 	| 3B 	| Peregrine Scouts Group 	| [ng_yee_siong@moe.edu.sg](mailto:ng_yee_siong@moe.edu.sg) 	| 279 	|
  | Ms Fazillah 	| Noor Fazillah Noor Aziz 	| 2A 	| Dance Ensemble 	| [noor_fazillah_noor_aziz@moe.edu.sg](mailto:noor_fazillah_noor_aziz@moe.edu.sg) 	| 253 	|
