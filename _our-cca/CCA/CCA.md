@@ -56,9 +56,9 @@ The complete CCA selection process is illustrated in Figure 1 below.
 
 
 **4. CCAs in Chung Cheng High School (Yishun)**   
-There are 21 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every student should commit to a CCA taking up about 6 hours per week.
+There are 20 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every student should commit to a CCA taking up about 6 hours per week.
 
-![](/images/Our%20CCA/CCA%20figure%202.jpg)
+![](/images/Our%20CCA/CCA_figure_2_new.jpg)
 
 **5. CCA Schedule 2023**  
 *Schedule listed in the tables may be subjected to changes due to school needs.*
