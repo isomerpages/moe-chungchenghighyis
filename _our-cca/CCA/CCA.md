@@ -127,7 +127,7 @@ There are 20 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every 
 
 ### Clubs
 *  [Multimedia Club](/our-cca/clubs/multimedia-club/)
-*  [Technopreneur Club](/our-cca/clubs/technopreneur-club/)
+*  [Entrepreneur Club](/our-cca/clubs/entrepreneur-club/)
 *  [Green Club](/our-cca/clubs/green-club/)
 *  [Journalism  Club](/our-cca/clubs/journalism-club/)
 
