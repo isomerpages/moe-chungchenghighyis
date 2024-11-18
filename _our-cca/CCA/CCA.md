@@ -56,9 +56,9 @@ The complete CCA selection process is illustrated in Figure 1 below.
 
 
 **4. CCAs in Chung Cheng High School (Yishun)**   
-There are 21 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every student should commit to a CCA taking up about 6 hours per week.
+There are 20 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every student should commit to a CCA taking up about 6 hours per week.
 
-![](/images/Our%20CCA/CCA%20figure%202.jpg)
+![](/images/Our%20CCA/CCA_figure_2_new.jpg)
 
 **5. CCA Schedule 2023**  
 *Schedule listed in the tables may be subjected to changes due to school needs.*
@@ -70,9 +70,8 @@ There are 21 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every 
 | Clubs 	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
 | **C1** 	| **Green Club** 	| Tue &amp; ^Thu<br><br>*(not inclusive of time spent on project planning and execution)* 	| 3 – 5pm 	| ITR3 	|
-| **C2** 	| **Journalism Club** 	| Mon &amp; Tue<br><br>*(not inclusive of time spent on projects/publications)* 	| 3 – 5pm 	| Library 	|
-| **C3** 	| **Multimedia Club** 	| Tue &amp;<br>All School Events 	| 3 – 5pm 	| Outside LT 	|
-| **C4** 	| **Technopreneur Club** 	| Tue<br><br>Thu<br><br>*(not inclusive of time spent on project planning and execution)* 	| 3 – 5pm 	| ITR1<br><br>CE Room  	|
+| **C2** 	| **Journalism &amp; Multimedia Club** 	| Tue &amp;<br>All School Events 	| 3 – 5pm 	| Library 	|
+| **C3** 	| **Entrepreneur Club** 	| Tue<br><br>Thu<br><br>*(not inclusive of time spent on project planning and execution)* 	| 3 – 5pm 	| ITR1<br><br>CE Room  	|
 
 ^ on odd week only
 
@@ -128,7 +127,7 @@ There are 21 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every 
 
 ### Clubs
 *  [Multimedia Club](/our-cca/clubs/multimedia-club/)
-*  [Technopreneur Club](/our-cca/clubs/technopreneur-club/)
+*  [Entrepreneur Club](/our-cca/clubs/entrepreneur-club/)
 *  [Green Club](/our-cca/clubs/green-club/)
 *  [Journalism  Club](/our-cca/clubs/journalism-club/)
 

@@ -16,9 +16,8 @@ variant: markdown
 | Clubs 	|  	|  	|  	|  	|
 |---	|---	|---	|---	|---	|
 | **C1** 	| **Green Club** 	| Tue &amp; ^Thu<br><br>*(not inclusive of time spent on project planning and execution)* 	| 3 – 5pm 	| ITR3 	|
-| **C2** 	| **Journalism Club** 	| Mon &amp; Tue<br><br>*(not inclusive of time spent on projects/publications)* 	| 3 – 5pm 	| Library 	|
-| **C3** 	| **Multimedia Club** 	| Tue &amp;<br>All School Events 	| 3 – 5pm 	| Outside LT 	|
-| **C4** 	| **Technopreneur Club** 	| Tue<br><br>Thu<br><br>*(not inclusive of time spent on project planning and execution)* 	| 3 – 5pm 	| ITR1<br><br>CE Room  	|
+| **C2** 	| **Journalism &amp; Multimedia Club** 	| Tue &amp;<br>All School Events 	| 3 – 5pm 	| Library 	|
+| **C3** 	| **Entrepreneur Club** 	| Tue<br><br>Thu<br><br>*(not inclusive of time spent on project planning and execution)* 	| 3 – 5pm 	| ITR1<br><br>CE Room  	|
 
 ^ on odd week only
 

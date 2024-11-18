@@ -28,6 +28,7 @@ variant: markdown
 | HOD Science 	| Mr 	| Lim Wee Keong 	|
 | SH Science  	| Ms 	| Lee Yanmei  	|
 | HOD Mathematics 	| Mr 	| Tjhin Ke Ming 	|
+| SH Mathematics  	| Ms 	| Ng Bao Xian  	|
 | HOD Character &amp; Citizenship Education 	| Ms 	| Isma Wati Bte Sidik 	|
 | SH Character &amp; Citizenship Education 	| Ms 	| Nazeema Parveen 	|
 | HOD Student Management 	| Ms 	| Desilu Anne Nair 	|
