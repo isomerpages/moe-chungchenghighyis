@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Clubs
 variant: markdown
 ---
-# **Technopreneur Club**
+# **Entrepreneur Club**
 
-Our Technopreneur Club offers students a unique opportunity to learn about entrepreneurship as well as develop their technological skills, such as coding. By collaborating in teams, our students are able to exercise their creativity, able to build leadership skills and learn to create innovative products that are sold during events like Teacher’s Day and Be Your Own Boss Day. Through these experiences, our students gain practical experience in technology and learn financial literacy and business management skills that are essential for success in today’s world.
+Our Entrepreneur Club offers students a unique opportunity to learn about entrepreneurship as well as develop their technological skills, such as coding. By collaborating in teams, our students are able to exercise their creativity, able to build leadership skills and learn to create innovative products that are sold during events like Teacher’s Day and Be Your Own Boss Day. Through these experiences, our students gain practical experience in technology and learn financial literacy and business management skills that are essential for success in today’s world.
 
 ### Teachers-in-charge
 
