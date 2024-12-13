@@ -9,12 +9,7 @@ variant: tiptap
 <p><a href="/files/Personal%20Learning%20Device/Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on Learning with a PLD_2023.pdf</a> 
 <br><a href="/files/Personal%20Learning%20Device/Parent%20Handbook%20(II)%20on%20Learning%20with%20a%20PLD_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II) on Learning with a PLD_2023.pdf</a>
 </p>
-<p><a href="/files/Personal Learning Device/DMA_Parent_Guide___Default_Option.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Default Option</a>
-</p>
-<p><a href="/files/Personal Learning Device/DMA_Parent_Guide___Option_A__reduced_size_.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option A</a>
-</p>
-<p><a href="/files/Personal Learning Device/DMA_Parent_Guide___Option_B__reduced_size_.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option B</a>
-</p>
+<p></p>
 <p></p>
 <p>To change DMA option, please go to <a href="https://go.gov.sg/cchydma" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cchydma</a>, please
 note that changes to the After-School DMA Options will only take effect
