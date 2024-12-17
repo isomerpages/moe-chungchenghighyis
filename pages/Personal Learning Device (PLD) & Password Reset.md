@@ -6,26 +6,41 @@ variant: tiptap
 ---
 <h1><strong>Personal Learning Device Initiative</strong></h1>
 <h3>Information for parents</h3>
-<p><a href="/files/Personal%20Learning%20Device/Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on Learning with a PLD_2023.pdf</a> 
-<br><a href="/files/Personal%20Learning%20Device/Parent%20Handbook%20(II)%20on%20Learning%20with%20a%20PLD_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II) on Learning with a PLD_2023.pdf</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook 1 (2025)</a>
 </p>
-<p></p>
+</li>
+<li>
+<p><a href="/files/Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook 2 (2025)</a>
+</p>
+</li>
+<li>
+<p>Parenting for wellness toolbox (<a href="https://go.gov.sg/pfw-toolbox" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pfw-toolbox</a> )</p>
+</li>
+<li>
+<p>Bite-size tips on MOE IG (<a href="https://go.gov.sg/ig-moeparenting" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ig-moeparenting</a>)</p>
+</li>
+<li>
+<p>MOE Cyber Wellness Programme (<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness</a> )</p>
+</li>
+<li>
+<p>Media Literacy Council (<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/better-internet-sg</a>)</p>
+</li>
+</ul>
 <p></p>
 <p>To change DMA option, please go to <a href="https://go.gov.sg/cchydma" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cchydma</a>, please
 note that changes to the After-School DMA Options will only take effect
 at the <u>end of every month</u>.</p>
 <h3>Information for students</h3>
-<p><a href="/files/PLD_Initiative_Student_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">PLD Student Briefing Slides</a>
-<br><a href="/files/Personal%20Learning%20Device/CCHY%20Acceptable_Use%20Policy_(AUP).pdf" rel="noopener noreferrer nofollow" target="_blank">CCHY Acceptable_Use Policy_(AUP).pdf</a> 
+<p><a href="/files/Personal%20Learning%20Device/CCHY%20Acceptable_Use%20Policy_(AUP).pdf" rel="noopener noreferrer nofollow" target="_blank">CCHY Acceptable_Use Policy_(AUP).pdf</a> 
 <br><a href="/files/Personal%20Learning%20Device/cchy%20general%20learning%20routines%20with%20pld.pdf" rel="noopener noreferrer nofollow" target="_blank">CCHY General Learning Routines with PLD.pdf</a> 
 <br><a href="/files/Personal%20Learning%20Device/PLD_familiarisation_for_students.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD_familiarisation_for_students.pdf</a> 
 <br><a href="/files/Personal%20Learning%20Device/Student%20Device%20Information%20Kit.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit.pdf</a> 
 <br><a href="/files/Personal%20Learning%20Device/Policy%20on%20the%20Use%20of%20Locker.pdf" rel="noopener noreferrer nofollow" target="_blank">Policy on the Use of Locker.pdf</a> 
-<br><a href="/files/Personal%20Learning%20Device/Number%20Combination%20Padlock%20User%20Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Number Combination Padlock User Guide.pdf</a>
+<br>
 </p>
-<p>Click&nbsp;<a href="https://drive.google.com/file/d/1LWAO4XOy7URCWjnA1j_KXws_Ub5unzeW/view" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-access the Number Combination Padlock user guide video.</p>
-<h3>Information on student's account</h3>
+<p>Information on student's account</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -70,7 +85,7 @@ access the Number Combination Padlock user guide video.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Zoom Account /
-<br>Google Meet</p>
+<br>Google Meet / Microsoft Teams</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Student iCON email address</p>
