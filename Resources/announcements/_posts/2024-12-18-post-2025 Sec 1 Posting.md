@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>2025 Sec 1 Cut-off Point</strong>
+<p><strong><u>2025 Sec 1 Cut-off Point</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -56,3 +56,8 @@ variant: tiptap
 <p>2025 Sec 1 students and parents are invited to attend a briefing session
 through Zoom on Monday 23 Dec 2024 from 9 am to 11 am. The Zoom link will
 be sent to you through Parent Gateway (PG) notification.</p>
+<p></p>
+<p><strong><u>More Info - view this</u></strong>
+</p>
+<p></p>
+<p></p>
