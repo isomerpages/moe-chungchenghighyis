@@ -82,15 +82,6 @@ variant: tiptap
 </ul>
 </td>
 </tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Briefing for Parents</strong>
@@ -99,12 +90,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>2025 Sec 1 students and parents are invited to attend a briefing session
 through Zoom on Monday 23 Dec 2024 from 9 am to 11 am. The Zoom link will
-be sent to you through Parent Gateway (PG) notification.</p>
+be sent to you through Parents Gateway (PG) notification.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>More Information</strong>
+<p><strong>More Information for 2025 S1 Students &amp; Parents</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -112,8 +103,27 @@ be sent to you through Parent Gateway (PG) notification.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Offer of More Demanding Level subjects (MDL) in EL, MT, Math, Sci</strong>
+</p>
+<p></p>
+<p><strong>Offer of Higher Mother-Tongue Languages</strong>
+</p>
+<p></p>
+<p><strong>Offer of 3<sup>rd</sup> Languages</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents would receive through Parents Gateway (PG) portal from us by 20
+Dec 2024.</p>
+<p></p>
+<p>Please response to the notification to take up the offer if you are eligible.</p>
+</td>
+</tr>
 </tbody>
 </table>
+<hr>
 <hr>
 <p></p>
 <p></p>
