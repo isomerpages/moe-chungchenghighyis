@@ -1,13 +1,13 @@
 ---
-title: 2025 Sec 1 Information
-permalink: /2025-sec-1-information/
+title: 2025 Sec 1 Posting
+permalink: /2025-sec-1-posting/
 date: 2024-12-18
 layout: post
 description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>2025 Sec 1 Cut-off Point</strong>
+<p><strong><u>2025 Sec 1 Cut-off Point</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -50,9 +50,15 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<p>Click on the below link for the 2025 S1 Posting Appeal Form:</p>
 <p><a href="https://form.gov.sg/6762145a16f382acf466373b" rel="noopener nofollow" target="_blank">2025 S1 posting appeal form link</a>
 </p>
 <p></p>
 <p>2025 Sec 1 students and parents are invited to attend a briefing session
 through Zoom on Monday 23 Dec 2024 from 9 am to 11 am. The Zoom link will
 be sent to you through Parent Gateway (PG) notification.</p>
+<p></p>
+<p>Click on the below document for more information:</p>
+<p><a href="/files/Announcements/2025_S1_Posting.pdf" rel="noopener nofollow" target="_blank">2025 S1 Posting</a>
+</p>
+<p></p>
