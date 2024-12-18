@@ -97,7 +97,7 @@ be sent to you through Parent Gateway (PG) notification.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Quick links</strong>
 </p>
 </td>
@@ -107,32 +107,14 @@ be sent to you through Parent Gateway (PG) notification.</p>
 <p><a href="https://form.gov.sg/6762145a16f382acf466373b" rel="noopener nofollow" target="_blank">2025 Sec 1 Posting Appeal Form</a>
 </p>
 </li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
 <li>
 <p><a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">MOE FAS Application Form</a>
 </p>
 </li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.chungchenghighyishun.moe.edu.sg/admission/services/2025booklists/" rel="noopener nofollow" target="_blank">Booklist</a>
 </p>
 </li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.chungchenghighyishun.moe.edu.sg/admission/services/school-attire/" rel="noopener nofollow" target="_blank">School Uniform</a>
 </p>
@@ -142,5 +124,6 @@ be sent to you through Parent Gateway (PG) notification.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
