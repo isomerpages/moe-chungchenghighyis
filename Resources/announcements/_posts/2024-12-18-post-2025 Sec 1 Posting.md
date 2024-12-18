@@ -58,46 +58,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2025 Sec 1 Posting Appeal Form</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/6762145a16f382acf466373b" rel="noopener nofollow" target="_blank">2025 S1 posting appeal form link</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Briefing for Parents</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2025 Sec 1 students and parents are invited to attend a briefing session
-through Zoom on Monday 23 Dec 2024 from 9 am to 11 am. The Zoom link will
-be sent to you through Parent Gateway (PG) notification.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>More Information</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Announcements/2025_S1_Posting.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Posting</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Quick links</strong>
 </p>
 </td>
@@ -124,6 +84,37 @@ be sent to you through Parent Gateway (PG) notification.</p>
 </tr>
 </tbody>
 </table>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Briefing for Parents</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 Sec 1 students and parents are invited to attend a briefing session
+through Zoom on Monday 23 Dec 2024 from 9 am to 11 am. The Zoom link will
+be sent to you through Parent Gateway (PG) notification.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>More Information</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Announcements/2025_S1_Posting.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Posting</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <p></p>
 <p></p>
 <p></p>
