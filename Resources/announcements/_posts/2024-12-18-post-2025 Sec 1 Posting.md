@@ -50,6 +50,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<p>Click on the below link for the 2025 S1 Posting Appeal Form:</p>
 <p><a href="https://form.gov.sg/6762145a16f382acf466373b" rel="noopener nofollow" target="_blank">2025 S1 posting appeal form link</a>
 </p>
 <p></p>
@@ -57,7 +58,7 @@ variant: tiptap
 through Zoom on Monday 23 Dec 2024 from 9 am to 11 am. The Zoom link will
 be sent to you through Parent Gateway (PG) notification.</p>
 <p></p>
-<p><strong><u>More Info - view this</u></strong>
+<p>Click on the below document for more information:</p>
+<p><a href="/files/Announcements/2025_S1_Posting.pdf" rel="noopener nofollow" target="_blank">2025 S1 Posting</a>
 </p>
-<p></p>
 <p></p>
