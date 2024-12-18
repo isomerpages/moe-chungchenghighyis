@@ -115,8 +115,8 @@ be sent to you through Parents Gateway (PG) notification.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents would receive through Parents Gateway (PG) portal from us by 20
-Dec 2024.</p>
+<p>Parents would receive notification from us through Parents Gateway (PG)
+portal by 20 Dec 2024.</p>
 <p></p>
 <p>Please response to the notification to take up the offer if your child
 is eligible.</p>
