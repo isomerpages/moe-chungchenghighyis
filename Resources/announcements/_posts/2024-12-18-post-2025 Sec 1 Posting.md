@@ -122,6 +122,19 @@ portal by 20 Dec 2024.</p>
 is eligible.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Late Application / Appeal to Offer CL (Special Programme), ML (Special Programme), Arabic and Bahasa Indonesia</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For late applications or appeal cases for 2025 Secondary 1 students, please
+complete and submit the late application/ appeal to offer Chinese (Special
+Programme), Malay (Special Programme), Arabic and Bahasa Indonesia online
+application form by 8 January 2025. Students will be notified of the outcome
+by 7 February 2025.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <hr>
