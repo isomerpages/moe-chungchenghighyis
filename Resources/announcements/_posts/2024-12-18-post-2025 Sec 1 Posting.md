@@ -118,7 +118,8 @@ be sent to you through Parents Gateway (PG) notification.</p>
 <p>Parents would receive through Parents Gateway (PG) portal from us by 20
 Dec 2024.</p>
 <p></p>
-<p>Please response to the notification to take up the offer if you are eligible.</p>
+<p>Please response to the notification to take up the offer if your child
+is eligible.</p>
 </td>
 </tr>
 </tbody>
