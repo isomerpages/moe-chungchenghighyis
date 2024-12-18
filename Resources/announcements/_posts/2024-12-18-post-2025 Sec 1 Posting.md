@@ -49,7 +49,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -86,6 +86,4 @@ be sent to you through Parent Gateway (PG) notification.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p></p>
