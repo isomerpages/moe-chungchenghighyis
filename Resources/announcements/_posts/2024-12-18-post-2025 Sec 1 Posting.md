@@ -124,7 +124,7 @@ is eligible.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Late Application / Appeal to Offer CL (Special Programme), ML (Special Programme), Arabic and Bahasa Indonesia</strong>
+<p><strong>Late Application / Appeal to Offer CL (Special Programme), ML (Special Programme), Arabic or Bahasa Indonesia</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
