@@ -58,7 +58,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2025 Sec 1 Posting Appeal Form</p>
+<p><strong>2025 Sec 1 Posting Appeal Form</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/6762145a16f382acf466373b" rel="noopener nofollow" target="_blank">2025 S1 posting appeal form link</a>
@@ -67,7 +68,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Briefing for Parents</p>
+<p><strong>Briefing for Parents</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2025 Sec 1 students and parents are invited to attend a briefing session
@@ -77,7 +79,8 @@ be sent to you through Parent Gateway (PG) notification.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>More Information</p>
+<p><strong>More Information</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Announcements/2025_S1_Posting.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Posting</a>
@@ -86,4 +89,58 @@ be sent to you through Parent Gateway (PG) notification.</p>
 </tr>
 </tbody>
 </table>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="4" colspan="1">
+<p><strong>Quick links</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://form.gov.sg/6762145a16f382acf466373b" rel="noopener nofollow" target="_blank">2025 Sec 1 Posting Appeal Form</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">MOE FAS Application Form</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.chungchenghighyishun.moe.edu.sg/admission/services/2025booklists/" rel="noopener nofollow" target="_blank">Booklist</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.chungchenghighyishun.moe.edu.sg/admission/services/school-attire/" rel="noopener nofollow" target="_blank">School Uniform</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
