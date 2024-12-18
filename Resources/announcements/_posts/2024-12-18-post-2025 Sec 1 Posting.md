@@ -95,7 +95,7 @@ be sent to you through Parents Gateway (PG) notification.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>More Information for 2025 S1 Students &amp; Parents</strong>
+<p><strong>More information for 2025 S1 Students &amp; Parents</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
