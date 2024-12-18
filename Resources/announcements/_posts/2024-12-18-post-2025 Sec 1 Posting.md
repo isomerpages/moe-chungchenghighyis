@@ -125,7 +125,4 @@ is eligible.</p>
 </tbody>
 </table>
 <hr>
-<hr>
-<p></p>
-<p></p>
 <p></p>
