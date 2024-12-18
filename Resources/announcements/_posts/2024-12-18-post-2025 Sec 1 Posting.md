@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11</p>
@@ -33,7 +33,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p>G2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>22</p>
@@ -41,7 +41,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p>G1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>27</p>
@@ -49,16 +49,41 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>Click on the below link for the 2025 S1 Posting Appeal Form:</p>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Sec 1 Posting Appeal Form</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/6762145a16f382acf466373b" rel="noopener nofollow" target="_blank">2025 S1 posting appeal form link</a>
 </p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Briefing for Parents</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2025 Sec 1 students and parents are invited to attend a briefing session
 through Zoom on Monday 23 Dec 2024 from 9 am to 11 am. The Zoom link will
 be sent to you through Parent Gateway (PG) notification.</p>
-<p></p>
-<p>Click on the below document for more information:</p>
-<p><a href="/files/Announcements/2025_S1_Posting.pdf" rel="noopener nofollow" target="_blank">2025 S1 Posting</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>More Information</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Announcements/2025_S1_Posting.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Posting</a>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
