@@ -120,6 +120,9 @@ portal by 20 Dec 2024.</p>
 <p></p>
 <p>Please response to the notification to take up the offer if your child
 is eligible.</p>
+<p></p>
+<p><a href="/files/Announcements/2025_S1_HMT_3rd_lang.pdf" rel="noopener nofollow" target="_blank">2025 S1 HMT 3rd lang</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -132,6 +135,16 @@ is eligible.</p>
 complete and submit this <a href="https://form.gov.sg/67622cdfd17f9b1a4edccc8c" rel="noopener nofollow" target="_blank">Late Application/ Appeal to Offer Chinese (Special Programme), Malay (Special Programme), Arabic or Bahasa Indonesia</a> online
 application form by 8 January 2025. Students will be notified of the outcome
 by 7 February 2025.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Microsite</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://sites.google.com/moe.edu.sg/cchy2025s1posting" rel="noopener nofollow" target="_blank">2025 S1 Posting microsite</a>
+</p>
 </td>
 </tr>
 </tbody>
