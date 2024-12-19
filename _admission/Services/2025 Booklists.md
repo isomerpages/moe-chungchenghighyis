@@ -7,9 +7,6 @@ third_nav_title: Services
 ---
 Please click on the links below to download the documents.
 
-
-[Booklist 2025_CCHY (Final Draft)_S2](/files/Admission/Services/Booklist/Booklist_2025_CCHY__Final_Draft__S2.pdf)
-
 [Booklist 2025_CCHY (Final Draft)_S3NT](/files/Admission/Services/Booklist/Booklist_2025_CCHY__Final_Draft__S3NT.pdf)
 
 [Booklist 2025_CCHY (Final Draft)_S3NA](/files/Admission/Services/Booklist/Booklist_2025_CCHY__Final_Draft__S3NA.pdf)
