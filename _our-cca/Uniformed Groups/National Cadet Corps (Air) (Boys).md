@@ -13,9 +13,8 @@ CCHY NCC (Air) aims to develop resourceful, responsible, and resilient leaders w
 ### Teachers-in-charge
 
 Mr Lim Ying Xuan (IC)   
-Mr Lim Chia Hwee (2IC)  
-Mr Lim Meng Teck<br>
-Mr Sean Lim Jia Hui
+Mr Toh Yong Hock (2IC)  
+Mr Lin Shunyi<br>
 
 ### Training Schedule
 
