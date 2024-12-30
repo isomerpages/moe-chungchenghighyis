@@ -21,7 +21,7 @@ variant: markdown
 | 2025<br>(new*) 	| 4 - 11 | 21 - 22 	| 25 - 27 	|
 | 2024 	| 6 - 12 | 21 - 22 	| 25 - 28 	|
 | 2023 	| 4 - 13 | 21 - 22 	| 25 - 27 	|
-| 2022 	| 5 - 11 	| 21 - 23 	| 25 - 29 	|
+| 2022 	| 5 - 11 	| 21 - 23	 | 25 - 29 	|
 
  *2026 Sec 1 Intake's AL range may vary depends on the demand pattern and cohort size.
 
