@@ -25,7 +25,7 @@ The Outdoor Activities Club (ODAC) was set up to bring out every student’s pot
 ### Teachers-in-charge
 
 Mr Foo Chee Chai (IC)<br> 
-Ms Choo Huier<br>
+Ms Choo Huier (2IC)<br>
 Mr Gary Peh Kai Xiang
 
 ### Training Schedule
