@@ -3,6 +3,7 @@ title: Journalism Club
 permalink: /our-cca/clubs/journalism-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 # Journalism Club
 You may encounter a team of students diligently taking notes, interviewing people and taking photographs during Chinese New Year celebrations, the Chung Cheng Championships, Learning Beyond Classroom Week, National Day Parades and other various school events and occasions.&nbsp;
@@ -19,7 +20,6 @@ To provide a conducive environment that culminates in excellent writing, intervi
 ### Teachers-in-charge
 
 Ms Edina Rahman (IC)   
-Ms Chong Lee Ching (2IC)
 
 
 ### Training Schedule
