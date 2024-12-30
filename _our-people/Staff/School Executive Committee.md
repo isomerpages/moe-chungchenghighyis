@@ -22,7 +22,7 @@ variant: markdown
 | SH Geography 	| Mr 	| Luo Yanjie 	|
 | HOD Mother Tongue Languages<br>(acting) 	| Mdm 	| Sew Mek Len 	|
 | HOD Aesthetics 	| Ms  	| Kwok Kai Hwei   	|
-| SH D&amp;T  	| Mdm  	| Lim Min Hui   	|
+| SH Design and Technology  	| Mdm  	| Lim Min Hui   	|
 | HOD Information &amp; Communications Technology 	| Mr 	| Edwin Ang 	|
 | SH Information &amp; Communications Technology 	| Mr 	| Tay Teck Seng 	|
 | HOD Science<br>(acting) 	| Ms 	| Lee Yanmei 	|
@@ -33,10 +33,10 @@ variant: markdown
 | SH Character &amp; Citizenship Education 	| Ms 	| Nazeema Parveen 	|
 | HOD Student Management 	| Ms 	| Desilu Anne Nair 	|
 | SH Student Management 	| Mr 	| Lim Chia Hwee 	|
-| HOD Physical Education &amp; Co-Curricular Activities 	| Mr 	| Victor Tan 	|
-| SH Physical Education &amp; Co-Curricular Activities 	| Mr 	| Tok Wei Ee Alvin 	|
 | SH Student Leadership 	| Ms 	| Sharizan Sanwan 	|
 | SH Student Well Being and Management 	| Ms 	| Dorothy So Sing Woon 	|
+| HOD Physical Education &amp; Co-Curricular Activities 	| Mr 	| Victor Tan 	|
+| SH Physical Education &amp; Co-Curricular Activities 	| Mr 	| Tok Wei Ee Alvin 	|
 | Year Head Lower Secondary 	| Ms 	| Wong Shing Liu 	|
 | Assistant Year Head Lower Secondary 	| Mr 	| Udayakumar S/O Manogaran 	|
 | Year Head Upper Secondary  	| Ms 	| Kallaivanee 	|
