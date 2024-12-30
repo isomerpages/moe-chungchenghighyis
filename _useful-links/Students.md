@@ -8,6 +8,10 @@ variant: tiptap
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
+<p><a href="/files/e_Handbook.pdf" rel="noopener nofollow" target="_blank">Student Handbook</a>
+</p>
+</li>
+<li>
 <p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">All Ears form builder</a>
 </p>
 </li>
