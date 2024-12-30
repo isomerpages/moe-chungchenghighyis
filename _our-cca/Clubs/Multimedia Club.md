@@ -3,6 +3,7 @@ title: Multimedia Club
 permalink: /our-cca/clubs/multimedia-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 # **Multimedia Club**
 Our Multimedia CCA prides itself on providing efficient and effective audiovisual support for the school. We are incorporating photography and videography aspects into our CCA in 2020 to increase the range of students’ competencies. With sufficient training by professionals and opportunities to participate in various photography competitions, students will be able to hone both their aesthetic sense and technical skill.
@@ -10,7 +11,6 @@ Our Multimedia CCA prides itself on providing efficient and effective audiovisua
 ### Teachers-in-charge
 
 Ms Maria Duvalinda Agahari (IC)   
-Ms Junainah Bte Amran (2IC)   
 
 
 ### Training Schedule
