@@ -12,8 +12,7 @@ Our St John Brigade (SJB) Corp aims to serve mankind with pride and confidence t
 ### Teachers-in-charge
 
 Mrs Peh-Leow Li Yong, Shirley (IC)   
-Ms Isabelle Lim Ji Yu<br>
-Mr Pee Wei Meng
+Ms Isabelle Lim Ji Yu (2IC)<br>
 
 
 ### Training Schedule
