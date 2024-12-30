@@ -22,11 +22,9 @@ variant: markdown
 | Mr | Muhammad Firdaus Abdul Rahim Kamsi | Stem Instructor (Laboratory) |
 | Mr | Lester Sim Xing Chen | Stem Instructor (Laboratory) |
 | Mdm | Lim Wai Yue Chris | Operations Support Officer  (OSO) |
-| Mdm | Lee Bee Eng | Operations Support Officer (OSO) |
-| Mdm | Seah Siew Hwa | Operations Support Officer (OSO) |
 | Mr | Chandrasekran S/O Ramiah | Operations Support Officer (OSO) |
 | Mdm | Soyah Binte Ismail | Operations Support Officer (OSO) |
-| Mdm | Lee Hong Mui | Operations Support Officer (Adjt OSO) |
+| Mdm | Lee Hong Mui | Operations Support Officer (OSO) |
 | Mr | Nagarajan Maniam (Raju) | Desktop Engineer |
 | Mr&nbsp; | Lim Ming Quan&nbsp; | Desktop Engineer&nbsp; |
 | Mdm | Devakumar Manimegalai | Librarian |
