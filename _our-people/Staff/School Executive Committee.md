@@ -24,14 +24,15 @@ variant: markdown
 | HOD Aesthetics 	| Ms  	| Kwok Kai Hwei   	|
 | SH D&amp;T  	| Mdm  	| Lim Min Hui   	|
 | HOD Information &amp; Communications Technology 	| Mr 	| Edwin Ang 	|
-| HOD Science 	| Mr 	| Lim Wee Keong 	|
-| SH Science  	| Ms 	| Lee Yanmei  	|
+| SH Information &amp; Communications Technology 	| Mr 	| Tay Teck Seng 	|
+| HOD Science<br>(acting) 	| Ms 	| Lee Yanmei 	|
+| SH Science<br>(acting)  	| Ms 	| Mellissa Chia Pei Shan  	|
 | HOD Mathematics 	| Mr 	| Tjhin Ke Ming 	|
 | SH Mathematics  	| Ms 	| Ng Bao Xian  	|
 | HOD Character &amp; Citizenship Education 	| Ms 	| Isma Wati Bte Sidik 	|
 | SH Character &amp; Citizenship Education 	| Ms 	| Nazeema Parveen 	|
 | HOD Student Management 	| Ms 	| Desilu Anne Nair 	|
-| SH Student Management (acting) 	| Mr 	| Lim Chia Hwee 	|
+| SH Student Management 	| Mr 	| Lim Chia Hwee 	|
 | HOD Physical Education &amp; Co-Curricular Activities 	| Mr 	| Victor Tan 	|
 | SH Physical Education &amp; Co-Curricular Activities 	| Mr 	| Tok Wei Ee Alvin 	|
 | SH Student Leadership 	| Ms 	| Sharizan Sanwan 	|
