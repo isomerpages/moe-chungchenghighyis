@@ -13,9 +13,8 @@ The Green Club strives to contribute actively to the environment and community t
 
 ### Teachers-in-charge
 
-Ms Lee Yanmei (IC)    
-Mr Whiteway Brett Allan (2IC)<br>
-Mr Tan Jin Poh
+Mr Whiteway Brett Allan (IC)<br>
+Mr Chua Si Yuan (2IC)
 
 
 ### Training Schedule
