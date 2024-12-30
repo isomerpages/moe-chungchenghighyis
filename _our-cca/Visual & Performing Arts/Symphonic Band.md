@@ -34,10 +34,10 @@ variant: markdown
 
 ### Teachers-in-charge
 
-Mr Chia Poh Cheng (IC)   
-Mdm Juaina Bte Ab Hassan    
-Ms Yvonne Suvitha Selvadurai<br>
-Ms Megan Low Ruiqi
+Ms Sharizan Bte Sanwan (IC)   
+Ms Megan Low Ruiqi (2IC)<br>
+Mr Pang Biaojin<br>
+Ms Lee Wen Qing Rachel
 
 ### Training Schedule
 
