@@ -36,6 +36,7 @@ variant: markdown
 | HOD Physical Education &amp; Co-Curricular Activities 	| Mr 	| Victor Tan 	|
 | SH Physical Education &amp; Co-Curricular Activities 	| Mr 	| Tok Wei Ee Alvin 	|
 | SH Student Leadership 	| Ms 	| Sharizan Sanwan 	|
+| SH Student Well Being and Management 	| Ms 	| Dorothy So Sing Woon 	|
 | Year Head Lower Secondary 	| Ms 	| Wong Shing Liu 	|
 | Assistant Year Head Lower Secondary 	| Mr 	| Udayakumar S/O Manogaran 	|
 | Year Head Upper Secondary  	| Ms 	| Kallaivanee 	|
