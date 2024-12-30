@@ -14,7 +14,7 @@ Our close affiliation to the Singapore Police Force exposes our cadets to unique
 ### Teachers-in-charge
 
 Mr Neo Yao Kian Andy (IC)   
-Ms Lim Xiangting   
+Ms Lim Xiangting (2IC)   
 Mr Rudidermawan Khairi
 
 ### Training Schedule
