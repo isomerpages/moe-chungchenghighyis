@@ -19,5 +19,6 @@ variant: markdown
 | Ms Teo Shin Yeow | Mathematics |
 | Ms Lin Xiaoying | Mathematics |
 | Mdm Thian Siaw Fong&nbsp; | CL&nbsp; |
+| Mr Chua Si Yuan&nbsp; | History&nbsp; |
 
 <img src="/images/pavilion.png" style="width:50%">
