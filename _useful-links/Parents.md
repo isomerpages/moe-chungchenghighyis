@@ -6,7 +6,11 @@ variant: tiptap
 ---
 <h1><strong>Useful Links:</strong></h1>
 <h4><strong>Useful Information for all Parents</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -166,7 +170,11 @@ school library and Group Personal Accident Plan for students</p>
 </tbody>
 </table>
 <h4><strong>Information for Secondary 1 Parents</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -207,7 +215,7 @@ Secondary One</p>
 <td rowspan="1" colspan="1">
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p><a href="https://sites.google.com/moe.edu.sg/cchys12024" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 1 Registration</a>
+<p><a href="https://sites.google.com/moe.edu.sg/cchy2025s1posting" rel="noopener noreferrer nofollow" target="_blank">2025 Secondary 1 Registration</a>
 </p>
 </li>
 </ol>
