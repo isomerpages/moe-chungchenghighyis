@@ -15,13 +15,12 @@ variant: markdown
 | Vice-Principal Administration  	| Mr  	| Melvin Cheong  	|
 | Administrative Manager 	| Mdm 	| Chui Su Fun 	|
 | Operations Manager 	| Mr 	| Tok Eng Hin 	|
-| School Staff Developer  	| Mdm 	| Tay Hui Cheng  	|
+| School Staff Developer  	| Mr 	| Lim Wee Keong  	|
 | HOD English &amp; English Literature 	| Mrs 	| Magdalene Goh 	|
 | SH English Literature 	| Ms 	| Chiang Foong Min 	|
 | HOD Humanities 	| Ms 	| Manvinder Kaur 	|
 | SH Geography 	| Mr 	| Luo Yanjie 	|
-| HOD Mother Tongue Languages 	| Mdm 	| Low Geok Ling 	|
-| SH CL 	| Mdm  	| Sew Mek Len   	|
+| HOD Mother Tongue Languages<br>(acting) 	| Mdm 	| Sew Mek Len 	|
 | HOD Aesthetics 	| Ms  	| Kwok Kai Hwei   	|
 | SH D&amp;T  	| Mdm  	| Lim Min Hui   	|
 | HOD Information &amp; Communications Technology 	| Mr 	| Edwin Ang 	|
