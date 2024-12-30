@@ -64,7 +64,7 @@ variant: markdown
 | Mdm Lim  	| Lim Min Hui  	|  	|   	| [lim_minhui@moe.edu.sg](mailto:lim_minhui@moe.edu.sg)  	| 302 |
 | Ms Lim 	| Lim Xiangting 	| 4F 	| NPCC 	| [lim_xiangting@moe.edu.sg](mailto:lim_xiangting@moe.edu.sg) 	| 261 |
 | Mr Lim  	|  Lim Ying Xuan 	| 1C 	| NCC Air (Boys) 	| [lim_ying_xuan@moe.edu.sg](mailto:lim_ying_xuan@moe.edu.sg)  	| 261 |
-| Ms Lin 	| Lin Xiaoying 	| 3B 	| Technopreneur Club 	| [lin_xiaoying@moe.edu.sg](mailto:lin_xiaoying@moe.edu.sg) 	| 273 |
+| Ms Lin 	| Lin Xiaoying 	| 3B 	| Entrepreneur Club 	| [lin_xiaoying@moe.edu.sg](mailto:lin_xiaoying@moe.edu.sg) 	| 273 |
 | Mr Luo 	| Luo Yanjie 	| 3E 	|  	| [luo_yanjie@moe.edu.sg](mailto:luo_yanjie@moe.edu.sg) 	| 256 |
 | Ms Maria 	| Maria Duvalinda Agahari 	| 4F 	| Journalism &amp; Multimedia Club 	| [maria_duvalinda_agahari@moe.edu.sg](mailto:maria_duvalinda_agahari@moe.edu.sg) 	| 253 |
 | Ms Low 	| Megan Low Ruiqi 	| 2D 	| Symphonic Band 	| [megan_low_ruiqi@moe.edu.sg](mailto:megan_low_ruiqi@moe.edu.sg) 	| 256 |
@@ -77,7 +77,7 @@ variant: markdown
  | Ms Fazillah 	| Noor Fazillah Noor Aziz 	| 1B 	| Dance Ensemble 	| [noor_fazillah_noor_aziz@moe.edu.sg](mailto:noor_fazillah_noor_aziz@moe.edu.sg) 	| 253 |
 | Ms Norfida 	| Norfida Alias 	| 2B 	|  	| [norfida_alias@moe.edu.sg](mailto:norfida_alias@moe.edu.sg) 	| 260 |
 | Mrs Shah 	| Norlizawati Juahil 	| 3F 	| Wushu 	| [norlizawati_juahil@moe.edu.sg](mailto:norlizawati_juahil@moe.edu.sg) 	| 255 |
-| Ms Jannah 	| Nur Jannah Noor 	| 4B 	| Technopreneur Club 	| [nur_jannah_noor@moe.edu.sg](mailto:nur_jannah_noor@moe.edu.sg) 	| 276 |
+| Ms Jannah 	| Nur Jannah Noor 	| 4B 	| Entrepreneur Club	| [nur_jannah_noor@moe.edu.sg](mailto:nur_jannah_noor@moe.edu.sg) 	| 276 |
 | Ms Nurulhuda  	| Nurulhuda Binte Khamarudin  	| 2C  	| Peregrine Scouts Group  	| [nurulhuda_khamarudin@moe.edu.sg](mailto:nurulhuda_khamarudin@moe.edu.sg)  	| 262 |
 | Mr Oh 	| Oh Teck Tiong 	| 3G 	|  	| [oh_teck_tiong@moe.edu.sg](mailto:oh_teck_tiong@moe.edu.sg) 	| 269 |
 |  Mr Peh 	| Gary Peh Kaixiang  	|   	| Outdoor Activities Club (ODAC)  	| [gary_peh_kaixiang@moe.edu.sg](mailto:gary_peh_kaixiang@moe.edu.sg)  	| 309 |
