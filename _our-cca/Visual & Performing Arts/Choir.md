@@ -13,8 +13,8 @@ Building bridges through choral excellence
 
 
 ### Teachers-in-charge
-Ms Nur Marlinda Bte Aziz (IC)<br>
-Ms Vasanthi Athiveera Rama Pandian
+Mr Lim Meng Teck (IC)<br>
+Ms Vasanthi Athiveera Rama Pandian (2IC)
 
 ### Training Schedule
 
