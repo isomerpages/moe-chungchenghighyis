@@ -8,7 +8,7 @@ variant: tiptap
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/e_Handbook.pdf" rel="noopener nofollow" target="_blank">Student Handbofileok</a>
+<p><a href="/files/e_Handbook.pdf" rel="noopener nofollow" target="_blank">Student Handbook</a>
 </p>
 </li>
 <li>
