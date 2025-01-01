@@ -36,8 +36,7 @@ at the <u>end of every month</u>.</p>
 <p><a href="/files/CCHY_Acceptable_Use_Policy__AUP_.pdf" rel="noopener noreferrer nofollow" target="_blank">CCHY Acceptab</a>
 <a href="/files/CCHY_Acceptable_Use_Policy__AUP_.pdf" rel="noopener nofollow" target="_blank">le</a><a href="/files/CCHY_Acceptable_Use_Policy__AUP_.pdf" rel="noopener noreferrer nofollow" target="_blank">_Use Polic</a>
 <a href="/files/CCHY_Acceptable_Use_Policy__AUP_.pdf" rel="noopener nofollow" target="_blank">y</a><a href="/files/CCHY_Acceptable_Use_Policy__AUP_.pdf" rel="noopener noreferrer nofollow" target="_blank">_(AUP).pdf</a> 
-<br><a href="/files/CCHY_General_Learning_Routines_with_PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">CCHY General Learning Routines with</a>
-<a href="/files/CCHY_General_Learning_Routines_with_PLD.pdf" rel="noopener nofollow" target="_blank"></a><a href="/files/CCHY_General_Learning_Routines_with_PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD.pdf </a>
+<br><a href="/files/CCHY_General_Learning_Routines_with_PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">CCHY General Learning Routines withPLD.pdf </a>
 <a href="/files/PLD_Initiative_Student_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">PLD_Initiative_Student_Briefing_Slides.pdf</a>
 <br><a href="/files/Personal%20Learning%20Device/PLD_familiarisation_for_students.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD_familiarisation_for_students.pdf</a> 
 <br><a href="/files/Personal%20Learning%20Device/Student%20Device%20Information%20Kit.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit.pdf</a> 
