@@ -37,7 +37,7 @@ at the <u>end of every month</u>.</p>
 </p>
 <p><a href="/files/CCHY_General_Learning_Routines_with_PLD.pdf" rel="noopener nofollow" target="_blank">CCHY General Learning Routines with PLD.pdf</a>
 </p>
-<p><a href="/files/PLD_Initiative_Student_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">PLD Initiative Student Briefing Slides.pdf</a>
+<p><a href="/files/PLD_Initiative_Student_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">PLD Initiative Student Briefing Slides .pdf</a>
 </p>
 <p><a href="/files/Personal%20Learning%20Device/PLD_familiarisation_for_students.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD_familiarisation_for_students.pdf</a> 
 <br><a href="/files/Personal%20Learning%20Device/Student%20Device%20Information%20Kit.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit.pdf</a> 
