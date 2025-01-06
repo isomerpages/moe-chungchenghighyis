@@ -23,32 +23,32 @@ variant: markdown
 |  	| **Name** 	| **Head of Department** 	| **Email** | **Ext** |
 | ---	| ---	| ---	| ---	| ---	|
 | Mr Lim 	| Lim Wee Keong 	| School Staff Developer 	| [lim_wee_keong_a@moe.edu.sg](mailto:lim_wee_keong_a@moe.edu.sg) 	| 213 |
-| Mrs Koh	| Desilu Anne Nair   	| Student Management   	| [desilu_anne_nair@moe.edu.sg](mailto:desilu_anne_nair@moe.edu.sg)   	| 222 |
+| Mrs Koh	| Desilu Anne Nair   	| Student Management   	| [desilu_anne_nair@moe.edu.sg](mailto:desilu_anne_nair@moe.edu.sg)   	| 220 |
 | Mrs Goh  	| Magdalene Goh-Joseph  	| English &amp; English Literature  	| [magdalene_joseph_marimuthu@moe.edu.sg](mailto:magdalene_joseph_marimuthu@moe.edu.sg)  	| 219 |
 | Mdm Sew  	| Sew Mek Len   	| Mother-Tongue Languages (acting)   	| [sew_mek_len@moe.edu.sg](mailto:sew_mek_len@moe.edu.sg)   	| 285 |
 | Mr Tjhin 	| Tjhin Ke Ming 	| Mathematics 	| [tjhin_ke_ming@moe.edu.sg](mailto:tjhin_ke_ming@moe.edu.sg) 	| 209 |
 | Ms Lee 	| Lee Yanmei 	| Science (acting) 	| [lee_yanmei@moe.edu.sg](mailto:lee_yanmei@moe.edu.sg) 	| 259 |
 | Ms Kaur  	| Manvinder Kaur 	| Humanities  	| [manvinder_kaur@moe.edu.sg](mailto:manvinder_kaur@moe.edu.sg)  	| 218 |
-| Mr Tan 	| Victor Tan 	| Physical Education &amp; Co-Curricular Activities 	| [victor_tan@moe.edu.sg](mailto:victor_tan@moe.edu.sg)  	| 217 |
+| Mr Tan 	| Victor Tan 	| Physical Education &amp; Co-Curricular Activities 	| [victor_tan@moe.edu.sg](mailto:victor_tan@moe.edu.sg)  	| 215 |
 | Ms Isma 	| Isma Wati Sidik 	| Character &amp; Citizenship Education  	| [isma_wati_sidik@moe.edu.sg](mailto:isma_wati_sidik@moe.edu.sg)  	| 212 |
 | Mr Ang    	| Ang Hui Jun Edwin 	| Information &amp; Communications Technology 	| [ang_hui_jun_edwin@moe.edu.sg](mailto:ang_hui_jun_edwin@moe.edu.sg) 	| 216 |
 | Ms Kwok  	| Kwok Kai Hwei 	| Aesthetics 	| [kwok_kai_hwei@moe.edu.sg](mailto:kwok_kai_hwei@moe.edu.sg) 	| 215	|
 | Ms Wong 	| Wong Shing Liu  	| Year Head Lower Secondary  	| [wong_shing_liu@moe.edu.sg](mailto:wong_shing_liu@moe.edu.sg)  	| 210 |
-| Ms Vanee	| Kallaivanee Paramaseevan 	| Year Head Upper Secondary 	| [kallaivanee_paramaseevan@moe.edu.sg](mailto:kallaivanee_paramaseevan@moe.edu.sg) 	| 221 |
+| Ms Vanee	| Kallaivanee Paramaseevan 	| Year Head Upper Secondary 	| [kallaivanee_paramaseevan@moe.edu.sg](mailto:kallaivanee_paramaseevan@moe.edu.sg) 	| 211 |
 
 ### Teaching Staff
 
 |  	| Name of Teaching Staff 	| Form Class 	| CCA | Email | Ext |
 | ---	| ---	| ---	| ---	| ---	| ---	|
 | Ms Ang 	| Ang Wee Hoon 	| 4E 	| Volleyball 	| [ang_wee_hoon@moe.edu.sg](mailto:ang_wee_hoon@moe.edu.sg) 	| 275 |
-| Mr White 	| Brett Allan Whiteway 	| 4H 	| Green Club 	| [brett_allan_whiteway@moe.edu.sg](mailto:brett_allan_whiteway@moe.edu.sg) 	| 312 |
+| Mr White 	| Brett Allan Whiteway 	| 4H 	| Green Club 	| [brett_allan_whiteway@moe.edu.sg](mailto:brett_allan_whiteway@moe.edu.sg) 	| 317 |
 | Mrs Goh 	| Chan Bee Lian 	| 4G 	| Volleyball 	| [chan_bee_lian@moe.edu.sg](mailto:chan_bee_lian@moe.edu.sg) 	| 281 |
 | Dr Cheong  	| Cheong Yun Yee  	|  2A 	| Festival Drums  	| [cheong_yun_yee@moe.edu.sg](mailto:cheong_yun_yee@moe.edu.sg)  	| 285 |
 | Ms Chiang 	| Chiang Foong Min 	| 1G 	|  	| [chiang_foong_min@moe.edu.sg](mailto:chiang_foong_min@moe.edu.sg) 	| 259 |
 | Ms Chong 	| Chong Lee Ching 	| 2B 	| Dance Ensemble 	| [chong_lee_ching_a@moe.edu.sg](mailto:chong_lee_ching_a@moe.edu.sg) 	| 278 |
 | Mrs Chua 	| Choo Huier 	| 4E 	| Outdoor Activities Club (ODAC) 	| [choo_huier@moe.edu.sg](mailto:choo_huier@moe.edu.sg) 	| 258 |
 | Mr Chui 	| Chui Ming Fa Benedict 	| 1F 	| Basketball (Boys) 	| [chui_ming_fa_benedict@moe.edu.sg](mailto:chui_ming_fa_benedict@moe.edu.sg) 	| 270 |
-| Ms Edina 	| Edina Rahman 	| 3E 	| Journalism &amp; Multimedia Club 	| [edina_rahman@moe.edu.sg](mailto:edina_rahman@moe.edu.sg) 	| 316 |
+| Ms Edina 	| Edina Rahman 	| 3E 	| Journalism &amp; Multimedia Club 	| [edina_rahman@moe.edu.sg](mailto:edina_rahman@moe.edu.sg) 	| 309 |
 | Mr Foo 	| Foo Chee Chai 	| 4C 	| Outdoor Activities Club (ODAC) 	| [foo_chee_chai@moe.edu.sg](mailto:foo_chee_chai@moe.edu.sg) 	| 280 |
 | Ms Ho 	| Ho Soo Fern 	| 3D 	| Fencing 	| [ho_soo_fern@moe.edu.sg](mailto:ho_soo_fern@moe.edu.sg) 	| 277 |
 | Ms Lim 	| Isabelle Lim Ji Yu 	| 2D 	| St John Brigade 	| [isabelle_lim_ji_yu@moe.edu.sg](mailto:isabelle_lim_ji_yu@moe.edu.sg) 	| 288 |
@@ -69,7 +69,7 @@ variant: markdown
 | Ms Maria 	| Maria Duvalinda Agahari 	| 4F 	| Journalism &amp; Multimedia Club 	| [maria_duvalinda_agahari@moe.edu.sg](mailto:maria_duvalinda_agahari@moe.edu.sg) 	| 253 |
 | Ms Low 	| Megan Low Ruiqi 	| 2D 	| Symphonic Band 	| [megan_low_ruiqi@moe.edu.sg](mailto:megan_low_ruiqi@moe.edu.sg) 	| 256 |
 | Ms Chia 	| Mellissa Chia Pei Shan 	| 4A	| Festival Drums 	| [chia_pei_shan_mellissa@moe.edu.sg](mailto:chia_pei_shan_mellissa@moe.edu.sg) 	| 266 |
-| Ms Nazeema 	| Nazeema Parveen 	| 	|  	| [nazeema_parveen@moe.edu.sg](mailto:nazeema_parveen@moe.edu.sg) 	| 251 |
+| Ms Nazeema 	| Nazeema Parveen 	| 	|  	| [nazeema_parveen@moe.edu.sg](mailto:nazeema_parveen@moe.edu.sg) 	| 252 |
 |  Mr Neo 	| Neo Yao Kian Andy  	| 3A 	| NPCC  	| [neo_yao_kian_andy@moe.edu.sg](mailto:neo_yao_kian_andy@moe.edu.sg)  	| 257 |
 |  Ms Ng 	| Ng Bao Xian  	| 1F 	|   	| [ng_bao_xian@moe.edu.sg](mailto:ng_bao_xian@moe.edu.sg)  	| 275 |
 |  Mdm Ng 	| Ng Bee Eng  	|  	| Chinese Orchestra/Guzheng Ensemble 	| [ng_bee_eng_a_1@moe.edu.sg](mailto:ng_bee_eng_a_1@moe.edu.sg)  	| 312	|
@@ -92,7 +92,7 @@ variant: markdown
 |  Mdm Tan 	| Tan Gek Hong Angela  	| 1E	|  	| [tan_gek_hong_angela@moe.edu.sg](mailto:tan_gek_hong_angela@moe.edu.sg)  	| 268 |
 |  Ms Tan 	| Tan Jie Hui Dorcas  	| 4G 	| Fencing  	| [tan_jie_hui_dorcas@moe.edu.sg](mailto:tan_jie_hui_dorcas@moe.edu.sg)  	| 258 |
 |  Ms Tan 	|  Tan Mui Mui 	| 3G 	| Volleyball 	| [tan_mui_mui_b@moe.edu.sg](mailto:tan_mui_mui_b@moe.edu.sg)  	| 276	|
-|  Mdm Tan 	| Tan Puay Khim  	|   	|   	| [tan_puay_khim@moe.edu.sg](mailto:tan_puay_khim@moe.edu.sg)  	| 314 |
+|  Mdm Tan 	| Tan Puay Khim  	|   	|   	| [tan_puay_khim@moe.edu.sg](mailto:tan_puay_khim@moe.edu.sg)  	| 312 |
 | Ms Tan 	|  Tan Si Min 	| 2H  	| Chinese Dance  	| [tan_si_min@moe.edu.sg](mailto:tan_si_min@moe.edu.sg)  	| 278 |
 | Ms Tan 	|  Tan Wan Ting 	|  	|  	| [tan_wan_ting_e@moe.edu.sg](mailto:tan_wan_ting_e@moe.edu.sg)  	| 327 |
 | Ms Teo 	| Teo Shin Yeow 	| 4D 	| Chinese Dance 	| [teo_shin_yeow@moe.edu.sg](mailto:teo_shin_yeow@moe.edu.sg) 	| 265 |
@@ -105,7 +105,7 @@ variant: markdown
 | Mr Udaya 	| Udayakumar S/O Manogaran 	|  	|  	| [udayakumar_manogaran@moe.edu.sg](mailto:udayakumar_manogaran@moe.edu.sg) 	| 265	|
 | Mdm Vasanthi  	| Vasanthi Athiveera Rama Pandian 	| 1C  	| Choir  	| [vasanthi_athiveera@moe.edu.sg](mailto:vasanthi_athiveera@moe.edu.sg)  	| 270 |
 | Mdm Yeo  	| Yeo Siok Chin  	|   	|   	| [yeo_siok_chin@moe.edu.sg](mailto:yeo_siok_chin@moe.edu.sg)  	| 311	|
-| Mdm Yeoh 	| Yeoh Ai Bee 	|  	|  	| [yeoh_ai_bee@moe.edu.sg](mailto:yeoh_ai_bee@moe.edu.sg) 	| 308	|
+| Mdm Yeoh 	| Yeoh Ai Bee 	|  	|  	| [yeoh_ai_bee@moe.edu.sg](mailto:yeoh_ai_bee@moe.edu.sg) 	| 316	|
 | Ms Zhu 	| Zhu Peilin 	| 1A 	| Chinese Drama 	| [zhu_peilin@moe.edu.sg](mailto:zhu_peilin@moe.edu.sg) 	| 286 |
 
 ### Ailled Educator
