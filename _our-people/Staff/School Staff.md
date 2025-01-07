@@ -92,7 +92,7 @@ variant: markdown
 | Ms Jannah 	| Nur Jannah Noor 	| 4B 	| Entrepreneur Club	| [nur_jannah_noor@moe.edu.sg](mailto:nur_jannah_noor@moe.edu.sg) 	| 276 |
 | Ms Nurulhuda  	| Nurulhuda Binte Khamarudin  	| 2C  	| Peregrine Scouts Group  	| [nurulhuda_khamarudin@moe.edu.sg](mailto:nurulhuda_khamarudin@moe.edu.sg)  	| 262 |
 | Mr Oh 	| Oh Teck Tiong 	| 3F 	|  	| [oh_teck_tiong@moe.edu.sg](mailto:oh_teck_tiong@moe.edu.sg) 	| 269 |
-| Mr Pang 	| Pang Biaojin 	| 1G 	| Symphonic Band 	| [pang_biao_jin@moe.edu.sg](mailto:pang_biaojin@moe.edu.sg) 	| 271 |
+| Mr Pang 	| Pang Biaojin 	| 1G 	| Symphonic Band 	| [pang_biaojin@moe.edu.sg](mailto:pang_biaojin@moe.edu.sg) 	| 271 |
 |  Mr Peh 	| Gary Peh Kaixiang  	| 4A 	| Outdoor Activities Club (ODAC)  	| [gary_peh_kaixiang@moe.edu.sg](mailto:gary_peh_kaixiang@moe.edu.sg)  	| 309 |
 |  Mrs Peh 	|  Peh-Leow Li Yong, Shirley 	|  3A 	| St John Brigade  	| [peh-leow_li_yong_shirley@moe.edu.sg](mailto:peh-leow_li_yong_shirley@moe.edu.sg)  	| 283 |
 | Ms Wong 	| Philina Wong Hai Lin 	| 4H 	| Chinese Orchestra/Guzheng Ensemble 	| [philina_wong_hai_lin@moe.edu.sg](mailto:philina_wong_hai_lin@moe.edu.sg) 	| 283 |
