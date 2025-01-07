@@ -29,7 +29,7 @@ variant: markdown
 | Mr Tjhin 	| Tjhin Ke Ming 	| Mathematics 	| [tjhin_ke_ming@moe.edu.sg](mailto:tjhin_ke_ming@moe.edu.sg) 	| 209 |
 | Ms Lee 	| Lee Yanmei 	| Science (acting) 	| [lee_yanmei@moe.edu.sg](mailto:lee_yanmei@moe.edu.sg) 	| 259 |
 | Ms Kaur  	| Manvinder Kaur 	| Humanities  	| [manvinder_kaur@moe.edu.sg](mailto:manvinder_kaur@moe.edu.sg)  	| 218 |
-| Mr Tan 	| Victor Tan 	| Physical Education &amp; Co-Curricular Activities 	| [victor_tan@moe.edu.sg](mailto:victor_tan@moe.edu.sg)  	| 215 |
+| Mr Tan 	| Victor Tan 	| Physical Education &amp; Co-Curricular Activities 	| [victor_tan@moe.edu.sg](mailto:victor_tan@moe.edu.sg)  	| 217 |
 | Ms Isma 	| Isma Wati Sidik 	| Character &amp; Citizenship Education  	| [isma_wati_sidik@moe.edu.sg](mailto:isma_wati_sidik@moe.edu.sg)  	| 212 |
 | Mr Ang    	| Ang Hui Jun Edwin 	| Information &amp; Communications Technology 	| [ang_hui_jun_edwin@moe.edu.sg](mailto:ang_hui_jun_edwin@moe.edu.sg) 	| 216 |
 | Ms Kwok  	| Kwok Kai Hwei 	| Aesthetics 	| [kwok_kai_hwei@moe.edu.sg](mailto:kwok_kai_hwei@moe.edu.sg) 	| 215	|
