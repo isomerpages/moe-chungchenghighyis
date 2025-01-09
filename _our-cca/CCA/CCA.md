@@ -60,7 +60,7 @@ There are 20 CCAs in CCHY (_see Figure 2_ ). Based on MOE’s guidelines, every 
 
 ![](/images/Our%20CCA/CCA_figure_2_new.jpg)
 
-**5. CCA Schedule 2023**  
+**5. CCA Schedule**  
 *Schedule listed in the tables may be subjected to changes due to school needs.*
 
 | No 	| CCA 	| Day/s 	| Time 	| Venue 	|
