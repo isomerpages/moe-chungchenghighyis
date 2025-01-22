@@ -167,6 +167,19 @@ school library and Group Personal Accident Plan for students</p>
 <p>Parent Spport Group (PSG)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="12" data-tight="true" class="tight">
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/cchys22025" rel="noopener nofollow" target="_blank">Subject Combination and ECG Information</a>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Combination and Career Guidance Information</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Information for Secondary 1 Parents</strong></h4>
