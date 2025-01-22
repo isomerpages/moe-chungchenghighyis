@@ -55,6 +55,10 @@ variant: tiptap
 <p><a href="https://cchy.edupage.org/timetable" rel="noopener noreferrer nofollow" target="_blank">Class Timetable</a>
 </p>
 </li>
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/cchys22025" rel="noopener nofollow" target="_blank">Subject Combination and ECG Information</a>
+</p>
+</li>
 </ol>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/pavilion.png">
