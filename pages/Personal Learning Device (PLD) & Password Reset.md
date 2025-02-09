@@ -29,7 +29,7 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
-<p>To change DMA option, please go to <a href="https://go.gov.sg/cchydma" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cchydma</a>, please
+<p>To change DMA option, please go to <a href="https://go.gov.sg/cchydma25" rel="noopener nofollow" target="_blank">https://go.gov.sg/cchydma25</a>, please
 note that changes to the After-School DMA Options will only take effect
 at the <u>end of every month</u>.</p>
 <h3>Information for students</h3>
