@@ -53,7 +53,6 @@ variant: markdown
 | Mr Chui 	| Chui Ming Fa Benedict 	| 1F 	| Basketball (Boys) 	| [chui_ming_fa_benedict@moe.edu.sg](mailto:chui_ming_fa_benedict@moe.edu.sg) 	| 270 |
 | Ms Edina 	| Edina Rahman 	| 3E 	| Journalism &amp; Multimedia Club 	| [edina_rahman@moe.edu.sg](mailto:edina_rahman@moe.edu.sg) 	| 309 |
 | Mr Foo 	| Foo Chee Chai 	| 4C 	| Outdoor Activities Club (ODAC) 	| [foo_chee_chai@moe.edu.sg](mailto:foo_chee_chai@moe.edu.sg) 	| 280 |
-| Mr Gan 	| Gan Chin Kai 	| 2G 	|  	| [gan_chin_kai_a@moe.edu.sg](mailto:gan_chin_kai_a@moe.edu.sg) 	| 312 |
 | Ms Ho 	| Ho Soo Fern 	| 3D 	| Fencing 	| [ho_soo_fern@moe.edu.sg](mailto:ho_soo_fern@moe.edu.sg) 	| 277 |
 | Ms Lim 	| Isabelle Lim Ji Yu 	| 2D 	| St John Brigade 	| [isabelle_lim_ji_yu@moe.edu.sg](mailto:isabelle_lim_ji_yu@moe.edu.sg) 	| 288 |
 | Mdm Hoong 	| Jeslyn Hoong Siew Choo 	| 2G 	| Wushu 	| [jeslyn_hoong_siew_choo@moe.edu.sg](mailto:jeslyn_hoong_siew_choo@moe.edu.sg) 	| 273 |
