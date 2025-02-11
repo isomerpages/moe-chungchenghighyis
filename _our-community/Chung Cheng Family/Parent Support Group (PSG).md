@@ -25,11 +25,9 @@ Through positive partnership between the school and parents, we aim to be part o
 
 ### CCHY PSG EXCO 2024
 
-![](/images/Our%20Community/Chung%20Cheng%20Family/CCHY_PSG_EXCO_2024__as_of_22Apr2024__Page_1.jpg)
-
-![](/images/Our%20Community/Chung%20Cheng%20Family/CCHY_PSG_EXCO_2024__as_of_22Apr2024__Page_2.jpg)
-
-![](/images/Our%20Community/Chung%20Cheng%20Family/CCHY_PSG_EXCO_2024__as_of_22Apr2024__Page_3.jpg)
+![](/images/Our%20Community/Chung%20Cheng%20Family/CCHY_PSG_EXCO_2024__as_of_11Feb2025__Page_1.jpg)
+![](/images/Our%20Community/Chung%20Cheng%20Family/CCHY_PSG_EXCO_2024__as_of_11Feb2025__Page_2.jpg)
+![](/images/Our%20Community/Chung%20Cheng%20Family/CCHY_PSG_EXCO_2024__as_of_11Feb2025__Page_3.jpg)
 
 Click [here](https://www.facebook.com/profile.php?id=100093399604423&amp;mibextid=ZbWKwL) to visit our Facebook page.
 
