@@ -32,6 +32,10 @@ variant: tiptap
 <p>To change DMA option, please go to <a href="https://go.gov.sg/cchydma25" rel="noopener nofollow" target="_blank">https://go.gov.sg/cchydma25</a>, please
 note that changes to the After-School DMA Options will only take effect
 at the <u>end of every month</u>.</p>
+<p></p>
+<p>To purchase PLD accessories, please create an account in this website
+to purchase it. <a href="https://secured.acer.com.sg/pld" rel="noopener noreferrer nofollow" target="_blank">https://secured.acer.com.sg/pld</a>
+</p>
 <h3>Information for students</h3>
 <p><a href="/files/CCHY_Acceptable_Use_Policy__AUP_.pdf" rel="noopener nofollow" target="_blank">CCHY Acceptable Use Policy (AUP).pdf</a>
 </p>
