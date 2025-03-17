@@ -13,7 +13,6 @@ variant: markdown
 |  | Name | Designation |
 | --- | --- | --- |
 | Mr | Chia Guo Hao | Principal |
-| Mrs | Chong Lai Peng | Vice-Principal Academic 1 |
 | Mr | Woo Lee Yen | Vice-Principal Academic 2 |
 | Mr | Melvin Cheong | Vice-Principal Administration |
 
@@ -83,7 +82,6 @@ variant: markdown
 |  Ms Ng 	| Ng Angie  	| 3C 	|   	| [ng_angie@moe.edu.sg](mailto:ng_angie@moe.edu.sg)  	| 328 |
 |  Ms Ng 	| Ng Bao Xian  	| 1F 	|   	| [ng_bao_xian@moe.edu.sg](mailto:ng_bao_xian@moe.edu.sg)  	| 275 |
 |  Mdm Ng 	| Ng Bee Eng  	|  	| Chinese Orchestra/Guzheng Ensemble 	| [ng_bee_eng_a_1@moe.edu.sg](mailto:ng_bee_eng_a_1@moe.edu.sg)  	| 312	|
-|  Mr Ng 	| Ng Keng Kiat  	|  	|   	| [ng_keng_kiat_a@moe.edu.sg](mailto:ng_keng_kiat_a@moe.edu.sg)  	| 329 |
 | Mr Ng 	| Ng Yee Siong 	| 1E 	| Peregrine Scouts Group 	| [ng_yee_siong@moe.edu.sg](mailto:ng_yee_siong@moe.edu.sg) 	| 279 |
  | Ms Fazillah 	| Noor Fazillah Noor Aziz 	| 1B 	| Dance Ensemble 	| [noor_fazillah_noor_aziz@moe.edu.sg](mailto:noor_fazillah_noor_aziz@moe.edu.sg) 	| 253 |
 | Ms Norfida 	| Norfida Alias 	| 2B 	|  	| [norfida_alias@moe.edu.sg](mailto:norfida_alias@moe.edu.sg) 	| 260 |
