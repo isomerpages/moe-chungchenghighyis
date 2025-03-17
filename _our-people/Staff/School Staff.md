@@ -13,7 +13,6 @@ variant: markdown
 |  | Name | Designation |
 | --- | --- | --- |
 | Mr | Chia Guo Hao | Principal |
-| Mrs | Chong Lai Peng | Vice-Principal Academic 1 |
 | Mr | Woo Lee Yen | Vice-Principal Academic 2 |
 | Mr | Melvin Cheong | Vice-Principal Administration |
 
