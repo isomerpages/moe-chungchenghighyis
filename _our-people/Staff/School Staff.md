@@ -40,7 +40,7 @@ variant: markdown
 |  	| Name of Teaching Staff 	| Form Class 	| CCA | Email | Ext |
 | ---	| ---	| ---	| ---	| ---	| ---	|
 | Ms Ang 	| Ang Wee Hoon 	| 4E 	| Volleyball 	| [ang_wee_hoon@moe.edu.sg](mailto:ang_wee_hoon@moe.edu.sg) 	| 275 |
-| Mr Bong 	| Bong Yi Kuan 	| 2C 	| Peregrine Scouts Group  	| [bong_yi_kuan_a@moe.edu.sg](mailto:bong_yi_kuan_a@moe.edu.sg) 	| 286 |
+| Mr Bong 	| Bong Yi Kuan 	| 2C 	| Peregrine Scouts Group  	| [bong_yi_kuan_1@moe.edu.sg](mailto:bong_yi_kuan_1@moe.edu.sg) 	| 286 |
 | Mr White 	| Brett Allan Whiteway 	| 4H 	| Green Club 	| [brett_allan_whiteway@moe.edu.sg](mailto:brett_allan_whiteway@moe.edu.sg) 	| 317 |
 | Mrs Goh 	| Chan Bee Lian 	| 4G 	| Volleyball 	| [chan_bee_lian@moe.edu.sg](mailto:chan_bee_lian@moe.edu.sg) 	| 281 |
 | Dr Cheong  	| Cheong Yun Yee  	|  2A 	| Festival Drums  	| [cheong_yun_yee@moe.edu.sg](mailto:cheong_yun_yee@moe.edu.sg)  	| 285 |
