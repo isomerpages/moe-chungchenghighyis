@@ -40,7 +40,7 @@ variant: markdown
 |  	| Name of Teaching Staff 	| Form Class 	| CCA | Email | Ext |
 | ---	| ---	| ---	| ---	| ---	| ---	|
 | Ms Ang 	| Ang Wee Hoon 	| 4E 	| Volleyball 	| [ang_wee_hoon@moe.edu.sg](mailto:ang_wee_hoon@moe.edu.sg) 	| 275 |
-| Mr Bong 	| Bong Yi Kuan 	| 2C 	| Peregrine Scouts Group  	| [bong_yi_kuan_a@moe.edu.sg](mailto:bong_yi_kuan_a@moe.edu.sg) 	| 286 |
+| Mr Bong 	| Bong Yi Kuan 	| 2C 	| Peregrine Scouts Group  	| [bong_yi_kuan_1@moe.edu.sg](mailto:bong_yi_kuan_1@moe.edu.sg) 	| 286 |
 | Mr White 	| Brett Allan Whiteway 	| 4H 	| Green Club 	| [brett_allan_whiteway@moe.edu.sg](mailto:brett_allan_whiteway@moe.edu.sg) 	| 317 |
 | Mrs Goh 	| Chan Bee Lian 	| 4G 	| Volleyball 	| [chan_bee_lian@moe.edu.sg](mailto:chan_bee_lian@moe.edu.sg) 	| 281 |
 | Dr Cheong  	| Cheong Yun Yee  	|  2A 	| Festival Drums  	| [cheong_yun_yee@moe.edu.sg](mailto:cheong_yun_yee@moe.edu.sg)  	| 285 |
@@ -119,7 +119,6 @@ variant: markdown
 | Mdm Vasanthi  	| Vasanthi Athiveera Rama Pandian 	| 1C  	| Choir  	| [vasanthi_athiveera@moe.edu.sg](mailto:vasanthi_athiveera@moe.edu.sg)  	| 270 |
  Mr Wimal  	| Wimal Woodward Amaarsuriya  	|   	|   	| [wimal_woodward_amaarsuriya@moe.edu.sg](mailto:wimal_woodward_amaarsuriya@moe.edu.sg)  	| 302	|
 |Mdm Wong  	| Wong Lee Kian  	|   	|   	| [wong_lee_kian_a@moe.edu.sg](mailto:wong_lee_kian_a@moe.edu.sg)  	| 328	|
-|Ms Wu  	| Wu Simin  	|   	|   	| [wu_simin_a@moe.edu.sg](mailto:wu_simin_a@moe.edu.sg)  	| 260	|
 |Mdm Yeo  	| Yeo Siok Chin  	|   	|   	| [yeo_siok_chin@moe.edu.sg](mailto:yeo_siok_chin@moe.edu.sg)  	| 311	|
 | Mdm Yeoh 	| Yeoh Ai Bee 	|  	|  	| [yeoh_ai_bee@moe.edu.sg](mailto:yeoh_ai_bee@moe.edu.sg) 	| 316	|
 | Ms Zhu 	| Zhu Peilin 	| 1A 	| Chinese Drama 	| [zhu_peilin@moe.edu.sg](mailto:zhu_peilin@moe.edu.sg) 	| 286 |
