@@ -119,7 +119,6 @@ variant: markdown
 | Mdm Vasanthi  	| Vasanthi Athiveera Rama Pandian 	| 1C  	| Choir  	| [vasanthi_athiveera@moe.edu.sg](mailto:vasanthi_athiveera@moe.edu.sg)  	| 270 |
  Mr Wimal  	| Wimal Woodward Amaarsuriya  	|   	|   	| [wimal_woodward_amaarsuriya@moe.edu.sg](mailto:wimal_woodward_amaarsuriya@moe.edu.sg)  	| 302	|
 |Mdm Wong  	| Wong Lee Kian  	|   	|   	| [wong_lee_kian_a@moe.edu.sg](mailto:wong_lee_kian_a@moe.edu.sg)  	| 328	|
-|Ms Wu  	| Wu Simin  	|   	|   	| [wu_simin_a@moe.edu.sg](mailto:wu_simin_a@moe.edu.sg)  	| 260	|
 |Mdm Yeo  	| Yeo Siok Chin  	|   	|   	| [yeo_siok_chin@moe.edu.sg](mailto:yeo_siok_chin@moe.edu.sg)  	| 311	|
 | Mdm Yeoh 	| Yeoh Ai Bee 	|  	|  	| [yeoh_ai_bee@moe.edu.sg](mailto:yeoh_ai_bee@moe.edu.sg) 	| 316	|
 | Ms Zhu 	| Zhu Peilin 	| 1A 	| Chinese Drama 	| [zhu_peilin@moe.edu.sg](mailto:zhu_peilin@moe.edu.sg) 	| 286 |
