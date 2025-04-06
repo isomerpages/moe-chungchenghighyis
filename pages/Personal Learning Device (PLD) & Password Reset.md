@@ -140,8 +140,10 @@ validate the new password)</p>
 </ul>
 </li>
 <li>
-<p>To request for MIMS password reset by Student Administrator (SA), click
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSef7YQxPj4RszC1evMGWl8qU43xSjULdYFlLzkiyNDwqNymhQ/viewform" rel="noopener noreferrer nofollow" target="_blank">password reset form</a>.</p>
+<p>Alternatively, proceed to computer lab 2, 3PM to 4PM daily, to change
+your password.</p>
+<p>*Take note that you cannot reset your password using the online password
+reset google form with effect from 6 Apr 2025.</p>
 </li>
 </ul>
 <h3>Issues related to MIMS password&nbsp;</h3>
