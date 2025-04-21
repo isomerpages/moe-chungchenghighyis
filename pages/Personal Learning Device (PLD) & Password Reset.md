@@ -140,7 +140,7 @@ validate the new password)</p>
 </ul>
 </li>
 <li>
-<p>Alternatively, proceed to computer lab 2, 3PM to 4PM daily, to change
+<p>Alternatively, proceed to computer lab 2, 2PM to 4PM daily, to change
 your password.</p>
 <p>*Take note that you cannot reset your password using the online password
 reset google form with effect from 6 Apr 2025.</p>
@@ -150,10 +150,10 @@ reset google form with effect from 6 Apr 2025.</p>
 <p>1. If you cannot login to your personal handphone with your student iCON
 account, please try the following:
 <br>(a) Logout student icon from all devices including your PLD.
-<br>(b) If it is still unsolved, please proceed to Computer Lab 2, 3PM to
+<br>(b) If it is still unsolved, please proceed to Computer Lab 2, 2PM to
 4PM daily for assistance.</p>
 <p>2. If you cannot login to your PLD with new password, please proceed to
-Computer Lab 2, 3PM to 4PM daily for assistance.</p>
+Computer Lab 2, 2PM to 4PM daily for assistance.</p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/pavilion.png">
 </div>
