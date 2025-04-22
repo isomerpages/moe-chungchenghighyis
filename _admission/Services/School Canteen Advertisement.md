@@ -151,3 +151,4 @@ Singapore Food Agency (SFA).</p>
 to provide food sampling for the School Canteen Selection Committee at
 the applicant’s own expense.</p>
 <p></p>
+<p>&lt;img style="width:50%" src="/images/pavilion.png"&gt;</p>
