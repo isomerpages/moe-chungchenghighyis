@@ -60,8 +60,12 @@ third_nav_title: Services
 hard copy from the School’s General Office.</p>
 </li>
 </ol>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Application Form</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Admission/Services/Canteen_Stall_App_Existing_Sch.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
+</p>
+</li>
+</ul>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
