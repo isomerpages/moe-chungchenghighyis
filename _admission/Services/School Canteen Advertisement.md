@@ -121,7 +121,7 @@ consultation with the school.</p>
 <li>
 <p>Able to provide cooked food that meets the health/ nutritional standards
 set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools
-Programme (HMSP) guidelines</p>
+Programme (HMSP) guidelines.</p>
 </li>
 <li>
 <p>Able to maintain high standards of food safety and personal hygiene.</p>
