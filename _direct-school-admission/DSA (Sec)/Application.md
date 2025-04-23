@@ -13,7 +13,7 @@ Applicants who do not have prior experience may also apply.  The school will ass
 
 Follow these steps to apply:
 
-1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Log in to the DSA-Sec portal with your SingPass. Find out [how to register for a Singpass](https://www.singpass.gov.sg/home/ui/register/instructions) (if you don't have one.
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Log in to the DSA-Sec portal with your SingPass. Find out [how to register for a Singpass](https://www.singpass.gov.sg/singpass/common/supportmain) if you don't have one.
 
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can indicate up to 3 choices and 3 talent areas.
 
