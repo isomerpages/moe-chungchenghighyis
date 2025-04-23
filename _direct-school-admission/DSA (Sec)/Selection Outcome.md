@@ -7,7 +7,7 @@ variant: markdown
 ---
 # **Selection Outcome**
 
-**Selection Outcome ( by 9 Sep 2024)**
+**Selection Outcome**
 
 Results will be compiled and applicants will be notified of the selection outcome.
 
