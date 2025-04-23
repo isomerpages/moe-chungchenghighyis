@@ -7,7 +7,7 @@ variant: markdown
 ---
 # **School Allocation Results**
 
-**DSA-Sec Allocation Results Release (late Nov 2024)**
+**DSA-Sec Allocation Results Release**
 
 DSA-Sec candidates studying in MOE mainstream schools will receive their DSA-Sec results together with their PSLE results through their primary schools.
 
