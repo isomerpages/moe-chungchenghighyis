@@ -9,7 +9,7 @@ variant: markdown
 
 **Selection Outcome**
 
-Results will be compiled and applicants will be notified of the selection outcome.
+Results will be compiled and applicants will be notified of the selection outcome.  All applicants will receive their application outcomes between 25 Aug and 4 Sep 2025.
 
 Letters will be issued to all shortlisted DSA-Sec applicants to inform the outcome:
 
