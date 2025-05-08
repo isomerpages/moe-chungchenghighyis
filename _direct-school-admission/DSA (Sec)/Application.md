@@ -7,7 +7,7 @@ variant: markdown
 ---
 # **Application**
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal.&nbsp; The application is free-of-charge.
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal from 7 May 2025, 11am to 3 Jun 2025, 3pm.  The application is free-of-charge.
 
 Applicants who do not have prior experience may also apply.  The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.
 
