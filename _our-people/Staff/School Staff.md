@@ -57,7 +57,6 @@ variant: markdown
 | Mdm Hoong 	| Jeslyn Hoong Siew Choo 	| 2G 	| Wushu 	| [jeslyn_hoong_siew_choo@moe.edu.sg](mailto:jeslyn_hoong_siew_choo@moe.edu.sg) 	| 273 |
 | Dr Jiang 	| Jiang Nan	|  	| Wushu  	| [jiang_nan@moe.edu.sg](mailto:jiang_nan@moe.edu.sg) 	| 279 |
 | Mrs Raja 	| Kamala Davi D/O Vadivaloo 	|  	|  	| [kamala_davi_d_o@moe.edu.sg](mailto:kamala_davi_d_o@moe.edu.sg) 	| 251 |
-| Ms Khoo 	| Khoo Han Zhi 	|  	|  	| [khoo_han_zhi@moe.edu.sg](mailto:khoo_han_zhi@moe.edu.sg) 	| 279 |
 |  Ms Lee  	| Lee Wen QIng Rachel  	| 1D | Symphonic Band  	| [lee_wen_qing_rachel@moe.edu.sg](mailto:lee_wen_qing_rachel@moe.edu.sg)  	| 266 |
 |  Ms Lee  	| Lee Yanmei  	|   	| Green Club  	| [lee_yanmei@moe.edu.sg](mailto:lee_yanmei@moe.edu.sg)  	| 259 |
 | Mr Lim 	| Lim Chia Hwee 	|  	|  	| [lim_chia_hwee@moe.edu.sg](mailto:lim_chia_hwee@moe.edu.sg) 	| 263 |
