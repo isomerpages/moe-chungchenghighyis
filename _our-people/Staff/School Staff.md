@@ -57,7 +57,6 @@ variant: markdown
 | Mdm Hoong 	| Jeslyn Hoong Siew Choo 	| 2G 	| Wushu 	| [jeslyn_hoong_siew_choo@moe.edu.sg](mailto:jeslyn_hoong_siew_choo@moe.edu.sg) 	| 273 |
 | Dr Jiang 	| Jiang Nan	|  	| Wushu  	| [jiang_nan@moe.edu.sg](mailto:jiang_nan@moe.edu.sg) 	| 279 |
 | Mrs Raja 	| Kamala Davi D/O Vadivaloo 	|  	|  	| [kamala_davi_d_o@moe.edu.sg](mailto:kamala_davi_d_o@moe.edu.sg) 	| 251 |
-| Ms Khoo 	| Khoo Han Zhi 	|  	|  	| [khoo_han_zhi@moe.edu.sg](mailto:khoo_han_zhi@moe.edu.sg) 	| 279 |
 |  Ms Lee  	| Lee Wen QIng Rachel  	| 1D | Symphonic Band  	| [lee_wen_qing_rachel@moe.edu.sg](mailto:lee_wen_qing_rachel@moe.edu.sg)  	| 266 |
 |  Ms Lee  	| Lee Yanmei  	|   	| Green Club  	| [lee_yanmei@moe.edu.sg](mailto:lee_yanmei@moe.edu.sg)  	| 259 |
 | Mr Lim 	| Lim Chia Hwee 	|  	|  	| [lim_chia_hwee@moe.edu.sg](mailto:lim_chia_hwee@moe.edu.sg) 	| 263 |
@@ -128,6 +127,7 @@ variant: markdown
 |  	| Name 	| Email (Ext) 	| Ext 	| Areas 	|
 |---	|---	|---	|---	|---	|
 | Mr Raj 	| Rajinder Singh S/O Kashmir Singh 	| [rajinder_singh_kashmir_singh@moe.edu.sg](mailto:rajinder_singh_kashmir_singh@moe.edu.sg) 	| 299	| School Counsellor 	|
+| Mdm Darshana 	| Darshana Priya Daniel 	| [darshana_priya_daniel@moe.edu.sg](mailto:darshana_priya_daniel@moe.edu.sg) 	| 299	| School Counsellor 	|
 | Mr Peh 	| Gary Peh Kaixiang 	| [gary_peh_kaixiang@moe.edu.sg](mailto:gary_peh_kaixiang@moe.edu.sg) 	| 309 | Teaching &amp; Learning 	|
 |  Ms Goh 	|  Goh Shu Xian 	| [goh_shu_xian@moe.edu.sg](mailto:goh_shu_xian@moe.edu.sg)  	|  LBS Room 	|  Senior SEN Officer 	|
 | Ms Yap 	| Yap Hwee Hoon  | [yap_hwee_hoon@schools.gov.sg](mailto:yap_hwee_hoon@schools.gov.sg) 	| 300	| ECG Counsellor 	|

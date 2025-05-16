@@ -31,6 +31,7 @@ variant: markdown
 | Ms | Yap Hwee Hoon&nbsp; | ECG Counsellor |
 | Mdm | Yap Siok Eng&nbsp; | Kitchen Assistant |
 | Ms | Yeong Khar Yee Karol&nbsp; | Printing |
+| Mdm | Fong Yew Lin Maggie&nbsp; | Receptionist |
 
 
 <img src="/images/pavilion.png" style="width:50%">
