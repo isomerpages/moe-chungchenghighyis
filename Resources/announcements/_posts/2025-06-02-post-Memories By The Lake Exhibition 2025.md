@@ -7,6 +7,12 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_05_26_at_19_48_27.jpg">
+</div>
+<p></p>
+<p></p>
 <p><strong><u>Opening Ceremony</u></strong>
 </p>
 <p>Date: 14 June 2025, Saturday, 10am</p>
