@@ -18,6 +18,7 @@ variant: tiptap
 <p></p>
 <p><strong><u>Opening Ceremony</u></strong>
 </p>
+<p>Guest of Honour: Mr Kelvin Lee</p>
 <p>Date: 14 June 2025, Saturday, 10am</p>
 <p>Dress code: Smart casual</p>
 <p>Venue: Gallery by the Lake &amp; Lecture Hall 2</p>
