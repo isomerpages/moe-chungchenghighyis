@@ -12,6 +12,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_05_26_at_19_48_27.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_05_26_at_19_48_25.jpg">
+</div>
 <p></p>
 <p><strong><u>Opening Ceremony</u></strong>
 </p>
