@@ -7,3 +7,16 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong><u>Opening Ceremony</u></strong>
+</p>
+<p>Date: 14 June 2025, Saturday, 10am</p>
+<p>Dress code: Smart casual</p>
+<p>Venue: Gallery by the Lake &amp; Lecture Hall 2</p>
+<p>Chung Cheng High School (Main)</p>
+<p>50 Goodman Road Singapore 439012</p>
+<p></p>
+<p><strong><u>Exhibition</u></strong>
+</p>
+<p>14 June 2025, 10am - 5pm</p>
+<p>15 - 20 June 2025, 11am - 5pm</p>
+<p>21 June 2025, 9am - 12pm</p>
