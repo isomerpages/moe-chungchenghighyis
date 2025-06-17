@@ -5,26 +5,26 @@ description: ""
 third_nav_title: School Direction
 variant: markdown
 ---
-<h1><b>Our Philosophy 办校理念</b></h1>
+<h1><center><b>Our Philosophy 办校理念</b></center></h1>
 
 <center><b>Every Student Matters</b></center>
 <center><b>有教无类</b></center>
-<center><b>Excellence in Education for All through Differentiation</b></center>
+<center><b>Excellence through Differentiation</b></center>
 <center><b>因材施教</b></center>
 
-<h1><b>Our Vision 愿景</b></h1>
+<h1><center><b>Our Vision 愿景</b></center></h1>
 
 <center><b>A community of Future-ready Leaders with a Growth Mindset</b></center>
 	
 <center><b>培养积极进取、面向未来的领袖</b></center>
 
-<h1><b>Our Mission 我们的使命</b></h1>
+<h1><center><b>Our Mission 我们的使命</b></center></h1>
 
 <center><b>Nurturing Lifelong Learners to Serve and to Lead</b></center>
 	
 <center><b>培育致力于服务和引领社稷的终身学习者</b></center>
 
-<h1><b>Our Values 价值观</b></h1>
+<h1><center><b>Our Values 价值观</b></center></h1>
 
 <center><b>With Integrity We Live</b></center>
 <center><b>正直为本</b></center>
