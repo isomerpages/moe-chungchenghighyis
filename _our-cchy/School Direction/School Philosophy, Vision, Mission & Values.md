@@ -9,7 +9,7 @@ variant: markdown
 
 <center><b>Every Student Matters</b></center>
 <center><b>有教无类</b></center>
-<center><b>Excellence in Education for All through Differentiation</b></center>
+<center><b>Excellence through Differentiation</b></center>
 <center><b>因材施教</b></center>
 
 <h1><b>Our Vision 愿景</b></h1>
