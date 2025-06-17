@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Direction
 variant: markdown
 ---
-<h1><b>Our Philosophy 办校理念</b></h1>
+<h1><center><b>Our Philosophy 办校理念</b></center></h1>
 
 <center><b>Every Student Matters</b></center>
 <center><b>有教无类</b></center>
