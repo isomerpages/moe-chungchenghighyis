@@ -11,6 +11,7 @@ variant: markdown
 | --- | --- | --- |
 | Mdm | Chui Su Fun | Administrative Manager |
 | Mr | Tok Eng Hin | Operations Manager |
+| Mr | Chong Kim Bock | Operations Manager |
 | Mr | Ang Toon Siew | ICT Manager |
 | Mdm | Lim Poh Chin | Administrative Executive (AE) |
 | Mdm | Lim Li Jun&nbsp; | Corporate Support Officer (CSO)&nbsp; |
