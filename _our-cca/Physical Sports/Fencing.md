@@ -3,6 +3,7 @@ title: Fencing
 permalink: /our-cca/physical-sports/fencing/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 # **Fencing**
 <img src="/images/Fencing.jpg" style="width:50%">
@@ -13,8 +14,11 @@ Fencing requires one to be alert at all times, with the skills and ability to th
 
 ### Teachers-in-charge
 
-Ms Ho Soo Fern (IC)<br>
-Ms Tan Jie Hui Dorcas (2IC)  
+Ms Tan Jie Hui Dorcas (IC)<br>
+Mdm Lim Min Hui&lt;2IC&gt;<br>
+Ms Ng Angie<br>
+Me Lee Yok Ten
+
 
 ### Training Schedule
 Please click on the link below to view CCA venue &amp; schedule.&nbsp;  
