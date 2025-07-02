@@ -9,9 +9,9 @@ variant: markdown
 
 For any enquiries, do contact the following personnel-in-charge of DSA:
 
-*   Mr. Victor Tan at 6758 3912 ext. 217, email at victor_tan@moe.edu.sg;
+*   Ms Tammie Ho at 6758 3912 ext. 222, email at tammie_ho@moe.edu.sg;
 
-*   Mr. Alvin Tok at 6758 3912 ext. 280, email at tok_wei_ee_alvin@moe.edu.sg;
+*   Mr Alvin Tok at 6758 3912 ext. 280, email at tok_wei_ee_alvin@moe.edu.sg;
 
 *   Please indicate the subject title as ‘*DSA Enquiries*’ in your email;
 
