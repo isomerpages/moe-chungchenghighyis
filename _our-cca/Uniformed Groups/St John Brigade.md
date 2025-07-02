@@ -13,6 +13,7 @@ Our St John Brigade (SJB) Corp aims to serve mankind with pride and confidence t
 
 Mrs Peh-Leow Li Yong, Shirley (IC)   
 Ms Isabelle Lim Ji Yu (2IC)<br>
+Mr Muhammad Syahmi
 
 
 ### Training Schedule
