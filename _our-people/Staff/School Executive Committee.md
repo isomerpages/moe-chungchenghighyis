@@ -14,12 +14,14 @@ variant: markdown
 | Vice-Principal Administration  	| Mr  	| Melvin Cheong  	|
 | Administrative Manager 	| Mdm 	| Chui Su Fun 	|
 | Operations Manager 	| Mr 	| Tok Eng Hin 	|
+| Operations Manager 	| Mr 	| Chong Kim Bock	|
 | School Staff Developer  	| Mr 	| Lim Wee Keong  	|
 | HOD English &amp; English Literature 	| Mrs 	| Magdalene Goh 	|
 | SH English Literature 	| Ms 	| Chiang Foong Min 	|
 | HOD Humanities 	| Ms 	| Manvinder Kaur 	|
 | SH Geography 	| Mr 	| Luo Yanjie 	|
-| HOD Mother Tongue Languages<br>(acting) 	| Mdm 	| Sew Mek Len 	|
+| HOD Mother Tongue Languages<br>(acting) 	| Mdm 	| Thian Siaw Fong 	|
+| SH CL<br>(acting) 	| Mrs 	| Peh Leow Li Yong Shirley 	|
 | HOD Aesthetics 	| Ms  	| Kwok Kai Hwei   	|
 | SH Design and Technology  	| Mdm  	| Lim Min Hui   	|
 | HOD Information &amp; Communications Technology 	| Mr 	| Edwin Ang 	|
@@ -34,7 +36,8 @@ variant: markdown
 | SH Student Management 	| Mr 	| Lim Chia Hwee 	|
 | SH Student Leadership 	| Ms 	| Sharizan Sanwan 	|
 | SH Student Well Being and Management 	| Ms 	| Dorothy So Sing Woon 	|
-| HOD Physical Education &amp; Co-Curricular Activities 	| Mr 	| Victor Tan 	|
+| SH Partnership<br>(acting) 	| Dr 	| Cheong Yun Yee 	|
+| HOD Physical Education &amp; Co-Curricular Activities 	| Ms 	| Tammie Ho Si Ye 	|
 | SH Physical Education &amp; Co-Curricular Activities 	| Mr 	| Tok Wei Ee Alvin 	|
 | Year Head Lower Secondary 	| Ms 	| Wong Shing Liu 	|
 | Assistant Year Head Lower Secondary 	| Mr 	| Udayakumar S/O Manogaran 	|
