@@ -17,9 +17,11 @@ To provide students with basic training in playing Chinese music instruments and
 
 ### Teachers-in-charge
 Ms Philina Wong Hai Lin (IC)    
-Ms Lim Jia Ying (2IC)   
-Mdm Thian Siaw Fong    
-Mdm Ng Bee Eng
+Ms Lim Jia Ying (2IC)<br>
+Mr Teh Mao Zhi<br>
+Ms Ban Xin Yan<br>
+Ms Low Li Shan<br>
+Ms Grace Li Yifei
 
 ### Training Schedule&nbsp;
 
