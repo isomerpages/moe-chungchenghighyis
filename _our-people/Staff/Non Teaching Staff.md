@@ -33,6 +33,9 @@ variant: markdown
 | Mdm | Yap Siok Eng&nbsp; | Kitchen Assistant |
 | Ms | Yeong Khar Yee Karol&nbsp; | Printing |
 | Mdm | Fong Yew Lin Maggie&nbsp; | Receptionist |
+| Ms | Rickie Lai Zi Yi&nbsp; | Temp TSO |
+| Mr | Kang Chern Jun Ecclesias&nbsp; | TSO Intern |
+
 
 
 <img src="/images/pavilion.png" style="width:50%">
