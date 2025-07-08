@@ -7,7 +7,11 @@ variant: markdown
 ---
 # **Contact Us**
 
-For any enquiries, do email us at dsa@cchy.edu.sg
+For any enquiries, do contact the following personnel-in-charge of DSA:
+
+*   Ms Tammie Ho at 6758 3912 ext 222, email at dsa@cchy.edu.sg;
+
+*   Mr Alvin Tok at 6758 3912 ext 280, email at dsa@cchy.edu.sg;
 
 *   Please indicate the subject title as ‘*DSA Enquiries*’ in your email;
 
