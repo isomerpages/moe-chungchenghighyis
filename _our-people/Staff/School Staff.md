@@ -65,7 +65,7 @@ variant: markdown
 | Ms Lee | Lee Wen Qing Rachel  	| 1D | Symphonic Band  	| [lee_wen_qing_rachel@moe.edu.sg](mailto:lee_wen_qing_rachel@moe.edu.sg)  	| 266 |
 | Ms Lee | Lee Yanmei	|   	| Green Club  	| [lee_yanmei@moe.edu.sg](mailto:lee_yanmei@moe.edu.sg)  	| 259 |
 | Mr Lee | Lee Yok Ten |   	| Fencing	| [lee_yok_ten_d@moe.edu.sg](mailto:lee_yok_ten_d@moe.edu.sg)  	| 277 |
-| Ms Li 	| Li Yifei	| 4G 	| Chinese Orchestra/Guzheng Ensemble 	| [li_yifei@moe.edu.sg](mailto:li_yifei@moe.edu.sg) 	| 328 |
+| Ms Li 	| Li Yifei	|  	| Chinese Orchestra/Guzheng Ensemble 	| [li_yifei@moe.edu.sg](mailto:li_yifei@moe.edu.sg) 	| 328 |
 | Mr Lim 	| Lim Chia Hwee 	|  	|  	| [lim_chia_hwee@moe.edu.sg](mailto:lim_chia_hwee@moe.edu.sg) 	| 263 |
 | Mr Lim 	| Lim Cheng Teik Sebastian 	| 1D	| Chinese Drama 	| [lim_cheng_teik_sebastian@moe.edu.sg](mailto:lim_cheng_teik_sebastian@moe.edu.sg) | 303	|
 | Mr Lim 	| Malvin Lim Cheong Beng 	|  	|  	| [malvin_lim_cheong_beng@moe.edu.sg](mailto:malvin_lim_cheong_beng@moe.edu.sg) 	| 301 |
