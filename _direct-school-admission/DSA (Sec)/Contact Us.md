@@ -13,7 +13,7 @@ For any enquiries, do contact the following personnel-in-charge of DSA:
 
 *   Mr Alvin Tok at 6758 3912 ext 280, email at dsa@cchy.edu.sg;
 
-*   Please indicate the subject title as ‘*DSA Enquiries*’ in your email;
+*   Please indicate the subject title as ‘*DSA 2025 -*’ and state the CCA talent area.
 
 *   Call our General Office during office and school hours, from Mon to Fri (except Public Holidays and eve of PHs), 9am to 5pm, at 6758 3912.
 
