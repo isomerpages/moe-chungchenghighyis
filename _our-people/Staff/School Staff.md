@@ -10,11 +10,11 @@ variant: markdown
 ### School Leaders
 
 
-|  | Name | Designation |
-| --- | --- | --- |
-| Mr | Chia Guo Hao | Principal |
-| Mr | Woo Lee Yen | Vice-Principal Academic 2 |
-| Mr | Melvin Cheong | Vice-Principal Administration |
+| Name | Designation |
+| --- | --- |
+| Chia Guo Hao (Mr) | Principal |
+| Woo Lee Yen (Mr) | Vice-Principal Academic 2 |
+| Melvin Cheong (Mr) | Vice-Principal Administration |
 
 
 ### Heads of Department
