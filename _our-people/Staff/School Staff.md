@@ -138,13 +138,13 @@ variant: markdown
 
 ### Ailled Educator
 
-|  	| Name 	| Email (Ext) 	| Ext 	| Areas 	|
-|---	|---	|---	|---	|---	|
-| Mr Raj 	| Rajinder Singh S/O Kashmir Singh 	| [rajinder_singh_kashmir_singh@moe.edu.sg](mailto:rajinder_singh_kashmir_singh@moe.edu.sg) 	| 299	| School Counsellor 	|
-| Mdm Darshana 	| Darshana Priya Daniel 	| [darshana_priya_daniel@moe.edu.sg](mailto:darshana_priya_daniel@moe.edu.sg) 	| 299	| School Counsellor 	|
-| Mr Peh 	| Gary Peh Kaixiang 	| [gary_peh_kaixiang@moe.edu.sg](mailto:gary_peh_kaixiang@moe.edu.sg) 	| 309 | Teaching &amp; Learning 	|
-|  Ms Goh 	|  Goh Shu Xian 	| [goh_shu_xian@moe.edu.sg](mailto:goh_shu_xian@moe.edu.sg)  	|  LBS Room 	|  Senior SEN Officer 	|
-| Ms Yap 	| Yap Hwee Hoon  | [yap_hwee_hoon@schools.gov.sg](mailto:yap_hwee_hoon@schools.gov.sg) 	| 300	| ECG Counsellor 	|
+| Name 	| Email (Ext) 	| Ext 	| Areas 	|
+|---	|---	|---	|---	|
+| Rajinder Singh S/O Kashmir Singh (Mr)	| [rajinder_singh_kashmir_singh@moe.edu.sg](mailto:rajinder_singh_kashmir_singh@moe.edu.sg) 	| 299	| School Counsellor 	|
+| Darshana Priya Daniel (Mdm)	| [darshana_priya_daniel@moe.edu.sg](mailto:darshana_priya_daniel@moe.edu.sg) 	| 299	| School Counsellor 	|
+| Gary Peh Kaixiang (Mr) 	| [gary_peh_kaixiang@moe.edu.sg](mailto:gary_peh_kaixiang@moe.edu.sg) 	| 309 | Teaching &amp; Learning 	|
+|  Goh Shu Xian (Ms) 	| [goh_shu_xian@moe.edu.sg](mailto:goh_shu_xian@moe.edu.sg)  	|  LBS Room 	|  Senior SEN Officer 	|
+| Yap Hwee Hoon (Ms)  | [yap_hwee_hoon@schools.gov.sg](mailto:yap_hwee_hoon@schools.gov.sg) 	| 300	| ECG Counsellor 	|
 
 
 <img src="/images/pavilion.png" style="width:50%">
