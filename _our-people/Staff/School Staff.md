@@ -106,6 +106,7 @@ variant: markdown
 | Ms Raawiyah 	| Raawiyah Hafizah Binte Shahibol Fidillah 	| 2F 	| Volleyball 	| [raawiyah_hafizah_shahibol_fidillah@moe.edu.sg](mailto:raawiyah_hafizah_shahibol_fidillah@moe.edu.sg) 	| 265 |
 | Mr Rudi 	| Rudidermawan Khairi 	| 4D 	| NPCC 	| [rudidermawan_khairi@moe.edu.sg](mailto:rudidermawan_khairi@moe.edu.sg) 	| 252 |
 | Ms Sharizan 	| Sharizan Sanwan 	|  	| Symphonic Band 	| [sharizan_sanwan@moe.edu.sg](mailto:sharizan_sanwan@moe.edu.sg) 	| 255 |
+| Ms Siao	| Siao Rowanne 	| 1C 	|  	| [siao_rowanne@moe.edu.sg](mailto:siao_rowanne@moe.edu.sg) 	| 	|
 | Mr Sim 	| Sim Kok Heng 	|  	|  	| [sim_kok_heng@moe.edu.sg](mailto:sim_kok_heng@moe.edu.sg) 	| 282	|
 | Mr Sim 	| Sim York Sing 	|  	|  	| [sim_york_sing@moe.edu.sg](mailto:sim_york_sing@moe.edu.sg) 	| 313	|
 | Ms So 	| Dorothy So Sing Woon 	| 4C	|  	| [dorothy_so_sing_woon@moe.edu.sg](mailto:dorothy_so_sing_woon@moe.edu.sg) 	| 262	|
@@ -127,7 +128,10 @@ variant: markdown
 | Mr Tok 	| Tok Wei Ee Alvin 	|  	| Basketball (Boys) 	| [tok_wei_ee_alvin@moe.edu.sg](mailto:tok_wei_ee_alvin@moe.edu.sg) 	| 280	|
 | Mr Udaya 	| Udayakumar S/O Manogaran 	|  	|  	| [udayakumar_manogaran@moe.edu.sg](mailto:udayakumar_manogaran@moe.edu.sg) 	| 265	|
 | Mdm Vasanthi  	| Vasanthi Athiveera Rama Pandian 	| 1C  	| Choir  	| [vasanthi_athiveera@moe.edu.sg](mailto:vasanthi_athiveera@moe.edu.sg)  	| 270 |
- Mr Wimal  	| Wimal Woodward Amaarsuriya  	|   	|   	| [wimal_woodward_amaarsuriya@moe.edu.sg](mailto:wimal_woodward_amaarsuriya@moe.edu.sg)  	| 302	|
+| Mr Vinesh 	| Vinesh Ravindiran  	| 2D  |   	| [vinesh_ravindiran@moe.edu.sg](mailto:vinesh_ravindiran@moe.edu.sg)  	| 	|
+| Ms Hui 	| Viola Hui Ying Chee 	| 3D  |   	| [viola_hui_ying_chee@moe.edu.sg](mailto:viola_hui_ying_chee@moe.edu.sg)  	| 	|
+| Mr Wimal  	| Wimal Woodward Amaarsuriya  	|   	|   	| [wimal_woodward_amaarsuriya@moe.edu.sg](mailto:wimal_woodward_amaarsuriya@moe.edu.sg)  	| 302	|
+| Mr Wong 	| Wong Pin Rui Ivan | 3E  |   	| [wong_pin_rui_ivan@moe.edu.sg](mailto:wong_pin_rui_ivan@moe.edu.sg)  	| 279	|
 | Mdm Yeoh 	| Yeoh Ai Bee 	|  	|  	| [yeoh_ai_bee@moe.edu.sg](mailto:yeoh_ai_bee@moe.edu.sg) 	| 316	|
 | Mr Abidin 	| Zainal Abidin Bin Zainuddin	| 	| 	| [zainal_abidin_zainuddin@moe.edu.sg](mailto:zainal_abidin_zainuddin@moe.edu.sg) 	| 251 |
 | Ms Zhu 	| Zhu Peilin 	| 1A 	| Chinese Drama 	| [zhu_peilin@moe.edu.sg](mailto:zhu_peilin@moe.edu.sg) 	| 286 |
