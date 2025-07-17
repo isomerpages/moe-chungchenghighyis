@@ -33,7 +33,7 @@ variant: markdown
 | Ang Hui Jun Edwin (Mr) 	| Information &amp; Communications Technology 	| [ang_hui_jun_edwin@moe.edu.sg](mailto:ang_hui_jun_edwin@moe.edu.sg) 	| 216 |
 | Kwok Kai Hwei (Ms) 	| Aesthetics 	| [kwok_kai_hwei@moe.edu.sg](mailto:kwok_kai_hwei@moe.edu.sg) 	| 215	|
 | Wong Shing Liu (Ms) 	| Year Head Lower Secondary  	| [wong_shing_liu@moe.edu.sg](mailto:wong_shing_liu@moe.edu.sg)  	| 210 |
-| Kallaivanee Paramaseevan (Ms Vanee) | Year Head Upper Secondary 	| [kallaivanee_paramaseevan@moe.edu.sg](mailto:kallaivanee_paramaseevan@moe.edu.sg) 	| 211 |
+| Kallaivanee Paramaseevan (Ms) | Year Head Upper Secondary 	| [kallaivanee_paramaseevan@moe.edu.sg](mailto:kallaivanee_paramaseevan@moe.edu.sg) 	| 211 |
 
 ### Teaching Staff
 
