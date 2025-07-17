@@ -19,21 +19,21 @@ variant: markdown
 
 ### Heads of Department
 
-|  	| **Name** 	| **Head of Department** 	| **Email** | **Ext** |
-| ---	| ---	| ---	| ---	| ---	|
-| Mr Lim 	| Lim Wee Keong 	| School Staff Developer 	| [lim_wee_keong_a@moe.edu.sg](mailto:lim_wee_keong_a@moe.edu.sg) 	| 213 |
-| Mrs Koh	| Desilu Anne Nair   	| Student Management   	| [desilu_anne_nair@moe.edu.sg](mailto:desilu_anne_nair@moe.edu.sg)   	| 220 |
-| Mrs Goh  	| Magdalene Goh-Joseph  	| English &amp; English Literature  	| [magdalene_joseph_marimuthu@moe.edu.sg](mailto:magdalene_joseph_marimuthu@moe.edu.sg)  	| 219 |
-| Mdm Thian  	| Thian Siaw Fong   	| Mother-Tongue Languages (acting)   	| [thian_siaw_fong@moe.edu.sg](mailto:thian_siaw_fong@moe.edu.sg)   	| 286 |
-| Mr Tjhin 	| Tjhin Ke Ming 	| Mathematics 	| [tjhin_ke_ming@moe.edu.sg](mailto:tjhin_ke_ming@moe.edu.sg) 	| 217 |
-| Ms Lee 	| Lee Yanmei 	| Science (acting) 	| [lee_yanmei@moe.edu.sg](mailto:lee_yanmei@moe.edu.sg) 	| 259 |
-| Ms Kaur  	| Manvinder Kaur 	| Humanities  	| [manvinder_kaur@moe.edu.sg](mailto:manvinder_kaur@moe.edu.sg)  	| 218 |
-| Ms Ho 	| Tammie Ho Si Ye 	| Physical Education &amp; Co-Curricular Activities 	| [tammie_ho@moe.edu.sg](mailto:tammie_ho@moe.edu.sg)  	| 222 |
-| Ms Isma 	| Isma Wati Sidik 	| Character &amp; Citizenship Education  	| [isma_wati_sidik@moe.edu.sg](mailto:isma_wati_sidik@moe.edu.sg)  	| 212 |
-| Mr Ang    	| Ang Hui Jun Edwin 	| Information &amp; Communications Technology 	| [ang_hui_jun_edwin@moe.edu.sg](mailto:ang_hui_jun_edwin@moe.edu.sg) 	| 216 |
-| Ms Kwok  	| Kwok Kai Hwei 	| Aesthetics 	| [kwok_kai_hwei@moe.edu.sg](mailto:kwok_kai_hwei@moe.edu.sg) 	| 215	|
-| Ms Wong 	| Wong Shing Liu  	| Year Head Lower Secondary  	| [wong_shing_liu@moe.edu.sg](mailto:wong_shing_liu@moe.edu.sg)  	| 210 |
-| Ms Vanee	| Kallaivanee Paramaseevan 	| Year Head Upper Secondary 	| [kallaivanee_paramaseevan@moe.edu.sg](mailto:kallaivanee_paramaseevan@moe.edu.sg) 	| 211 |
+| **Name** 	| **Head of Department** 	| **Email** | **Ext** |
+| ---	| ---	| ---	| ---	|
+| Lim Wee Keong (Mr) | School Staff Developer 	| [lim_wee_keong_a@moe.edu.sg](mailto:lim_wee_keong_a@moe.edu.sg) 	| 213 |
+| Desilu Anne Nair (Mrs Koh) 	| Student Management   	| [desilu_anne_nair@moe.edu.sg](mailto:desilu_anne_nair@moe.edu.sg)   	| 220 |
+| Magdalene Goh-Joseph (Mrs Goh) | English &amp; English Literature  	| [magdalene_joseph_marimuthu@moe.edu.sg](mailto:magdalene_joseph_marimuthu@moe.edu.sg)  	| 219 |
+| Thian Siaw Fong (Mdm) 	| Mother-Tongue Languages (acting)   	| [thian_siaw_fong@moe.edu.sg](mailto:thian_siaw_fong@moe.edu.sg)   	| 286 |
+| Tjhin Ke Ming (Mr)	| Mathematics 	| [tjhin_ke_ming@moe.edu.sg](mailto:tjhin_ke_ming@moe.edu.sg) 	| 217 |
+| Lee Yanmei (Ms) 	| Science (acting) 	| [lee_yanmei@moe.edu.sg](mailto:lee_yanmei@moe.edu.sg) 	| 259 |
+| Manvinder Kaur (Ms) 	| Humanities  	| [manvinder_kaur@moe.edu.sg](mailto:manvinder_kaur@moe.edu.sg)  	| 218 |
+| Tammie Ho Si Ye (Ms)	| Physical Education &amp; Co-Curricular Activities 	| [tammie_ho@moe.edu.sg](mailto:tammie_ho@moe.edu.sg)  	| 222 |
+| Isma Wati Sidik (Ms)	| Character &amp; Citizenship Education  	| [isma_wati_sidik@moe.edu.sg](mailto:isma_wati_sidik@moe.edu.sg)  	| 212 |
+| Ang Hui Jun Edwin (Mr) 	| Information &amp; Communications Technology 	| [ang_hui_jun_edwin@moe.edu.sg](mailto:ang_hui_jun_edwin@moe.edu.sg) 	| 216 |
+| Kwok Kai Hwei (Ms) 	| Aesthetics 	| [kwok_kai_hwei@moe.edu.sg](mailto:kwok_kai_hwei@moe.edu.sg) 	| 215	|
+| Wong Shing Liu (Ms) 	| Year Head Lower Secondary  	| [wong_shing_liu@moe.edu.sg](mailto:wong_shing_liu@moe.edu.sg)  	| 210 |
+| Kallaivanee Paramaseevan (Ms Vanee) | Year Head Upper Secondary 	| [kallaivanee_paramaseevan@moe.edu.sg](mailto:kallaivanee_paramaseevan@moe.edu.sg) 	| 211 |
 
 ### Teaching Staff
 
