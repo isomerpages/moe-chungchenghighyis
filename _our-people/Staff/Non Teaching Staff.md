@@ -7,34 +7,34 @@ variant: markdown
 ---
 # **Non-Teaching Staff**
 
-|  | Name | Designation |
-| --- | --- | --- |
-| Mdm | Chui Su Fun | Administrative Manager |
-| Mr | Tok Eng Hin | Operations Manager |
-| Mr | Chong Kim Bock | Operations Manager |
-| Mr | Ang Toon Siew | ICT Manager |
-| Mdm | Lim Poh Chin | Administrative Executive (AE) |
-| Mdm | Lim Li Jun&nbsp; | Corporate Support Officer (CSO)&nbsp; |
-| Mdm | Lee Boon See Janet&nbsp; | Corporate Support Officer (CSO)&nbsp; |
-| Ms | Yip Yoke Ping Chris | Corporate Support Officer (CSO)&nbsp; |
-| Mr | Yeo Chung Beng | Stem Instructor (Workshop) |
-| Mr | Rosman Bin Rais | Stem Instructor (Workshop) |
-| Ms | Ashwini K Gopinathan | Stem Instructor (Laboratory) |
-| Mr | Muhammad Firdaus Abdul Rahim Kamsi | Stem Instructor (Laboratory) |
-| Mr | Lester Sim Xing Chen | Stem Instructor (Laboratory) |
-| Mdm | Lim Wai Yue Chris | Operations Support Officer  (OSO) |
-| Mr | Chandrasekran S/O Ramiah | Operations Support Officer (OSO) |
-| Mdm | Soyah Binte Ismail | Operations Support Officer (OSO) |
-| Mdm | Lee Hong Mui | Operations Support Officer (OSO) |
-| Mr | Nagarajan Maniam (Raju) | Desktop Engineer |
-| Mr&nbsp; | Lim Ming Quan&nbsp; | Desktop Engineer&nbsp; |
-| Mdm | Devakumar Manimegalai | Librarian |
-| Ms | Yap Hwee Hoon&nbsp; | ECG Counsellor |
-| Mdm | Yap Siok Eng&nbsp; | Kitchen Assistant |
-| Ms | Yeong Khar Yee Karol&nbsp; | Printing |
-| Mdm | Fong Yew Lin Maggie&nbsp; | Receptionist |
-| Ms | Rickie Lai Zi Yi&nbsp; | Temp TSO |
-| Mr | Kang Chern Jun Ecclesias&nbsp; | TSO Intern |
+| Name | Designation |
+| --- | --- |
+| Chui Su Fun (Ms) | Administrative Manager |
+| Tok Eng Hin (Mr) | Operations Manager |
+| Chong Kim Bock (Mr) | Operations Manager |
+| Ang Toon Siew (Mr) | ICT Manager |
+| Lim Poh Chin (Ms) | Administrative Executive (AE) |
+| Lim Li Jun (Ms) | Corporate Support Officer (CSO)&nbsp; |
+| Lee Boon See Janet (Ms) | Corporate Support Officer (CSO)&nbsp; |
+| Yip Yoke Ping Chris (Ms) | Corporate Support Officer (CSO)&nbsp; |
+| Yeo Chung Beng (Mr) | Stem Instructor (Workshop) |
+| Rosman Bin Rais (Mr) | Stem Instructor (Workshop) |
+| Ashwini K Gopinathan (Ms) | Stem Instructor (Laboratory) |
+| Muhammad Firdaus Abdul Rahim Kamsi (Mr) | Stem Instructor (Laboratory) |
+| Lester Sim Xing Chen (Mr) | Stem Instructor (Laboratory) |
+| Lim Wai Yue Chris (Ms) | Operations Support Officer  (OSO) |
+| Chandrasekran S/O Ramiah (Mr) | Operations Support Officer (OSO) |
+| Soyah Binte Ismail (Mdm) | Operations Support Officer (OSO) |
+| Lee Hong Mui (Ms) | Operations Support Officer (OSO) |
+| Nagarajan Maniam (Mr Raju) | Desktop Engineer |
+| Lim Ming Quan (Mr) | Desktop Engineer&nbsp; |
+| Devakumar Manimegalai (Mdm) | Librarian |
+| Yap Hwee Hoon (Ms) | ECG Counsellor |
+| Yap Siok Eng (Mdm) | Kitchen Assistant |
+| Yeong Khar Yee Karol (Ms) | Printing |
+| Fong Yew Lin Maggie (Mdm) | Receptionist |
+| Rickie Lai Zi Yi (Ms) | Temp TSO |
+| Kang Chern Jun Ecclesias (Mr) | TSO Intern |
 
 
 
