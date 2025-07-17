@@ -10,15 +10,15 @@ variant: markdown
 
 | Name of Lead Teacher  (LT) | Teaching Subject |
 | --- | --- |
-| Mr Oh Teck Tiong | Physics |
-| Mdm Tan Gek Hong Angela | English Language &amp; Literature |
+| Oh Teck Tiong (Mr) | Physics |
+| Tan Gek Hong Angela (Mdm) | English Language &amp; Literature |
 
 
 | Name of Senior Teacher (ST) | Teaching Subject |
 | --- | --- |
-| Ms Teo Shin Yeow | Mathematics |
-| Ms Lin Xiaoying | Mathematics |
-| Mdm Thian Siaw Fong&nbsp; | CL&nbsp; |
-| Mr Chua Si Yuan&nbsp; | History&nbsp; |
+| Teo Shin Yeow (Ms) | Mathematics |
+| Lin Xiaoying (Ms) | Mathematics |
+| Thian Siaw Fong (Mdm) | CL |
+| Chua Si Yuan (Mr) | History |
 
 <img src="/images/pavilion.png" style="width:50%">
