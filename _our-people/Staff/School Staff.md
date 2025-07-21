@@ -39,7 +39,6 @@ variant: markdown
 
 | Name of Teaching Staff 	| Form Class 	| CCA | Email | Ext |
 | ---	| ---	| ---	| ---	| ---	|
-| Adoncia Lim Hwee (Ms) 	| 2H 	| Symphonic Band 	| [adoncia_lim_hwee@moe.edu.sg](mailto:adoncia_lim_hwee@moe.edu.sg) 	| 313 |
 | Ahmad Syafiq Bin Amiruddin (Mr) 	| 4B 	| Symphonic Band 	| [ahmad_syafiq_amiruddin@moe.edu.sg](mailto:ahmad_syafiq_amiruddin@moe.edu.sg) 	| 313 |
 | Ang Wee Hoon (Ms) 	| 4E 	| Volleyball 	| [ang_wee_hoon@moe.edu.sg](mailto:ang_wee_hoon@moe.edu.sg) 	| 275 |
 | Azmira Binte Zailan (Ms)  |  	|  	| [azmira_binte_zailan@moe.edu.sg](mailto:azmira_binte_zailan@moe.edu.sg) 	| 312 |
