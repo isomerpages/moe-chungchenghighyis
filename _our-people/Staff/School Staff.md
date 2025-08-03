@@ -81,7 +81,6 @@ variant: markdown
 | Low Li Shan (Ms) 	|  	| Chinese Orchestra/Guzheng Ensemble 	| [low_li_shan@moe.edu.sg](mailto:low_li_shan@moe.edu.sg) 	| 285 |
 | Luo Yanjie (Mr) 	| 3G 	|  	| [luo_yanjie@moe.edu.sg](mailto:luo_yanjie@moe.edu.sg) 	| 256 |
 | Maria Duvalinda Agahari (Ms) 	| 4F 	| Journalism &amp; Multimedia Club 	| [maria_duvalinda_agahari@moe.edu.sg](mailto:maria_duvalinda_agahari@moe.edu.sg) 	| 253 |
-| Megan Low Ruiqi (Ms) 	| 2D 	| Symphonic Band 	| [megan_low_ruiqi@moe.edu.sg](mailto:megan_low_ruiqi@moe.edu.sg) 	| 256 |
 | Mellissa Chia Pei Shan (Ms) 	| 4A	| Festival Drums 	| [chia_pei_shan_mellissa@moe.edu.sg](mailto:chia_pei_shan_mellissa@moe.edu.sg) 	| 266 |
 | Muhammad Syahmi Bin Haniss (Mr) 	| 3B	| St John Brigade	| [muhammad_syahmi_haniss@moe.edu.sg](mailto:muhammad_syahmi_haniss@moe.edu.sg) 	|  |
 | Nazeema Parveen (Ms) 	| 	|  	| [nazeema_parveen@moe.edu.sg](mailto:nazeema_parveen@moe.edu.sg) 	| 252 |
