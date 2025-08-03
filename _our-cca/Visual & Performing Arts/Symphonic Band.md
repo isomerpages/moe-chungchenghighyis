@@ -35,7 +35,6 @@ variant: markdown
 ### Teachers-in-charge
 
 Ms Sharizan Bte Sanwan (IC)   
-Ms Megan Low Ruiqi (2IC)<br>
 Mr Pang Biaojin<br>
 Ms Lee Wen Qing Rachel<br>
 Ms Adoncia Lim Hwee<br>
