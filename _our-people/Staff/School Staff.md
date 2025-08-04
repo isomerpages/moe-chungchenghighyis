@@ -47,6 +47,7 @@ variant: markdown
 | Bong Yi Kuan (Mr)	| 2C 	| Peregrine Scouts Group  	| [bong_yi_kuan_1@moe.edu.sg](mailto:bong_yi_kuan_1@moe.edu.sg) 	| 286 |
 | Brett Allan Whiteway (Mr)	| 4H 	| Green Club 	| [brett_allan_whiteway@moe.edu.sg](mailto:brett_allan_whiteway@moe.edu.sg) 	| 317 |
 | Chan Bee Lian (Mrs Goh)	| 4G 	| Volleyball 	| [chan_bee_lian@moe.edu.sg](mailto:chan_bee_lian@moe.edu.sg) 	| 281 |
+| Chee Hui Ying, Viola (Ms) 	| 3D  |   	| [viola_hui_ying_chee@moe.edu.sg](mailto:viola_hui_ying_chee@moe.edu.sg)  	| 	|
 | Cheong Yun Yee (Dr)	|  2A 	| Festival Drums  	| [cheong_yun_yee@moe.edu.sg](mailto:cheong_yun_yee@moe.edu.sg)  	| 285 |
 | Chew Joke (Mdm)	|  	|  	| [chew_joke@moe.edu.sg](mailto:chew_joke@moe.edu.sg) 	| 279 |
 | Chiang Foong Min (Ms)	| 1G 	|  	| [chiang_foong_min@moe.edu.sg](mailto:chiang_foong_min@moe.edu.sg) 	| 259 |
@@ -81,7 +82,6 @@ variant: markdown
 | Low Li Shan (Ms) 	|  	| Chinese Orchestra/Guzheng Ensemble 	| [low_li_shan@moe.edu.sg](mailto:low_li_shan@moe.edu.sg) 	| 285 |
 | Luo Yanjie (Mr) 	| 3G 	|  	| [luo_yanjie@moe.edu.sg](mailto:luo_yanjie@moe.edu.sg) 	| 256 |
 | Maria Duvalinda Agahari (Ms) 	| 4F 	| Journalism &amp; Multimedia Club 	| [maria_duvalinda_agahari@moe.edu.sg](mailto:maria_duvalinda_agahari@moe.edu.sg) 	| 253 |
-| Megan Low Ruiqi (Ms) 	| 2D 	| Symphonic Band 	| [megan_low_ruiqi@moe.edu.sg](mailto:megan_low_ruiqi@moe.edu.sg) 	| 256 |
 | Mellissa Chia Pei Shan (Ms) 	| 4A	| Festival Drums 	| [chia_pei_shan_mellissa@moe.edu.sg](mailto:chia_pei_shan_mellissa@moe.edu.sg) 	| 266 |
 | Muhammad Syahmi Bin Haniss (Mr) 	| 3B	| St John Brigade	| [muhammad_syahmi_haniss@moe.edu.sg](mailto:muhammad_syahmi_haniss@moe.edu.sg) 	|  |
 | Nazeema Parveen (Ms) 	| 	|  	| [nazeema_parveen@moe.edu.sg](mailto:nazeema_parveen@moe.edu.sg) 	| 252 |
@@ -129,7 +129,6 @@ variant: markdown
 | Udayakumar S/O Manogaran (Mr) 	|  	|  	| [udayakumar_manogaran@moe.edu.sg](mailto:udayakumar_manogaran@moe.edu.sg) 	| 265	|
 | Vasanthi Athiveera Rama Pandian (Mdm) 	| 1C  	| Choir  	| [vasanthi_athiveera@moe.edu.sg](mailto:vasanthi_athiveera@moe.edu.sg)  	| 270 |
 | Vinesh Ravindiran (Mr)  	| 2D  |   	| [vinesh_ravindiran@moe.edu.sg](mailto:vinesh_ravindiran@moe.edu.sg)  	| 	|
-| Viola Hui Ying Chee (Ms) 	| 3D  |   	| [viola_hui_ying_chee@moe.edu.sg](mailto:viola_hui_ying_chee@moe.edu.sg)  	| 	|
 | Wimal Woodward Amaarsuriya (Mr) 	|   	|   	| [wimal_woodward_amaarsuriya@moe.edu.sg](mailto:wimal_woodward_amaarsuriya@moe.edu.sg)  	| 302	|
 | Wong Pin Rui Ivan (Mr) | 3E  |   	| [wong_pin_rui_ivan@moe.edu.sg](mailto:wong_pin_rui_ivan@moe.edu.sg)  	| 279	|
 | Yeoh Ai Bee (Mdm) 	|  	|  	| [yeoh_ai_bee@moe.edu.sg](mailto:yeoh_ai_bee@moe.edu.sg) 	| 316	|
