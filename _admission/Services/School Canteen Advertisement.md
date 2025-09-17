@@ -139,4 +139,5 @@ Singapore Food Agency (SFA).</p>
 <p>Shortlisted applicants will be notified for an interview and will be required
 to provide food sampling for the School Canteen Selection Committee at
 the applicant’s own expense.</p>
+<p>![](<a href="https://raw.githubusercontent.com/isomerpages/moe-chungchenghighyis/staging/images/pavilion.png" rel="noopener noreferrer nofollow" target="_blank">https://raw.githubusercontent.com/isomerpages/moe-chungchenghighyis/staging/images/pavilion.png</a>)</p>
 <p></p>
