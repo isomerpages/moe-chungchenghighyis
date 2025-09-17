@@ -43,7 +43,6 @@ variant: markdown
 | Ang Wee Hoon (Ms) 	| 4E 	| Volleyball 	| [ang_wee_hoon@moe.edu.sg](mailto:ang_wee_hoon@moe.edu.sg) 	| 275 |
 | Azmira Binte Zailan (Ms)  |  	|  	| [azmira_binte_zailan@moe.edu.sg](mailto:azmira_binte_zailan@moe.edu.sg) 	| 312 |
 | Ban Xin Yan (Ms) 	| 2F 	| Chinese Orchestra/Guzheng Ensemble 	| [ban_xin_yan@moe.edu.sg](mailto:ban_xin_yan@moe.edu.sg) 	| 315 |
-| Boey Kim Bee (Ms)	|  	|  	| [boey_kim_bee_b@moe.edu.sg](mailto:boey_kim_bee_b@moe.edu.sg) 	| 311 |
 | Bong Yi Kuan (Mr)	| 2C 	| Peregrine Scouts Group  	| [bong_yi_kuan_1@moe.edu.sg](mailto:bong_yi_kuan_1@moe.edu.sg) 	| 286 |
 | Brett Allan Whiteway (Mr)	| 4H 	| Green Club 	| [brett_allan_whiteway@moe.edu.sg](mailto:brett_allan_whiteway@moe.edu.sg) 	| 317 |
 | Chan Bee Lian (Mrs Goh)	| 4G 	| Volleyball 	| [chan_bee_lian@moe.edu.sg](mailto:chan_bee_lian@moe.edu.sg) 	| 281 |
@@ -109,7 +108,6 @@ variant: markdown
 | Shivaani D/O Thiagayson (Ms)	| 4H 	|  	| [shivanni_thiagayson@moe.edu.sg](mailto:shivaani_thiagayson@moe.edu.sg) 	| 256	|
 | Siao Rowanne (Ms)	| 1C 	|  	| [siao_rowanne@moe.edu.sg](mailto:siao_rowanne@moe.edu.sg) 	| 	|
 | Sim Kok Heng (Mr) 	|  	|  	| [sim_kok_heng@moe.edu.sg](mailto:sim_kok_heng@moe.edu.sg) 	| 282	|
-| Sim York Sing (Mr)	|  	|  	| [sim_york_sing@moe.edu.sg](mailto:sim_york_sing@moe.edu.sg) 	| 313	|
 | Dorothy So Sing Woon (Ms) 	| 4C	|  	| [dorothy_so_sing_woon@moe.edu.sg](mailto:dorothy_so_sing_woon@moe.edu.sg) 	| 262	|
 | Tan Gek Hong Angela (Mdm) 	| 1E	|  	| [tan_gek_hong_angela@moe.edu.sg](mailto:tan_gek_hong_angela@moe.edu.sg)  	| 268 |
 | Tan Jie Hui Dorcas (Ms)  	|  	| Fencing  	| [tan_jie_hui_dorcas@moe.edu.sg](mailto:tan_jie_hui_dorcas@moe.edu.sg)  	| 258 |
