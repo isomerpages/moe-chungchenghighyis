@@ -133,8 +133,10 @@ Food Hygiene Certificate.</p>
 <li>
 <p>Successful applicant is required to apply for a food stall license from
 Singapore Food Agency (SFA).</p>
+<p></p>
 </li>
 </ul>
+<p>Shortlisted applicants will be notified for an interview and will be required
+to provide food sampling for the School Canteen Selection Committee at
+the applicant’s own expense.</p>
 <p></p>
-<p></p>
-<p><a href="https://raw.githubusercontent.com/isomerpages/moe-chungchenghighyis/staging/images/pavilion.png" rel="noopener noreferrer nofollow" target="_blank">isomerpages/moe-chungchenghighyis/staging/images/pavilion.png</a>)</p>
