@@ -104,7 +104,7 @@ variant: markdown
 | Raawiyah Hafizah Binte Shahibol Fidillah (Ms) 	| 2F 	| Volleyball 	| [raawiyah_hafizah_shahibol_fidillah@moe.edu.sg](mailto:raawiyah_hafizah_shahibol_fidillah@moe.edu.sg) 	| 265 |
 | Rudidermawan Khairi (Mr)	| 4D 	| NPCC 	| [rudidermawan_khairi@moe.edu.sg](mailto:rudidermawan_khairi@moe.edu.sg) 	| 252 |
 | Sharizan Sanwan (Ms) 	|  	| Symphonic Band 	| [sharizan_sanwan@moe.edu.sg](mailto:sharizan_sanwan@moe.edu.sg) 	| 255 |
-| Shivaani D/O Thiagayson (Ms)	| 4H 	|  	| [shivanni_thiagayson@moe.edu.sg](mailto:shivaani_thiagayson@moe.edu.sg) 	| 256	|
+| Shivaani D/O Thiagayson (Ms)	| 4H 	| Festival Drums 	| [shivanni_thiagayson@moe.edu.sg](mailto:shivaani_thiagayson@moe.edu.sg) 	| 256	|
 | Siao Rowanne (Ms)	| 1C 	|  	| [siao_rowanne@moe.edu.sg](mailto:siao_rowanne@moe.edu.sg) 	| 	|
 | Sim Kok Heng (Mr) 	|  	|  	| [sim_kok_heng@moe.edu.sg](mailto:sim_kok_heng@moe.edu.sg) 	| 282	|
 | Dorothy So Sing Woon (Ms) 	| 4C	|  	| [dorothy_so_sing_woon@moe.edu.sg](mailto:dorothy_so_sing_woon@moe.edu.sg) 	| 262	|
