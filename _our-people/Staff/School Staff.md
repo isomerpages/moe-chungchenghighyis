@@ -47,7 +47,6 @@ variant: markdown
 | Brett Allan Whiteway (Mr)	| 4H 	| Green Club 	| [brett_allan_whiteway@moe.edu.sg](mailto:brett_allan_whiteway@moe.edu.sg) 	| 317 |
 | Chan Bee Lian (Mrs Goh)	| 4G 	| Volleyball 	| [chan_bee_lian@moe.edu.sg](mailto:chan_bee_lian@moe.edu.sg) 	| 281 |
 | Chee Hui Ying, Viola (Ms) 	| 3D  |   	| [viola_hui_ying_chee@moe.edu.sg](mailto:viola_hui_ying_chee@moe.edu.sg)  	| 	|
-| Cheong Yun Yee (Dr)	|  2A 	| Festival Drums  	| [cheong_yun_yee@moe.edu.sg](mailto:cheong_yun_yee@moe.edu.sg)  	| 285 |
 | Chew Joke (Mdm)	|  	|  	| [chew_joke@moe.edu.sg](mailto:chew_joke@moe.edu.sg) 	| 279 |
 | Chiang Foong Min (Ms)	| 1G 	|  	| [chiang_foong_min@moe.edu.sg](mailto:chiang_foong_min@moe.edu.sg) 	| 259 |
 | Chin Xin Yee (Ms)	|  	|  	| [chin_xin_yee_a@moe.edu.sg](mailto:chin_xin_yee_a@moe.edu.sg) 	| 311 |
