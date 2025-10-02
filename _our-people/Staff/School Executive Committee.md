@@ -36,7 +36,6 @@ variant: markdown
 | SH Student Management 	| Mr 	| Lim Chia Hwee 	|
 | SH Student Leadership 	| Ms 	| Sharizan Sanwan 	|
 | SH Student Well Being and Management 	| Ms 	| Dorothy So Sing Woon 	|
-| SH Partnership<br>(acting) 	| Dr 	| Cheong Yun Yee 	|
 | HOD Physical Education &amp; Co-Curricular Activities 	| Ms 	| Tammie Ho Si Ye 	|
 | SH Physical Education &amp; Co-Curricular Activities 	| Mr 	| Tok Wei Ee Alvin 	|
 | Year Head Lower Secondary 	| Ms 	| Wong Shing Liu 	|
