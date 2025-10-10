@@ -3,6 +3,7 @@ title: Festival Drums
 permalink: /our-cca/visual-performing-arts/festival-drums/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 # **Festival Drums**
 
@@ -26,8 +27,8 @@ Our Group is unique in that our performing style is based on the combination of 
 
 ### Teachers-in-charge
 
-Ms Mellissa Chia Pei Shan (IC)   
-Dr Cheong Yun Yee (2IC)
+Ms Mellissa Chia Pei Shan (IC)
+Ms Shivaani D/O Thiagayson
 
 ### Training Schedule
 
