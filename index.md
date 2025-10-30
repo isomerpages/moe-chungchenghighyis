@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/CCHY_Open_House_2025_banner.jpg
+      background: /images/website banner.gif
       key_highlights:
         - title: For Students
           description: ""
