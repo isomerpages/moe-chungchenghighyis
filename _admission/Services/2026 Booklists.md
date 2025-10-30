@@ -7,23 +7,16 @@ third_nav_title: Services
 ---
 Please click on the links below to download the documents.
 
-[Booklist 2025_CCHY (Final Draft)_S1](/files/Admission/Services/Booklist/Booklist_2025_CCHY__Final_Draft__S1.pdf)
+[Booklist 2026 CCHY S2](/files/Admission/Services/Booklist/Booklist_2026_CCHY_S2.pdf)
 
-[Booklist 2025_CCHY (Final Draft)_S2](/files/Admission/Services/Booklist/Booklist_2025_CCHY__Final_Draft__S2.pdf)
+[Booklist 2026 CCHY S3](/files/Admission/Services/Booklist/Booklist_2026_CCHY_S3.pdf)
 
-[Booklist 2025_CCHY (Final Draft)_S3NT](/files/Admission/Services/Booklist/Booklist_2025_CCHY__Final_Draft__S3NT.pdf)
+[Booklist 2026 CCHY S4NT](/files/Admission/Services/Booklist/Booklist_2026_CCHY_S4NT.pdf)
 
-[Booklist 2025_CCHY (Final Draft)_S3NA](/files/Admission/Services/Booklist/Booklist_2025_CCHY__Final_Draft__S3NA.pdf)
+[Booklist 2026 CCHY S4NA](/files/Admission/Services/Booklist/Booklist_2026_CCHY_S4NA.pdf)
 
-[Booklist 2025_CCHY (Final Draft)_S3EXP](/files/Admission/Services/Booklist/Booklist_2025_CCHY__Final_Draft__S3E.pdf)
+[Booklist 2026 CCHY S4EXP](/files/Admission/Services/Booklist/Booklist_2026_CCHY_S4E.pdf)
 
-[Booklist 2025_CCHY (Final Draft)_S4NT](/files/Admission/Services/Booklist/Booklist_2025_CCHY__Final_Draft__S4NT.pdf)
-
-[Booklist 2025_CCHY (Final Draft)_S4NA](/files/Admission/Services/Booklist/Booklist_2025_CCHY__Final_Draft__S4NA.pdf)
-
-[Booklist 2025_CCHY (Final Draft)_S4EXP](/files/Admission/Services/Booklist/Booklist_2025_CCHY__Final_Draft__S4E.pdf)
-
-[Booklist 2025_CCHY (Final Draft)_S5NA](/files/Admission/Services/Booklist/Booklist_2025_CCHY__Final_Draft__S5NA.pdf)
-
+[Booklist 2026 CCHY S5NA](/files/Admission/Services/Booklist/Booklist_2026_CCHY_S5NA.pdf)
 
 ![](https://raw.githubusercontent.com/isomerpages/moe-chungchenghighyis/staging/images/pavilion.png)
