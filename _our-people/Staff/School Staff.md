@@ -13,7 +13,7 @@ variant: markdown
 | Name | Designation |
 | --- | --- |
 | Chia Guo Hao (Mr) | Principal |
-| Woo Lee Yen (Mr) | Vice-Principal Academic 2 |
+| Woo Lee Yen (Mr) | Vice-Principal Academic |
 | Melvin Cheong (Mr) | Vice-Principal Administration |
 
 
