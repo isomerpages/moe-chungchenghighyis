@@ -9,6 +9,8 @@ Please click on the links below to download the documents.
 
 [Booklist 2026 CCHY S2](/files/Admission/Services/Booklist/Booklist_2026_CCHY_S2.pdf)
 
+[Booklist 2026 CCHY S3](/files/Admission/Services/Booklist/Booklist_2026_CCHY_S3.pdf)
+
 [Booklist 2026 CCHY S4NT](/files/Admission/Services/Booklist/Booklist_2026_CCHY_S4NT.pdf)
 
 [Booklist 2026 CCHY S4NA](/files/Admission/Services/Booklist/Booklist_2026_CCHY_S4NA.pdf)
