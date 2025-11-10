@@ -20,12 +20,11 @@ School uniform and P.E. attire are now available at Jeep Sing Fashion's online s
 |<u>Support Centre</u><br><br>[https://bit.ly/JSFSUPPORT ](https://bit.ly/JSFSUPPORT )  	| <u>Mode of Payment</u><br><br>Cash, Nets, PayNow, DBS Paylah! 	|
 
 
-### School Uniform Sale for 2025 Secondary One Students
+### 2025 End-Of-Year Sale of School Uniform
 
 Booking of appointments is **<u>required</u>**  for walk-in purchase of uniform at retail shop only.  Please see attached document for instructions.
 
-[CCHY uniform sale schedule EY24](/files/Admission/Services/School%20Attire/CCHY_sale_schedule_EY24__.pdf)
-
+[CCHYS Uniform Sale Schedule EY25](/files/Admission/Services/School%20Attire/CCHYS_Uniform_Sale_Schedule_EY25.pdf)
 
 
 School Uniform
