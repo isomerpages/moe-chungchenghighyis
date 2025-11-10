@@ -20,7 +20,7 @@ School uniform and P.E. attire are now available at Jeep Sing Fashion's online s
 |<u>Support Centre</u><br><br>[https://bit.ly/JSFSUPPORT ](https://bit.ly/JSFSUPPORT )  	| <u>Mode of Payment</u><br><br>Cash, Nets, PayNow, DBS Paylah! 	|
 
 
-### School Uniform Sale for 2026 Secondary One Students
+### 2025 End-Of-Year Sale of School Uniform
 
 Booking of appointments is **<u>required</u>**  for walk-in purchase of uniform at retail shop only.  Please see attached document for instructions.
 
