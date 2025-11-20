@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/CCHY_Open_House_2025_Banner___Website__1600x600_.png
+      background: /images/GIF_for_School_Website_3.gif
       key_highlights:
         - title: For Students
           description: ""
@@ -22,10 +22,10 @@ sections:
       title: Announcements
       button: More announcements here
   - infobar:
-      title: CCHY Student Experiences
+      title: Chung Cheng Spirit
       id: infobar
       description: <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/kdOAXr3_ek4" title="YouTube video
+        src="https://www.youtube.com/embed/8yP2RVi9Xcg" title="YouTube video
         player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen=""></iframe>
