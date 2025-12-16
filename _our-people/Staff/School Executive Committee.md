@@ -11,6 +11,7 @@ variant: markdown
 |---	|---	|---	|
 | Principal 	| Mr 	| Chia Guo Hao 	|
 | Vice-Principal Academic 	| Mr 	| Woo Lee Yen 	|
+| Vice-Principal Academic 	| Mrs | Crescendra Chong 	|
 | Vice-Principal Administration  	| Mr  	| Melvin Cheong  	|
 | Administrative Manager 	| Mdm 	| Chui Su Fun 	|
 | Operations Manager 	| Mr 	| Tok Eng Hin 	|
