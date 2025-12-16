@@ -14,6 +14,7 @@ variant: markdown
 | --- | --- |
 | Chia Guo Hao (Mr) | Principal |
 | Woo Lee Yen (Mr) | Vice-Principal Academic |
+| Crescendra Chong (Mrs) | Vice-Principal Academic |
 | Melvin Cheong (Mr) | Vice-Principal Administration |
 
 
