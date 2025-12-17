@@ -23,7 +23,8 @@ variant: markdown
 | 2023 	| 4 - 13 | 21 - 22 	| 25 - 27 	|
 | 2022 	| 5 - 11 	| 21 - 23	 | 25 - 29 	|
 
- *2026 Sec 1 Intake's AL range may vary depends on the demand pattern and cohort size.
+ *2026 Sec 1 Intake's AL range may vary depends on the demand pattern and cohort size.<br>
+*2026 Sec 1 Intake's AL range will be updated on 19 Dec, 8am.
 
 #### Sec 1 Intake Cut-off PSLE Points
 
