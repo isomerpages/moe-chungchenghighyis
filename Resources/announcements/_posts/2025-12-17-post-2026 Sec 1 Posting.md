@@ -7,9 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong><u>2025 Sec 1 Cut-off Point</u></strong>
+<p><strong><em>(2026 Sec 1 Cut-off Point will be updated on 19 Dec, 8am)</em></strong>
 </p>
-<p><em>(2026 Sec 1 Cut-off Point will be updated on 19 Dec, 8am)</em>
+<p><strong><u>2025 Sec 1 Cut-off Point</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
