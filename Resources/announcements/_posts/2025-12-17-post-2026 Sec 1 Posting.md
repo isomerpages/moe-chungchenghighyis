@@ -9,6 +9,8 @@ variant: tiptap
 ---
 <p><strong><u>2025 Sec 1 Cut-off Point</u></strong>
 </p>
+<p><em>(2026 Sec 1 Cut-off Point will be updated on 19 Dec, 8am)</em>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -50,7 +52,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p>For more information, <a href="https://sites.google.com/moe.edu.sg/cchy2025s1posting" rel="noopener nofollow" target="_blank">visit the Sec 1 Posting Microsite (click here).</a>
+<p>For more information, <a href="https://sites.google.com/moe.edu.sg/cchy-s1-2026" rel="noopener nofollow" target="_blank">visit the Sec 1 Registration Microsite (click here).</a>
 </p>
 <hr>
 <p></p>
