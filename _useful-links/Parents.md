@@ -228,7 +228,7 @@ Secondary One</p>
 <td rowspan="1" colspan="1">
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p><a href="https://sites.google.com/moe.edu.sg/cchy2025s1posting" rel="noopener noreferrer nofollow" target="_blank">2025 Secondary 1 Registration</a>
+<p><a href="https://sites.google.com/moe.edu.sg/cchy-s1-2026" rel="noopener noreferrer nofollow" target="_blank">2026 Secondary 1 Registration</a>
 </p>
 </li>
 </ol>
