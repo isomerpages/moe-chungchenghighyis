@@ -7,7 +7,7 @@ third_nav_title: Services
 ---
 Please click on the links below to download the documents.
 
-[Booklist 2026 CCHY S1](/files/Admission/Services/Booklist/Booklist_2026_CCHY_S1.pdf)
+[Booklist 2026 CCHY S1](/files/Admission/Services/Booklist/Booklist_2026_CCHY_S1_R_.pdf)
 
 [Booklist 2026 CCHY S2](/files/Admission/Services/Booklist/Booklist_2026_CCHY_S2.pdf)
 

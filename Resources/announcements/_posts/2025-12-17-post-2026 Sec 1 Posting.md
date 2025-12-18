@@ -1,12 +1,14 @@
 ---
-title: 2025 Sec 1 Posting
-permalink: /2025-sec-1-posting/
-date: 2024-12-18
+title: 2026 Sec 1 Posting
+permalink: /2026-sec-1-posting/
+date: 2025-12-17
 layout: post
 description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong><em>(2026 Sec 1 Cut-off Point will be updated on 19 Dec, 8am)</em></strong>
+</p>
 <p><strong><u>2025 Sec 1 Cut-off Point</u></strong>
 </p>
 <table style="minWidth: 50px">
@@ -50,7 +52,7 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p>For more information, <a href="https://sites.google.com/moe.edu.sg/cchy2025s1posting" rel="noopener nofollow" target="_blank">visit the Sec 1 Posting Microsite (click here).</a>
-</p>
+<p>For more information, visit the 2026 Secondary 1 Registration microsite
+(<a href="https://sites.google.com/moe.edu.sg/cchy-s1-2026" rel="noopener nofollow" target="_blank">click here</a>).</p>
 <hr>
 <p></p>
