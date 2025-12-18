@@ -36,6 +36,7 @@ Principals who have served the school from 1939 include:
 
 | Year | Vice-Principal |  |
 | --- | --- | --- |
+| 2025 to present | Mrs Crescendra Chong&nbsp; | 陳秀梅副校长 |
 | 2023 to present | Mr Woo Lee Yen&nbsp; | 吴立言副校长 |
 | 2020 to present | Mr Melvin Cheong | 张永福副校长 |
 | 2018 - 2023&nbsp; | Mr Chang Fook Yong&nbsp; | 张福勇副校长&nbsp; |
