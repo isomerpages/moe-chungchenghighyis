@@ -1,15 +1,14 @@
 ---
 title: 2026 Sec 1 Posting
 permalink: /2026-sec-1-posting/
-date: 2025-12-17
+date: 2025-12-19
 layout: post
 description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong><em>(2026 Sec 1 Cut-off Point will be updated on 19 Dec, 8am)</em></strong>
-</p>
-<p><strong><u>2025 Sec 1 Cut-off Point</u></strong>
+<p></p>
+<p><strong><u>2026 Sec 1 Cut-off Point</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
