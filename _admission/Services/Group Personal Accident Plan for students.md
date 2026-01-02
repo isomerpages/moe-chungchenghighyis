@@ -11,7 +11,7 @@ Should you injured yourself while participating in school's activities, or any a
 
 Our current insurer is NTUC Income Insurance Co-operative Limited.
 
-Please [click here](/files/Admission/Services/Product_Fact_Sheet__Year_2025_.pdf) for more information on the insurance coverage.
+Please [click here](/files/Admission/Services/Product_Fact_Sheet__Year_2026_.pdf) for more information on the insurance coverage.
 
 Please&nbsp;[click here](https://www.income.com.sg/claims/group-insurance/group-personal-accident-for-students-claim)&nbsp;for the step-by-step guide on how to make a claim.
 
