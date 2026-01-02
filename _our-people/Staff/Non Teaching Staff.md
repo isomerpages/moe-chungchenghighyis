@@ -31,7 +31,6 @@ variant: markdown
 | Devakumar Manimegalai (Mdm) | Librarian |
 | Yap Hwee Hoon (Ms) | ECG Counsellor |
 | Yap Siok Eng (Mdm) | Kitchen Assistant |
-| Yeong Khar Yee Karol (Ms) | Printing |
 | Fong Yew Lin Maggie (Mdm) | Receptionist |
 
 
