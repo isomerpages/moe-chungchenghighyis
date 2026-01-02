@@ -23,11 +23,26 @@ Through positive partnership between the school and parents, we aim to be part o
 
 3.&nbsp;&nbsp; &nbsp;Provide opportunities for parents to network and support each other in understanding the youths in our parenting journey.
 
-### CCHY PSG EXCO
+### CCHY PSG EXCO 2026
 
-![](/images/Our%20Community/Chung%20Cheng%20Family/CCHY_PSG_EXCO_2024__as_of_11Feb2025__Page_1.jpg)
-![](/images/Our%20Community/Chung%20Cheng%20Family/CCHY_PSG_EXCO_2024__as_of_11Feb2025__Page_2.jpg)
-![](/images/Our%20Community/Chung%20Cheng%20Family/CCHY_PSG_EXCO_2024__as_of_11Feb2025__Page_3.jpg)
+![](/images/Our%20Community/Chung%20Cheng%20Family/CCHY_PSG_EXCO.jpg)
+(From left: Gim Eng, Elaine, Ivah, Jasmine, Betsy, Desmond, Evelyn, Pearl, Agnes, Joyce, Jocelyn)
+
+
+
+| Appointment |Name |
+| -------- | -------- |
+| Chairperson | Desmond |
+| Vice Chairperson | Evelyn |
+| Treasurer | Pearl<br>Joyce<br>(Gim Eng assist)|
+| Secretary | Joycelyn<br>(Elaine assist) |
+| S1 Ambassador | Desmond<br>Evelyn |
+| S2 Ambassador | Elaine |
+| S3 Ambassador | Gim Eng |
+| S4 Ambassador | Betsy<br>Ivah |
+| Social Media | Agnes<br>(Betsy assist) |
+| ActiveCCHY | Desmond<br>(Pearl,Jasmine, Agnes assist) |
+| Art &amp; Craft | Evelyn<br>(Pearl,Ivah,Joyce,Gim Eng assist) |
 
 Click [here](https://www.facebook.com/profile.php?id=100093399604423&amp;mibextid=ZbWKwL) to visit our Facebook page.
 

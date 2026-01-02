@@ -33,7 +33,7 @@ variant: markdown
 |---	|---	|---	|---	|---	|
 | **U1** 	| **National Cadet Corps (Air) (NCC Air - Boys)** 	| Thu<br><br>*(additional training on Tuesday or when required by HQ)* 	| 3 – 6pm 	| Field/Parade Square/<br>C101/D101 Classrooms 	|
 | **U2** 	| **National Police Cadet Corps (NPCC)** 	| Thu<br><br>*(additional training on Tuesday or when required by HQ)*  	| 3 – 6pm 	| Field/Parade Square/<br>C102/C103 Classrooms 	|
-| **U3** 	| **Peregrine Scouts Group** 	| Thu<br><br>*(additional training on Thursday or when required by HQ)*  	| 3 – 6pm 	| Field/ISH Level 1/<br>D102 Classroom 	|
+| **U3** 	| **Peregrine Scouts Group** 	| Thu | 3 – 6pm 	| Field/ISH Level 1/<br>D102 Classroom 	|
 | **U4** 	| **St John Brigade** 	| Thu<br><br>*(additional training on Tuesday or when required by HQ)* 	| 3 – 6pm 	| Parade Square/<br>SJB Room 	|
 
 
