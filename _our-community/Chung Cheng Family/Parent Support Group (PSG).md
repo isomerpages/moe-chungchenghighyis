@@ -26,7 +26,7 @@ Through positive partnership between the school and parents, we aim to be part o
 ### CCHY PSG EXCO 2026
 
 ![](/images/Our%20Community/Chung%20Cheng%20Family/CCHY_PSG_EXCO.jpg)
-(From left: Gim Eng, Elaine, Ivah, Jasmine, Betsy, Desmond, Evelyn, Pearl, Agnes, Joyce, Jocelyn)
+(From left: Gim Eng, Elaine, Ivah, Jasmine, Betsy, Desmond, Evelyn, Pearl, Agnes, Joyce, Joycelyn)
 
 
 
