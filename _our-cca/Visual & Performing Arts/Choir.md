@@ -14,7 +14,7 @@ Building bridges through choral excellence
 
 ### Teachers-in-charge
 Mr Lim Meng Teck (IC)<br>
-Ms Vasanthi Athiveera Rama Pandian (2IC)
+Ms Norfida Bte Alias (2IC)
 
 ### Training Schedule
 
