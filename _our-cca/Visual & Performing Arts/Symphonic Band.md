@@ -35,10 +35,9 @@ variant: markdown
 ### Teachers-in-charge
 
 Ms Sharizan Bte Sanwan (IC)   
-Mr Pang Biaojin<br>
-Ms Lee Wen Qing Rachel<br>
-Ms Adoncia Lim Hwee<br>
-Mr Ahamd Syafiq Bin Amiruddin
+Ms Lee Wen Qing Rachel (2IC)<br>
+Ms Tan Lien Yi Nathalie<br>
+Ms Lim Xin Ying Jessica
 
 ### Training Schedule
 
