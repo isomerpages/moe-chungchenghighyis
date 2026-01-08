@@ -26,7 +26,7 @@ The Outdoor Activities Club (ODAC) was set up to bring out every student’s pot
 
 Mr Foo Chee Chai (IC)<br> 
 Ms Choo Huier (2IC)<br>
-Mr Gary Peh Kai Xiang
+Mr Tan Jing Hong Joshua
 
 ### Training Schedule
 Please click on the link below to view CCA venue &amp; schedule.&nbsp;  
