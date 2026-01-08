@@ -11,8 +11,8 @@ variant: markdown
 
 ### Teachers-in-charge
 
-Mdm Chan Bee Lian (IC)   
-Ms Ang Wee Hoon (2IC)    
+Ms Ang Wee Hoon (IC)<br>
+Mdm Chan Bee Lian (2IC)<br>
 Ms Tan Mui Mui<br>
 Ms Raawiyah Hafizah
 
