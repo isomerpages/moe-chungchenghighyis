@@ -101,7 +101,7 @@ variant: markdown
 | Priscillia Wijayaratna Reteesh (Ms) 	|  	|  	| [priscillia_wijayaratna_reteesh@moe.edu.sg](mailto:priscillia_wijayaratna_reteesh@moe.edu.sg) 	|  |
 | Raawiyah Hafizah Binte Shahibol Fidillah (Ms) 	| 1G 	| Volleyball 	| [raawiyah_hafizah_shahibol_fidillah@moe.edu.sg](mailto:raawiyah_hafizah_shahibol_fidillah@moe.edu.sg) 	| 265 |
 | Rudidermawan Khairi (Mr)	| 3E 	| NPCC 	| [rudidermawan_khairi@moe.edu.sg](mailto:rudidermawan_khairi@moe.edu.sg) 	| 252 |
-| Seow Shien Ern Jeremiah (Mr) 	|  	|  	| [seow_shien_ern_jeremiah@moe.edu.sg](mailto:seow_shien_ern_jeremiah@moe.edu.sg) 	|  |
+| Seow Shien Ern Jeremiah (Mr) 	|  	| Basketball (Boys) 	| [seow_shien_ern_jeremiah@moe.edu.sg](mailto:seow_shien_ern_jeremiah@moe.edu.sg) 	|  |
 | Sharizan Sanwan (Ms) 	|  	| Symphonic Band 	| [sharizan_sanwan@moe.edu.sg](mailto:sharizan_sanwan@moe.edu.sg) 	| 255 |
 | Shivaani D/O Thiagayson (Ms)	| 1B 	| Green Club 	| [shivanni_thiagayson@moe.edu.sg](mailto:shivaani_thiagayson@moe.edu.sg) 	| 256	|
 | Sim Kok Heng (Mr) 	|  	|  	| [sim_kok_heng@moe.edu.sg](mailto:sim_kok_heng@moe.edu.sg) 	| 282	|
