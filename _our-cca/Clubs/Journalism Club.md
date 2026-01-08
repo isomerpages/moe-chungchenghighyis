@@ -19,7 +19,8 @@ To provide a conducive environment that culminates in excellent writing, intervi
 
 ### Teachers-in-charge
 
-Ms Edina Rahman (IC)   
+Ms Edina Rahman (IC)<br>
+Mr Chua Si Yuan
 
 
 ### Training Schedule
