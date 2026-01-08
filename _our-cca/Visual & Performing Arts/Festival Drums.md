@@ -27,8 +27,8 @@ Our Group is unique in that our performing style is based on the combination of 
 
 ### Teachers-in-charge
 
-Ms Mellissa Chia Pei Shan (IC)
-Ms Shivaani D/O Thiagayson
+Ms Mellissa Chia Pei Shan (IC)<br>
+Ms Ouyang Fengfei (2IC)
 
 ### Training Schedule
 
