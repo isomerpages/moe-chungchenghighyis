@@ -105,7 +105,7 @@ variant: markdown
 | Sharizan Sanwan (Ms) 	|  	| Symphonic Band 	| [sharizan_sanwan@moe.edu.sg](mailto:sharizan_sanwan@moe.edu.sg) 	| 255 |
 | Shivaani D/O Thiagayson (Ms)	| 1B 	| Green Club 	| [shivanni_thiagayson@moe.edu.sg](mailto:shivaani_thiagayson@moe.edu.sg) 	| 256	|
 | Sim Kok Heng (Mr) 	|  	|  	| [sim_kok_heng@moe.edu.sg](mailto:sim_kok_heng@moe.edu.sg) 	| 282	|
-| Sim York Sing (Mr) 	|  	|  	| [sim_yorj_sing@moe.edu.sg](mailto:sim_york_sing@moe.edu.sg) 	| 	|
+| Sim York Sing (Mr) 	|  	|  	| [sim_york_sing@moe.edu.sg](mailto:sim_york_sing@moe.edu.sg) 	| 	|
 | Dorothy So Sing Woon (Ms) 	| 4F	|  	| [dorothy_so_sing_woon@moe.edu.sg](mailto:dorothy_so_sing_woon@moe.edu.sg) 	| 262	|
 |Soon Hock Aun (Mr) 	| 	|  	| [soon_hock_aun@moe.edu.sg](mailto:soon_hock_aun@moe.edu.sg)  	|  |
 |Sumithra D/O Narayanan (Ms) 	| 	|  	| [sumithra_narayanan_b@moe.edu.sg](mailto:sumithra_narayanan_b@moe.edu.sg)  	|  |
