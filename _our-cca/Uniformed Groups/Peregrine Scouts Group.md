@@ -36,7 +36,6 @@ For example, Job Week
 
 Mr Ng Yee Siong (IC)   
 Ms Nurulhuda Binte Khamarudin (2IC)  
-Mr Bong Yi Kuan
 
 ### Training Schedule
 
