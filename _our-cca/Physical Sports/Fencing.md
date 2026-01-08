@@ -14,10 +14,10 @@ Fencing requires one to be alert at all times, with the skills and ability to th
 
 ### Teachers-in-charge
 
-Ms Tan Jie Hui Dorcas (IC)<br>
-Mdm Lim Min Hui&lt;2IC&gt;<br>
-Ms Ng Angie<br>
-Me Lee Yok Ten
+Ms Ho Soo Fern (IC)<br>
+Mdm Lim Min Hui (2IC)<br>
+Ms Azmira Binte Zailan<br>
+Ms Tan Jie Hui Dorcas
 
 
 ### Training Schedule
