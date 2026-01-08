@@ -42,8 +42,10 @@ variant: markdown
 | ---	| ---	| ---	| ---	| ---	|
 | Ang Wee Hoon (Ms) 	| 3C 	| Volleyball 	| [ang_wee_hoon@moe.edu.sg](mailto:ang_wee_hoon@moe.edu.sg) 	| 275 |
 | Azmira Binte Zailan (Ms)  | 1A 	| Fencing  	| [azmira_binte_zailan@moe.edu.sg](mailto:azmira_binte_zailan@moe.edu.sg) 	| 312 |
+| Bong Ming Le (Ms)	| 2D 	| Chinese Orchestra/Guzheng Ensemble  	| [bong_ming_le@moe.edu.sg](mailto:bong_ming_le@moe.edu.sg) 	|  |
 | Bong Yi Kuan (Mr)	| 1D 	| St John Brigade  	| [bong_yi_kuan_1@moe.edu.sg](mailto:bong_yi_kuan_1@moe.edu.sg) 	| 286 |
 | Brett Allan Whiteway (Mr)	| 3F 	| Green Club 	| [brett_allan_whiteway@moe.edu.sg](mailto:brett_allan_whiteway@moe.edu.sg) 	| 317 |
+| Cham Huey Lin (Ms)	| 3D 	| Wushu 	| [cham_huey_lin@moe.edu.sg](mailto:cham_huey_lin@moe.edu.sg) 	|  |
 | Chan Bee Lian (Mrs Goh)	| 3E 	| Volleyball 	| [chan_bee_lian@moe.edu.sg](mailto:chan_bee_lian@moe.edu.sg) 	| 281 |
 | Chew Joke (Mdm)	|  	| Chinese Orchestra/Guzheng Ensemble 	| [chew_joke@moe.edu.sg](mailto:chew_joke@moe.edu.sg) 	| 279 |
 | Chiang Foong Min (Ms)	| 2G 	|  	| [chiang_foong_min@moe.edu.sg](mailto:chiang_foong_min@moe.edu.sg) 	| 259 |
@@ -57,6 +59,7 @@ variant: markdown
 | Isabelle Lim Ji Yu (Ms)	| 1C 	| St John Brigade 	| [isabelle_lim_ji_yu@moe.edu.sg](mailto:isabelle_lim_ji_yu@moe.edu.sg) 	| 288 |
 | Jeslyn Hoong Siew Choo (Mdm) 	| 1E 	| Wushu 	| [jeslyn_hoong_siew_choo@moe.edu.sg](mailto:jeslyn_hoong_siew_choo@moe.edu.sg) 	| 273 |
 | Kamala Davi D/O Vadivaloo (Mrs Raja) 	|  	|  	| [kamala_davi_d_o@moe.edu.sg](mailto:kamala_davi_d_o@moe.edu.sg) 	| 251 |
+| Khairil Ariffin Bin Yahya (Mr)  	| 3G | NCC Air (Boys)  	| [khairil_ariffin_yahya@moe.edu.sg](mailto:khairil_ariffin_yahya@moe.edu.sg)  	|  |
 | Lee Wen Qing Rachel (Ms)  	| 1G | Symphonic Band  	| [lee_wen_qing_rachel@moe.edu.sg](mailto:lee_wen_qing_rachel@moe.edu.sg)  	| 266 |
 | Lee Yanmei (Ms)	|   	|   	| [lee_yanmei@moe.edu.sg](mailto:lee_yanmei@moe.edu.sg)  	| 259 |
 | Lim Chia Hwee (Mr) 	|  	|  	| [lim_chia_hwee@moe.edu.sg](mailto:lim_chia_hwee@moe.edu.sg) 	| 263 |
@@ -66,7 +69,9 @@ variant: markdown
 | Lim Meng Teck (Mr) 	| 4E 	| Choir 	| [lim_meng_teck@moe.edu.sg](mailto:lim_meng_teck@moe.edu.sg)  	| 267 |
 | Lim Min Hui (Ms) 	|  	| Fencing | [lim_minhui@moe.edu.sg](mailto:lim_minhui@moe.edu.sg)  	| 302 |
 | Lim Xiangting (Ms) 	| 1F 	| NPCC 	| [lim_xiangting@moe.edu.sg](mailto:lim_xiangting@moe.edu.sg) 	| 261 |
+| Lim Xin Ying Jessica (Ms) 	| 3F 	| Symphonic Band 	| [lim_xin_ying_jessica@moe.edu.sg](mailto:lim_xin_ying_jessica@moe.edu.sg)  	|  |
 | Lim Ying Xuan (Mr) 	| 2C 	| NCC Air (Boys) 	| [lim_ying_xuan@moe.edu.sg](mailto:lim_ying_xuan@moe.edu.sg)  	| 261 |
+| Lin Lu (Ms) 	| 1F 	| Chinese Orchestra/Guzheng Ensemble 	| [lin_lu@moe.edu.sg](mailto:lin_lu@moe.edu.sg)  	|  |
 | Lin Shunyi (Mr) 	| 4D 	| NCC Air (Boys) 	| [lin_shunyi@moe.edu.sg](mailto:lin_shunyi@moe.edu.sg)  	| 267 |
 | Lin Xiaoying (Ms) 	| 4B 	| Entrepreneur Club 	| [lin_xiaoying@moe.edu.sg](mailto:lin_xiaoying@moe.edu.sg) 	| 273 |
 | Luo Yanjie (Mr) 	| 4G 	|  	| [luo_yanjie@moe.edu.sg](mailto:luo_yanjie@moe.edu.sg) 	| 256 |
@@ -82,6 +87,7 @@ variant: markdown
 | Nur Jannah Noor (Ms) 	| 3B 	| Entrepreneur Club	| [nur_jannah_noor@moe.edu.sg](mailto:nur_jannah_noor@moe.edu.sg) 	| 276 |
 | Nurulhuda Binte Khamarudin (Ms) 	| 1D  	| Peregrine Scouts Group  	| [nurulhuda_khamarudin@moe.edu.sg](mailto:nurulhuda_khamarudin@moe.edu.sg)  	| 262 |
 | Oh Teck Tiong (Mr)	|  	|  	| [oh_teck_tiong@moe.edu.sg](mailto:oh_teck_tiong@moe.edu.sg) 	| 269 |
+| Ouyang Fengfei (Ms)	| 1C 	| Festival Drums 	| [ouyang_fengfei@moe.edu.sg](mailto:ouyang_fengfei@moe.edu.sg) 	|  |
 | Pang Biaojin (Mr)	| 2G 	| Chinese Orchestra/Guzheng Ensemble 	| [pang_biaojin@moe.edu.sg](mailto:pang_biaojin@moe.edu.sg) 	| 271 |
 | Peh-Leow Li Yong, Shirley (Mrs Peh)	|  4A 	| St John Brigade  	| [peh-leow_li_yong_shirley@moe.edu.sg](mailto:peh-leow_li_yong_shirley@moe.edu.sg)  	| 283 |
 | Philina Wong Hai Lin (Ms) 	|  	| Chinese Orchestra/Guzheng Ensemble 	| [philina_wong_hai_lin@moe.edu.sg](mailto:philina_wong_hai_lin@moe.edu.sg) 	| 283 |
@@ -93,6 +99,8 @@ variant: markdown
 | Dorothy So Sing Woon (Ms) 	| 4F	|  	| [dorothy_so_sing_woon@moe.edu.sg](mailto:dorothy_so_sing_woon@moe.edu.sg) 	| 262	|
 | Tan Gek Hong Angela (Mdm) 	| 2E	|  	| [tan_gek_hong_angela@moe.edu.sg](mailto:tan_gek_hong_angela@moe.edu.sg)  	| 268 |
 | Tan Jie Hui Dorcas (Ms)  	|  	| Fencing  	| [tan_jie_hui_dorcas@moe.edu.sg](mailto:tan_jie_hui_dorcas@moe.edu.sg)  	| 258 |
+| Tan Jing Hong Joshua (Mr)  	| 2A 	| Outdoor Activities Club (ODAC) 	| [tan_jing_hong_joshua@moe.edu.sg](mailto:tan_jing_hong_joshua@moe.edu.sg)  	|  |
+| Tan Lien Yi Nathalie (Ms)	| 3B 	| Symphonic Band 	| [tan_lien_yi_nathalie@moe.edu.sg](mailto:tan_lien_yi_nathalie@moe.edu.sg)  	| 	|
 | Tan Mui Mui (Ms)	| 4G 	| Volleyball 	| [tan_mui_mui_b@moe.edu.sg](mailto:tan_mui_mui_b@moe.edu.sg)  	| 276	|
 | Tan Puay Khim (Mdm)  	|   	|   	| [tan_puay_khim@moe.edu.sg](mailto:tan_puay_khim@moe.edu.sg)  	| 316 |
 | Tan Si Min (Ms) 	| 2E  	| Chinese Dance  	| [tan_si_min@moe.edu.sg](mailto:tan_si_min@moe.edu.sg)  	| 278 |
