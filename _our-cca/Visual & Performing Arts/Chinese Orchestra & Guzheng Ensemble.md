@@ -16,12 +16,11 @@ To develop musicians who will be ambassadors for Chinese music.
 To provide students with basic training in playing Chinese music instruments and strive for excellence in performances through teamwork.
 
 ### Teachers-in-charge
-Ms Philina Wong Hai Lin (IC)    
-Ms Lim Jia Ying (2IC)<br>
-Mr Teh Mao Zhi<br>
-Ms Ban Xin Yan<br>
-Ms Low Li Shan<br>
-Ms Grace Li Yifei
+Mr Pang Biaojin (IC)    
+Ms Lin Lu (2IC)<br>
+Ms Philina Wong Hai Lin<br>
+Ms Bong Ming Le<br>
+Mdm Chew Joke
 
 ### Training Schedule&nbsp;
 

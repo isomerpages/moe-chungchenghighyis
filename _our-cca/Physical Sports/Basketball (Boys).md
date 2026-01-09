@@ -12,7 +12,8 @@ The CCHY Basketball Team focuses on developing sportsmen of resilient character 
 ### Teachers-in-charge
 
 Mr Tok Wei Ee Alvin (IC)   
-Mr Chui Ming Fa Benedict (2IC)
+Mr Chui Ming Fa Benedict (2IC)<br>
+Mr Jeremiah Seow
 
 ### Training Schedule
 

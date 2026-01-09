@@ -19,7 +19,7 @@ With its emphasis on self-defense, meditation, and performance, wushu can provid
 ## Teachers-in-charge   
 Mdm Jeslyn Hoong Siew Choo (IC)<br>
 Ms Norlizawati Binte Juahil (2IC)<br>
-Dr Jiang Nan<br>
+Ms Cham Huey Lin<br>
 
 ### Training Schedule
 Please click on the link below to view CCA venue &amp; schedule.&nbsp;  
