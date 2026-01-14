@@ -68,10 +68,11 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 
 10.&nbsp;&nbsp; &nbsp;Parents may opt their children out of Sexuality Education lessons,&nbsp;_eTeens_&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.  
 
-11.&nbsp;&nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form.&nbsp; This form is downloadable&nbsp;[here](/files/Our%20Curriculum/Sexuality%20Education%20Programme/Annex_A.pdf).&nbsp;&nbsp;The completed form is to be submitted by 14/02/2025 to the Form Teacher.
+11.&nbsp;&nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form.&nbsp; This form will be communicated to parents at the start of the year and is also available &nbsp;[here](/files/Our%20Curriculum/Sexuality%20Education%20Programme/Annex_A.pdf)
+.&nbsp;&nbsp;The completed form is to be submitted by 13/02/2026.
 
-12.&nbsp;&nbsp; &nbsp;Secondary Three parents who wish to opt their children out of the&nbsp;**_eTeens_&nbsp;programme**&nbsp;need to complete an opt-out form.&nbsp; This form is downloadable&nbsp;[here](/files/Our%20Curriculum/Sexuality%20Education%20Programme/Annex_B.pdf)
-.&nbsp;&nbsp;The completed form is to be submitted by 14/02/2025 to the Form Teacher.
+12.&nbsp;&nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;**_eTeens_&nbsp;programme**&nbsp;need to complete an opt-out form.&nbsp; This form will be communicated to parents at the start of the year and is also available &nbsp;[here](/files/Our%20Curriculum/Sexuality%20Education%20Programme/ANNEX_B.pdf)
+.&nbsp;&nbsp;The completed form is to be submitted by 13/02/2026.
 
 13.&nbsp;&nbsp; &nbsp;Parents can contact the school at&nbsp;[cchys@moe.edu.sg](mailto:cchys@moe.edu.sg)&nbsp;or 6758 3912 for discussion or to seek clarification about the school’s Sexuality Education programme.
 
