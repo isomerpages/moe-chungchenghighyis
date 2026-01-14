@@ -28,7 +28,7 @@ variant: markdown
 
 You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
-**OVERVIEW OF CHUNG CHENG HIGH SCHOOL (YISHUN)’S SEXUALITY EDUCATION PROGRAMME FOR 2025**
+**OVERVIEW OF CHUNG CHENG HIGH SCHOOL (YISHUN)’S SEXUALITY EDUCATION PROGRAMME FOR 2026**
 
 4.&nbsp;&nbsp; &nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp; The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law.&nbsp; You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
