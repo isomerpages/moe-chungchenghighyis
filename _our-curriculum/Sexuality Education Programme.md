@@ -28,7 +28,7 @@ variant: markdown
 
 You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
-**OVERVIEW OF CHUNG CHENG HIGH SCHOOL (YISHUN)’S SEXUALITY EDUCATION PROGRAMME FOR 2025**
+**OVERVIEW OF CHUNG CHENG HIGH SCHOOL (YISHUN)’S SEXUALITY EDUCATION PROGRAMME FOR 2026**
 
 4.&nbsp;&nbsp; &nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp; The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law.&nbsp; You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -44,34 +44,35 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 
 7.&nbsp;&nbsp; &nbsp;Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-
-![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2025_Info_on_SEd_for_schs_website__Secondary_Schools__CCHY_Page_01.jpg)
-![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2025_Info_on_SEd_for_schs_website__Secondary_Schools__CCHY_Page_02.jpg)
-![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2025_Info_on_SEd_for_schs_website__Secondary_Schools__CCHY_Page_03.jpg)
-![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2025_Info_on_SEd_for_schs_website__Secondary_Schools__CCHY_Page_04.jpg)
-![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2025_Info_on_SEd_for_schs_website__Secondary_Schools__CCHY_Page_05.jpg)
-![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2025_Info_on_SEd_for_schs_website__Secondary_Schools__CCHY_Page_06.jpg)
-![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2025_Info_on_SEd_for_schs_website__Secondary_Schools__CCHY_Page_07.jpg)
-![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2025_Info_on_SEd_for_schs_website__Secondary_Schools__CCHY_Page_08.jpg)
-![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2025_Info_on_SEd_for_schs_website__Secondary_Schools__CCHY_Page_09.jpg)
-![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2025_Info_on_SEd_for_schs_website__Secondary_Schools__CCHY_Page_10.jpg)
-![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2025_Info_on_SEd_for_schs_website__Secondary_Schools__CCHY_Page_11.jpg)
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_1.jpg)
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_2.jpg)
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_3.jpg)
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_4.jpg)
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_5.jpg)
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_6.jpg)
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_7.jpg)
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_8.jpg)
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_9.jpg)
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_10.jpg)
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_11.jpg)
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_12.jpg)
 
 **<u><i>eTeens</i> Programme</u>**
 	
-8.&nbsp;&nbsp; &nbsp;_eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.&nbsp;&nbsp;_eTeens_&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme.  The desired outcome of the *eTeens* programme is that students are empowered to make wise, informed and sensible decisions.
+8.&nbsp;&nbsp; &nbsp;_eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.  With the formation of the Communicable  Diseases Agency (CDA) on 1 April 2025, the programme would now be managed by CDA's Training and Education Division instead of HPB.  &nbsp;&nbsp;_eTeens_&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme.  The desired outcome of the *eTeens* programme is that students are empowered to make wise, informed and sensible decisions to protect themselves from sexually transmitted infectious diseases.
 
 9.&nbsp;&nbsp; &nbsp;Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure.&nbsp; They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help.  Abstinence and upholding family values are the key messages.
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_13.jpg)
 
-![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2025_Info_on_SEd_for_schs_website__Secondary_Schools__CCHY_Page_12.jpg)
 **<u>INFORMATION FOR PARENTS</u>**
 
 10.&nbsp;&nbsp; &nbsp;Parents may opt their children out of Sexuality Education lessons,&nbsp;_eTeens_&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.  
 
-11.&nbsp;&nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form.&nbsp; This form is downloadable&nbsp;[here](/files/Our%20Curriculum/Sexuality%20Education%20Programme/Annex_A.pdf).&nbsp;&nbsp;The completed form is to be submitted by 14/02/2025 to the Form Teacher.
+11.&nbsp;&nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form.&nbsp; This form will be communicated to parents at the start of the year and is also available &nbsp;[here](/files/Our%20Curriculum/Sexuality%20Education%20Programme/Annex_A.pdf)
+.&nbsp;&nbsp;The completed form is to be submitted by 13/02/2026.
 
-12.&nbsp;&nbsp; &nbsp;Secondary Three parents who wish to opt their children out of the&nbsp;**_eTeens_&nbsp;programme**&nbsp;need to complete an opt-out form.&nbsp; This form is downloadable&nbsp;[here](/files/Our%20Curriculum/Sexuality%20Education%20Programme/Annex_B.pdf)
-.&nbsp;&nbsp;The completed form is to be submitted by 14/02/2025 to the Form Teacher.
+12.&nbsp;&nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;**_eTeens_&nbsp;programme**&nbsp;need to complete an opt-out form.&nbsp; This form will be communicated to parents at the start of the year and is also available &nbsp;[here](/files/Our%20Curriculum/Sexuality%20Education%20Programme/ANNEX_B.pdf)
+.&nbsp;&nbsp;The completed form is to be submitted by 13/02/2026.
 
 13.&nbsp;&nbsp; &nbsp;Parents can contact the school at&nbsp;[cchys@moe.edu.sg](mailto:cchys@moe.edu.sg)&nbsp;or 6758 3912 for discussion or to seek clarification about the school’s Sexuality Education programme.
 
