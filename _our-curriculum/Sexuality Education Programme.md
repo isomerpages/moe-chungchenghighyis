@@ -52,9 +52,7 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 ![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_6.jpg)
 ![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_7.jpg)
 ![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_8.jpg)
-![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_9.jpg)
-![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_10.jpg)
-![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_11.jpg)
+
 ![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_12.jpg)
 
 **<u><i>eTeens</i> Programme</u>**
@@ -69,10 +67,10 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 10.&nbsp;&nbsp; &nbsp;Parents may opt their children out of Sexuality Education lessons,&nbsp;_eTeens_&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.  
 
 11.&nbsp;&nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form.&nbsp; This form will be communicated to parents at the start of the year and is also available &nbsp;[here](/files/Our%20Curriculum/Sexuality%20Education%20Programme/Annex_A.pdf)
-.&nbsp;&nbsp;The completed form is to be submitted by 13/02/2026.
+.&nbsp;&nbsp;The completed form is to be submitted by 30/01/2026.
 
 12.&nbsp;&nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;**_eTeens_&nbsp;programme**&nbsp;need to complete an opt-out form.&nbsp; This form will be communicated to parents at the start of the year and is also available &nbsp;[here](/files/Our%20Curriculum/Sexuality%20Education%20Programme/ANNEX_B.pdf)
-.&nbsp;&nbsp;The completed form is to be submitted by 13/02/2026.
+.&nbsp;&nbsp;The completed form is to be submitted by 30/01/2026.
 
 13.&nbsp;&nbsp; &nbsp;Parents can contact the school at&nbsp;[cchys@moe.edu.sg](mailto:cchys@moe.edu.sg)&nbsp;or 6758 3912 for discussion or to seek clarification about the school’s Sexuality Education programme.
 
