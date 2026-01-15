@@ -82,7 +82,7 @@ variant: markdown
 | Maria Duvalinda Agahari (Ms) 	| 3D 	| Journalism &amp; Multimedia Club 	| [maria_duvalinda_agahari@moe.edu.sg](mailto:maria_duvalinda_agahari@moe.edu.sg) 	| 253 |
 | Mellissa Chia Pei Shan (Ms) 	|  | Festival Drums 	| [chia_pei_shan_mellissa@moe.edu.sg](mailto:chia_pei_shan_mellissa@moe.edu.sg) 	| 266 |
 | Nazeema Parveen (Ms) 	| 	|  	| [nazeema_parveen@moe.edu.sg](mailto:nazeema_parveen@moe.edu.sg) 	| 252 |
-| Neo Rui En Reanne (Ms)  	| 2B 	|   	| [neo_rui_an_reanne_a@moe.edu.sg](mailto:neo_rui_an_reanne_a)  	| 327 |
+| Neo Rui An Reanne (Ms)  	| 2B 	|   	| [neo_rui_an_reanne_a@moe.edu.sg](mailto:neo_rui_an_reanne_a@moe.edu.sg)  	| 327 |
 | Neo Yao Kian Andy (Mr)  	| 4A 	| NPCC  	| [neo_yao_kian_andy@moe.edu.sg](mailto:neo_yao_kian_andy@moe.edu.sg)  	| 257 |
 | Ng Bao Xian (Ms)  	| 4C 	|   	| [ng_bao_xian@moe.edu.sg](mailto:ng_bao_xian@moe.edu.sg)  	| 275 |
 | Ng Yee Siong (Mr) 	| 4F 	| Peregrine Scouts Group 	| [ng_yee_siong@moe.edu.sg](mailto:ng_yee_siong@moe.edu.sg) 	| 279 |
