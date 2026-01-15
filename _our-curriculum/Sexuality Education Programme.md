@@ -52,7 +52,9 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 ![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_6.jpg)
 ![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_7.jpg)
 ![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_8.jpg)
-
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_9.jpg)
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_10.jpg)
+![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_11.jpg)
 ![](/images/Our%20Curriculum/Sexuality%20Education%20Programme/2026_Info_on_SEd_page_12.jpg)
 
 **<u><i>eTeens</i> Programme</u>**
