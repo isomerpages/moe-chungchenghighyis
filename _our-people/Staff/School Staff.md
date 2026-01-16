@@ -17,6 +17,7 @@ variant: markdown
 | Crescendra Chong (Mrs) | Vice-Principal Academic 2 |
 | Melvin Cheong (Mr) | Vice-Principal Administration |
 
+![](/images/Our%20People/Staff/Communication_Guidelines_with_Staff.jpg)
 
 ### Heads of Department
 
