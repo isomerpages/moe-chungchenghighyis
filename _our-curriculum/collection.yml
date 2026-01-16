@@ -2,12 +2,12 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Student Development/Anti Bullying Approach.md
       - Student Development/.keep
       - Student Development/Student Development.md
       - Student Development/Character and Citizenship Education (CCE).md
       - Student Development/Student Leadership.md
       - Student Development/Wellbeing 365.md
+      - Student Development/Anti Bullying Approach.md
       - Signature Programme/.keep
       - Signature Programme/Applied Learning Programme (ALP).md
       - Signature Programme/Learning For Life Programme (LLP).md
