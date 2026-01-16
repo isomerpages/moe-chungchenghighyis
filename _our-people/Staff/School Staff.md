@@ -19,7 +19,6 @@ variant: markdown
 
 ![](/images/Our%20People/Staff/Communication_Guidelines_with_Staff.jpg)
 
-
 ### Heads of Department
 
 | **Name** 	| **Head of Department** 	| **Email** | **Ext** |
