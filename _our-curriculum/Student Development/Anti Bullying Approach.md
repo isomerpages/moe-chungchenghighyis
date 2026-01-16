@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Student Development
 ---
-<p><strong>Anti-Bullying Approach</strong>
-</p>
+<h1><strong>Anti-Bullying Approach</strong></h1>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bullying
 is a type of hurtful behaviour. It involves repeated or persistent behaviour
 (e.g. hurting, frightening or intimidating others) intended to cause hurt,
