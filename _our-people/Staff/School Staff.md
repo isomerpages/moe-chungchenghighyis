@@ -34,7 +34,7 @@ variant: markdown
 | Isma Wati Sidik (Ms)	| Character &amp; Citizenship Education  	| [isma_wati_sidik@moe.edu.sg](mailto:isma_wati_sidik@moe.edu.sg)  	| 212 |
 | Wong Shing Liu (Ms) 	| Information &amp; Communications Technology 	| [wong_shing_liu@moe.edu.sg](mailto:wong_shing_liu@moe.edu.sg) 	| 210 |
 | Chen Weiling Adeline (Ms) 	| Aesthetics 	| [chen_weiling_adeline@moe.edu.sg](mailto:chen_weiling_adeline@moe.edu.sg) 	| 215	|
-| Jasmine Tan Pei Lin (Ms) 	| Year Head Lower Secondary  	| [jasmine_tan_pei_lin@moe.edu.sg](mailto:jasmine_tan_pei_lin@moe.edu.sg)  	| 219  |
+| Jasmine Lee (Mrs) 	| Year Head Lower Secondary  	| [jasmine_tan_pei_lin@moe.edu.sg](mailto:jasmine_tan_pei_lin@moe.edu.sg)  	| 219  |
 | Kallaivanee Paramaseevan (Ms) | Year Head Upper Secondary 	| [kallaivanee_paramaseevan@moe.edu.sg](mailto:kallaivanee_paramaseevan@moe.edu.sg) 	| 211 |
 
 ### Teaching Staff
