@@ -37,7 +37,7 @@ variant: markdown
 | SH Student Well Being and Management 	| Ms 	| Dorothy So Sing Woon 	|
 | HOD Physical Education &amp; Co-Curricular Activities 	| Ms 	| Tammie Ho Si Ye 	|
 | SH Physical Education &amp; Co-Curricular Activities 	| Mr 	| Tok Wei Ee Alvin 	|
-| Year Head Lower Secondary 	| Ms 	| Jasmine Tan Pei Lin 	|
+| Year Head Lower Secondary 	| Mrs	| Jasmine Lee 	|
 | Assistant Year Head Lower Secondary 	| Mr 	| Udayakumar S/O Manogaran 	|
 | Year Head Upper Secondary  	| Ms 	| Kallaivanee 	|
 | Assistant Year Head Upper Secondary 	| Mdm 	| Irene Lim 	|
