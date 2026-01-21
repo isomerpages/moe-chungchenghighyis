@@ -7,7 +7,8 @@ variant: markdown
 ---
 # **Volleyball**
 
-![](/images/Volleyball.jpg)
+![](/images/Our%20CCA/Volleyball_Boys.jpg)
+![](/images/Our%20CCA/Volleyball_Girls.jpg)
 
 ### Teachers-in-charge
 
