@@ -6,6 +6,9 @@ third_nav_title: Uniformed Groups
 variant: markdown
 ---
 # **St John Brigade**
+
+![](/images/Our%20CCA/St_Johns_Brigade.jpg)
+
 Our St John Brigade (SJB) Corp aims to serve mankind with pride and confidence through training in life saving skills and health care in schools. Through the various proficiency badge subjects (welfare &amp; service, outdoor activities, skills &amp; hobbies), our cadets are given different opportunities to acquire the necessary knowledge that will prepare them for higher education and careers beyond secondary school.
 
 
@@ -36,10 +39,7 @@ Please click on the link below to view CCA venue &amp; schedule.&nbsp;
 
 7. Basic and Advanced Non-Commissioned Officer Course
 
-### Photo Gallery
-<iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCgpelhu2ptl7dp_CCp_yYEI4BpibSbsj3xgXonRJf1yodWOgMyD1qFJLxOsGCSBi-yhkbznco4v6a/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-
-
 More information on SJB: [https://stjohn.org.sg/](https://stjohn.org.sg/)
+
 
 <img style="width:50%" src="/images/pavilion.png">
