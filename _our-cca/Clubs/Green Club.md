@@ -7,7 +7,7 @@ variant: markdown
 ---
 # **Green Club**
 
-<img src="/images/Chung%20Cheng%20High%20School-Green%20Club%20Symbol.jpg" style="width:50%">
+![](/images/Our%20CCA/Green_Club.jpg)
 
 The Green Club strives to contribute actively to the environment and community through simple acts of green. We are the ambassadors for a number of initiatives in support of the 3Rs, energy conservation and waste management.
 
