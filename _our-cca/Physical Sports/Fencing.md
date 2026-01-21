@@ -7,7 +7,7 @@ variant: markdown
 ---
 # **Fencing**
 
-<img src="/images/Fencing.jpg" style="width:50%">
+![](/images/Our%20CCA/Fencing.jpg)
 		 
 CCHY Fencing is made up of a Team who is passionate about our sport. Under the dedicated guidance of our coaches and teachers, we take part in numerous competitions throughout the Fencing season. The team has been achieving good results consistently in each championship and we are always striving to outdo ourselves with each coming year.
 
