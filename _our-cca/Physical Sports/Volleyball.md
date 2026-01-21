@@ -7,7 +7,9 @@ variant: markdown
 ---
 # **Volleyball**
 
-![](/images/Volleyball.jpg)
+![](/images/Our%20CCA/Volleyball_Boys.jpg)
+
+![](/images/Our%20CCA/Volleyball_Girls.jpg)
 
 ### Teachers-in-charge
 
@@ -20,5 +22,6 @@ Ms Raawiyah Hafizah
 
 Please click on the link below to view CCA venue &amp; schedule.&nbsp;  
 [CCA venue &amp; schedule](/our-cca/cca/cca-venue-schedule/)
+
 
 <img src="/images/pavilion.png" style="width:50%">

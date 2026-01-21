@@ -7,6 +7,8 @@ variant: markdown
 ---
 # **Chinese Orchestra &amp; Guzheng Ensemble**
 
+![](/images/Our%20CCA/Chinese_Orchestra.jpg)
+
 Our Chinese Orchestra and Guzheng Ensemble aims to promote Chinese classical music as well as cultivate an appreciation of Chinese music and heritage through a repertoire of performances and music exchange.
 
 ### Vision
@@ -39,7 +41,5 @@ Mar/Apr – Singapore Youth Festival Arts Presentation
 
 June Holidays – Training Camp
 
-### Photo Gallery
-<iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRaZkx5kSUGpYd9NuFV6vMIkWnb-4Uq53udsYBJSTqssF1b6x9N4d48i3qeIX2GcjXpu2A4JNfiTDsq/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 <img style="width:50%" src="/images/pavilion.png">

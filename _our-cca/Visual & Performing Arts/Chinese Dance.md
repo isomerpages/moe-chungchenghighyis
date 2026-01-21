@@ -7,7 +7,7 @@ variant: markdown
 ---
 # **Chinese Dance**
 
-![](/images/Chinese%20Dance.jpg)
+![](/images/Our%20CCA/Chinese%20Dance.jpg)
 
 Chinese Dance is made up of aspiring and motivated dancers who all share the same passion for their craft. Our weekly practices see a fusion of ballet, Chinese ethnic dance and contemporary dance moves.
 
@@ -23,8 +23,5 @@ Ms Tan Si Min (2IC)
 Please click on the link below to view CCA venue &amp; schedule.&nbsp;  
 [CCA venue &amp; schedule](/our-cca/cca/cca-venue-schedule/)
 
-### Photo Gallery
-
-<iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQXJSFl0e8a2Zu_yHensTKlvM5YHNfkGC4fJzb1-QE6msxnxL7rfloaCMdyMQtQd-qhDw0lFHTNKt9l/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 <img src="/images/pavilion.png" style="width:50%">

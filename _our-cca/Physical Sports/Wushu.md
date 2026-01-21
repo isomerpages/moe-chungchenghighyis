@@ -7,6 +7,8 @@ variant: markdown
 ---
 # **Wushu**
 
+![](/images/Our%20CCA/Wushu.jpg)
+
 Wushu (武术) is a traditional Chinese martial art that focuses on the cultivation of both physical and mental health. It mainly takes the form of routine exercises and free sparring. 
 
 The practice of wushu can have a wide range of benefits for students. Physically, it can help improve fitness, strength, coordination, and balance. Mentally, it can help develop important character traits such as discipline, perseverance, and respect. Wushu can also be a fun and engaging way for students to learn about Chinese culture and history.
@@ -31,9 +33,6 @@ Please click on the link below to view CCA venue &amp; schedule.&nbsp;
 *   National Day performance
 *   Sec 1 CCA Orientation
 *   Team bonding sessions and activities
-
-### Photo Gallery
-<iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQOMb8wFRmFDD9Y3pNE-BgutRu2bCk9bj5TOF2s6tEJrGTOyo6opUAzl-nQD-AFyrd49kPKFqNG-Cxd/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 
 <img style="width:50%" src="/images/pavilion.png">

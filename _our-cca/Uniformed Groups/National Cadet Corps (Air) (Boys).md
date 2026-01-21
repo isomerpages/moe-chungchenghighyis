@@ -7,6 +7,8 @@ variant: markdown
 ---
 # **National Cadet Corps (Air) (Boys)**
 
+![](/images/Our%20CCA/NCC.jpg)
+
 CCHY NCC (Air) aims to develop resourceful, responsible, and resilient leaders who have a resilient mind, fit body and committed heart through fun, yet challenging military-related activities. Besides introducing cadets to useful skills for National Service, our NCC Air Curriculum is aligned to the CCE2021 framework to build citizens with good character and are future-ready leaders who can lead with empathy.
 
 
@@ -56,9 +58,6 @@ NCC Air Wings (Bronze, Silver Gold)
 Singapore Assault Rifle (SAR21) Individual Marksmanship Trainer and Live Shoot
 
 Air Rifle Shooting Experience (Secondary Two)
-
-### Photo Gallery
-<iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRx5FD0xl5FKzci1oHvNMS6PNRIeNp2RAFR8xExBwBP33V7PjnADpxCc5wHbU3AR4jnRp_0JRyRwom-/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 More information on NCC
 [https://www.facebook.com/sgncc.hq/](https://www.facebook.com/sgncc.hq/)

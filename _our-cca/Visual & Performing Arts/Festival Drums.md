@@ -7,7 +7,7 @@ variant: markdown
 ---
 # **Festival Drums**
 
-![](/images/Festival%20Drums.jpg)
+![](/images/Our%20CCA/Festival%20Drums.jpg)
 
 中正中学（义顺）节令鼓队，从 1996年成立至今，已经十多年了。在过去的十多年里，中正节令鼓队的校内及校外的表演，已经超过了 180 次， 其中的 140 次是校外及国外的演出。 看过他们表演的人，真是数以万计，好评如潮。
 
