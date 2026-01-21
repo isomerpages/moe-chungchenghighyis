@@ -6,6 +6,9 @@ third_nav_title: Clubs
 variant: markdown
 ---
 # Journalism Club
+
+![](/images/Our%20CCA/Journalism_Club.jpg)
+
 You may encounter a team of students diligently taking notes, interviewing people and taking photographs during Chinese New Year celebrations, the Chung Cheng Championships, Learning Beyond Classroom Week, National Day Parades and other various school events and occasions.&nbsp;
 
 These are our enthusiastic student journalists covering events and school achievements; and eventually delivering well-written articles and impactful photos to promote school pride and belonging! We aim to improve our journalists’ writing, interviewing and photography skills through various in-house training sessions and collaborations with other CCAs.
@@ -36,7 +39,5 @@ Please click on the link below to view CCA venue &amp; schedule.&nbsp;
 
 (4) Chung Cheng Herald website (ongoing)
 
-### Photo Gallery
-<iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTlAUNRUrJT8PDExAzONjaEc5HOuIQy5tTxSlB8qCEuNW3wGp_jjR8ffebAM8tiiHtoiN1quCCXeAoR/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 <img src="/images/pavilion.png" style="width:50%">
