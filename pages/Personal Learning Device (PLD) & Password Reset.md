@@ -8,11 +8,11 @@ variant: tiptap
 <h3>Information for parents</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook 1 (2025)</a>
+<p><a href="/files/Personal Learning Device/Parent_Handbook__I__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook 1 (2026)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook 2 (2025)</a>
+<p><a href="/files/Personal Learning Device/Parent_Handbook__II__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook 2 (2026)</a>
 </p>
 </li>
 <li>
