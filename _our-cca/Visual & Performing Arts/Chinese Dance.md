@@ -7,7 +7,7 @@ variant: markdown
 ---
 # **Chinese Dance**
 
-![](/images/Chinese%20Dance.jpg)
+![](/images/Our%20CCA/Chinese%20Dance.jpg)
 
 Chinese Dance is made up of aspiring and motivated dancers who all share the same passion for their craft. Our weekly practices see a fusion of ballet, Chinese ethnic dance and contemporary dance moves.
 
