@@ -6,7 +6,8 @@ third_nav_title: Visual & Performing Arts
 variant: markdown
 ---
 # **Dance Ensemble**
-![](/images/International%20Dance.jpg)
+
+![](/images/Our%20CCA/Dance_Ensemble.jpg)
 
 
 Dance Ensemble is an amalgam of rhythm, power, elegance, and beauty. We strive to spark the blossoming of dancers into confident individuals with growing knowledge and passion for dance.
@@ -40,8 +41,5 @@ Please click on the link below to view CCA venue &amp; schedule.&nbsp;
     
 *   Cultural Dance Exchange Programme with Chinese Dance Artiste’s Association (2019)
 
-### Photo Gallery
-
-<iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRi7cbH1ZtZtVV2trEJqbZ0ZNutJ1_VSK5-h8v_unz800i96Pvqk8z3McS3EhLPMBIpl2Nw8qE0eNPC/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 <img src="/images/pavilion.png" style="width:50%">
