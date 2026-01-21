@@ -7,7 +7,7 @@ variant: markdown
 ---
 # **Basketball (Boys)**
 
-![](/images/Our%20CCA/Basketball/Basketball_CCA.jpg)
+![](/images/Our%20CCA/Basketball.jpg)
 
 The CCHY Basketball Team focuses on developing sportsmen of resilient character and disciplined behaviour. Players undergo a rigorous and demanding training programme to grow the limits of their physical, mental, and social abilities. To this end, our training sessions comprise a series of fitness, skill-related drills, and set play practices. The team strives to continuously improve themselves, not just as an athlete, but also as a CCHY student.
 
