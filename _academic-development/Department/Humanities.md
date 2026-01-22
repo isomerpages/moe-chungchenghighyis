@@ -59,15 +59,15 @@ These are the subjects offered by the department:
 
 ### Sec 1 IPW Fieldtrip to Sungei Buloh
 
-![](/images/Humanities.jpg)
+![](/images/Our%20Curriculum/Academic%20Development/Department/Humanities.jpg)
 
 ### Fieldtrips to BTNR and SBWR (Sec 3)
 
-![](/images/Humanities%201.jpg)
+![](/images/Our%20Curriculum/Academic%20Development/Department/Humanities%201.jpg)
 
 ### Sec 4 Geography Fieldtrip to Hi-Tech Farms
 
-![](/images/Humanities%202.jpg)
+![](/images/Our%20Curriculum/Academic%20Development/Department/Humanities%202.jpg)
 
 ### Geography Field Trips to Bt Timah Nature Reserve, Sungei Buloh Wetland Reserve for Sec 3
 
