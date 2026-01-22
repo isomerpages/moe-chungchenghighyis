@@ -2,7 +2,7 @@
 layout: homepage
 title: Chung Cheng High School (Yishun)
 description: A Singapore Government site built with Isomer
-image: /images/CCHY Logos and Icons/cchy-logo-name.png
+image: /images/favicon-cchy.ico
 permalink: /
 notification: ""
 sections:
