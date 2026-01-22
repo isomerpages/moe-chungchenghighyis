@@ -3,6 +3,7 @@ title: Parents Gateway
 permalink: /admission/services/parents-gateway/
 description: ""
 third_nav_title: Services
+variant: markdown
 ---
 # **Parents Gateway**
 
@@ -39,7 +40,8 @@ SingPass 2-Step Verification (2FA) is required for on-boarding. If you have not 
 3.  Download and install the app onto your phone.
 4.  Enable ‘**Allow Notifications**’ to receive push notifications.
 
-<img src="/images/Download%20Parents%20Gateway%20Mobile%20App.png" style="width:25%">
+<img src="/images/Admission/Services/Download%20Parents%20Gateway%20Mobile%20App.png" style="width:25%">
+
 
 **Note:**&nbsp;Supported OS Versions -&nbsp;**Android 6.0 or later &amp; iOS 9.1 or later**
 
@@ -48,23 +50,23 @@ SingPass 2-Step Verification (2FA) is required for on-boarding. If you have not 
 
 1. Tap on “Log in with SingPass”
 
-<img src="/images/One-Time%20On-boarding.png" style="width:25%">
+<img src="/images/Admission/Services/One-Time%20On-boarding.png" style="width:25%">
 
 2. Log in with your SingPass (2FA)
 
-<img src="/images/Login%20with%20SingPass%20(2FA).png" style="width:25%">
+<img src="/images/Admission/Services/Login%20with%20SingPass%20(2FA).png" style="width:25%">
 
 3. Tap on “Retrieve” to retrieve your child(ren)’s information
 
-<img src="/images/Retrieve%20child%20information.png" style="width:25%">
+<img src="/images/Admission/Services/Retrieve%20child%20information.png" style="width:25%">
 
 4. Tap on “Done” to complete on-boarding
 
-<img src="/images/Done%20to%20complete%20on-boarding.png" style="width:25%">
+<img src="/images/Admission/Services/Done%20to%20complete%20on-boarding.png" style="width:25%">
 
 5. You should see your child(ren)’s school announcements and activities (if any)
 
-<img src="/images/View%20children%20school%20announce_activity.png" style="width:25%">
+<img src="/images/Admission/Services/View%20children%20school%20announce_activity.png" style="width:25%">
 
 Parents Gateway Onboarding Video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tW9jwyuovOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
