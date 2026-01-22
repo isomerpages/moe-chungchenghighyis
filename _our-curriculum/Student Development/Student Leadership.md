@@ -53,7 +53,6 @@ Leaders for Tomorrow Camp @ Guangzhou, Camp Zenith - Overseas Leadership Camp
 
 ### Our Structure
 
-![](/images/Student%20Councillor%20Chart.jpg)
-
+![](/images/Our%20Curriculum/Student%20Development/Student_Councillor_Chart.jpg)
 
 <img src="/images/pavilion.png" style="width:50%">
