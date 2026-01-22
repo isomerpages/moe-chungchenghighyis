@@ -43,6 +43,6 @@ sections:
       description: Please click on read more for more information
       button: Read more
       url: /our-curriculum/student-development/wellbeing-365
-      image: /images/Wellbeing 365 logo 1.jpg
+      image: /images/Our Curriculum/Student Development/Wellbeing 365 logo 1.jpg
       alt: Image alt text
 ---
