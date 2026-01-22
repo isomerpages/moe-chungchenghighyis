@@ -6,8 +6,7 @@ third_nav_title: Chung Cheng Family
 variant: markdown
 ---
 # **Parent Support Group (PSG)**
-<img src="/images/Parent%20Support%20Group%20logo.jpg" style="width:50%">
-
+<img src="/images/Our%20Community/Chung%20Cheng%20Family/Parent%20Support%20Group%20logo.jpg" style="width:50%">
 
 Chung Cheng High School (Yishun) has a strong and dedicated Parent Support Group (PSG) that is involved in school programmes and organise parent-child activities to deepen family bonds to support students' socio-emotional development.
 
