@@ -3,10 +3,11 @@ title: Nanyang Junior College
 permalink: /our-community/affiliated-jc/nanyang-junior-college/
 description: ""
 third_nav_title: Affiliated JC
+variant: markdown
 ---
 **Our affiliated junior college school**
 
-<img src="/images/Affiliated%20Nanyang%20Junior%20College%20School.jpg" style="width:50%">
+<img src="/images/Our%20Community/Affiliated%20JC/Affiliated%20Nanyang%20Junior%20College%20School.jpg" style="width:50%">
 
 **Address:**   
 128 Serangoon Avenue 3 Singapore 556111
