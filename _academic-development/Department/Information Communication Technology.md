@@ -17,7 +17,7 @@ Empowering students to learn more effectively with technology
 
 ### ICT Framework
 
-![](/images/111.jpg)
+![](/images/Our%20Curriculum/Academic%20Development/Department/111.jpg)
 
 The core of the ICT framework is to empower our students to be future-ready and responsible digital learners. Through effective use of e-Pedagogy, students will be able to acquire digital skills across four components, 'Find, Think, Apply and Create&nbsp;_(adapted from National Digital Literacy Programme)_. This is complemented by professional development of teachers and supportive learning environment for everyone.  
 
@@ -25,7 +25,7 @@ The core of the ICT framework is to empower our students to be future-ready and 
 
 e-Pedagogy is the practice of teaching with technology for active learning that creates a more participatory, connected and reflective classroom to nurture the future-ready learner. To enrich students' learning experiences, our teachers will apply e-Pedagogy into lessons that make use of the affordances of technology, namely Conceptual Change, Differentiation, Metacognition and Assessment for Learning.
 
-![](/images/222.jpg)
+![](/images/Our%20Curriculum/Academic%20Development/Department/222.jpg)
 
 ### AL- Active Learning with Technology
 
