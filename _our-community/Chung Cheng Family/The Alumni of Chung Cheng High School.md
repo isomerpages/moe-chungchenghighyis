@@ -6,12 +6,12 @@ third_nav_title: Chung Cheng Family
 variant: markdown
 ---
 # **The Alumni of Chung Cheng High School**
-<img src="/images/The%20Alumni%20of%20Chung%20Cheng%20High%20School_logo.png" style="width:70%">
+<img src="/images/Our%20Community/Chung%20Cheng%20Family/The%20Alumni%20of%20Chung%20Cheng%20High%20School_logo.png" style="width:70%">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X4gVEs_7fxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
-### 中正中学校友2022至2024年理事
+### 中正中学校友2025至2027年理事
 
 The Alumni of Chung Cheng High School – Management Council
 For more information, please click [here](https://www.chungchengalumni.com/%e7%90%86%e4%ba%8b%e4%bc%9a/).
@@ -29,22 +29,5 @@ Registration Address: 40-56 Goodman Road, Singapore 439012
 ### 入会 Application for Membership
 
 [Click here](https://www.chungchengalumni.com/%e5%8a%a0%e5%85%a5%e6%88%91%e4%bb%ac/)&nbsp;to submit your membership application
-
-
-![](/images/Our%20Community/Chung%20Cheng%20Family/85th_anniversary_alumni_lunch.jpg)
-
-[85th Anniversary Alumni Lunch booking form](/files/85th_anniversary_alumni_lunch_bookingform.pdf)
-
-Click [here](https://www.chungchengalumni.com/%e4%b8%ad%e6%ad%a3%e4%b8%ad%e5%ad%a685%e5%91%a8%e5%b9%b4%e6%a0%a1%e5%ba%86%e5%8d%88%e5%ae%b4-%e4%b8%ad%e6%ad%a3%e5%85%ab%e4%ba%94%e5%bc%a6%e6%ad%8c%e4%b8%8d%e8%be%8d/) for more details.
-
-
-
-
-
-
-### **Upcoming Event**
-Date: 25th May 2024 (Saturday)<br>
-Event: Combined CCHM / CCHY Carnival<br>
-Venue: CCHM
 
 <img src="/images/pavilion.png" style="width:50%">
