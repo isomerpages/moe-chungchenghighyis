@@ -39,11 +39,11 @@ to purchase it. <a href="https://secured.acer.com.sg/pld" rel="noopener noreferr
 <h3>Information for students</h3>
 <p><a href="/files/Personal Learning Device/CCHY Acceptable_Use Policy_(AUP).pdf" rel="noopener nofollow" target="_blank">CCHY Acceptable Use Policy (AUP)</a>
 </p>
-<p><a href="/files/CCHY_General_Learning_Routines_with_PLD.pdf" rel="noopener nofollow" target="_blank">CCHY General Learning Routines with PLD.pdf</a>
-</p>
-<p><a href="/files/Personal Learning Device/cchy general learning routines with pld.pdf" rel="noopener nofollow" target="_blank">new</a>
+<p><a href="/files/Personal Learning Device/cchy general learning routines with pld.pdf" rel="noopener nofollow" target="_blank">CCHY General Learning Routines with PLD</a>
 </p>
 <p><a href="/files/PLD_Initiative_Student_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">PLD Initiative Student Briefing Slides .pdf</a>
+</p>
+<p><a href="/files/Personal Learning Device/PLD Initiative Student Briefing Slides.pdf" rel="noopener nofollow" target="_blank">new</a>
 </p>
 <p><a href="/files/Personal%20Learning%20Device/PLD_familiarisation_for_students.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD_familiarisation_for_students.pdf</a> 
 <br><a href="/files/Personal%20Learning%20Device/Student%20Device%20Information%20Kit.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit.pdf</a> 
