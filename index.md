@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/GIF_for_School_Website_3.gif
+      background: /images/School Website Banner/GIF_for_School_Website_3.gif
       key_highlights:
         - title: For Students
           description: ""
