@@ -35,10 +35,10 @@ SingPass 2-Step Verification (2FA) is required for on-boarding. If you have not 
 
 **Step 2 – Download Parents Gateway Mobile App**
 
-1.  Open the Apple App Store or Google Play Store app on your mobile phone.
-2.  Search for the ‘Parents Gateway’ mobile app.
-3.  Download and install the app onto your phone.
-4.  Enable ‘**Allow Notifications**’ to receive push notifications.
+1. Open the Apple App Store or Google Play Store app on your mobile phone.
+2. Search for the ‘Parents Gateway’ mobile app.
+3. Download and install the app onto your phone.
+4. Enable ‘**Allow Notifications**’ to receive push notifications.
 
 <img src="/images/Admission/Services/Download%20Parents%20Gateway%20Mobile%20App.png" style="width:25%">
 
@@ -49,21 +49,13 @@ SingPass 2-Step Verification (2FA) is required for on-boarding. If you have not 
 **Step 3 – One-Time On-boarding** 
 
 1. Tap on “Log in with SingPass”
-
 <img src="/images/Admission/Services/One-Time%20On-boarding.png" style="width:25%">
-
 2. Log in with your SingPass (2FA)
-
 <img src="/images/Admission/Services/Login%20with%20SingPass%20(2FA).png" style="width:25%">
-
 3. Tap on “Retrieve” to retrieve your child(ren)’s information
-
 <img src="/images/Admission/Services/Retrieve%20child%20information.png" style="width:25%">
-
 4. Tap on “Done” to complete on-boarding
-
 <img src="/images/Admission/Services/Done%20to%20complete%20on-boarding.png" style="width:25%">
-
 5. You should see your child(ren)’s school announcements and activities (if any)
 
 <img src="/images/Admission/Services/View%20children%20school%20announce_activity.png" style="width:25%">
