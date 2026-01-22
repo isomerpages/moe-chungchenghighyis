@@ -43,8 +43,6 @@ to purchase it. <a href="https://secured.acer.com.sg/pld" rel="noopener noreferr
 </p>
 <p><a href="/files/PLD_Initiative_Student_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">PLD Initiative Student Briefing Slides .pdf</a>
 </p>
-<p><a href="/files/Personal Learning Device/PLD Initiative Student Briefing Slides.pdf" rel="noopener nofollow" target="_blank">new</a>
-</p>
 <p><a href="/files/Personal%20Learning%20Device/PLD_familiarisation_for_students.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD_familiarisation_for_students.pdf</a> 
 <br><a href="/files/Personal%20Learning%20Device/Student%20Device%20Information%20Kit.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit.pdf</a> 
 <br><a href="/files/Personal%20Learning%20Device/Policy%20on%20the%20Use%20of%20Locker.pdf" rel="noopener noreferrer nofollow" target="_blank">Policy on the Use of Locker.pdf</a> 
