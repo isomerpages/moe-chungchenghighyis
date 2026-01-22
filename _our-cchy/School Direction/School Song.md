@@ -3,10 +3,11 @@ title: School Song
 permalink: /our-cchy/school-direction/school-philosophy-vision-mission-n-values/school-song/
 description: ""
 third_nav_title: School Direction
+variant: markdown
 ---
 # **校歌 School Song**
 
-![](/images/School%20Lyrics.png)
+![](/images/Our%20CCHY/School%20Direction/School%20Lyrics.png)
 
 <p></p><center>
 Overlooking the eastern shore of Singapore,<br>
@@ -25,6 +26,6 @@ To eternity we perpetuate<br>
 The aspirations of our magnificent Chung Cheng,<br>
 Far beyond all boundaries.</center><p></p>
 
-![](/images/Chuang%20Uming.jpg)
+![](/images/Our%20CCHY/School%20Direction/Chuang%20Uming.jpg)
 
 <img src="/images/pavilion.png" style="width:50%">
