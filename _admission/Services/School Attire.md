@@ -48,7 +48,7 @@ The pants should be worn at waist level and the shirts should not be tucked out 
 
 | School Badge 	| School Socks 	| School Tie 	| Shirt Silver Buttons 	|
 |:---:	|:---:	|:---:	|:---:	|
-| ![](/images/CCHY%20School%20Logo.gif) To be worn above the left pocket 	| ![](/images/CCHY%20Socks.jpg) 	| The tie must be worn with a neat tie knot during school assemblies and major school functions. The first button of the uniform must be fastened when the tie is worn. 	| To be put onto the school uniform where 1 button for each shoulder, 1 button for each pocket &amp; 3 buttons for the shir 	|
+| ![](/images/Admission/Services/CCHY%20School%20Logo.gif) To be worn above the left pocket 	| ![](/images/Admission/Services/CCHY%20Socks.jpg) 	| The tie must be worn with a neat tie knot during school assemblies and major school functions. The first button of the uniform must be fastened when the tie is worn. 	| To be put onto the school uniform where 1 button for each shoulder, 1 button for each pocket &amp; 3 buttons for the shirt	|
 
 ### PE Attire
 
