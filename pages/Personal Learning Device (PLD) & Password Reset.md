@@ -37,12 +37,11 @@ at the <u>end of every month</u>.</p>
 to purchase it. <a href="https://secured.acer.com.sg/pld" rel="noopener noreferrer nofollow" target="_blank">https://secured.acer.com.sg/pld</a>
 </p>
 <h3>Information for students</h3>
-<p><a href="/files/CCHY_Acceptable_Use_Policy__AUP_.pdf" rel="noopener nofollow" target="_blank">CCHY Acceptable Use Policy (AUP).pdf</a>
+<p><a href="/files/Personal Learning Device/CCHY Acceptable_Use Policy_(AUP).pdf" rel="noopener nofollow" target="_blank">CCHY Acceptable Use Policy (AUP)</a>
 </p>
-<p><a href="/files/Personal Learning Device/CCHY Acceptable_Use Policy_(AUP).pdf" rel="noopener nofollow" target="_blank">old</a>
-</p>
-<p></p>
 <p><a href="/files/CCHY_General_Learning_Routines_with_PLD.pdf" rel="noopener nofollow" target="_blank">CCHY General Learning Routines with PLD.pdf</a>
+</p>
+<p><a href="/files/Personal Learning Device/cchy general learning routines with pld.pdf" rel="noopener nofollow" target="_blank">new</a>
 </p>
 <p><a href="/files/PLD_Initiative_Student_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">PLD Initiative Student Briefing Slides .pdf</a>
 </p>
