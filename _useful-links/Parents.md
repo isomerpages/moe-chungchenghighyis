@@ -171,7 +171,7 @@ school library and Group Personal Accident Plan for students</p>
 <td rowspan="1" colspan="1">
 <ol start="12" data-tight="true" class="tight">
 <li>
-<p><a href="https://sites.google.com/moe.edu.sg/cchys22025" rel="noopener nofollow" target="_blank">Subject Combination and ECG Information</a>
+<p><a href="https://sites.google.com/moe.edu.sg/cchys2" rel="noopener nofollow" target="_blank">Subject Combination and ECG Information</a>
 </p>
 </li>
 </ol>

@@ -37,9 +37,9 @@ at the <u>end of every month</u>.</p>
 to purchase it. <a href="https://secured.acer.com.sg/pld" rel="noopener noreferrer nofollow" target="_blank">https://secured.acer.com.sg/pld</a>
 </p>
 <h3>Information for students</h3>
-<p><a href="/files/CCHY_Acceptable_Use_Policy__AUP_.pdf" rel="noopener nofollow" target="_blank">CCHY Acceptable Use Policy (AUP).pdf</a>
+<p><a href="/files/Personal Learning Device/CCHY Acceptable_Use Policy_(AUP).pdf" rel="noopener nofollow" target="_blank">CCHY Acceptable Use Policy (AUP)</a>
 </p>
-<p><a href="/files/CCHY_General_Learning_Routines_with_PLD.pdf" rel="noopener nofollow" target="_blank">CCHY General Learning Routines with PLD.pdf</a>
+<p><a href="/files/Personal Learning Device/cchy general learning routines with pld.pdf" rel="noopener nofollow" target="_blank">CCHY General Learning Routines with PLD</a>
 </p>
 <p><a href="/files/PLD_Initiative_Student_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">PLD Initiative Student Briefing Slides .pdf</a>
 </p>
@@ -108,8 +108,9 @@ to purchase it. <a href="https://secured.acer.com.sg/pld" rel="noopener noreferr
 <ul data-tight="true" class="tight">
 <li>
 <p>Please read password policy as shown below:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/password%20policy.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Useful Links/Students/password policy.jpg">
 </div>
 </li>
 <li>
@@ -154,6 +155,7 @@ account, please try the following:
 4PM daily for assistance.</p>
 <p>2. If you cannot login to your PLD with new password, please proceed to
 Computer Lab 2, 2PM to 4PM daily for assistance.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/pavilion.png">
 </div>

@@ -56,7 +56,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://sites.google.com/moe.edu.sg/cchys22025" rel="noopener nofollow" target="_blank">Subject Combination and ECG Information</a>
+<p><a href="https://sites.google.com/moe.edu.sg/cchys2" rel="noopener nofollow" target="_blank">Subject Combination and ECG Information</a>
 </p>
 </li>
 <li>
