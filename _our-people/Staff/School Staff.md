@@ -97,7 +97,6 @@ variant: markdown
 | Pang Biaojin (Mr)	| 2G 	| Chinese Orchestra/Guzheng Ensemble 	| [pang_biaojin@moe.edu.sg](mailto:pang_biaojin@moe.edu.sg) 	| 271 |
 | Peh-Leow Li Yong, Shirley (Mrs Peh)	|  4A 	| St John Brigade  	| [peh-leow_li_yong_shirley@moe.edu.sg](mailto:peh-leow_li_yong_shirley@moe.edu.sg)  	| 283 |
 | Philina Wong Hai Lin (Ms) 	|  	| Chinese Orchestra/Guzheng Ensemble 	| [philina_wong_hai_lin@moe.edu.sg](mailto:philina_wong_hai_lin@moe.edu.sg) 	| 283 |
-| Priscillia Wijayaratna Reteesh (Ms) 	|  	|  	| [priscillia_wijayaratna_reteesh@moe.edu.sg](mailto:priscillia_wijayaratna_reteesh@moe.edu.sg) 	| 309  |
 | Puah Ying Tong (Ms) 	| 3A 	|  	| [puah_ying_tong_a@moe.edu.sg](mailto:puah_ying_tong_a@moe.edu.sg) 	| 327  |
 | Raawiyah Hafizah Binte Shahibol Fidillah (Ms) 	| 1G 	| Volleyball 	| [raawiyah_hafizah_shahibol_fidillah@moe.edu.sg](mailto:raawiyah_hafizah_shahibol_fidillah@moe.edu.sg) 	| 265 |
 | Rudidermawan Khairi (Mr)	| 3E 	| NPCC 	| [rudidermawan_khairi@moe.edu.sg](mailto:rudidermawan_khairi@moe.edu.sg) 	| 252 |
@@ -108,7 +107,6 @@ variant: markdown
 | Sim York Sing (Mr) 	|  	|  	| [sim_york_sing@moe.edu.sg](mailto:sim_york_sing@moe.edu.sg) 	| 313	|
 | Dorothy So Sing Woon (Ms) 	| 4F	|  	| [dorothy_so_sing_woon@moe.edu.sg](mailto:dorothy_so_sing_woon@moe.edu.sg) 	| 262	|
 |Soon Hock Aun (Mr) 	| 	| NCC Air (Boys) 	| [soon_hock_aun@moe.edu.sg](mailto:soon_hock_aun@moe.edu.sg)  	| 286 |
-|Sumithra D/O Narayanan (Ms) 	| 	|  	| [sumithra_narayanan_b@moe.edu.sg](mailto:sumithra_narayanan_b@moe.edu.sg)  	| 311 |
 |Tan Gek Hong Angela (Mdm) 	| 2E	|  	| [tan_gek_hong_angela@moe.edu.sg](mailto:tan_gek_hong_angela@moe.edu.sg)  	| 268 |
 | Tan Jie Hui Dorcas (Ms)  	|  	| Fencing  	| [tan_jie_hui_dorcas@moe.edu.sg](mailto:tan_jie_hui_dorcas@moe.edu.sg)  	| 258 |
 | Tan Jing Hong Joshua (Mr)  	| 2A 	| Outdoor Activities Club (ODAC) 	| [tan_jing_hong_joshua@moe.edu.sg](mailto:tan_jing_hong_joshua@moe.edu.sg)  	| 279 |
