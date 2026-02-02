@@ -14,10 +14,10 @@ variant: markdown
 | Chong Kim Bock (Mr) | Operations Manager |
 | Ang Toon Siew (Mr) | ICT Manager |
 | Lim Poh Chin (Ms) | Administrative Executive (AE) |
-| Lim Li Jun (Ms) | Corporate Support Officer (CSO)&nbsp; |
+| Lim Li Jun (Ms) | Administrative Executive (AE) |
 | Lee Boon See Janet (Ms) | Corporate Support Officer (CSO)&nbsp; |
 | Yip Yoke Ping Chris (Ms) | Corporate Support Officer (CSO)&nbsp; |
-| Yeo Chung Beng (Mr) | Stem Instructor (Workshop) |
+| Yeo Chung Beng (Mr) | Senior Stem Instructor (Workshop) |
 | Rosman Bin Rais (Mr) | Stem Instructor (Workshop) |
 | Ashwini K Gopinathan (Ms) | Stem Instructor (Laboratory) |
 | Muhammad Firdaus Abdul Rahim Kamsi (Mr) | Stem Instructor (Laboratory) |
