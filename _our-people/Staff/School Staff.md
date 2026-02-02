@@ -62,8 +62,10 @@ variant: markdown
 | Fang Ping (Ms) 	|  	|  	| [fang_ping@moe.edu.sg](mailto:fang_ping@moe.edu.sg) 	| 286 |
 | Foo Chee Chai (Mr) 	| 5D 	| Outdoor Activities Club (ODAC) 	| [foo_chee_chai@moe.edu.sg](mailto:foo_chee_chai@moe.edu.sg) 	| 280 |
 | Habeed Bin Mohamed Shariff (Mr) 	|  	|  	| [habeed_mohamed_shariff@moe.edu.sg](mailto:habeed_mohamed_shariff@moe.edu.sg) 	| 308 |
+| Iris Lim Joo Joo (Ms)	|  	|  	| [iris_lim_joo_joo@moe.edu.sg](mailto:iris_lim_joo_joo@moe.edu.sg) 	| 311 |
 | Isabelle Lim Ji Yu (Ms)	| 1C 	| St John Brigade 	| [isabelle_lim_ji_yu@moe.edu.sg](mailto:isabelle_lim_ji_yu@moe.edu.sg) 	| 288 |
 | Jeslyn Hoong Siew Choo (Mdm) 	| 1E 	| Wushu 	| [jeslyn_hoong_siew_choo@moe.edu.sg](mailto:jeslyn_hoong_siew_choo@moe.edu.sg) 	| 273 |
+| Juraidah Binte Tatjuddin (Ms) 	|  	| 	| [juraidah_binte_tatjuddin@moe.edu.sg](mailto:juraidah_binte_tatjuddin@moe.edu.sg) 	| 313 |
 | Kamala Davi D/O Vadivaloo (Mrs Raja) 	|  	|  	| [kamala_davi_d_o@moe.edu.sg](mailto:kamala_davi_d_o@moe.edu.sg) 	| 312 |
 | Khairil Ariffin Bin Yahya (Mr)  	| 3G | NCC Air (Boys)  	| [khairil_ariffin_yahya@moe.edu.sg](mailto:khairil_ariffin_yahya@moe.edu.sg)  	| 303 |
 | Lee Wen Qing Rachel (Ms)  	| 1G | Symphonic Band  	| [lee_wen_qing_rachel@moe.edu.sg](mailto:lee_wen_qing_rachel@moe.edu.sg)  	| 259 |
