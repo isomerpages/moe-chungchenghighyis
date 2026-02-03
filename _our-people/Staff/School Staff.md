@@ -109,7 +109,7 @@ variant: markdown
 | Sim York Sing (Mr) 	|  	|  	| [sim_york_sing@moe.edu.sg](mailto:sim_york_sing@moe.edu.sg) 	| 313	|
 | Dorothy So Sing Woon (Ms) 	| 4F	|  	| [dorothy_so_sing_woon@moe.edu.sg](mailto:dorothy_so_sing_woon@moe.edu.sg) 	| 262	|
 |Soon Hock Aun (Mr) 	| 	| NCC Air (Boys) 	| [soon_hock_aun@moe.edu.sg](mailto:soon_hock_aun@moe.edu.sg)  	| 286 |
-|Tan Gek Hong Angela (Mdm) 	| 2E	|  	| [tan_gek_hong_angela@moe.edu.sg](mailto:tan_gek_hong_angela@moe.edu.sg)  	| 268 |
+|Tan Gek Hong Angela (Dr) 	| 2E	|  	| [tan_gek_hong_angela@moe.edu.sg](mailto:tan_gek_hong_angela@moe.edu.sg)  	| 268 |
 | Tan Jie Hui Dorcas (Ms)  	|  	| Fencing  	| [tan_jie_hui_dorcas@moe.edu.sg](mailto:tan_jie_hui_dorcas@moe.edu.sg)  	| 258 |
 | Tan Jing Hong Joshua (Mr)  	| 2A 	| Outdoor Activities Club (ODAC) 	| [tan_jing_hong_joshua@moe.edu.sg](mailto:tan_jing_hong_joshua@moe.edu.sg)  	| 279 |
 | Tan Lien Yi Nathalie (Ms)	| 3B 	| Symphonic Band 	| [tan_lien_yi_nathalie@moe.edu.sg](mailto:tan_lien_yi_nathalie@moe.edu.sg)  	| 266	|
