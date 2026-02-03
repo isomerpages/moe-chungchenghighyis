@@ -82,6 +82,7 @@ variant: markdown
 | Lin Shunyi (Mr) 	| 4D 	| NCC Air (Boys) 	| [lin_shunyi@moe.edu.sg](mailto:lin_shunyi@moe.edu.sg)  	| 267 |
 | Lin Xiaoying (Ms) 	| 4B 	| Entrepreneur Club 	| [lin_xiaoying@moe.edu.sg](mailto:lin_xiaoying@moe.edu.sg) 	| 273 |
 | Luo Yanjie (Mr) 	| 4G 	|  	| [luo_yanjie@moe.edu.sg](mailto:luo_yanjie@moe.edu.sg) 	| 256 |
+| Manjoola D/O Vijayasimahan (Ms) 	|  	|  	| [manjoola_vijayasimahan@moe.edu.sg](mailto:manjoola_vijayasimahan@moe.edu.sg) 	| 309 |
 | Maria Duvalinda Agahari (Ms) 	| 3D 	| Journalism &amp; Multimedia Club 	| [maria_duvalinda_agahari@moe.edu.sg](mailto:maria_duvalinda_agahari@moe.edu.sg) 	| 253 |
 | Mellissa Chia Pei Shan (Ms) 	|  | Festival Drums 	| [chia_pei_shan_mellissa@moe.edu.sg](mailto:chia_pei_shan_mellissa@moe.edu.sg) 	| 266 |
 | Nazeema Parveen (Ms) 	| 	|  	| [nazeema_parveen@moe.edu.sg](mailto:nazeema_parveen@moe.edu.sg) 	| 252 |
