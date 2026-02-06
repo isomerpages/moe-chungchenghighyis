@@ -20,8 +20,6 @@ For more information, please click [here](https://www.chungchengalumni.com/%e7%9
 
 Registration Address: 40-56 Goodman Road, Singapore 439012
 
-邮寄 Postal Address: Tampines Central Post Office, P.O. Box 74. Singapore 915203
-
 电邮 Email:&nbsp;[admin@chungchengalumni.com](mailto:admin@chungchengalumni.com)
 
 网页 Website :&nbsp;[http://www.chungchengalumni.com](http://www.chungchengalumni.com/)
