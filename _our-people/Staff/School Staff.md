@@ -130,9 +130,10 @@ variant: markdown
 
 | Name 	| Email (Ext) 	| Ext 	| Areas 	|
 |---	|---	|---	|---	|
-| Rajinder Singh S/O Kashmir Singh (Mr)	| [rajinder_singh_kashmir_singh@moe.edu.sg](mailto:rajinder_singh_kashmir_singh@moe.edu.sg) 	| 299	| School Counsellor 	|
 | Darshana Priya Daniel (Mdm)	| [darshana_priya_daniel@moe.edu.sg](mailto:darshana_priya_daniel@moe.edu.sg) 	| 299	| School Counsellor 	|
-|  Goh Shu Xian (Ms) 	| [goh_shu_xian@moe.edu.sg](mailto:goh_shu_xian@moe.edu.sg)  	|  LBS Room 	|  Senior SEN Officer 	|
+| Goh Shu Xian (Ms) 	| [goh_shu_xian@moe.edu.sg](mailto:goh_shu_xian@moe.edu.sg)  	|  307 	|  Senior SEN Officer 	|
+| Nur Adilah Binte Abdul Rahman (Mdm)	| [nur_adilah_abdul_rahman@moe.edu.sg](mailto:nur_adilah_abdul_rahman@moe.edu.sg) 	| 307	| SEN Officer (Untrained)	|
+| Rajinder Singh S/O Kashmir Singh (Mr)	| [rajinder_singh_kashmir_singh@moe.edu.sg](mailto:rajinder_singh_kashmir_singh@moe.edu.sg) 	| 299	| School Counsellor 	|
 | Yap Hwee Hoon (Ms)  | [yap_hwee_hoon@schools.gov.sg](mailto:yap_hwee_hoon@schools.gov.sg) 	| 300	| ECG Counsellor 	|
 
 
