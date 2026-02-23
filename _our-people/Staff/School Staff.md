@@ -61,7 +61,6 @@ variant: markdown
 | Eu Si Ying (Ms) 	|  	|  	| [eu_si_ying@moe.edu.sg](mailto:eu_si_ying@moe.edu.sg) 	| 263 |
 | Fang Ping (Ms) 	|  	|  	| [fang_ping@moe.edu.sg](mailto:fang_ping@moe.edu.sg) 	| 286 |
 | Foo Chee Chai (Mr) 	| 5D 	| Outdoor Activities Club (ODAC) 	| [foo_chee_chai@moe.edu.sg](mailto:foo_chee_chai@moe.edu.sg) 	| 280 |
-| Habeed Bin Mohamed Shariff (Mr) 	|  	|  	| [habeed_mohamed_shariff@moe.edu.sg](mailto:habeed_mohamed_shariff@moe.edu.sg) 	| 308 |
 | Iris Lim Joo Joo (Ms)	|  	|  	| [iris_lim_joo_joo@moe.edu.sg](mailto:iris_lim_joo_joo@moe.edu.sg) 	| 311 |
 | Isabelle Lim Ji Yu (Ms)	| 1C 	| St John Brigade 	| [isabelle_lim_ji_yu@moe.edu.sg](mailto:isabelle_lim_ji_yu@moe.edu.sg) 	| 288 |
 | Jeslyn Hoong Siew Choo (Mdm) 	| 1E 	| Wushu 	| [jeslyn_hoong_siew_choo@moe.edu.sg](mailto:jeslyn_hoong_siew_choo@moe.edu.sg) 	| 273 |
