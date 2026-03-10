@@ -63,6 +63,14 @@ variant: tiptap
 <p><a href="https://sites.google.com/students.edu.sg/cchy-townhall/home" rel="noopener nofollow" target="_blank">CCHY Town Hall</a>
 </p>
 </li>
+<li>
+<p><a href="https://go.gov.sg/ecg-cchys" rel="noopener nofollow" target="_blank">ECG appointment Link</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/ecg-resource" rel="noopener nofollow" target="_blank">ECG Padlet</a>
+</p>
+</li>
 </ol>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/pavilion.png">
