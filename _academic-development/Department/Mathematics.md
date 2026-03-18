@@ -37,23 +37,17 @@ The Department’s Instructional strategies include:
 
 Level-wide Programme
 
-&nbsp;&nbsp; &nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MetaMath (Sec 1)
-
-&nbsp;&nbsp; &nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Financial Literacy Challenge (Sec 2 Express/G3)
+STEM Carnival as part of the Secondary 2 STEM Learning Week, organised in collaboration with the Science Department.
 		
 
-### Competitions / Enrichment Activities
+### Competitions and Enrichment Activities
 
-Mathematics Competition Training Enrichment
 
-&nbsp;&nbsp; &nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore &amp; Asian Schools Math Olympiad (SASMO)
-
-&nbsp;&nbsp; &nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore Mathematical Olympiad (SMO)
-
-&nbsp;&nbsp; &nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tableau-Nanyang JC Data Storytelling Challenge 2023
+* Mathematics Competition Enrichment Workshop
+* Singapore &amp; Asian Schools Math Olympiad (SASMO)
+* Australian Mathematics Competition (AMC)
+* ArithmetEQ Challenge organised by Yishun Secondary School
+* Singapore International Mathematical and Computational Challenge (SIMC 2.0)
 		
-### Photo Gallery		
-<iframe allowfullscreen="true" height="394" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ5J7N0KMn4m301JMFuKbw3Hob4nSdw7F4Fl7L7g_knTDlXn6PnvKy6sjpW5e6yHr-fAP9xcspzkipZ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-
 
 <img style="width:50%" src="/images/pavilion.png">
