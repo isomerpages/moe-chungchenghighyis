@@ -17,7 +17,6 @@ CCHY NCC (Air) aims to develop resourceful, responsible, and resilient leaders w
 Mr Lim Ying Xuan (IC)   
 Mr Lin Shunyi (2IC)<br>
 Mr Khairil Ariffin Bin Yahya<br>
-Mr Soon Hock Aun
 
 ### Training Schedule
 
