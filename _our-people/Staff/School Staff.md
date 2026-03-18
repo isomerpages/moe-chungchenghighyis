@@ -49,7 +49,6 @@ variant: markdown
 | Brett Allan Whiteway (Mr)	| 3F 	| Green Club 	| [brett_allan_whiteway@moe.edu.sg](mailto:brett_allan_whiteway@moe.edu.sg) 	| 317 |
 | Cham Huey Lin (Ms)	| 3D 	| Wushu 	| [cham_huey_lin@moe.edu.sg](mailto:cham_huey_lin@moe.edu.sg) 	| 328 |
 | Chan Bee Lian (Mrs Goh)	| 3E 	| Volleyball 	| [chan_bee_lian@moe.edu.sg](mailto:chan_bee_lian@moe.edu.sg) 	| 281 |
-| Chan Chye Guan Steven (Mr)	|  	|  	| [chan_chye_guan_steven_b@moe.edu.sg](mailto:chan+chye_guan_steven_b@moe.edu.sg) 	| 302 |
 | Chew Joke (Mdm)	|  	| Chinese Orchestra/Guzheng Ensemble 	| [chew_joke@moe.edu.sg](mailto:chew_joke@moe.edu.sg) 	| 329 |
 | Chiang Foong Min (Ms)	| 2G 	|  	| [chiang_foong_min@moe.edu.sg](mailto:chiang_foong_min@moe.edu.sg) 	| 259 |
 | Chin Xin Yee (Ms)	|  	|  	| [chin_xin_yee_a@moe.edu.sg](mailto:chin_xin_yee_a@moe.edu.sg) 	| 308 |
