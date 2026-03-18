@@ -66,7 +66,6 @@ variant: markdown
 | Kamala Davi D/O Vadivaloo (Mrs Raja) 	|  	|  	| [kamala_davi_d_o@moe.edu.sg](mailto:kamala_davi_d_o@moe.edu.sg) 	| 312 |
 | Khairil Ariffin Bin Yahya (Mr)  	| 3G | NCC Air (Boys)  	| [khairil_ariffin_yahya@moe.edu.sg](mailto:khairil_ariffin_yahya@moe.edu.sg)  	| 303 |
 | Lee Wen Qing Rachel (Ms)  	| 1G | Symphonic Band  	| [lee_wen_qing_rachel@moe.edu.sg](mailto:lee_wen_qing_rachel@moe.edu.sg)  	| 259 |
-| Lee Yanmei (Ms)	|   	|   	| [lee_yanmei@moe.edu.sg](mailto:lee_yanmei@moe.edu.sg)  	| 213 |
 | Lim Chia Hwee (Mr) 	|  	|  	| [lim_chia_hwee@moe.edu.sg](mailto:lim_chia_hwee@moe.edu.sg) 	| 263 |
 | Lim Cheng Teik Sebastian (Mr) 	| 2D	| Chinese Drama 	| [lim_cheng_teik_sebastian@moe.edu.sg](mailto:lim_cheng_teik_sebastian@moe.edu.sg) | 303	|
 |  Lim Irene (Mrs Tan) 	|   |  	| [lim_irene@moe.edu.sg](mailto:lim_irene@moe.edu.sg)  	| 266 |
