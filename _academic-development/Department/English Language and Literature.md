@@ -44,23 +44,30 @@ The English Language and Literature Department aims to design effective and enga
 
 To deepen the love for the English Langugae students were given opportunities to hone their skills in writing and public speaking competitions. Our Secondary Four and Five students participated in the Live On Festival Essay Writing Competition organised by the National Organ Transplant Unit, Shermaine Lian and Keity Weng, were awarded the High Distinction and Merit award respectively in the Senior Category, a first time for our Secondary 5 students. In recognition of our support for this cause and our consistently good performance, our students were selected to be featured in the National Organ Transplant Unit's promotional video.
 
-photo1
+![At the Live on Festival Essay Writing Competition Award Ceremony](/images/Our%20Curriculum/Academic%20Development/Department/ELL/EL_Photo_1.jpg)
+*At the Live on Festival Essay Writing Competition Award Ceremony*
 
 All students and teachers in the school also participated in *Read for Books 2025* which is a National Reading movement and charity book drive with the intention of raising awareness of reading and sharing the gift of reading with the less privileged. In line with the school’s morning assembly programme which includes time set aside for students to read, this activity resulted in a pledge for 120 books for the movement, where the WondeRead inititaive is one of the major benefciaries.
 
-photo 2
+![Read for Books 2025](/images/Our%20Curriculum/Academic%20Development/Department/ELL/EL_Photo_2.jpg)
+*Read for Books 2025*
 
 The department also organised signature programmes such as the *Spoken Interaction (Secondary Three)* and *Advanced Text Analysis (Secondary Four)*&nbsp; to equip students in the specifc areas of language learning and to help them acquire some of the 21st century competencies.
 
-Photo 3
-Photo 4
+![](/images/Our%20Curriculum/Academic%20Development/Department/ELL/EL_Photo_3.jpg)
+*Spoken Interaction Workshop*
+
+![](/images/Our%20Curriculum/Academic%20Development/Department/ELL/EL_Photo_4.jpg)
+*Advanced Text Analysis Workshop*
          
 The Literature Unit also launched the inaugural *Poetry Fortnight, 'Echoes &amp; Ink'* to immerse students in the power of words and give them an opportunity to express their creativity and to explore diverse perspectives. Our Upper Secondary Literature students also spent a delightful evening watching ‘Macbeth’ at Fort Canning as part of the popular *Shakespeare in the Park* programme. The students were thoroughly immersed in the lively and suspenseful production, sitting in picnic style, moving along the plot together with audience and characters. They also managed to learn valuable aspects of theatre production in this experience.
 
 These programmes and experiences have empowered our students to become empathetic communicators, discerning readers and creative enquirers.
 
-photo 5
-photo 6
+![](/images/Our%20Curriculum/Academic%20Development/Department/ELL/EL_Photo_5.jpg)
+
+![](/images/Our%20Curriculum/Academic%20Development/Department/ELL/EL_Photo_6.jpg)
+*We had a great time watching Macbeth!*
 
 ### Competitions
          
