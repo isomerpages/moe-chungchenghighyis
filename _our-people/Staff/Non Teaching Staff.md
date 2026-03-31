@@ -17,21 +17,23 @@ variant: markdown
 | Lim Li Jun (Ms) | Administrative Executive (AE) |
 | Lee Boon See Janet (Ms) | Corporate Support Officer (CSO)&nbsp; |
 | Yip Yoke Ping Chris (Ms) | Corporate Support Officer (CSO)&nbsp; |
-| Yeo Chung Beng (Mr) | Senior Stem Instructor (Workshop) |
-| Rosman Bin Rais (Mr) | Stem Instructor (Workshop) |
 | Ashwini K Gopinathan (Ms) | Stem Instructor (Laboratory) |
 | Muhammad Firdaus Abdul Rahim Kamsi (Mr) | Stem Instructor (Laboratory) |
 | Lester Sim Xing Chen (Mr) | Stem Instructor (Laboratory) |
-| Lim Wai Yue Chris (Ms) | Operations Support Officer  (OSO) |
+| Yeo Chung Beng (Mr) | Senior Stem Instructor (Workshop) |
+| Rosman Bin Rais (Mr) | Stem Instructor (Workshop) |
 | Chandrasekran S/O Ramiah (Mr) | Operations Support Officer (OSO) |
-| Soyah Binte Ismail (Mdm) | Operations Support Officer (OSO) |
+| Lim Wai Yue Chris (Ms) | Operations Support Officer  (OSO) |
 | Lee Hong Mui (Ms) | Operations Support Officer (OSO) |
-| Nagarajan Maniam (Mr Raju) | Desktop Engineer |
-| Lim Ming Quan (Mr) | Desktop Engineer&nbsp; |
+| Soyah Binte Ismail (Mdm) | Operations Support Officer (OSO) |
 | Devakumar Manimegalai (Mdm) | Librarian |
+| Fong Yew Lin Maggie (Mdm) | Receptionist |
+| Nagarajan Maniam (Mr Raju) | Desktop Engineer |
+| Lim Ming Quan (Mr) | Desktop Engineer |
 | Yap Hwee Hoon (Ms) | ECG Counsellor |
 | Yap Siok Eng (Mdm) | Kitchen Assistant |
-| Fong Yew Lin Maggie (Mdm) | Receptionist |
+| Ravichandran S/O Ambalavanar (Mr) | Youth Worker |
+
 
 
 
