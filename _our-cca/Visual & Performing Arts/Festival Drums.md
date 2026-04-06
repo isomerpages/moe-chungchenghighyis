@@ -29,6 +29,7 @@ Our Group is unique in that our performing style is based on the combination of 
 
 Ms Mellissa Chia Pei Shan (IC)<br>
 Ms Ouyang Fengfei (2IC)
+Mr Muhammad Zulfadly Bin Abdul Manap
 
 ### Training Schedule
 
