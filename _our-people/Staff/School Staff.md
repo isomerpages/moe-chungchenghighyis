@@ -82,7 +82,7 @@ variant: markdown
 | Manjoola D/O Vijayasimahan (Ms) 	|  	|  	| [manjoola_vijayasimahan@moe.edu.sg](mailto:manjoola_vijayasimahan@moe.edu.sg) 	| 309 |
 | Maria Duvalinda Agahari (Ms) 	| 3D 	| Journalism &amp; Multimedia Club 	| [maria_duvalinda_agahari@moe.edu.sg](mailto:maria_duvalinda_agahari@moe.edu.sg) 	| 253 |
 | Mellissa Chia Pei Shan (Ms) 	|  | Festival Drums | [chia_pei_shan_mellissa@moe.edu.sg](mailto:chia_pei_shan_mellissa@moe.edu.sg) 	| 266 |
-| Muhammad Zulfadly Bin Abdul Manap (Mr) 	|  | Festival Drums	| [muhammad_zulfadly_abdul_manap@moe.edu.sg](mailto:muhammad_zulfadly_abdul_manap@moe.edu.sg) 	| 301 |
+| Muhammad Zulfadly Bin Abdul Manap (Mr) 	| 3C | Festival Drums	| [muhammad_zulfadly_abdul_manap@moe.edu.sg](mailto:muhammad_zulfadly_abdul_manap@moe.edu.sg) 	| 301 |
 | Nazeema Parveen (Ms) 	| 	|  	| [nazeema_parveen@moe.edu.sg](mailto:nazeema_parveen@moe.edu.sg) 	| 252 |
 | Neo Yao Kian Andy (Mr)  	| 4A 	| NPCC  	| [neo_yao_kian_andy@moe.edu.sg](mailto:neo_yao_kian_andy@moe.edu.sg)  	| 257 |
 | Ng Bao Xian (Ms)  	| 4C 	|   	| [ng_bao_xian@moe.edu.sg](mailto:ng_bao_xian@moe.edu.sg)  	| 275 |
