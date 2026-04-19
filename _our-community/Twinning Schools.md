@@ -12,7 +12,7 @@ Our strategic overseas partnership with reputable educational institutions has g
 
 * [Renmin University of China](https://en.ruc.edu.cn/)
 * [Shanghai Shangnan Middle School](http://www.hsshn.pudong-edu.sh.cn)
-* [Shangwen Middle School](http://shangwen.hpe.cn)
+* Shangwen Middle School
 
 
 <img src="/images/pavilion.png" style="width:50%">
