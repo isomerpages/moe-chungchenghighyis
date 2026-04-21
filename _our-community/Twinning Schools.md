@@ -2,6 +2,7 @@
 title: Twinning Schools
 permalink: /our-community/twinning-schools/
 description: ""
+variant: markdown
 ---
 # **Twinning Schools in China**
 
@@ -9,10 +10,9 @@ Our strategic overseas partnership with reputable educational institutions has g
 
 ### Links to Twinning Schools
 
-* [Renmin University of China](https://www.rdfz.cn/en/)
+* [Renmin University of China](https://en.ruc.edu.cn/)
 * [Shanghai Shangnan Middle School](http://www.hsshn.pudong-edu.sh.cn)
-* [Shangwen Middle School](http://shangwen.hpe.cn)
+* Shangwen Middle School
 
 
-<img src="/images/pavilion.png" 
-     style="width:50%">
+<img src="/images/pavilion.png" style="width:50%">
