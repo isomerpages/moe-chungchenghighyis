@@ -25,7 +25,7 @@ sections:
       title: Chung Cheng Spirit
       id: infobar
       description: <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/8yP2RVi9Xcg" title="YouTube video
+        src="https://www.youtube.com/embed/6RU_InF9vi8" title="YouTube video
         player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen=""></iframe>
