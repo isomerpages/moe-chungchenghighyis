@@ -22,7 +22,6 @@ variant: markdown
 | Lester Sim Xing Chen (Mr) | Stem Instructor (Laboratory) |
 | Yeo Chung Beng (Mr) | Senior Stem Instructor (Workshop) |
 | Rosman Bin Rais (Mr) | Stem Instructor (Workshop) |
-| Chandrasekran S/O Ramiah (Mr) | Operations Support Officer (OSO) |
 | Lim Wai Yue Chris (Ms) | Operations Support Officer  (OSO) |
 | Lee Hong Mui (Ms) | Operations Support Officer (OSO) |
 | Soyah Binte Ismail (Mdm) | Operations Support Officer (OSO) |
