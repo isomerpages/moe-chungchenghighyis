@@ -41,7 +41,6 @@ variant: markdown
 
 | Name of Teaching Staff 	| Form Class 	| CCA | Email | Ext |
 | ---	| ---	| ---	| ---	| ---	|
-| Ang Tze Qi (Ms) 	|  	|  	| [ang_tze_qi_a@moe.edu.sg](mailto:ang_tze_qi_a@moe.edu.sg) 	| 315 |
 | Ang Wee Hoon (Ms) 	| 3C 	| Volleyball 	| [ang_wee_hoon@moe.edu.sg](mailto:ang_wee_hoon@moe.edu.sg) 	| 275 |
 | Audrey Chia (Ms)  |  	|  	| [audrey_chia_a@moe.edu.sg](mailto:audrey_chia_a@moe.edu.sg) 	| 283 |
 | Azmira Binte Zailan (Ms)  | 1A 	| Fencing  	| [azmira_binte_zailan@moe.edu.sg](mailto:azmira_binte_zailan@moe.edu.sg) 	| 312 |
