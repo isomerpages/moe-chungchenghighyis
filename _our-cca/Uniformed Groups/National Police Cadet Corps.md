@@ -17,7 +17,8 @@ Our close affiliation to the Singapore Police Force exposes our cadets to unique
 
 Mr Neo Yao Kian Andy (IC)   
 Ms Lim Xiangting (2IC)   
-Mr Rudidermawan Khairi
+Mr Rudidermawan Khairi<br>
+Ms Vaithiswari Niveytha
 
 ### Training Schedule
 Please click on the link below to view CCA venue &amp; schedule.&nbsp;  
