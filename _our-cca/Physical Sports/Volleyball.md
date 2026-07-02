@@ -16,7 +16,8 @@ variant: markdown
 Ms Ang Wee Hoon (IC)<br>
 Mdm Chan Bee Lian (2IC)<br>
 Ms Tan Mui Mui<br>
-Ms Raawiyah Hafizah
+Dr Teo Bee Lan<br>
+Ms Joesphine Mary
 
 ### Training Schedule
 
