@@ -25,6 +25,7 @@ variant: markdown
 | Lim Wai Yue Chris (Ms) | Operations Support Officer  (OSO) |
 | Lee Hong Mui (Ms) | Operations Support Officer (OSO) |
 | Soyah Binte Ismail (Mdm) | Operations Support Officer (OSO) |
+| Chua Eng Huat (Mr) | Operations Support Officer (OSO) |
 | Devakumar Manimegalai (Mdm) | Librarian |
 | Fong Yew Lin Maggie (Mdm) | Receptionist |
 | Nagarajan Maniam (Mr Raju) | Desktop Engineer |
@@ -32,6 +33,9 @@ variant: markdown
 | Yap Hwee Hoon (Ms) | ECG Counsellor |
 | Yap Siok Eng (Mdm) | Kitchen Assistant |
 | Ravichandran S/O Ambalavanar (Mr) | Youth Worker |
+| Iris Lim Joo Joo (Ms) | Youth Worker |
+| Kamish Binte Suri (Mdm) | Part-Time School Counsellor |
+
 
 
 
