@@ -121,7 +121,7 @@ variant: markdown
 | Tay Teck Seng (Mr)	| 2B 	|  	| [tay_teck_seng_e@moe.edu.sg](mailto:tay_teck_seng_e@moe.edu.sg)  	| 277 |
 | Teo Bee Lan (Dr)	| 4D 	| Volleyball	| [teo_bee_lan@moe.edu.sg](mailto:teo_bee_lan@moe.edu.sg) 	| 251 |
 | Teo Shin Yeow (Ms)	| 3G 	| Chinese Dance 	| [teo_shin_yeow@moe.edu.sg](mailto:teo_shin_yeow@moe.edu.sg) 	| 265 |
-| Tham Yeong Shin (Mr) 	|  	|  	| [tham_yeong_shin_a@moe.edu.sg](mailto:tham_yeong_shin_a@moe.edu.sg) 	| |
+| Tham Yeong Shin (Mr) 	|  	|  	| [tham_yeong_shin_a@moe.edu.sg](mailto:tham_yeong_shin_a@moe.edu.sg) 	| 315 |
 | Thong Nai Kee (Mr) 	| 5D 	|  	| [thong_nai_kee@moe.edu.sg](mailto:thong_nai_kee@moe.edu.sg) 	| 271 |
 | Toh Qianyu (Ms) 	|  |  	| [toh_qianyu@moe.edu.sg](mailto:toh_qianyu@moe.edu.sg) 	| 311 |
 | Tok Wei Ee Alvin (Mr) 	|  	| Basketball (Boys) 	| [tok_wei_ee_alvin@moe.edu.sg](mailto:tok_wei_ee_alvin@moe.edu.sg) 	| 280	|
