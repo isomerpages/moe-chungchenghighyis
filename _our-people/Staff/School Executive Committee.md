@@ -17,7 +17,7 @@ variant: markdown
 | Operations Manager 	| Mr 	| Tok Eng Hin 	|
 | Operations Manager 	| Mr 	| Chong Kim Bock	|
 | School Staff Developer <br>(acting)  	| Ms 	| Nazeema Parveen  	|
-| SH English Literature 	| Ms 	| Chiang Foong Min 	|
+| HOD English Language and Literature<br>(acting) 	| Ms 	| Chiang Foong Min 	|
 | HOD Humanities 	| Ms 	| Manvinder Kaur 	|
 | SH Geography 	| Mr 	| Luo Yanjie 	|
 | HOD Mother Tongue Languages 	| Ms 	| Chew Qian Ru Eileen 	|
