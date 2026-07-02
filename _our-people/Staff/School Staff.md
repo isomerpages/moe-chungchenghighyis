@@ -64,6 +64,7 @@ variant: markdown
 | Isabelle Lim Ji Yu (Ms)	| 1C 	| St John Brigade 	| [isabelle_lim_ji_yu@moe.edu.sg](mailto:isabelle_lim_ji_yu@moe.edu.sg) 	| 288 |
 | Jeslyn Hoong Siew Choo (Mdm) 	| 1E 	| Wushu 	| [jeslyn_hoong_siew_choo@moe.edu.sg](mailto:jeslyn_hoong_siew_choo@moe.edu.sg) 	| 273 |
 | Josephine Mary D/O Saminathan (Ms) 	| 2E 	|  	| [j_mary_saminathan@moe.edu.sg](mailto:j_mary_saminathan@moe.edu.sg) 	| 251 |
+| Ho Soo Fern Jessica (Ms) 	|  	| Fencing | [ho_soo_fern@moe.edu.sg](mailto:ho_soo_fern@moe.edu.sg) 	| 277 |
 | Kamala Davi D/O Vadivaloo (Mrs Raja) 	|  	|  	| [kamala_davi_d_o@moe.edu.sg](mailto:kamala_davi_d_o@moe.edu.sg) 	| 312 |
 | Khairil Ariffin Bin Yahya (Mr)  	| 3G | NCC Air (Boys)  	| [khairil_ariffin_yahya@moe.edu.sg](mailto:khairil_ariffin_yahya@moe.edu.sg)  	| 303 |
 | Lee Wen Qing Rachel (Ms)  	| 1G | Symphonic Band  	| [lee_wen_qing_rachel@moe.edu.sg](mailto:lee_wen_qing_rachel@moe.edu.sg)  	| 259 |
