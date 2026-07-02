@@ -26,6 +26,7 @@ The Outdoor Activities Club (ODAC) was set up to bring out every student’s pot
 
 Mr Foo Chee Chai (IC)<br> 
 Ms Choo Huier (2IC)<br>
+Mdm Nur Surya<br>
 Mr Tan Jing Hong Joshua
 
 ### Training Schedule

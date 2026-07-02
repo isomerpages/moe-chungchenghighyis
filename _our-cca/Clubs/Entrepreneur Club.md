@@ -14,7 +14,8 @@ Our Entrepreneur Club offers students a unique opportunity to learn about entrep
 ### Teachers-in-charge
 
 Ms Nur Jannah Binte Noor (IC)     
-Ms Lin Xiaoying (2IC)
+Ms Lin Xiaoying (2IC)<br>
+Ms Priya D/O Murali
 
 ### Training Schedule
 
