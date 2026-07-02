@@ -59,7 +59,7 @@ variant: markdown
 | Chui Ming Fa Benedict (Mr) 	| 2F 	| Basketball (Boys) 	| [chui_ming_fa_benedict@moe.edu.sg](mailto:chui_ming_fa_benedict@moe.edu.sg) 	| 270 |
 | Edina Rahman (Ms) 	| 4E 	| Journalism &amp; Multimedia Club 	| [edina_rahman@moe.edu.sg](mailto:edina_rahman@moe.edu.sg) 	| 309 |
 | Eu Si Ying (Ms) 	|  	|  	| [eu_si_ying@moe.edu.sg](mailto:eu_si_ying@moe.edu.sg) 	| 263 |
-| Fellah Citra Binte Feroz Muhamad (Ms) |  	|  	| [fellah_citra_feroz_muhamad_a@moe.edu.sg](mailto:fellah_citra_feroz_muhamad_a@moe.edu.sg) 	|  |
+| Fellah Citra Binte Feroz Muhamad (Ms) |  	|  	| [fellah_citra_feroz_muhamad_a@moe.edu.sg](mailto:fellah_citra_feroz_muhamad_a@moe.edu.sg) 	| 313  |
 | Foo Chee Chai (Mr) 	| 5D 	| Outdoor Activities Club (ODAC) 	| [foo_chee_chai@moe.edu.sg](mailto:foo_chee_chai@moe.edu.sg) 	| 280 |
 | Ho Soo Fern Jessica (Ms) 	|  	| Fencing | [ho_soo_fern@moe.edu.sg](mailto:ho_soo_fern@moe.edu.sg) 	| 277 |
 | Isabelle Lim Ji Yu (Ms)	| 1C 	| St John Brigade 	| [isabelle_lim_ji_yu@moe.edu.sg](mailto:isabelle_lim_ji_yu@moe.edu.sg) 	| 288 |
