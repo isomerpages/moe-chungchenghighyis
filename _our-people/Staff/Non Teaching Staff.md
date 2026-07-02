@@ -30,7 +30,6 @@ variant: markdown
 | Fong Yew Lin Maggie (Mdm) | Receptionist |
 | Nagarajan Maniam (Mr Raju) | Desktop Engineer |
 | Lim Ming Quan (Mr) | Desktop Engineer |
-| Yap Hwee Hoon (Ms) | ECG Counsellor |
 | Yap Siok Eng (Mdm) | Kitchen Assistant |
 | Ravichandran S/O Ambalavanar (Mr) | Youth Worker |
 | Iris Lim Joo Joo (Ms) | Youth Worker |
