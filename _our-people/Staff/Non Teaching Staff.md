@@ -18,7 +18,6 @@ variant: markdown
 | Lee Boon See Janet (Ms) | Corporate Support Officer (CSO)&nbsp; |
 | Yip Yoke Ping Chris (Ms) | Corporate Support Officer (CSO)&nbsp; |
 | Ashwini K Gopinathan (Ms) | Stem Instructor (Laboratory) |
-| Muhammad Firdaus Abdul Rahim Kamsi (Mr) | Stem Instructor (Laboratory) |
 | Lester Sim Xing Chen (Mr) | Stem Instructor (Laboratory) |
 | Yeo Chung Beng (Mr) | Senior Stem Instructor (Workshop) |
 | Rosman Bin Rais (Mr) | Stem Instructor (Workshop) |
@@ -34,7 +33,8 @@ variant: markdown
 | Ravichandran S/O Ambalavanar (Mr) | Youth Worker |
 | Iris Lim Joo Joo (Ms) | Youth Worker |
 | Kamish Binte Suri (Mdm) | Part-Time School Counsellor |
-
+| S Shermercel Sylvisha (Ms) | ITE Intern |
+| Wong Wen Ning (Ms) | Temp TSO |
 
 
 
