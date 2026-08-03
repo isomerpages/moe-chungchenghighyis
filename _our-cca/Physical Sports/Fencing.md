@@ -16,7 +16,7 @@ Fencing requires one to be alert at all times, with the skills and ability to th
 ### Teachers-in-charge
 
 Ms Ho Soo Fern (IC)<br>
-Mdm Lim Min Hui (2IC)<br>
+Mdm Lim Min Hui<br>
 Ms Azmira Binte Zailan<br>
 Ms Tan Jie Hui Dorcas
 
