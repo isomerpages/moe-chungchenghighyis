@@ -27,9 +27,9 @@ Our Group is unique in that our performing style is based on the combination of 
 
 ### Teachers-in-charge
 
-Ms Mellissa Chia Pei Shan (IC)<br>
-Ms Ouyang Fengfei (2IC)<br>
-Mr Muhammad Zulfadly Bin Abdul Manap
+Ms Ouyang Fengfei (IC)<br>
+Mr Muhammad Zulfadly Bin Abdul Manap<br>
+Ms Tong Geok Him Angela
 
 ### Training Schedule
 
