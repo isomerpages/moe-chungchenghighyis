@@ -19,10 +19,10 @@ To provide students with basic training in playing Chinese music instruments and
 
 ### Teachers-in-charge
 Mr Pang Biaojin (IC)    
-Ms Lin Lu (2IC)<br>
-Ms Philina Wong Hai Lin<br>
-Ms Bong Ming Le<br>
-Mdm Chew Joke
+Ms Philina Wong Hai Lin (2IC)<br>
+Ms Lin Lu<br>
+Ms Bong Ming Le
+
 
 ### Training Schedule&nbsp;
 
