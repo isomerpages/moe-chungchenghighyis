@@ -14,7 +14,8 @@ The Green Club strives to contribute actively to the environment and community t
 ### Teachers-in-charge
 
 Mr Whiteway Brett Allan (IC)<br>
-Ms Shivaani (2IC)
+Ms Shivaani (2IC)<br>
+Mr Chan Fook Sum
 
 
 ### Training Schedule
