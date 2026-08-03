@@ -14,7 +14,7 @@ Our Multimedia CCA prides itself on providing efficient and effective audiovisua
 ### Teachers-in-charge
 
 Ms Maria Duvalinda Agahari (IC)<br>
-Mr Chua Si Yuan
+Mr Chua Si Yuan (2IC)
 
 
 ### Training Schedule
