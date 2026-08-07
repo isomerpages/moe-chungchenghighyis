@@ -11,7 +11,6 @@ variant: markdown
 | Name of Lead Teacher  (LT) | Teaching Subject |
 | --- | --- |
 | Oh Teck Tiong (Mr) | Physics |
-| Tan Gek Hong Angela (Dr) | English Language |
 
 
 | Name of Senior Teacher (ST) | Teaching Subject |
